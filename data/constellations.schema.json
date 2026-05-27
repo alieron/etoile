@@ -4,56 +4,148 @@
   "title": "IAU constellation",
   "type": "object",
   "additionalProperties": false,
-  "required": ["abbreviation", "name", "genitive", "meaning", "rank", "boundary", "lines", "brightest_star"],
+  "required": [
+    "abbreviation",
+    "name",
+    "genitive",
+    "meaning",
+    "rank",
+    "boundary",
+    "lines",
+    "brightest_star"
+  ],
   "properties": {
-    "abbreviation": {"type": "string", "pattern": "^[A-Z][A-Za-z0-9]{2}$"},
-    "name": {"type": "string"},
-    "genitive": {"type": "string"},
-    "meaning": {"type": ["string", "null"]},
-    "rank": {"type": ["integer", "null"], "minimum": 1},
+    "abbreviation": {
+      "type": "string",
+      "pattern": "^[A-Z][A-Za-z0-9]{2}$"
+    },
+    "name": {
+      "type": "string"
+    },
+    "genitive": {
+      "type": "string"
+    },
+    "meaning": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "rank": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
     "boundary": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["type", "corners", "rings"],
+      "required": [
+        "type",
+        "corners",
+        "rings"
+      ],
       "properties": {
-        "type": {"type": "string", "enum": ["Polygon", "MultiPolygon"]},
-        "corners": {"type": "array", "items": {"$ref": "#/$defs/boundaryCorner"}},
-        "rings": {"type": "array", "items": {"type": "array", "items": {"$ref": "#/$defs/boundaryCorner"}}}
+        "type": {
+          "type": "string",
+          "enum": [
+            "Polygon",
+            "MultiPolygon"
+          ]
+        },
+        "corners": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/boundaryCorner"
+          }
+        }
       }
     },
     "lines": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["paths_hip", "segments_hip"],
-      "properties": {
-        "paths_hip": {
+      "required": [
+        "paths_hip",
+        "segments_hip"
+      ],
+      "paths_hip": {
+        "type": "array",
+        "items": {
           "type": "array",
-          "items": {"type": "array", "minItems": 2, "items": {"type": "integer", "minimum": 1}}
-        },
-        "segments_hip": {
-          "type": "array",
+          "minItems": 2,
           "items": {
-            "type": "array",
-            "prefixItems": [{"type": "integer", "minimum": 1}, {"type": "integer", "minimum": 1}],
-            "items": false,
-            "minItems": 2,
-            "maxItems": 2
+            "type": "integer",
+            "minimum": 1
           }
         }
       }
-    },
-    "brightest_star": {
-      "type": ["object", "null"],
-      "additionalProperties": false,
-      "required": ["name", "designation", "display_name", "display_name_greek", "hip", "ra_deg", "dec_deg"],
-      "properties": {
-        "name": {"type": ["string", "null"]},
-        "designation": {"type": ["string", "null"]},
-        "display_name": {"type": ["string", "null"], "description": "Bayer Greek abbreviation expanded to Latin name, e.g. Alpha Orionis."},
-        "display_name_greek": {"type": ["string", "null"], "description": "Bayer Greek abbreviation replaced by UTF-8 Greek letter, e.g. α Orionis."},
-        "hip": {"type": ["integer", "null"], "minimum": 1},
-        "ra_deg": {"type": ["number", "null"], "minimum": 0, "maximum": 360},
-        "dec_deg": {"type": ["number", "null"], "minimum": -90, "maximum": 90}
+    }
+  },
+  "brightest_star": {
+    "type": [
+      "object",
+      "null"
+    ],
+    "additionalProperties": false,
+    "required": [
+      "name",
+      "designation",
+      "display_name",
+      "display_name_greek",
+      "hip",
+      "ra_deg",
+      "dec_deg"
+    ],
+    "properties": {
+      "name": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "designation": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "display_name": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Bayer Greek abbreviation expanded to Latin name, e.g. Alpha Orionis."
+      },
+      "display_name_greek": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Bayer Greek abbreviation replaced by UTF-8 Greek letter, e.g. α Orionis."
+      },
+      "hip": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "minimum": 1
+      },
+      "ra_deg": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 360
+      },
+      "dec_deg": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": -90,
+        "maximum": 90
       }
     }
   },
@@ -61,12 +153,31 @@
     "boundaryCorner": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["ra_deg", "ra_hours", "dec_deg", "ra_deg_signed"],
+      "required": [
+        "ra_deg",
+        "ra_hours",
+        "dec_deg",
+        "ra_deg_signed"
+      ],
       "properties": {
-        "ra_deg": {"type": "number", "minimum": 0, "exclusiveMaximum": 360},
-        "ra_hours": {"type": "number", "minimum": 0, "exclusiveMaximum": 24},
-        "dec_deg": {"type": "number", "minimum": -90, "maximum": 90},
-        "ra_deg_signed": {"type": "number"}
+        "ra_deg": {
+          "type": "number",
+          "minimum": 0,
+          "exclusiveMaximum": 360
+        },
+        "ra_hours": {
+          "type": "number",
+          "minimum": 0,
+          "exclusiveMaximum": 24
+        },
+        "dec_deg": {
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "ra_deg_signed": {
+          "type": "number"
+        }
       }
     }
   }
