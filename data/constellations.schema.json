@@ -11,7 +11,7 @@
     "meaning",
     "rank",
     "boundary",
-    "lines",
+    "paths_hip",
     "brightest_star"
   ],
   "properties": {
@@ -26,16 +26,10 @@
       "type": "string"
     },
     "meaning": {
-      "type": [
-        "string",
-        "null"
-      ]
+      "type": "string"
     },
     "rank": {
-      "type": [
-        "integer",
-        "null"
-      ],
+      "type": "integer",
       "minimum": 1
     },
     "boundary": {
@@ -43,8 +37,7 @@
       "additionalProperties": false,
       "required": [
         "type",
-        "corners",
-        "rings"
+        "corners"
       ],
       "properties": {
         "type": {
@@ -56,96 +49,84 @@
         },
         "corners": {
           "type": "array",
+          "minItems": 3,
           "items": {
             "$ref": "#/$defs/boundaryCorner"
           }
         }
       }
     },
-    "lines": {
+    "paths_hip": {
+      "type": "array",
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "items": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "brightest_star": {
       "type": "object",
       "additionalProperties": false,
       "required": [
-        "paths_hip",
-        "segments_hip"
+        "name",
+        "designation",
+        "display_name",
+        "display_name_greek",
+        "hip",
+        "ra_deg",
+        "dec_deg"
       ],
-      "paths_hip": {
-        "type": "array",
-        "items": {
-          "type": "array",
-          "minItems": 2,
-          "items": {
-            "type": "integer",
-            "minimum": 1
-          }
+      "properties": {
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "designation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "display_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "display_name_greek": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "hip": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "ra_deg": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0,
+          "maximum": 360
+        },
+        "dec_deg": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": -90,
+          "maximum": 90
         }
-      }
-    }
-  },
-  "brightest_star": {
-    "type": [
-      "object",
-      "null"
-    ],
-    "additionalProperties": false,
-    "required": [
-      "name",
-      "designation",
-      "display_name",
-      "display_name_greek",
-      "hip",
-      "ra_deg",
-      "dec_deg"
-    ],
-    "properties": {
-      "name": {
-        "type": [
-          "string",
-          "null"
-        ]
-      },
-      "designation": {
-        "type": [
-          "string",
-          "null"
-        ]
-      },
-      "display_name": {
-        "type": [
-          "string",
-          "null"
-        ],
-        "description": "Bayer Greek abbreviation expanded to Latin name, e.g. Alpha Orionis."
-      },
-      "display_name_greek": {
-        "type": [
-          "string",
-          "null"
-        ],
-        "description": "Bayer Greek abbreviation replaced by UTF-8 Greek letter, e.g. α Orionis."
-      },
-      "hip": {
-        "type": [
-          "integer",
-          "null"
-        ],
-        "minimum": 1
-      },
-      "ra_deg": {
-        "type": [
-          "number",
-          "null"
-        ],
-        "minimum": 0,
-        "maximum": 360
-      },
-      "dec_deg": {
-        "type": [
-          "number",
-          "null"
-        ],
-        "minimum": -90,
-        "maximum": 90
       }
     }
   },
@@ -155,7 +136,6 @@
       "additionalProperties": false,
       "required": [
         "ra_deg",
-        "ra_hours",
         "dec_deg",
         "ra_deg_signed"
       ],
@@ -164,11 +144,6 @@
           "type": "number",
           "minimum": 0,
           "exclusiveMaximum": 360
-        },
-        "ra_hours": {
-          "type": "number",
-          "minimum": 0,
-          "exclusiveMaximum": 24
         },
         "dec_deg": {
           "type": "number",
