@@ -1,0 +1,190 @@
+{
+  "abbreviation": "Cas",
+  "name": "Cassiopeia",
+  "genitive": "Cassiopeiae",
+  "meaning": "Seated Queen",
+  "rank": 1,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 344.3429,
+        "dec_deg": 53.168,
+        "ra_deg_signed": -15.6571
+      },
+      {
+        "ra_deg": 344.304,
+        "dec_deg": 56.918,
+        "ra_deg_signed": -15.696
+      },
+      {
+        "ra_deg": 344.2691,
+        "dec_deg": 59.7512,
+        "ra_deg_signed": -15.7309
+      },
+      {
+        "ra_deg": 348.8597,
+        "dec_deg": 59.7647,
+        "ra_deg_signed": -11.1403
+      },
+      {
+        "ra_deg": 348.8165,
+        "dec_deg": 63.6813,
+        "ra_deg_signed": -11.1835
+      },
+      {
+        "ra_deg": 355.2176,
+        "dec_deg": 63.6929,
+        "ra_deg_signed": -4.7824
+      },
+      {
+        "ra_deg": 355.1979,
+        "dec_deg": 66.6929,
+        "ra_deg_signed": -4.8021
+      },
+      {
+        "ra_deg": 6.7638,
+        "dec_deg": 66.6924,
+        "ra_deg_signed": 6.7638
+      },
+      {
+        "ra_deg": 6.9229,
+        "dec_deg": 77.6923,
+        "ra_deg_signed": 6.9229
+      },
+      {
+        "ra_deg": 55.3087,
+        "dec_deg": 77.4163,
+        "ra_deg_signed": 55.3087
+      },
+      {
+        "ra_deg": 54.237,
+        "dec_deg": 68.4214,
+        "ra_deg_signed": 54.237
+      },
+      {
+        "ra_deg": 49.3955,
+        "dec_deg": 68.4663,
+        "ra_deg_signed": 49.3955
+      },
+      {
+        "ra_deg": 48.9009,
+        "dec_deg": 57.4685,
+        "ra_deg_signed": 48.9009
+      },
+      {
+        "ra_deg": 38.7623,
+        "dec_deg": 57.5513,
+        "ra_deg_signed": 38.7623
+      },
+      {
+        "ra_deg": 38.8024,
+        "dec_deg": 59.0512,
+        "ra_deg_signed": 38.8024
+      },
+      {
+        "ra_deg": 30.7956,
+        "dec_deg": 59.1046,
+        "ra_deg_signed": 30.7956
+      },
+      {
+        "ra_deg": 30.7736,
+        "dec_deg": 58.1047,
+        "ra_deg_signed": 30.7736
+      },
+      {
+        "ra_deg": 27.5952,
+        "dec_deg": 58.1227,
+        "ra_deg_signed": 27.5952
+      },
+      {
+        "ra_deg": 27.5336,
+        "dec_deg": 54.6229,
+        "ra_deg_signed": 27.5336
+      },
+      {
+        "ra_deg": 22.456,
+        "dec_deg": 54.6478,
+        "ra_deg_signed": 22.456
+      },
+      {
+        "ra_deg": 22.4079,
+        "dec_deg": 50.6479,
+        "ra_deg_signed": 22.4079
+      },
+      {
+        "ra_deg": 18.6059,
+        "dec_deg": 50.6632,
+        "ra_deg_signed": 18.6059
+      },
+      {
+        "ra_deg": 18.5884,
+        "dec_deg": 48.6633,
+        "ra_deg_signed": 18.5884
+      },
+      {
+        "ra_deg": 14.7889,
+        "dec_deg": 48.6757,
+        "ra_deg_signed": 14.7889
+      },
+      {
+        "ra_deg": 14.7761,
+        "dec_deg": 46.6758,
+        "ra_deg_signed": 14.7761
+      },
+      {
+        "ra_deg": 4.1433,
+        "dec_deg": 46.6949,
+        "ra_deg_signed": 4.1433
+      },
+      {
+        "ra_deg": 4.1464,
+        "dec_deg": 48.6949,
+        "ra_deg_signed": 4.1464
+      },
+      {
+        "ra_deg": 355.2761,
+        "dec_deg": 48.6929,
+        "ra_deg_signed": -4.7239
+      },
+      {
+        "ra_deg": 355.2706,
+        "dec_deg": 50.6929,
+        "ra_deg_signed": -4.7294
+      },
+      {
+        "ra_deg": 351.4657,
+        "dec_deg": 50.687,
+        "ra_deg_signed": -8.5343
+      },
+      {
+        "ra_deg": 351.4529,
+        "dec_deg": 53.187,
+        "ra_deg_signed": -8.5471
+      },
+      {
+        "ra_deg": 344.3429,
+        "dec_deg": 53.168,
+        "ra_deg_signed": -15.6571
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      746,
+      3179,
+      4427,
+      6686,
+      8886
+    ]
+  ],
+  "brightest_star": {
+    "name": "Cih",
+    "designation": "27Gam Cas",
+    "display_name": "27 Gamma Cassiopeiae",
+    "display_name_greek": "27 γ Cassiopeiae",
+    "hip": 4427,
+    "ra_deg": 14.177145,
+    "dec_deg": 60.71674
+  }
+}

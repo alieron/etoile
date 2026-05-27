@@ -1,0 +1,109 @@
+{
+  "abbreviation": "Vel",
+  "name": "Vela",
+  "genitive": "Velorum",
+  "meaning": "Sails",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 166.3373,
+        "dec_deg": -57.1744,
+        "ra_deg_signed": 166.3373
+      },
+      {
+        "ra_deg": 166.4565,
+        "dec_deg": -40.4246,
+        "ra_deg_signed": 166.4565
+      },
+      {
+        "ra_deg": 141.7341,
+        "dec_deg": -40.2919,
+        "ra_deg_signed": 141.7341
+      },
+      {
+        "ra_deg": 141.7716,
+        "dec_deg": -37.292,
+        "ra_deg_signed": 141.7716
+      },
+      {
+        "ra_deg": 126.6778,
+        "dec_deg": -37.16,
+        "ra_deg_signed": 126.6778
+      },
+      {
+        "ra_deg": 126.5723,
+        "dec_deg": -43.4095,
+        "ra_deg_signed": 126.5723
+      },
+      {
+        "ra_deg": 121.0383,
+        "dec_deg": -43.3535,
+        "ra_deg_signed": 121.0383
+      },
+      {
+        "ra_deg": 120.8617,
+        "dec_deg": -51.1026,
+        "ra_deg_signed": 120.8617
+      },
+      {
+        "ra_deg": 123.3811,
+        "dec_deg": -51.1285,
+        "ra_deg_signed": 123.3811
+      },
+      {
+        "ra_deg": 123.3201,
+        "dec_deg": -53.3782,
+        "ra_deg_signed": 123.3201
+      },
+      {
+        "ra_deg": 127.6093,
+        "dec_deg": -53.4207,
+        "ra_deg_signed": 127.6093
+      },
+      {
+        "ra_deg": 127.5671,
+        "dec_deg": -54.9205,
+        "ra_deg_signed": 127.5671
+      },
+      {
+        "ra_deg": 133.3802,
+        "dec_deg": -54.9742,
+        "ra_deg_signed": 133.3802
+      },
+      {
+        "ra_deg": 133.3237,
+        "dec_deg": -56.974,
+        "ra_deg_signed": 133.3237
+      },
+      {
+        "ra_deg": 166.3373,
+        "dec_deg": -57.1744,
+        "ra_deg_signed": 166.3373
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      42913,
+      39953,
+      44816,
+      46651,
+      50191,
+      52727,
+      48774,
+      45941,
+      42913
+    ]
+  ],
+  "brightest_star": {
+    "name": "Gam2Vel",
+    "designation": "Gam2Vel",
+    "display_name": "Gamma2Vel Velorum",
+    "display_name_greek": "γ2Vel Velorum",
+    "hip": 39953,
+    "ra_deg": 122.38314,
+    "dec_deg": -47.336588
+  }
+}

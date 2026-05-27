@@ -1,0 +1,210 @@
+{
+  "abbreviation": "Ori",
+  "name": "Orion",
+  "genitive": "Orionis",
+  "meaning": "Hunter",
+  "rank": 1,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 70.8524,
+        "dec_deg": 0.2375,
+        "ra_deg_signed": 70.8524
+      },
+      {
+        "ra_deg": 71.034,
+        "dec_deg": 15.7365,
+        "ra_deg_signed": 71.034
+      },
+      {
+        "ra_deg": 76.2889,
+        "dec_deg": 15.6755,
+        "ra_deg_signed": 76.2889
+      },
+      {
+        "ra_deg": 76.2953,
+        "dec_deg": 16.1755,
+        "ra_deg_signed": 76.2953
+      },
+      {
+        "ra_deg": 81.7987,
+        "dec_deg": 16.1101,
+        "ra_deg_signed": 81.7987
+      },
+      {
+        "ra_deg": 81.7922,
+        "dec_deg": 15.6101,
+        "ra_deg_signed": 81.7922
+      },
+      {
+        "ra_deg": 85.7936,
+        "dec_deg": 15.5619,
+        "ra_deg_signed": 85.7936
+      },
+      {
+        "ra_deg": 85.7551,
+        "dec_deg": 12.5622,
+        "ra_deg_signed": 85.7551
+      },
+      {
+        "ra_deg": 88.2554,
+        "dec_deg": 12.5319,
+        "ra_deg_signed": 88.2554
+      },
+      {
+        "ra_deg": 88.3272,
+        "dec_deg": 18.0314,
+        "ra_deg_signed": 88.3272
+      },
+      {
+        "ra_deg": 87.327,
+        "dec_deg": 18.0435,
+        "ra_deg_signed": 87.327
+      },
+      {
+        "ra_deg": 87.3938,
+        "dec_deg": 22.8765,
+        "ra_deg_signed": 87.3938
+      },
+      {
+        "ra_deg": 90.144,
+        "dec_deg": 22.8431,
+        "ra_deg_signed": 90.144
+      },
+      {
+        "ra_deg": 90.1252,
+        "dec_deg": 21.5099,
+        "ra_deg_signed": 90.1252
+      },
+      {
+        "ra_deg": 95.1241,
+        "dec_deg": 21.4492,
+        "ra_deg_signed": 95.1241
+      },
+      {
+        "ra_deg": 95.0696,
+        "dec_deg": 17.4495,
+        "ra_deg_signed": 95.0696
+      },
+      {
+        "ra_deg": 96.4439,
+        "dec_deg": 17.4329,
+        "ra_deg_signed": 96.4439
+      },
+      {
+        "ra_deg": 96.3728,
+        "dec_deg": 11.9333,
+        "ra_deg_signed": 96.3728
+      },
+      {
+        "ra_deg": 96.3477,
+        "dec_deg": 9.9334,
+        "ra_deg_signed": 96.3477
+      },
+      {
+        "ra_deg": 95.348,
+        "dec_deg": 9.9455,
+        "ra_deg_signed": 95.348
+      },
+      {
+        "ra_deg": 95.2257,
+        "dec_deg": -0.0537,
+        "ra_deg_signed": 95.2257
+      },
+      {
+        "ra_deg": 95.1771,
+        "dec_deg": -4.0534,
+        "ra_deg_signed": 95.1771
+      },
+      {
+        "ra_deg": 89.0524,
+        "dec_deg": -3.9791,
+        "ra_deg_signed": 89.0524
+      },
+      {
+        "ra_deg": 88.9658,
+        "dec_deg": -10.9785,
+        "ra_deg_signed": 88.9658
+      },
+      {
+        "ra_deg": 77.72,
+        "dec_deg": -10.8432,
+        "ra_deg_signed": 77.72
+      },
+      {
+        "ra_deg": 77.8044,
+        "dec_deg": -3.8437,
+        "ra_deg_signed": 77.8044
+      },
+      {
+        "ra_deg": 71.5564,
+        "dec_deg": -3.7708,
+        "ra_deg_signed": 71.5564
+      },
+      {
+        "ra_deg": 71.6023,
+        "dec_deg": 0.2289,
+        "ra_deg_signed": 71.6023
+      },
+      {
+        "ra_deg": 70.8524,
+        "dec_deg": 0.2375,
+        "ra_deg_signed": 70.8524
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      27989,
+      26727,
+      27366,
+      26727,
+      26311,
+      25930,
+      25336,
+      25930,
+      25281,
+      24436
+    ],
+    [
+      27989,
+      25336,
+      26207,
+      26207,
+      27989
+    ],
+    [
+      23607,
+      22957,
+      22845,
+      22509,
+      22449,
+      25336,
+      22449,
+      22549,
+      22797,
+      23123
+    ],
+    [
+      27989,
+      28614,
+      29038
+    ],
+    [
+      29426,
+      28716,
+      27913,
+      29038
+    ]
+  ],
+  "brightest_star": {
+    "name": "Rigel",
+    "designation": "19Bet Ori",
+    "display_name": "19 Beta Orionis",
+    "display_name_greek": "19 β Orionis",
+    "hip": 24436,
+    "ra_deg": 78.63447,
+    "dec_deg": -8.20164
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "abbreviation": "Cet",
+  "name": "Cetus",
+  "genitive": "Ceti",
+  "meaning": "Sea Monster",
+  "rank": 1,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 6.6013,
+        "dec_deg": 0.6925,
+        "ra_deg_signed": 6.6013
+      },
+      {
+        "ra_deg": 6.6038,
+        "dec_deg": 2.6925,
+        "ra_deg_signed": 6.6038
+      },
+      {
+        "ra_deg": 31.6153,
+        "dec_deg": 2.5979,
+        "ra_deg_signed": 31.6153
+      },
+      {
+        "ra_deg": 31.6652,
+        "dec_deg": 10.5144,
+        "ra_deg_signed": 31.6652
+      },
+      {
+        "ra_deg": 50.9464,
+        "dec_deg": 10.3632,
+        "ra_deg_signed": 50.9464
+      },
+      {
+        "ra_deg": 50.853,
+        "dec_deg": 0.447,
+        "ra_deg_signed": 50.853
+      },
+      {
+        "ra_deg": 50.8367,
+        "dec_deg": -1.303,
+        "ra_deg_signed": 50.8367
+      },
+      {
+        "ra_deg": 41.3392,
+        "dec_deg": -1.221,
+        "ra_deg_signed": 41.3392
+      },
+      {
+        "ra_deg": 41.1488,
+        "dec_deg": -23.8536,
+        "ra_deg_signed": 41.1488
+      },
+      {
+        "ra_deg": 26.466,
+        "dec_deg": -23.7563,
+        "ra_deg_signed": 26.466
+      },
+      {
+        "ra_deg": 26.4589,
+        "dec_deg": -24.8729,
+        "ra_deg_signed": 26.4589
+      },
+      {
+        "ra_deg": 359.1106,
+        "dec_deg": -24.8042,
+        "ra_deg_signed": -0.8894
+      },
+      {
+        "ra_deg": 359.1033,
+        "dec_deg": -6.3042,
+        "ra_deg_signed": -0.8967
+      },
+      {
+        "ra_deg": 6.5927,
+        "dec_deg": -6.3075,
+        "ra_deg_signed": 6.5927
+      },
+      {
+        "ra_deg": 6.6013,
+        "dec_deg": 0.6925,
+        "ra_deg_signed": 6.6013
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      12706,
+      14135,
+      13954,
+      12828,
+      11484,
+      12706,
+      12387,
+      10826,
+      8645,
+      8102,
+      3419,
+      1562,
+      5364,
+      6537,
+      8645
+    ]
+  ],
+  "brightest_star": {
+    "name": "Diphda",
+    "designation": "16Bet Cet",
+    "display_name": "16 Beta Ceti",
+    "display_name_greek": "16 β Ceti",
+    "hip": 3419,
+    "ra_deg": 10.89735,
+    "dec_deg": -17.986605
+  }
+}

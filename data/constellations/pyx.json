@@ -1,0 +1,74 @@
+{
+  "abbreviation": "Pyx",
+  "name": "Pyxis",
+  "genitive": "Pyxidis",
+  "meaning": "Mariner Compass",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 126.9271,
+        "dec_deg": -17.4113,
+        "ra_deg_signed": 126.9271
+      },
+      {
+        "ra_deg": 130.1843,
+        "dec_deg": -17.4425,
+        "ra_deg_signed": 130.1843
+      },
+      {
+        "ra_deg": 130.1635,
+        "dec_deg": -19.4424,
+        "ra_deg_signed": 130.1635
+      },
+      {
+        "ra_deg": 137.685,
+        "dec_deg": -19.5088,
+        "ra_deg_signed": 137.685
+      },
+      {
+        "ra_deg": 137.6368,
+        "dec_deg": -24.5086,
+        "ra_deg_signed": 137.6368
+      },
+      {
+        "ra_deg": 141.9043,
+        "dec_deg": -24.5425,
+        "ra_deg_signed": 141.9043
+      },
+      {
+        "ra_deg": 141.7716,
+        "dec_deg": -37.292,
+        "ra_deg_signed": 141.7716
+      },
+      {
+        "ra_deg": 126.6778,
+        "dec_deg": -37.16,
+        "ra_deg_signed": 126.6778
+      },
+      {
+        "ra_deg": 126.9271,
+        "dec_deg": -17.4113,
+        "ra_deg_signed": 126.9271
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      39429,
+      42515,
+      42828,
+      43409
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Pyx",
+    "designation": "Alp Pyx",
+    "display_name": "Alpha Pyxidis",
+    "display_name_greek": "α Pyxidis",
+    "hip": 42828,
+    "ra_deg": 130.898085,
+    "dec_deg": -33.186385
+  }
+}

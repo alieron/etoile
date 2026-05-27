@@ -1,0 +1,150 @@
+{
+  "abbreviation": "Boo",
+  "name": "Boötes",
+  "genitive": "Boötis",
+  "meaning": "Herdsman",
+  "rank": 1,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 227.7815,
+        "dec_deg": 7.5254,
+        "ra_deg_signed": -132.2185
+      },
+      {
+        "ra_deg": 204.0638,
+        "dec_deg": 7.3606,
+        "ra_deg_signed": -155.9362
+      },
+      {
+        "ra_deg": 204.0289,
+        "dec_deg": 14.3605,
+        "ra_deg_signed": -155.9711
+      },
+      {
+        "ra_deg": 203.9539,
+        "dec_deg": 27.8603,
+        "ra_deg_signed": -156.0461
+      },
+      {
+        "ra_deg": 210.7888,
+        "dec_deg": 27.8977,
+        "ra_deg_signed": -149.2112
+      },
+      {
+        "ra_deg": 210.7709,
+        "dec_deg": 30.1476,
+        "ra_deg_signed": -149.2291
+      },
+      {
+        "ra_deg": 211.8889,
+        "dec_deg": 30.1545,
+        "ra_deg_signed": -148.1111
+      },
+      {
+        "ra_deg": 211.6987,
+        "dec_deg": 47.9039,
+        "ra_deg_signed": -148.3013
+      },
+      {
+        "ra_deg": 211.5844,
+        "dec_deg": 54.9036,
+        "ra_deg_signed": -148.4156
+      },
+      {
+        "ra_deg": 217.2512,
+        "dec_deg": 54.9422,
+        "ra_deg_signed": -142.7488
+      },
+      {
+        "ra_deg": 229.5911,
+        "dec_deg": 55.0449,
+        "ra_deg_signed": -130.4089
+      },
+      {
+        "ra_deg": 229.6574,
+        "dec_deg": 52.5452,
+        "ra_deg_signed": -130.3426
+      },
+      {
+        "ra_deg": 237.0845,
+        "dec_deg": 52.6175,
+        "ra_deg_signed": -122.9155
+      },
+      {
+        "ra_deg": 237.1246,
+        "dec_deg": 51.1177,
+        "ra_deg_signed": -122.8754
+      },
+      {
+        "ra_deg": 237.3654,
+        "dec_deg": 39.6189,
+        "ra_deg_signed": -122.6346
+      },
+      {
+        "ra_deg": 232.6437,
+        "dec_deg": 39.5721,
+        "ra_deg_signed": -127.3563
+      },
+      {
+        "ra_deg": 232.747,
+        "dec_deg": 32.5726,
+        "ra_deg_signed": -127.253
+      },
+      {
+        "ra_deg": 229.0159,
+        "dec_deg": 32.5377,
+        "ra_deg_signed": -130.9841
+      },
+      {
+        "ra_deg": 229.0995,
+        "dec_deg": 25.5381,
+        "ra_deg_signed": -130.9005
+      },
+      {
+        "ra_deg": 227.6055,
+        "dec_deg": 25.5246,
+        "ra_deg_signed": -132.3945
+      },
+      {
+        "ra_deg": 227.7815,
+        "dec_deg": 7.5254,
+        "ra_deg_signed": -132.2185
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      69673,
+      72105,
+      74666,
+      73555,
+      71075,
+      71053,
+      69673,
+      67927,
+      67275
+    ],
+    [
+      69673,
+      71795
+    ],
+    [
+      71075,
+      69732,
+      70497,
+      69483,
+      69732
+    ]
+  ],
+  "brightest_star": {
+    "name": "Arcturus",
+    "designation": "16Alp Boo",
+    "display_name": "16 Alpha Boötis",
+    "display_name_greek": "16 α Boötis",
+    "hip": 69673,
+    "ra_deg": 213.91545,
+    "dec_deg": 19.18241
+  }
+}

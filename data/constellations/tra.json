@@ -1,0 +1,125 @@
+{
+  "abbreviation": "TrA",
+  "name": "Triangulum Australe",
+  "genitive": "Trianguli Australis",
+  "meaning": "Southern Triangle",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 224.1664,
+        "dec_deg": -70.5115,
+        "ra_deg_signed": -135.8336
+      },
+      {
+        "ra_deg": 224.0036,
+        "dec_deg": -68.0122,
+        "ra_deg_signed": -135.9964
+      },
+      {
+        "ra_deg": 226.5571,
+        "dec_deg": -67.9909,
+        "ra_deg_signed": -133.4429
+      },
+      {
+        "ra_deg": 226.3535,
+        "dec_deg": -64.0751,
+        "ra_deg_signed": -133.6465
+      },
+      {
+        "ra_deg": 230.1666,
+        "dec_deg": -64.0416,
+        "ra_deg_signed": -129.8334
+      },
+      {
+        "ra_deg": 230.0546,
+        "dec_deg": -61.4587,
+        "ra_deg_signed": -129.9454
+      },
+      {
+        "ra_deg": 232.5898,
+        "dec_deg": -61.4353,
+        "ra_deg_signed": -127.4102
+      },
+      {
+        "ra_deg": 232.54989999999998,
+        "dec_deg": -60.4355,
+        "ra_deg_signed": -127.4501
+      },
+      {
+        "ra_deg": 249.0347,
+        "dec_deg": -60.2645,
+        "ra_deg_signed": -110.9653
+      },
+      {
+        "ra_deg": 249.08159999999998,
+        "dec_deg": -61.2642,
+        "ra_deg_signed": -110.9184
+      },
+      {
+        "ra_deg": 251.5378,
+        "dec_deg": -61.2365,
+        "ra_deg_signed": -108.4622
+      },
+      {
+        "ra_deg": 251.6763,
+        "dec_deg": -63.819,
+        "ra_deg_signed": -108.3237
+      },
+      {
+        "ra_deg": 254.1951,
+        "dec_deg": -63.7901,
+        "ra_deg_signed": -105.8049
+      },
+      {
+        "ra_deg": 254.2835,
+        "dec_deg": -65.2063,
+        "ra_deg_signed": -105.7165
+      },
+      {
+        "ra_deg": 255.5424,
+        "dec_deg": -65.1916,
+        "ra_deg_signed": -104.4576
+      },
+      {
+        "ra_deg": 255.725,
+        "dec_deg": -67.6906,
+        "ra_deg_signed": -104.275
+      },
+      {
+        "ra_deg": 258.2425,
+        "dec_deg": -67.6611,
+        "ra_deg_signed": -101.7575
+      },
+      {
+        "ra_deg": 258.47069999999997,
+        "dec_deg": -70.1597,
+        "ra_deg_signed": -101.5293
+      },
+      {
+        "ra_deg": 224.1664,
+        "dec_deg": -70.5115,
+        "ra_deg_signed": -135.8336
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      82273,
+      77952,
+      76440,
+      74946,
+      82273
+    ]
+  ],
+  "brightest_star": {
+    "name": "Atria",
+    "designation": "Alp TrA",
+    "display_name": "Alpha Trianguli Australis",
+    "display_name_greek": "α Trianguli Australis",
+    "hip": 82273,
+    "ra_deg": 252.166155,
+    "dec_deg": -69.027715
+  }
+}

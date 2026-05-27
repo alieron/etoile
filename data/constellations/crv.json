@@ -1,0 +1,69 @@
+{
+  "abbreviation": "Crv",
+  "name": "Corvus",
+  "genitive": "Corvi",
+  "meaning": "Crow",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 194.1331,
+        "dec_deg": -11.6774,
+        "ra_deg_signed": -165.8669
+      },
+      {
+        "ra_deg": 179.0968,
+        "dec_deg": -11.6958,
+        "ra_deg_signed": 179.0968
+      },
+      {
+        "ra_deg": 179.0913,
+        "dec_deg": -25.1958,
+        "ra_deg_signed": 179.0913
+      },
+      {
+        "ra_deg": 190.4045,
+        "dec_deg": -25.1864,
+        "ra_deg_signed": -169.5955
+      },
+      {
+        "ra_deg": 190.3985,
+        "dec_deg": -22.6864,
+        "ra_deg_signed": -169.6015
+      },
+      {
+        "ra_deg": 194.1669,
+        "dec_deg": -22.6773,
+        "ra_deg_signed": -165.8331
+      },
+      {
+        "ra_deg": 194.1331,
+        "dec_deg": -11.6774,
+        "ra_deg_signed": -165.8669
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      60965,
+      59803,
+      59316,
+      61359,
+      60965
+    ],
+    [
+      59316,
+      59199
+    ]
+  ],
+  "brightest_star": {
+    "name": "Gienah",
+    "designation": "4Gam Crv",
+    "display_name": "4 Gamma Corvi",
+    "display_name_greek": "4 γ Corvi",
+    "hip": 59803,
+    "ra_deg": 183.95155499999998,
+    "dec_deg": -17.541929
+  }
+}

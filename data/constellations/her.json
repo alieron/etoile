@@ -1,0 +1,231 @@
+{
+  "abbreviation": "Her",
+  "name": "Hercules",
+  "genitive": "Herculis",
+  "meaning": "Hercules",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 245.5586,
+        "dec_deg": 3.7034,
+        "ra_deg_signed": -114.4414
+      },
+      {
+        "ra_deg": 242.80970000000002,
+        "dec_deg": 3.6735,
+        "ra_deg_signed": -117.1903
+      },
+      {
+        "ra_deg": 242.6766,
+        "dec_deg": 15.6728,
+        "ra_deg_signed": -117.3234
+      },
+      {
+        "ra_deg": 240.18110000000001,
+        "dec_deg": 15.6463,
+        "ra_deg_signed": -119.8189
+      },
+      {
+        "ra_deg": 240.111,
+        "dec_deg": 21.646,
+        "ra_deg_signed": -119.889
+      },
+      {
+        "ra_deg": 241.85660000000001,
+        "dec_deg": 21.6644,
+        "ra_deg_signed": -118.1434
+      },
+      {
+        "ra_deg": 241.8057,
+        "dec_deg": 25.6641,
+        "ra_deg_signed": -118.1943
+      },
+      {
+        "ra_deg": 243.80020000000002,
+        "dec_deg": 25.6856,
+        "ra_deg_signed": -116.1998
+      },
+      {
+        "ra_deg": 243.7867,
+        "dec_deg": 26.6855,
+        "ra_deg_signed": -116.2133
+      },
+      {
+        "ra_deg": 246.2798,
+        "dec_deg": 26.7129,
+        "ra_deg_signed": -113.7202
+      },
+      {
+        "ra_deg": 246.0719,
+        "dec_deg": 39.7117,
+        "ra_deg_signed": -113.9281
+      },
+      {
+        "ra_deg": 237.3654,
+        "dec_deg": 39.6189,
+        "ra_deg_signed": -122.6346
+      },
+      {
+        "ra_deg": 237.1246,
+        "dec_deg": 51.1177,
+        "ra_deg_signed": -122.8754
+      },
+      {
+        "ra_deg": 255.7568,
+        "dec_deg": 51.3243,
+        "ra_deg_signed": -104.2432
+      },
+      {
+        "ra_deg": 255.78640000000001,
+        "dec_deg": 50.3244,
+        "ra_deg_signed": -104.2136
+      },
+      {
+        "ra_deg": 274.2577,
+        "dec_deg": 50.5471,
+        "ra_deg_signed": -85.7423
+      },
+      {
+        "ra_deg": 274.3424,
+        "dec_deg": 47.5476,
+        "ra_deg_signed": -85.6576
+      },
+      {
+        "ra_deg": 273.4669,
+        "dec_deg": 47.537,
+        "ra_deg_signed": -86.5331
+      },
+      {
+        "ra_deg": 273.82439999999997,
+        "dec_deg": 30.0392,
+        "ra_deg_signed": -86.1756
+      },
+      {
+        "ra_deg": 276.7008,
+        "dec_deg": 30.074,
+        "ra_deg_signed": -83.2992
+      },
+      {
+        "ra_deg": 276.7629,
+        "dec_deg": 26.0744,
+        "ra_deg_signed": -83.2371
+      },
+      {
+        "ra_deg": 284.2699,
+        "dec_deg": 26.1641,
+        "ra_deg_signed": -75.7301
+      },
+      {
+        "ra_deg": 284.2772,
+        "dec_deg": 25.6641,
+        "ra_deg_signed": -75.7228
+      },
+      {
+        "ra_deg": 284.33910000000003,
+        "dec_deg": 21.2478,
+        "ra_deg_signed": -75.6609
+      },
+      {
+        "ra_deg": 284.3736,
+        "dec_deg": 18.6647,
+        "ra_deg_signed": -75.6264
+      },
+      {
+        "ra_deg": 284.4563,
+        "dec_deg": 12.1652,
+        "ra_deg_signed": -75.5437
+      },
+      {
+        "ra_deg": 281.38800000000003,
+        "dec_deg": 12.1288,
+        "ra_deg_signed": -78.612
+      },
+      {
+        "ra_deg": 275.2031,
+        "dec_deg": 12.0543,
+        "ra_deg_signed": -84.7969
+      },
+      {
+        "ra_deg": 275.1733,
+        "dec_deg": 14.3875,
+        "ra_deg_signed": -84.8267
+      },
+      {
+        "ra_deg": 260.1769,
+        "dec_deg": 14.206,
+        "ra_deg_signed": -99.8231
+      },
+      {
+        "ra_deg": 260.1958,
+        "dec_deg": 12.7061,
+        "ra_deg_signed": -99.8042
+      },
+      {
+        "ra_deg": 252.7015,
+        "dec_deg": 12.6179,
+        "ra_deg_signed": -107.2985
+      },
+      {
+        "ra_deg": 252.8059,
+        "dec_deg": 3.7852,
+        "ra_deg_signed": -107.1941
+      },
+      {
+        "ra_deg": 245.5586,
+        "dec_deg": 3.7034,
+        "ra_deg_signed": -114.4414
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      84379,
+      84345,
+      80816,
+      80170,
+      80816,
+      81693,
+      83207,
+      81693,
+      81833,
+      81126,
+      79992,
+      81126,
+      81833,
+      84380,
+      85112,
+      87808,
+      86414,
+      87808,
+      85112,
+      84380,
+      83207,
+      84379,
+      85693,
+      86974,
+      87933,
+      88794
+    ],
+    [
+      77760,
+      79101,
+      79992
+    ],
+    [
+      80170,
+      80463,
+      81008
+    ]
+  ],
+  "brightest_star": {
+    "name": "Rasalgethi",
+    "designation": "64Alp1Her",
+    "display_name": "64 Alpha1Her Herculis",
+    "display_name_greek": "64 α1Her Herculis",
+    "hip": 84345,
+    "ra_deg": 258.661905,
+    "dec_deg": 14.390333
+  }
+}

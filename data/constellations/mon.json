@@ -1,0 +1,139 @@
+{
+  "abbreviation": "Mon",
+  "name": "Monoceros",
+  "genitive": "Monocerotis",
+  "meaning": "Unicorn",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 95.2257,
+        "dec_deg": -0.0537,
+        "ra_deg_signed": 95.2257
+      },
+      {
+        "ra_deg": 95.348,
+        "dec_deg": 9.9455,
+        "ra_deg_signed": 95.348
+      },
+      {
+        "ra_deg": 96.3477,
+        "dec_deg": 9.9334,
+        "ra_deg_signed": 96.3477
+      },
+      {
+        "ra_deg": 96.3728,
+        "dec_deg": 11.9333,
+        "ra_deg_signed": 96.3728
+      },
+      {
+        "ra_deg": 105.7428,
+        "dec_deg": 11.8213,
+        "ra_deg_signed": 105.7428
+      },
+      {
+        "ra_deg": 105.7185,
+        "dec_deg": 9.8215,
+        "ra_deg_signed": 105.7185
+      },
+      {
+        "ra_deg": 106.7179,
+        "dec_deg": 9.8098,
+        "ra_deg_signed": 106.7179
+      },
+      {
+        "ra_deg": 106.6643,
+        "dec_deg": 5.3101,
+        "ra_deg_signed": 106.6643
+      },
+      {
+        "ra_deg": 106.9143,
+        "dec_deg": 5.3072,
+        "ra_deg_signed": 106.9143
+      },
+      {
+        "ra_deg": 106.8674,
+        "dec_deg": 1.3074,
+        "ra_deg_signed": 106.8674
+      },
+      {
+        "ra_deg": 109.6169,
+        "dec_deg": 1.2756,
+        "ra_deg_signed": 109.6169
+      },
+      {
+        "ra_deg": 109.5997,
+        "dec_deg": -0.2243,
+        "ra_deg_signed": 109.5997
+      },
+      {
+        "ra_deg": 122.849,
+        "dec_deg": -0.3694,
+        "ra_deg_signed": 122.849
+      },
+      {
+        "ra_deg": 122.7342,
+        "dec_deg": -11.3688,
+        "ra_deg_signed": 122.7342
+      },
+      {
+        "ra_deg": 111.9734,
+        "dec_deg": -11.2521,
+        "ra_deg_signed": 111.9734
+      },
+      {
+        "ra_deg": 93.2156,
+        "dec_deg": -11.0302,
+        "ra_deg_signed": 93.2156
+      },
+      {
+        "ra_deg": 88.9658,
+        "dec_deg": -10.9785,
+        "ra_deg_signed": 88.9658
+      },
+      {
+        "ra_deg": 89.0524,
+        "dec_deg": -3.9791,
+        "ra_deg_signed": 89.0524
+      },
+      {
+        "ra_deg": 95.1771,
+        "dec_deg": -4.0534,
+        "ra_deg_signed": 95.1771
+      },
+      {
+        "ra_deg": 95.2257,
+        "dec_deg": -0.0537,
+        "ra_deg_signed": 95.2257
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      31978,
+      31216,
+      30419,
+      30419,
+      32578,
+      31216,
+      32578,
+      34769,
+      30867,
+      29651,
+      30867,
+      34769,
+      39863,
+      37447
+    ]
+  ],
+  "brightest_star": {
+    "name": "11Bet Mon",
+    "designation": "11Bet Mon",
+    "display_name": "11 Beta Monocerotis",
+    "display_name_greek": "11 β Monocerotis",
+    "hip": 30867,
+    "ra_deg": 97.204455,
+    "dec_deg": -7.033062
+  }
+}

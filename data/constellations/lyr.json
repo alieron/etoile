@@ -1,0 +1,124 @@
+{
+  "abbreviation": "Lyr",
+  "name": "Lyra",
+  "genitive": "Lyrae",
+  "meaning": "Lyre",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 284.2772,
+        "dec_deg": 25.6641,
+        "ra_deg_signed": -75.7228
+      },
+      {
+        "ra_deg": 284.2699,
+        "dec_deg": 26.1641,
+        "ra_deg_signed": -75.7301
+      },
+      {
+        "ra_deg": 276.7629,
+        "dec_deg": 26.0744,
+        "ra_deg_signed": -83.2371
+      },
+      {
+        "ra_deg": 276.7008,
+        "dec_deg": 30.074,
+        "ra_deg_signed": -83.2992
+      },
+      {
+        "ra_deg": 273.82439999999997,
+        "dec_deg": 30.0392,
+        "ra_deg_signed": -86.1756
+      },
+      {
+        "ra_deg": 273.4669,
+        "dec_deg": 47.537,
+        "ra_deg_signed": -86.5331
+      },
+      {
+        "ra_deg": 274.3424,
+        "dec_deg": 47.5476,
+        "ra_deg_signed": -85.6576
+      },
+      {
+        "ra_deg": 287.12059999999997,
+        "dec_deg": 47.6999,
+        "ra_deg_signed": -72.8794
+      },
+      {
+        "ra_deg": 288.3755,
+        "dec_deg": 47.7144,
+        "ra_deg_signed": -71.6245
+      },
+      {
+        "ra_deg": 288.4703,
+        "dec_deg": 43.7149,
+        "ra_deg_signed": -71.5297
+      },
+      {
+        "ra_deg": 291.9835,
+        "dec_deg": 43.755,
+        "ra_deg_signed": -68.0165
+      },
+      {
+        "ra_deg": 292.11969999999997,
+        "dec_deg": 36.7558,
+        "ra_deg_signed": -67.8803
+      },
+      {
+        "ra_deg": 291.4926,
+        "dec_deg": 36.7487,
+        "ra_deg_signed": -68.5074
+      },
+      {
+        "ra_deg": 291.5988,
+        "dec_deg": 30.2493,
+        "ra_deg_signed": -68.4012
+      },
+      {
+        "ra_deg": 290.0953,
+        "dec_deg": 30.2322,
+        "ra_deg_signed": -69.9047
+      },
+      {
+        "ra_deg": 290.1326,
+        "dec_deg": 27.7324,
+        "ra_deg_signed": -69.8674
+      },
+      {
+        "ra_deg": 290.1613,
+        "dec_deg": 25.7326,
+        "ra_deg_signed": -69.8387
+      },
+      {
+        "ra_deg": 284.2772,
+        "dec_deg": 25.6641,
+        "ra_deg_signed": -75.7228
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      91262,
+      91919,
+      91971,
+      91262,
+      91971,
+      92791,
+      93194,
+      92420,
+      91971
+    ]
+  ],
+  "brightest_star": {
+    "name": "Vega",
+    "designation": "3Alp Lyr",
+    "display_name": "3 Alpha Lyrae",
+    "display_name_greek": "3 α Lyrae",
+    "hip": 91262,
+    "ra_deg": 279.2346,
+    "dec_deg": 38.783692
+  }
+}

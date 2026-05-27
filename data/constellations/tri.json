@@ -1,0 +1,114 @@
+{
+  "abbreviation": "Tri",
+  "name": "Triangulum",
+  "genitive": "Trianguli",
+  "meaning": "Triangle",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 26.7447,
+        "dec_deg": 25.6263,
+        "ra_deg_signed": 26.7447
+      },
+      {
+        "ra_deg": 26.7647,
+        "dec_deg": 28.6263,
+        "ra_deg_signed": 26.7647
+      },
+      {
+        "ra_deg": 22.8664,
+        "dec_deg": 28.6454,
+        "ra_deg_signed": 22.8664
+      },
+      {
+        "ra_deg": 22.8974,
+        "dec_deg": 33.6454,
+        "ra_deg_signed": 22.8974
+      },
+      {
+        "ra_deg": 22.9108,
+        "dec_deg": 35.6453,
+        "ra_deg_signed": 22.9108
+      },
+      {
+        "ra_deg": 31.8543,
+        "dec_deg": 35.5971,
+        "ra_deg_signed": 31.8543
+      },
+      {
+        "ra_deg": 31.8711,
+        "dec_deg": 37.3471,
+        "ra_deg_signed": 31.8711
+      },
+      {
+        "ra_deg": 39.6793,
+        "dec_deg": 37.2932,
+        "ra_deg_signed": 39.6793
+      },
+      {
+        "ra_deg": 40.4347,
+        "dec_deg": 37.2874,
+        "ra_deg_signed": 40.4347
+      },
+      {
+        "ra_deg": 40.4024,
+        "dec_deg": 34.5375,
+        "ra_deg_signed": 40.4024
+      },
+      {
+        "ra_deg": 42.6665,
+        "dec_deg": 34.5197,
+        "ra_deg_signed": 42.6665
+      },
+      {
+        "ra_deg": 42.6284,
+        "dec_deg": 31.1865,
+        "ra_deg_signed": 42.6284
+      },
+      {
+        "ra_deg": 38.1032,
+        "dec_deg": 31.2213,
+        "ra_deg_signed": 38.1032
+      },
+      {
+        "ra_deg": 38.0701,
+        "dec_deg": 27.8048,
+        "ra_deg_signed": 38.0701
+      },
+      {
+        "ra_deg": 30.5306,
+        "dec_deg": 27.855,
+        "ra_deg_signed": 30.5306
+      },
+      {
+        "ra_deg": 30.5137,
+        "dec_deg": 25.6051,
+        "ra_deg_signed": 30.5137
+      },
+      {
+        "ra_deg": 26.7447,
+        "dec_deg": 25.6263,
+        "ra_deg_signed": 26.7447
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      8796,
+      10064,
+      10670,
+      8796
+    ]
+  ],
+  "brightest_star": {
+    "name": "4Bet Tri",
+    "designation": "4Bet Tri",
+    "display_name": "4 Beta Trianguli",
+    "display_name_greek": "4 β Trianguli",
+    "hip": 10064,
+    "ra_deg": 32.38587,
+    "dec_deg": 34.987297
+  }
+}

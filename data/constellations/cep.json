@@ -1,0 +1,256 @@
+{
+  "abbreviation": "Cep",
+  "name": "Cepheus",
+  "genitive": "Cephei",
+  "meaning": "King",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 300.5733,
+        "dec_deg": 59.8511,
+        "ra_deg_signed": -59.4267
+      },
+      {
+        "ra_deg": 300.4852,
+        "dec_deg": 61.8506,
+        "ra_deg_signed": -59.5148
+      },
+      {
+        "ra_deg": 306.8119,
+        "dec_deg": 61.9144,
+        "ra_deg_signed": -53.1881
+      },
+      {
+        "ra_deg": 306.5174,
+        "dec_deg": 67.413,
+        "ra_deg_signed": -53.4826
+      },
+      {
+        "ra_deg": 310.334,
+        "dec_deg": 67.449,
+        "ra_deg_signed": -49.666
+      },
+      {
+        "ra_deg": 309.573,
+        "dec_deg": 75.4455,
+        "ra_deg_signed": -50.427
+      },
+      {
+        "ra_deg": 301.8734,
+        "dec_deg": 75.3709,
+        "ra_deg_signed": -58.1266
+      },
+      {
+        "ra_deg": 300.6738,
+        "dec_deg": 80.3648,
+        "ra_deg_signed": -59.3262
+      },
+      {
+        "ra_deg": 313.7059,
+        "dec_deg": 80.4868,
+        "ra_deg_signed": -46.2941
+      },
+      {
+        "ra_deg": 308.721,
+        "dec_deg": 86.4656,
+        "ra_deg_signed": -51.279
+      },
+      {
+        "ra_deg": 308.33140000000003,
+        "dec_deg": 86.6306,
+        "ra_deg_signed": -51.6686
+      },
+      {
+        "ra_deg": 343.5107,
+        "dec_deg": 86.8369,
+        "ra_deg_signed": -16.4893
+      },
+      {
+        "ra_deg": 339.261,
+        "dec_deg": 88.6639,
+        "ra_deg_signed": -20.739
+      },
+      {
+        "ra_deg": 0.9483,
+        "dec_deg": 88.6092,
+        "ra_deg_signed": 0.9483
+      },
+      {
+        "ra_deg": 24.7077,
+        "dec_deg": 88.3564,
+        "ra_deg_signed": 24.7077
+      },
+      {
+        "ra_deg": 57.6647,
+        "dec_deg": 88.0063,
+        "ra_deg_signed": 57.6647
+      },
+      {
+        "ra_deg": 135.8325,
+        "dec_deg": 87.5689,
+        "ra_deg_signed": 135.8325
+      },
+      {
+        "ra_deg": 130.4028,
+        "dec_deg": 86.0975,
+        "ra_deg_signed": 130.4028
+      },
+      {
+        "ra_deg": 127.9536,
+        "dec_deg": 84.6104,
+        "ra_deg_signed": 127.9536
+      },
+      {
+        "ra_deg": 84.5361,
+        "dec_deg": 85.1239,
+        "ra_deg_signed": 84.5361
+      },
+      {
+        "ra_deg": 80.4889,
+        "dec_deg": 80.1479,
+        "ra_deg_signed": 80.4889
+      },
+      {
+        "ra_deg": 57.5305,
+        "dec_deg": 80.3987,
+        "ra_deg_signed": 57.5305
+      },
+      {
+        "ra_deg": 56.7262,
+        "dec_deg": 77.4026,
+        "ra_deg_signed": 56.7262
+      },
+      {
+        "ra_deg": 55.3087,
+        "dec_deg": 77.4163,
+        "ra_deg_signed": 55.3087
+      },
+      {
+        "ra_deg": 6.9229,
+        "dec_deg": 77.6923,
+        "ra_deg_signed": 6.9229
+      },
+      {
+        "ra_deg": 6.7638,
+        "dec_deg": 66.6924,
+        "ra_deg_signed": 6.7638
+      },
+      {
+        "ra_deg": 355.1979,
+        "dec_deg": 66.6929,
+        "ra_deg_signed": -4.8021
+      },
+      {
+        "ra_deg": 355.2176,
+        "dec_deg": 63.6929,
+        "ra_deg_signed": -4.7824
+      },
+      {
+        "ra_deg": 348.8165,
+        "dec_deg": 63.6813,
+        "ra_deg_signed": -11.1835
+      },
+      {
+        "ra_deg": 348.8597,
+        "dec_deg": 59.7647,
+        "ra_deg_signed": -11.1403
+      },
+      {
+        "ra_deg": 344.2691,
+        "dec_deg": 59.7512,
+        "ra_deg_signed": -15.7309
+      },
+      {
+        "ra_deg": 344.304,
+        "dec_deg": 56.918,
+        "ra_deg_signed": -15.696
+      },
+      {
+        "ra_deg": 335.9109,
+        "dec_deg": 56.8826,
+        "ra_deg_signed": -24.0891
+      },
+      {
+        "ra_deg": 335.9313,
+        "dec_deg": 55.6326,
+        "ra_deg_signed": -24.0687
+      },
+      {
+        "ra_deg": 333.1376,
+        "dec_deg": 55.6178,
+        "ra_deg_signed": -26.8624
+      },
+      {
+        "ra_deg": 333.17470000000003,
+        "dec_deg": 53.3679,
+        "ra_deg_signed": -26.8253
+      },
+      {
+        "ra_deg": 330.6392,
+        "dec_deg": 53.3533,
+        "ra_deg_signed": -29.3608
+      },
+      {
+        "ra_deg": 330.6022,
+        "dec_deg": 55.4365,
+        "ra_deg_signed": -29.3978
+      },
+      {
+        "ra_deg": 309.83140000000003,
+        "dec_deg": 55.2753,
+        "ra_deg_signed": -50.1686
+      },
+      {
+        "ra_deg": 309.6238,
+        "dec_deg": 61.3577,
+        "ra_deg_signed": -50.3762
+      },
+      {
+        "ra_deg": 308.6608,
+        "dec_deg": 61.3486,
+        "ra_deg_signed": -51.3392
+      },
+      {
+        "ra_deg": 308.71659999999997,
+        "dec_deg": 59.9322,
+        "ra_deg_signed": -51.2834
+      },
+      {
+        "ra_deg": 300.5733,
+        "dec_deg": 59.8511,
+        "ra_deg_signed": -59.4267
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      102422,
+      105199,
+      106032,
+      112724,
+      106032,
+      116727,
+      112724,
+      110991,
+      109492,
+      109857,
+      107259,
+      105199
+    ],
+    [
+      101093,
+      102422
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alderamin",
+    "designation": "5Alp Cep",
+    "display_name": "5 Alpha Cephei",
+    "display_name_greek": "5 α Cephei",
+    "hip": 105199,
+    "ra_deg": 319.64445,
+    "dec_deg": 62.585573
+  }
+}

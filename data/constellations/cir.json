@@ -1,0 +1,113 @@
+{
+  "abbreviation": "Cir",
+  "name": "Circinus",
+  "genitive": "Circini",
+  "meaning": "Drawing Compass",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 204.6803,
+        "dec_deg": -64.6379,
+        "ra_deg_signed": -155.3197
+      },
+      {
+        "ra_deg": 204.7075,
+        "dec_deg": -65.6379,
+        "ra_deg_signed": -155.2925
+      },
+      {
+        "ra_deg": 207.268,
+        "dec_deg": -65.625,
+        "ra_deg_signed": -152.732
+      },
+      {
+        "ra_deg": 207.4609,
+        "dec_deg": -70.6244,
+        "ra_deg_signed": -152.5391
+      },
+      {
+        "ra_deg": 224.1664,
+        "dec_deg": -70.5115,
+        "ra_deg_signed": -135.8336
+      },
+      {
+        "ra_deg": 224.0036,
+        "dec_deg": -68.0122,
+        "ra_deg_signed": -135.9964
+      },
+      {
+        "ra_deg": 226.5571,
+        "dec_deg": -67.9909,
+        "ra_deg_signed": -133.4429
+      },
+      {
+        "ra_deg": 226.3535,
+        "dec_deg": -64.0751,
+        "ra_deg_signed": -133.6465
+      },
+      {
+        "ra_deg": 230.1666,
+        "dec_deg": -64.0416,
+        "ra_deg_signed": -129.8334
+      },
+      {
+        "ra_deg": 230.0546,
+        "dec_deg": -61.4587,
+        "ra_deg_signed": -129.9454
+      },
+      {
+        "ra_deg": 232.5898,
+        "dec_deg": -61.4353,
+        "ra_deg_signed": -127.4102
+      },
+      {
+        "ra_deg": 232.54989999999998,
+        "dec_deg": -60.4355,
+        "ra_deg_signed": -127.4501
+      },
+      {
+        "ra_deg": 232.3819,
+        "dec_deg": -55.4363,
+        "ra_deg_signed": -127.6181
+      },
+      {
+        "ra_deg": 228.0835,
+        "dec_deg": -55.4755,
+        "ra_deg_signed": -131.9165
+      },
+      {
+        "ra_deg": 220.2345,
+        "dec_deg": -55.5401,
+        "ra_deg_signed": -139.7655
+      },
+      {
+        "ra_deg": 220.515,
+        "dec_deg": -64.539,
+        "ra_deg_signed": -139.485
+      },
+      {
+        "ra_deg": 204.6803,
+        "dec_deg": -64.6379,
+        "ra_deg_signed": -155.3197
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      74824,
+      71908,
+      75323
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Cir",
+    "designation": "Alp Cir",
+    "display_name": "Alpha Circini",
+    "display_name_greek": "α Circini",
+    "hip": 71908,
+    "ra_deg": 220.62738,
+    "dec_deg": -64.975138
+  }
+}

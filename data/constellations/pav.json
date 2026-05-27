@@ -1,0 +1,96 @@
+{
+  "abbreviation": "Pav",
+  "name": "Pavo",
+  "genitive": "Pavonis",
+  "meaning": "Peacock",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 274.1951,
+        "dec_deg": -74.9745,
+        "ra_deg_signed": -85.8049
+      },
+      {
+        "ra_deg": 323.1848,
+        "dec_deg": -74.4545,
+        "ra_deg_signed": -36.8152
+      },
+      {
+        "ra_deg": 322.3487,
+        "dec_deg": -59.4577,
+        "ra_deg_signed": -37.6513
+      },
+      {
+        "ra_deg": 307.5648,
+        "dec_deg": -59.5881,
+        "ra_deg_signed": -52.4352
+      },
+      {
+        "ra_deg": 307.4588,
+        "dec_deg": -56.5886,
+        "ra_deg_signed": -52.5412
+      },
+      {
+        "ra_deg": 272.6723,
+        "dec_deg": -56.9838,
+        "ra_deg_signed": -87.3277
+      },
+      {
+        "ra_deg": 265.1682,
+        "dec_deg": -57.0748,
+        "ra_deg_signed": -94.8318
+      },
+      {
+        "ra_deg": 265.77570000000003,
+        "dec_deg": -67.5711,
+        "ra_deg_signed": -94.2243
+      },
+      {
+        "ra_deg": 273.2801,
+        "dec_deg": -67.4801,
+        "ra_deg_signed": -86.7199
+      },
+      {
+        "ra_deg": 274.1951,
+        "dec_deg": -74.9745,
+        "ra_deg_signed": -85.8049
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      100751,
+      99240,
+      102395
+    ],
+    [
+      100751,
+      105858,
+      102395
+    ],
+    [
+      91792,
+      99240,
+      98495,
+      99240,
+      93015,
+      88866,
+      86929,
+      88866,
+      90098,
+      92609,
+      99240
+    ]
+  ],
+  "brightest_star": {
+    "name": "Peacock",
+    "designation": "Alp Pav",
+    "display_name": "Alpha Pavonis",
+    "display_name_greek": "α Pavonis",
+    "hip": 100751,
+    "ra_deg": 306.411885,
+    "dec_deg": -56.73509
+  }
+}

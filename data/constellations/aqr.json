@@ -1,0 +1,170 @@
+{
+  "abbreviation": "Aqr",
+  "name": "Aquarius",
+  "genitive": "Aquarii",
+  "meaning": "Water Bearer",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 309.5988,
+        "dec_deg": 0.4362,
+        "ra_deg_signed": -50.4012
+      },
+      {
+        "ra_deg": 309.5799,
+        "dec_deg": 2.4361,
+        "ra_deg_signed": -50.4201
+      },
+      {
+        "ra_deg": 314.0811,
+        "dec_deg": 2.4773,
+        "ra_deg_signed": -45.9189
+      },
+      {
+        "ra_deg": 321.5835,
+        "dec_deg": 2.5394,
+        "ra_deg_signed": -38.4165
+      },
+      {
+        "ra_deg": 323.5843,
+        "dec_deg": 2.5544,
+        "ra_deg_signed": -36.4157
+      },
+      {
+        "ra_deg": 323.5787,
+        "dec_deg": 3.3044,
+        "ra_deg_signed": -36.4213
+      },
+      {
+        "ra_deg": 326.5802,
+        "dec_deg": 3.3257,
+        "ra_deg_signed": -33.4198
+      },
+      {
+        "ra_deg": 326.5871,
+        "dec_deg": 2.3257,
+        "ra_deg_signed": -33.4129
+      },
+      {
+        "ra_deg": 331.5888,
+        "dec_deg": 2.3576,
+        "ra_deg_signed": -28.4112
+      },
+      {
+        "ra_deg": 331.5873,
+        "dec_deg": 2.6076,
+        "ra_deg_signed": -28.4127
+      },
+      {
+        "ra_deg": 342.8422,
+        "dec_deg": 2.6622,
+        "ra_deg_signed": -17.1578
+      },
+      {
+        "ra_deg": 342.8497,
+        "dec_deg": 0.6622,
+        "ra_deg_signed": -17.1503
+      },
+      {
+        "ra_deg": 342.86469999999997,
+        "dec_deg": -3.3378,
+        "ra_deg_signed": -17.1353
+      },
+      {
+        "ra_deg": 359.1022,
+        "dec_deg": -3.3042,
+        "ra_deg_signed": -0.8978
+      },
+      {
+        "ra_deg": 359.1033,
+        "dec_deg": -6.3042,
+        "ra_deg_signed": -0.8967
+      },
+      {
+        "ra_deg": 359.1106,
+        "dec_deg": -24.8042,
+        "ra_deg_signed": -0.8894
+      },
+      {
+        "ra_deg": 346.681,
+        "dec_deg": -24.825,
+        "ra_deg_signed": -13.319
+      },
+      {
+        "ra_deg": 329.7703,
+        "dec_deg": -24.904,
+        "ra_deg_signed": -30.2297
+      },
+      {
+        "ra_deg": 329.6562,
+        "dec_deg": -8.4044,
+        "ra_deg_signed": -30.3438
+      },
+      {
+        "ra_deg": 321.6684,
+        "dec_deg": -8.4603,
+        "ra_deg_signed": -38.3316
+      },
+      {
+        "ra_deg": 321.7165,
+        "dec_deg": -14.4601,
+        "ra_deg_signed": -38.2835
+      },
+      {
+        "ra_deg": 309.7439,
+        "dec_deg": -14.5631,
+        "ra_deg_signed": -50.2561
+      },
+      {
+        "ra_deg": 309.6846,
+        "dec_deg": -8.5634,
+        "ra_deg_signed": -50.3154
+      },
+      {
+        "ra_deg": 309.5988,
+        "dec_deg": 0.4362,
+        "ra_deg_signed": -50.4012
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      102618,
+      106278,
+      109074,
+      110395,
+      110960,
+      111497,
+      110960,
+      110672,
+      109074
+    ],
+    [
+      109139,
+      106278,
+      109074,
+      110003,
+      112961,
+      114724,
+      115033,
+      115438,
+      115033,
+      114341,
+      115033,
+      113136,
+      112716,
+      112961
+    ]
+  ],
+  "brightest_star": {
+    "name": "Sadalsuud",
+    "designation": "22Bet Aqr",
+    "display_name": "22 Beta Aquarii",
+    "display_name_greek": "22 β Aquarii",
+    "hip": 106278,
+    "ra_deg": 322.88973,
+    "dec_deg": -5.571172
+  }
+}

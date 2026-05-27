@@ -1,0 +1,65 @@
+{
+  "abbreviation": "Sct",
+  "name": "Scutum",
+  "genitive": "Scuti",
+  "meaning": "Shield",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 275.54949999999997,
+        "dec_deg": -15.9436,
+        "ra_deg_signed": -84.4505
+      },
+      {
+        "ra_deg": 284.7937,
+        "dec_deg": -15.8328,
+        "ra_deg_signed": -75.2063
+      },
+      {
+        "ra_deg": 284.7441,
+        "dec_deg": -11.8664,
+        "ra_deg_signed": -75.2559
+      },
+      {
+        "ra_deg": 284.6473,
+        "dec_deg": -3.8337,
+        "ra_deg_signed": -75.3527
+      },
+      {
+        "ra_deg": 280.3982,
+        "dec_deg": -3.8842,
+        "ra_deg_signed": -79.6018
+      },
+      {
+        "ra_deg": 275.3991,
+        "dec_deg": -3.9445,
+        "ra_deg_signed": -84.6009
+      },
+      {
+        "ra_deg": 275.54949999999997,
+        "dec_deg": -15.9436,
+        "ra_deg_signed": -84.4505
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      92175,
+      91117,
+      90595,
+      91726,
+      92175
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Sct",
+    "designation": "Alp Sct",
+    "display_name": "Alpha Scuti",
+    "display_name_greek": "α Scuti",
+    "hip": 91117,
+    "ra_deg": 278.80177499999996,
+    "dec_deg": -8.244073
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "abbreviation": "Mus",
+  "name": "Musca",
+  "genitive": "Muscae",
+  "meaning": "Fly",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 170.0848,
+        "dec_deg": -64.6843,
+        "ra_deg_signed": 170.0848
+      },
+      {
+        "ra_deg": 169.857,
+        "dec_deg": -75.684,
+        "ra_deg_signed": 169.857
+      },
+      {
+        "ra_deg": 207.7814,
+        "dec_deg": -75.6236,
+        "ra_deg_signed": -152.2186
+      },
+      {
+        "ra_deg": 207.4609,
+        "dec_deg": -70.6244,
+        "ra_deg_signed": -152.5391
+      },
+      {
+        "ra_deg": 207.268,
+        "dec_deg": -65.625,
+        "ra_deg_signed": -152.732
+      },
+      {
+        "ra_deg": 204.7075,
+        "dec_deg": -65.6379,
+        "ra_deg_signed": -155.2925
+      },
+      {
+        "ra_deg": 204.6803,
+        "dec_deg": -64.6379,
+        "ra_deg_signed": -155.3197
+      },
+      {
+        "ra_deg": 194.4384,
+        "dec_deg": -64.677,
+        "ra_deg_signed": -165.5616
+      },
+      {
+        "ra_deg": 179.0574,
+        "dec_deg": -64.6958,
+        "ra_deg_signed": 179.0574
+      },
+      {
+        "ra_deg": 170.0848,
+        "dec_deg": -64.6843,
+        "ra_deg_signed": 170.0848
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      57363,
+      59929,
+      61585,
+      62322,
+      63613,
+      61199,
+      61585
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Mus",
+    "designation": "Alp Mus",
+    "display_name": "Alpha Muscae",
+    "display_name_greek": "α Muscae",
+    "hip": 61585,
+    "ra_deg": 189.29608499999998,
+    "dec_deg": -69.135564
+  }
+}

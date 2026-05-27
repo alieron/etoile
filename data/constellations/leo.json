@@ -1,0 +1,157 @@
+{
+  "abbreviation": "Leo",
+  "name": "Leo",
+  "genitive": "Leonis",
+  "meaning": "Lion",
+  "rank": 1,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 162.8497,
+        "dec_deg": -0.6622,
+        "ra_deg_signed": 162.8497
+      },
+      {
+        "ra_deg": 162.876,
+        "dec_deg": 6.3377,
+        "ra_deg_signed": 162.876
+      },
+      {
+        "ra_deg": 145.3984,
+        "dec_deg": 6.4328,
+        "ra_deg_signed": 145.3984
+      },
+      {
+        "ra_deg": 140.4043,
+        "dec_deg": 6.4701,
+        "ra_deg_signed": 140.4043
+      },
+      {
+        "ra_deg": 140.646,
+        "dec_deg": 32.9691,
+        "ra_deg_signed": 140.646
+      },
+      {
+        "ra_deg": 150.0844,
+        "dec_deg": 32.9023,
+        "ra_deg_signed": 150.0844
+      },
+      {
+        "ra_deg": 150.0423,
+        "dec_deg": 27.9024,
+        "ra_deg_signed": 150.0423
+      },
+      {
+        "ra_deg": 159.2384,
+        "dec_deg": 27.8529,
+        "ra_deg_signed": 159.2384
+      },
+      {
+        "ra_deg": 159.2109,
+        "dec_deg": 22.853,
+        "ra_deg_signed": 159.2109
+      },
+      {
+        "ra_deg": 162.9425,
+        "dec_deg": 22.8376,
+        "ra_deg_signed": 162.9425
+      },
+      {
+        "ra_deg": 162.9515,
+        "dec_deg": 24.8376,
+        "ra_deg_signed": 162.9515
+      },
+      {
+        "ra_deg": 166.6809,
+        "dec_deg": 24.825,
+        "ra_deg_signed": 166.6809
+      },
+      {
+        "ra_deg": 166.694,
+        "dec_deg": 28.325,
+        "ra_deg_signed": 166.694
+      },
+      {
+        "ra_deg": 179.6089,
+        "dec_deg": 28.304,
+        "ra_deg_signed": 179.6089
+      },
+      {
+        "ra_deg": 179.6045,
+        "dec_deg": 13.304,
+        "ra_deg_signed": 179.6045
+      },
+      {
+        "ra_deg": 179.6037,
+        "dec_deg": 10.304,
+        "ra_deg_signed": 179.6037
+      },
+      {
+        "ra_deg": 174.3657,
+        "dec_deg": 10.3083,
+        "ra_deg_signed": 174.3657
+      },
+      {
+        "ra_deg": 174.3505,
+        "dec_deg": -0.6917,
+        "ra_deg_signed": 174.3505
+      },
+      {
+        "ra_deg": 174.3423,
+        "dec_deg": -6.6917,
+        "ra_deg_signed": 174.3423
+      },
+      {
+        "ra_deg": 162.8271,
+        "dec_deg": -6.6622,
+        "ra_deg_signed": 162.8271
+      },
+      {
+        "ra_deg": 162.8497,
+        "dec_deg": -0.6622,
+        "ra_deg_signed": 162.8497
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      49669,
+      49583,
+      50583,
+      50335,
+      48455,
+      47908
+    ],
+    [
+      50583,
+      54872,
+      57632,
+      54879,
+      54872,
+      54879,
+      49583
+    ],
+    [
+      48455,
+      46146,
+      46750,
+      47908,
+      49583
+    ],
+    [
+      54879,
+      55642,
+      55434
+    ]
+  ],
+  "brightest_star": {
+    "name": "Regulus",
+    "designation": "32Alp Leo",
+    "display_name": "32 Alpha Leonis",
+    "display_name_greek": "32 α Leonis",
+    "hip": 49669,
+    "ra_deg": 152.09298,
+    "dec_deg": 11.967207
+  }
+}

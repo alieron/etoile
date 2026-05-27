@@ -1,0 +1,155 @@
+{
+  "abbreviation": "Sco",
+  "name": "Scorpius",
+  "genitive": "Scorpii",
+  "meaning": "Scorpion",
+  "rank": 1,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 240.4373,
+        "dec_deg": -8.3523,
+        "ra_deg_signed": -119.5627
+      },
+      {
+        "ra_deg": 245.69119999999998,
+        "dec_deg": -8.2959,
+        "ra_deg_signed": -114.3088
+      },
+      {
+        "ra_deg": 245.8107,
+        "dec_deg": -18.5452,
+        "ra_deg_signed": -114.1893
+      },
+      {
+        "ra_deg": 247.4382,
+        "dec_deg": -18.5272,
+        "ra_deg_signed": -112.5618
+      },
+      {
+        "ra_deg": 247.45069999999998,
+        "dec_deg": -19.5272,
+        "ra_deg_signed": -112.5493
+      },
+      {
+        "ra_deg": 245.82299999999998,
+        "dec_deg": -19.5452,
+        "ra_deg_signed": -114.177
+      },
+      {
+        "ra_deg": 245.8914,
+        "dec_deg": -24.8781,
+        "ra_deg_signed": -114.1086
+      },
+      {
+        "ra_deg": 253.1557,
+        "dec_deg": -24.7961,
+        "ra_deg_signed": -106.8443
+      },
+      {
+        "ra_deg": 253.2353,
+        "dec_deg": -30.2123,
+        "ra_deg_signed": -106.7647
+      },
+      {
+        "ra_deg": 266.0018,
+        "dec_deg": -30.0607,
+        "ra_deg_signed": -93.9982
+      },
+      {
+        "ra_deg": 269.5028,
+        "dec_deg": -30.0182,
+        "ra_deg_signed": -90.4972
+      },
+      {
+        "ra_deg": 269.6255,
+        "dec_deg": -37.0175,
+        "ra_deg_signed": -90.3745
+      },
+      {
+        "ra_deg": 269.8093,
+        "dec_deg": -45.5163,
+        "ra_deg_signed": -90.1907
+      },
+      {
+        "ra_deg": 248.5706,
+        "dec_deg": -45.7671,
+        "ra_deg_signed": -111.4294
+      },
+      {
+        "ra_deg": 248.4948,
+        "dec_deg": -42.2675,
+        "ra_deg_signed": -111.5052
+      },
+      {
+        "ra_deg": 242.1528,
+        "dec_deg": -42.3367,
+        "ra_deg_signed": -117.8472
+      },
+      {
+        "ra_deg": 241.9477,
+        "dec_deg": -29.8378,
+        "ra_deg_signed": -118.0523
+      },
+      {
+        "ra_deg": 236.93,
+        "dec_deg": -29.8896,
+        "ra_deg_signed": -123.07
+      },
+      {
+        "ra_deg": 236.81310000000002,
+        "dec_deg": -20.3902,
+        "ra_deg_signed": -123.1869
+      },
+      {
+        "ra_deg": 240.5718,
+        "dec_deg": -20.3516,
+        "ra_deg_signed": -119.4282
+      },
+      {
+        "ra_deg": 240.4373,
+        "dec_deg": -8.3523,
+        "ra_deg_signed": -119.5627
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      78820,
+      78401,
+      78265,
+      78401,
+      80112,
+      80763,
+      81266,
+      82396,
+      82514,
+      82729,
+      84143,
+      86228,
+      87073,
+      86670,
+      85696,
+      85927,
+      87261
+    ],
+    [
+      78820,
+      79374
+    ],
+    [
+      78265,
+      78104
+    ]
+  ],
+  "brightest_star": {
+    "name": "Antares",
+    "designation": "21Alp Sco",
+    "display_name": "21 Alpha Scorpii",
+    "display_name_greek": "21 α Scorpii",
+    "hip": 80763,
+    "ra_deg": 247.35191999999998,
+    "dec_deg": -26.432002
+  }
+}
