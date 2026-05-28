@@ -14,7 +14,7 @@
   "ra_source": "HYG",
   "dec": 0.0,
   "dec_source": "HYG",
-  "parallax": Infinity,
+  "parallax": 0.0,
   "parallax_source": "HYG",
   "dist": 0.0,
   "sp_type": "G2V",
