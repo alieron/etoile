@@ -1,0 +1,94 @@
+{
+  "abbreviation": "Lep",
+  "name": "Lepus",
+  "genitive": "Leporis",
+  "meaning": "Hare",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 73.7593,
+        "dec_deg": -27.048,
+        "ra_deg_signed": 73.7593
+      },
+      {
+        "ra_deg": 76.2549,
+        "dec_deg": -27.0772,
+        "ra_deg_signed": 76.2549
+      },
+      {
+        "ra_deg": 92.9926,
+        "dec_deg": -27.2788,
+        "ra_deg_signed": 92.9926
+      },
+      {
+        "ra_deg": 93.2156,
+        "dec_deg": -11.0302,
+        "ra_deg_signed": 93.2156
+      },
+      {
+        "ra_deg": 88.9658,
+        "dec_deg": -10.9785,
+        "ra_deg_signed": 88.9658
+      },
+      {
+        "ra_deg": 77.72,
+        "dec_deg": -10.8432,
+        "ra_deg_signed": 77.72
+      },
+      {
+        "ra_deg": 75.2218,
+        "dec_deg": -10.8138,
+        "ra_deg_signed": 75.2218
+      },
+      {
+        "ra_deg": 75.1787,
+        "dec_deg": -14.3136,
+        "ra_deg_signed": 75.1787
+      },
+      {
+        "ra_deg": 73.9298,
+        "dec_deg": -14.299,
+        "ra_deg_signed": 73.9298
+      },
+      {
+        "ra_deg": 73.7593,
+        "dec_deg": -27.048,
+        "ra_deg_signed": 73.7593
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      23685,
+      24305,
+      25985,
+      25606,
+      23685
+    ],
+    [
+      24845,
+      24305,
+      24327
+    ],
+    [
+      25606,
+      27072,
+      27654,
+      28910,
+      28103,
+      27288,
+      25985
+    ]
+  ],
+  "brightest_star": {
+    "name": "Arneb",
+    "designation": "11Alp Lep",
+    "display_name": "11 Alpha Leporis",
+    "display_name_greek": "11 α Leporis",
+    "hip": 25985,
+    "ra_deg": 83.18256000000001,
+    "dec_deg": -17.822289
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "abbreviation": "Phe",
+  "name": "Phoenix",
+  "genitive": "Phoenicis",
+  "meaning": "Phoenix",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 351.6927,
+        "dec_deg": -39.3128,
+        "ra_deg_signed": -8.3073
+      },
+      {
+        "ra_deg": 351.7685,
+        "dec_deg": -56.3127,
+        "ra_deg_signed": -8.2315
+      },
+      {
+        "ra_deg": 351.7784,
+        "dec_deg": -57.8127,
+        "ra_deg_signed": -8.2216
+      },
+      {
+        "ra_deg": 21.2062,
+        "dec_deg": -57.8484,
+        "ra_deg_signed": 21.2062
+      },
+      {
+        "ra_deg": 21.2733,
+        "dec_deg": -52.8486,
+        "ra_deg_signed": 21.2733
+      },
+      {
+        "ra_deg": 24.9674,
+        "dec_deg": -52.8659,
+        "ra_deg_signed": 24.9674
+      },
+      {
+        "ra_deg": 24.9938,
+        "dec_deg": -50.8659,
+        "ra_deg_signed": 24.9938
+      },
+      {
+        "ra_deg": 28.6933,
+        "dec_deg": -50.8859,
+        "ra_deg_signed": 28.6933
+      },
+      {
+        "ra_deg": 28.7383,
+        "dec_deg": -47.5527,
+        "ra_deg_signed": 28.7383
+      },
+      {
+        "ra_deg": 36.1529,
+        "dec_deg": -47.6005,
+        "ra_deg_signed": 36.1529
+      },
+      {
+        "ra_deg": 36.264,
+        "dec_deg": -39.4342,
+        "ra_deg_signed": 36.264
+      },
+      {
+        "ra_deg": 26.3507,
+        "dec_deg": -39.3726,
+        "ra_deg_signed": 26.3507
+      },
+      {
+        "ra_deg": 0.6029,
+        "dec_deg": -39.3039,
+        "ra_deg_signed": 0.6029
+      },
+      {
+        "ra_deg": 351.6927,
+        "dec_deg": -39.3128,
+        "ra_deg_signed": -8.3073
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      2081,
+      5165,
+      6867
+    ],
+    [
+      2081,
+      765,
+      5165,
+      5348,
+      7083,
+      6867
+    ]
+  ],
+  "brightest_star": {
+    "name": "Ankaa",
+    "designation": "Alp Phe",
+    "display_name": "Alpha Phoenicis",
+    "display_name_greek": "α Phoenicis",
+    "hip": 2081,
+    "ra_deg": 6.5708400000000005,
+    "dec_deg": -42.305981
+  }
+}

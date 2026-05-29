@@ -1,0 +1,96 @@
+{
+  "abbreviation": "Ind",
+  "name": "Indus",
+  "genitive": "Indi",
+  "meaning": "Indian",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 323.1848,
+        "dec_deg": -74.4545,
+        "ra_deg_signed": -36.8152
+      },
+      {
+        "ra_deg": 351.9978,
+        "dec_deg": -74.3125,
+        "ra_deg_signed": -8.0022
+      },
+      {
+        "ra_deg": 351.8614,
+        "dec_deg": -66.8126,
+        "ra_deg_signed": -8.1386
+      },
+      {
+        "ra_deg": 332.3986,
+        "dec_deg": -66.89,
+        "ra_deg_signed": -27.6014
+      },
+      {
+        "ra_deg": 332.1137,
+        "dec_deg": -56.3908,
+        "ra_deg_signed": -27.8863
+      },
+      {
+        "ra_deg": 331.9988,
+        "dec_deg": -49.3912,
+        "ra_deg_signed": -28.0012
+      },
+      {
+        "ra_deg": 322.1174,
+        "dec_deg": -49.4586,
+        "ra_deg_signed": -37.8826
+      },
+      {
+        "ra_deg": 322.0423,
+        "dec_deg": -44.9589,
+        "ra_deg_signed": -37.9577
+      },
+      {
+        "ra_deg": 307.1693,
+        "dec_deg": -45.09,
+        "ra_deg_signed": -52.8307
+      },
+      {
+        "ra_deg": 307.4588,
+        "dec_deg": -56.5886,
+        "ra_deg_signed": -52.5412
+      },
+      {
+        "ra_deg": 307.5648,
+        "dec_deg": -59.5881,
+        "ra_deg_signed": -52.4352
+      },
+      {
+        "ra_deg": 322.3487,
+        "dec_deg": -59.4577,
+        "ra_deg_signed": -37.6513
+      },
+      {
+        "ra_deg": 323.1848,
+        "dec_deg": -74.4545,
+        "ra_deg_signed": -36.8152
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      103227,
+      102333,
+      101772,
+      105319,
+      108431,
+      103227
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Ind",
+    "designation": "Alp Ind",
+    "display_name": "Alpha Indi",
+    "display_name_greek": "α Indi",
+    "hip": 101772,
+    "ra_deg": 309.39173999999997,
+    "dec_deg": -47.291502
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "abbreviation": "CrB",
+  "name": "Corona Borealis",
+  "genitive": "Coronae Borealis",
+  "meaning": "Northern Crown",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 229.0995,
+        "dec_deg": 25.5381,
+        "ra_deg_signed": -130.9005
+      },
+      {
+        "ra_deg": 229.0159,
+        "dec_deg": 32.5377,
+        "ra_deg_signed": -130.9841
+      },
+      {
+        "ra_deg": 232.747,
+        "dec_deg": 32.5726,
+        "ra_deg_signed": -127.253
+      },
+      {
+        "ra_deg": 232.6437,
+        "dec_deg": 39.5721,
+        "ra_deg_signed": -127.3563
+      },
+      {
+        "ra_deg": 237.3654,
+        "dec_deg": 39.6189,
+        "ra_deg_signed": -122.6346
+      },
+      {
+        "ra_deg": 246.0719,
+        "dec_deg": 39.7117,
+        "ra_deg_signed": -113.9281
+      },
+      {
+        "ra_deg": 246.2798,
+        "dec_deg": 26.7129,
+        "ra_deg_signed": -113.7202
+      },
+      {
+        "ra_deg": 243.7867,
+        "dec_deg": 26.6855,
+        "ra_deg_signed": -116.2133
+      },
+      {
+        "ra_deg": 243.80020000000002,
+        "dec_deg": 25.6856,
+        "ra_deg_signed": -116.1998
+      },
+      {
+        "ra_deg": 241.8057,
+        "dec_deg": 25.6641,
+        "ra_deg_signed": -118.1943
+      },
+      {
+        "ra_deg": 229.0995,
+        "dec_deg": 25.5381,
+        "ra_deg_signed": -130.9005
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      76127,
+      75695,
+      76267,
+      76952,
+      77512,
+      78159,
+      78493
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alphecca",
+    "designation": "5Alp CrB",
+    "display_name": "5 Alpha Coronae Borealis",
+    "display_name_greek": "5 α Coronae Borealis",
+    "hip": 76267,
+    "ra_deg": 233.67192,
+    "dec_deg": 26.714693
+  }
+}

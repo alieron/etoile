@@ -1,0 +1,78 @@
+{
+  "abbreviation": "Equ",
+  "name": "Equuleus",
+  "genitive": "Equulei",
+  "meaning": "Little Horse",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 314.0811,
+        "dec_deg": 2.4773,
+        "ra_deg_signed": -45.9189
+      },
+      {
+        "ra_deg": 314.0455,
+        "dec_deg": 6.4772,
+        "ra_deg_signed": -45.9545
+      },
+      {
+        "ra_deg": 314.6711,
+        "dec_deg": 6.4827,
+        "ra_deg_signed": -45.3289
+      },
+      {
+        "ra_deg": 314.6186,
+        "dec_deg": 12.3158,
+        "ra_deg_signed": -45.3814
+      },
+      {
+        "ra_deg": 317.2484,
+        "dec_deg": 12.3383,
+        "ra_deg_signed": -42.7516
+      },
+      {
+        "ra_deg": 318.2503,
+        "dec_deg": 12.3466,
+        "ra_deg_signed": -41.7497
+      },
+      {
+        "ra_deg": 318.2445,
+        "dec_deg": 13.0132,
+        "ra_deg_signed": -41.7555
+      },
+      {
+        "ra_deg": 321.5011,
+        "dec_deg": 13.0391,
+        "ra_deg_signed": -38.4989
+      },
+      {
+        "ra_deg": 321.5835,
+        "dec_deg": 2.5394,
+        "ra_deg_signed": -38.4165
+      },
+      {
+        "ra_deg": 314.0811,
+        "dec_deg": 2.4773,
+        "ra_deg_signed": -45.9189
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      104987,
+      104858,
+      104521
+    ]
+  ],
+  "brightest_star": {
+    "name": "Kitalpha",
+    "designation": "8Alp Equ",
+    "display_name": "8 Alpha Equulei",
+    "display_name_greek": "8 α Equulei",
+    "hip": 104987,
+    "ra_deg": 318.955965,
+    "dec_deg": 5.247845
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "abbreviation": "Gru",
+  "name": "Grus",
+  "genitive": "Gruis",
+  "meaning": "Crane",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 321.9281,
+        "dec_deg": -36.4593,
+        "ra_deg_signed": -38.0719
+      },
+      {
+        "ra_deg": 322.0423,
+        "dec_deg": -44.9589,
+        "ra_deg_signed": -37.9577
+      },
+      {
+        "ra_deg": 322.1174,
+        "dec_deg": -49.4586,
+        "ra_deg_signed": -37.8826
+      },
+      {
+        "ra_deg": 331.9988,
+        "dec_deg": -49.3912,
+        "ra_deg_signed": -28.0012
+      },
+      {
+        "ra_deg": 332.1137,
+        "dec_deg": -56.3908,
+        "ra_deg_signed": -27.8863
+      },
+      {
+        "ra_deg": 351.7685,
+        "dec_deg": -56.3127,
+        "ra_deg_signed": -8.2315
+      },
+      {
+        "ra_deg": 351.6927,
+        "dec_deg": -39.3128,
+        "ra_deg_signed": -8.3073
+      },
+      {
+        "ra_deg": 351.6834,
+        "dec_deg": -36.3128,
+        "ra_deg_signed": -8.3166
+      },
+      {
+        "ra_deg": 346.7275,
+        "dec_deg": -36.325,
+        "ra_deg_signed": -13.2725
+      },
+      {
+        "ra_deg": 321.9281,
+        "dec_deg": -36.4593,
+        "ra_deg_signed": -38.0719
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      108085,
+      109111,
+      110997,
+      109268,
+      112122,
+      110997,
+      112122,
+      112623,
+      113638
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alnair",
+    "designation": "Alp Gru",
+    "display_name": "Alpha Gruis",
+    "display_name_greek": "α Gruis",
+    "hip": 109268,
+    "ra_deg": 332.058135,
+    "dec_deg": -46.960975
+  }
+}

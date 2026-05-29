@@ -1,0 +1,159 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://etoile.local/schemas/constellation.schema.json",
+  "title": "IAU constellation",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "abbreviation",
+    "name",
+    "genitive",
+    "meaning",
+    "rank",
+    "boundary",
+    "paths_hip",
+    "brightest_star"
+  ],
+  "properties": {
+    "abbreviation": {
+      "type": "string",
+      "pattern": "^[A-Z][A-Za-z0-9]{2}$"
+    },
+    "name": {
+      "type": "string"
+    },
+    "genitive": {
+      "type": "string"
+    },
+    "meaning": {
+      "type": "string"
+    },
+    "rank": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "boundary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "corners"
+      ],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "Polygon",
+            "MultiPolygon"
+          ]
+        },
+        "corners": {
+          "type": "array",
+          "minItems": 3,
+          "items": {
+            "$ref": "#/$defs/boundaryCorner"
+          }
+        }
+      }
+    },
+    "paths_hip": {
+      "type": "array",
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "items": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "brightest_star": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "designation",
+        "display_name",
+        "display_name_greek",
+        "hip",
+        "ra_deg",
+        "dec_deg"
+      ],
+      "properties": {
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "designation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "display_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "display_name_greek": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "hip": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "ra_deg": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0,
+          "maximum": 360
+        },
+        "dec_deg": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": -90,
+          "maximum": 90
+        }
+      }
+    }
+  },
+  "$defs": {
+    "boundaryCorner": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ra_deg",
+        "dec_deg",
+        "ra_deg_signed"
+      ],
+      "properties": {
+        "ra_deg": {
+          "type": "number",
+          "minimum": 0,
+          "exclusiveMaximum": 360
+        },
+        "dec_deg": {
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "ra_deg_signed": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}

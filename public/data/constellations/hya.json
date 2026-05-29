@@ -1,0 +1,248 @@
+{
+  "abbreviation": "Hya",
+  "name": "Hydra",
+  "genitive": "Hydrae",
+  "meaning": "Female Water Snake",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 122.849,
+        "dec_deg": -0.3694,
+        "ra_deg_signed": 122.849
+      },
+      {
+        "ra_deg": 122.9214,
+        "dec_deg": 6.6302,
+        "ra_deg_signed": 122.9214
+      },
+      {
+        "ra_deg": 140.4043,
+        "dec_deg": 6.4701,
+        "ra_deg_signed": 140.4043
+      },
+      {
+        "ra_deg": 145.3984,
+        "dec_deg": 6.4328,
+        "ra_deg_signed": 145.3984
+      },
+      {
+        "ra_deg": 145.3489,
+        "dec_deg": -0.5671,
+        "ra_deg_signed": 145.3489
+      },
+      {
+        "ra_deg": 145.2703,
+        "dec_deg": -11.5668,
+        "ra_deg_signed": 145.2703
+      },
+      {
+        "ra_deg": 162.8079,
+        "dec_deg": -11.6621,
+        "ra_deg_signed": 162.8079
+      },
+      {
+        "ra_deg": 162.7755,
+        "dec_deg": -19.6621,
+        "ra_deg_signed": 162.7755
+      },
+      {
+        "ra_deg": 164.0306,
+        "dec_deg": -19.6666,
+        "ra_deg_signed": 164.0306
+      },
+      {
+        "ra_deg": 164.0081,
+        "dec_deg": -25.1666,
+        "ra_deg_signed": 164.0081
+      },
+      {
+        "ra_deg": 179.0913,
+        "dec_deg": -25.1958,
+        "ra_deg_signed": 179.0913
+      },
+      {
+        "ra_deg": 190.4045,
+        "dec_deg": -25.1864,
+        "ra_deg_signed": -169.5955
+      },
+      {
+        "ra_deg": 190.3985,
+        "dec_deg": -22.6864,
+        "ra_deg_signed": -169.6015
+      },
+      {
+        "ra_deg": 194.1669,
+        "dec_deg": -22.6773,
+        "ra_deg_signed": -165.8331
+      },
+      {
+        "ra_deg": 215.5131,
+        "dec_deg": -22.5728,
+        "ra_deg_signed": -144.4869
+      },
+      {
+        "ra_deg": 215.5337,
+        "dec_deg": -25.0727,
+        "ra_deg_signed": -144.4663
+      },
+      {
+        "ra_deg": 225.5766,
+        "dec_deg": -24.9951,
+        "ra_deg_signed": -134.4234
+      },
+      {
+        "ra_deg": 225.6308,
+        "dec_deg": -29.9949,
+        "ra_deg_signed": -134.3692
+      },
+      {
+        "ra_deg": 190.4174,
+        "dec_deg": -30.1864,
+        "ra_deg_signed": -169.5826
+      },
+      {
+        "ra_deg": 190.4272,
+        "dec_deg": -33.6864,
+        "ra_deg_signed": -169.5728
+      },
+      {
+        "ra_deg": 185.3874,
+        "dec_deg": -33.6939,
+        "ra_deg_signed": -174.6126
+      },
+      {
+        "ra_deg": 185.3903,
+        "dec_deg": -35.6939,
+        "ra_deg_signed": -174.6097
+      },
+      {
+        "ra_deg": 166.4794,
+        "dec_deg": -35.6747,
+        "ra_deg_signed": 166.4794
+      },
+      {
+        "ra_deg": 163.9585,
+        "dec_deg": -35.6665,
+        "ra_deg_signed": 163.9585
+      },
+      {
+        "ra_deg": 163.9779,
+        "dec_deg": -31.8332,
+        "ra_deg_signed": 163.9779
+      },
+      {
+        "ra_deg": 160.2014,
+        "dec_deg": -31.8186,
+        "ra_deg_signed": 160.2014
+      },
+      {
+        "ra_deg": 160.2129,
+        "dec_deg": -29.8186,
+        "ra_deg_signed": 160.2129
+      },
+      {
+        "ra_deg": 155.1813,
+        "dec_deg": -29.7948,
+        "ra_deg_signed": 155.1813
+      },
+      {
+        "ra_deg": 155.1993,
+        "dec_deg": -27.1282,
+        "ra_deg_signed": 155.1993
+      },
+      {
+        "ra_deg": 147.6593,
+        "dec_deg": -27.0835,
+        "ra_deg_signed": 147.6593
+      },
+      {
+        "ra_deg": 147.6797,
+        "dec_deg": -24.5836,
+        "ra_deg_signed": 147.6797
+      },
+      {
+        "ra_deg": 141.9043,
+        "dec_deg": -24.5425,
+        "ra_deg_signed": 141.9043
+      },
+      {
+        "ra_deg": 137.6368,
+        "dec_deg": -24.5086,
+        "ra_deg_signed": 137.6368
+      },
+      {
+        "ra_deg": 137.685,
+        "dec_deg": -19.5088,
+        "ra_deg_signed": 137.685
+      },
+      {
+        "ra_deg": 130.1635,
+        "dec_deg": -19.4424,
+        "ra_deg_signed": 130.1635
+      },
+      {
+        "ra_deg": 130.1843,
+        "dec_deg": -17.4425,
+        "ra_deg_signed": 130.1843
+      },
+      {
+        "ra_deg": 126.9271,
+        "dec_deg": -17.4113,
+        "ra_deg_signed": 126.9271
+      },
+      {
+        "ra_deg": 126.9898,
+        "dec_deg": -11.4116,
+        "ra_deg_signed": 126.9898
+      },
+      {
+        "ra_deg": 122.7342,
+        "dec_deg": -11.3688,
+        "ra_deg_signed": 122.7342
+      },
+      {
+        "ra_deg": 122.849,
+        "dec_deg": -0.3694,
+        "ra_deg_signed": 122.849
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      43234,
+      42799,
+      42402,
+      42313,
+      43109,
+      43813,
+      45336,
+      47431,
+      46390,
+      48356,
+      49402,
+      49841,
+      51069,
+      52943,
+      53740
+    ],
+    [
+      54682,
+      56343,
+      57936,
+      64962,
+      68895,
+      72571
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alphard",
+    "designation": "30Alp Hya",
+    "display_name": "30 Alpha Hydrae",
+    "display_name_greek": "30 α Hydrae",
+    "hip": 46390,
+    "ra_deg": 141.89685,
+    "dec_deg": -8.658603
+  }
+}

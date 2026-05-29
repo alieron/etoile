@@ -1,0 +1,74 @@
+{
+  "abbreviation": "Scl",
+  "name": "Sculptor",
+  "genitive": "Sculptoris",
+  "meaning": "Sculptor",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 346.681,
+        "dec_deg": -24.825,
+        "ra_deg_signed": -13.319
+      },
+      {
+        "ra_deg": 359.1106,
+        "dec_deg": -24.8042,
+        "ra_deg_signed": -0.8894
+      },
+      {
+        "ra_deg": 26.4589,
+        "dec_deg": -24.8729,
+        "ra_deg_signed": 26.4589
+      },
+      {
+        "ra_deg": 26.3507,
+        "dec_deg": -39.3726,
+        "ra_deg_signed": 26.3507
+      },
+      {
+        "ra_deg": 0.6029,
+        "dec_deg": -39.3039,
+        "ra_deg_signed": 0.6029
+      },
+      {
+        "ra_deg": 351.6927,
+        "dec_deg": -39.3128,
+        "ra_deg_signed": -8.3073
+      },
+      {
+        "ra_deg": 351.6834,
+        "dec_deg": -36.3128,
+        "ra_deg_signed": -8.3166
+      },
+      {
+        "ra_deg": 346.7275,
+        "dec_deg": -36.325,
+        "ra_deg_signed": -13.2725
+      },
+      {
+        "ra_deg": 346.681,
+        "dec_deg": -24.825,
+        "ra_deg_signed": -13.319
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      4577,
+      117452,
+      115102,
+      116231
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Scl",
+    "designation": "Alp Scl",
+    "display_name": "Alpha Sculptoris",
+    "display_name_greek": "α Sculptoris",
+    "hip": 4577,
+    "ra_deg": 14.65149,
+    "dec_deg": -29.357449
+  }
+}

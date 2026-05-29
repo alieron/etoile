@@ -1,0 +1,299 @@
+{
+  "abbreviation": "Dra",
+  "name": "Draco",
+  "genitive": "Draconis",
+  "meaning": "Dragon",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 140.6155,
+        "dec_deg": 72.9741,
+        "ra_deg_signed": 140.6155
+      },
+      {
+        "ra_deg": 142.1912,
+        "dec_deg": 81.4678,
+        "ra_deg_signed": 142.1912
+      },
+      {
+        "ra_deg": 163.1054,
+        "dec_deg": 81.3396,
+        "ra_deg_signed": 163.1054
+      },
+      {
+        "ra_deg": 162.8186,
+        "dec_deg": 79.3402,
+        "ra_deg_signed": 162.8186
+      },
+      {
+        "ra_deg": 174.5316,
+        "dec_deg": 79.3083,
+        "ra_deg_signed": 174.5316
+      },
+      {
+        "ra_deg": 174.4348,
+        "dec_deg": 76.3084,
+        "ra_deg_signed": 174.4348
+      },
+      {
+        "ra_deg": 195.8206,
+        "dec_deg": 76.3289,
+        "ra_deg_signed": -164.1794
+      },
+      {
+        "ra_deg": 196.0975,
+        "dec_deg": 69.3294,
+        "ra_deg_signed": -163.9025
+      },
+      {
+        "ra_deg": 210.6508,
+        "dec_deg": 69.3991,
+        "ra_deg_signed": -149.3492
+      },
+      {
+        "ra_deg": 210.8206,
+        "dec_deg": 65.3997,
+        "ra_deg_signed": -149.1794
+      },
+      {
+        "ra_deg": 235.3296,
+        "dec_deg": 65.6023,
+        "ra_deg_signed": -124.6704
+      },
+      {
+        "ra_deg": 235.0506,
+        "dec_deg": 69.6009,
+        "ra_deg_signed": -124.9494
+      },
+      {
+        "ra_deg": 247.84109999999998,
+        "dec_deg": 69.7383,
+        "ra_deg_signed": -112.1589
+      },
+      {
+        "ra_deg": 247.2207,
+        "dec_deg": 74.7348,
+        "ra_deg_signed": -112.7793
+      },
+      {
+        "ra_deg": 261.5366,
+        "dec_deg": 74.9033,
+        "ra_deg_signed": -98.4634
+      },
+      {
+        "ra_deg": 260.2179,
+        "dec_deg": 79.8953,
+        "ra_deg_signed": -99.7821
+      },
+      {
+        "ra_deg": 267.656,
+        "dec_deg": 79.9857,
+        "ra_deg_signed": -92.344
+      },
+      {
+        "ra_deg": 261.7222,
+        "dec_deg": 85.9496,
+        "ra_deg_signed": -98.2778
+      },
+      {
+        "ra_deg": 308.721,
+        "dec_deg": 86.4656,
+        "ra_deg_signed": -51.279
+      },
+      {
+        "ra_deg": 313.7059,
+        "dec_deg": 80.4868,
+        "ra_deg_signed": -46.2941
+      },
+      {
+        "ra_deg": 300.6738,
+        "dec_deg": 80.3648,
+        "ra_deg_signed": -59.3262
+      },
+      {
+        "ra_deg": 301.8734,
+        "dec_deg": 75.3709,
+        "ra_deg_signed": -58.1266
+      },
+      {
+        "ra_deg": 309.573,
+        "dec_deg": 75.4455,
+        "ra_deg_signed": -50.427
+      },
+      {
+        "ra_deg": 310.334,
+        "dec_deg": 67.449,
+        "ra_deg_signed": -49.666
+      },
+      {
+        "ra_deg": 306.5174,
+        "dec_deg": 67.413,
+        "ra_deg_signed": -53.4826
+      },
+      {
+        "ra_deg": 306.8119,
+        "dec_deg": 61.9144,
+        "ra_deg_signed": -53.1881
+      },
+      {
+        "ra_deg": 300.4852,
+        "dec_deg": 61.8506,
+        "ra_deg_signed": -59.5148
+      },
+      {
+        "ra_deg": 300.5733,
+        "dec_deg": 59.8511,
+        "ra_deg_signed": -59.4267
+      },
+      {
+        "ra_deg": 297.0392,
+        "dec_deg": 59.8135,
+        "ra_deg_signed": -62.9608
+      },
+      {
+        "ra_deg": 297.1006,
+        "dec_deg": 58.3139,
+        "ra_deg_signed": -62.8994
+      },
+      {
+        "ra_deg": 291.8096,
+        "dec_deg": 58.2555,
+        "ra_deg_signed": -68.1904
+      },
+      {
+        "ra_deg": 291.9046,
+        "dec_deg": 55.756,
+        "ra_deg_signed": -68.0954
+      },
+      {
+        "ra_deg": 286.87649999999996,
+        "dec_deg": 55.6984,
+        "ra_deg_signed": -73.1235
+      },
+      {
+        "ra_deg": 287.12059999999997,
+        "dec_deg": 47.6999,
+        "ra_deg_signed": -72.8794
+      },
+      {
+        "ra_deg": 274.3424,
+        "dec_deg": 47.5476,
+        "ra_deg_signed": -85.6576
+      },
+      {
+        "ra_deg": 274.2577,
+        "dec_deg": 50.5471,
+        "ra_deg_signed": -85.7423
+      },
+      {
+        "ra_deg": 255.78640000000001,
+        "dec_deg": 50.3244,
+        "ra_deg_signed": -104.2136
+      },
+      {
+        "ra_deg": 255.7568,
+        "dec_deg": 51.3243,
+        "ra_deg_signed": -104.2432
+      },
+      {
+        "ra_deg": 237.1246,
+        "dec_deg": 51.1177,
+        "ra_deg_signed": -122.8754
+      },
+      {
+        "ra_deg": 237.0845,
+        "dec_deg": 52.6175,
+        "ra_deg_signed": -122.9155
+      },
+      {
+        "ra_deg": 229.6574,
+        "dec_deg": 52.5452,
+        "ra_deg_signed": -130.3426
+      },
+      {
+        "ra_deg": 229.5911,
+        "dec_deg": 55.0449,
+        "ra_deg_signed": -130.4089
+      },
+      {
+        "ra_deg": 217.2512,
+        "dec_deg": 54.9422,
+        "ra_deg_signed": -142.7488
+      },
+      {
+        "ra_deg": 217.0453,
+        "dec_deg": 62.4415,
+        "ra_deg_signed": -142.9547
+      },
+      {
+        "ra_deg": 203.5736,
+        "dec_deg": 62.3594,
+        "ra_deg_signed": -156.4264
+      },
+      {
+        "ra_deg": 203.5505,
+        "dec_deg": 63.3593,
+        "ra_deg_signed": -156.4495
+      },
+      {
+        "ra_deg": 181.5816,
+        "dec_deg": 63.304,
+        "ra_deg_signed": -178.4184
+      },
+      {
+        "ra_deg": 181.5793,
+        "dec_deg": 65.804,
+        "ra_deg_signed": -178.4207
+      },
+      {
+        "ra_deg": 171.8493,
+        "dec_deg": 65.8126,
+        "ra_deg_signed": 171.8493
+      },
+      {
+        "ra_deg": 171.9614,
+        "dec_deg": 72.8125,
+        "ra_deg_signed": 171.9614
+      },
+      {
+        "ra_deg": 140.6155,
+        "dec_deg": 72.9741,
+        "ra_deg_signed": 140.6155
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      56211,
+      61281,
+      68756,
+      75458,
+      78527,
+      80331,
+      83895,
+      89908,
+      89937,
+      89908,
+      94376,
+      97433,
+      94376,
+      87585,
+      85829,
+      85670,
+      87833,
+      87585,
+      94376
+    ]
+  ],
+  "brightest_star": {
+    "name": "Eltanin",
+    "designation": "33Gam Dra",
+    "display_name": "33 Gamma Draconis",
+    "display_name_greek": "33 γ Draconis",
+    "hip": 87833,
+    "ra_deg": 269.151555,
+    "dec_deg": 51.488895
+  }
+}

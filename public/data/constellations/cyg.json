@@ -1,0 +1,210 @@
+{
+  "abbreviation": "Cyg",
+  "name": "Cygnus",
+  "genitive": "Cygni",
+  "meaning": "Swan",
+  "rank": 1,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 290.1326,
+        "dec_deg": 27.7324,
+        "ra_deg_signed": -69.8674
+      },
+      {
+        "ra_deg": 290.0953,
+        "dec_deg": 30.2322,
+        "ra_deg_signed": -69.9047
+      },
+      {
+        "ra_deg": 291.5988,
+        "dec_deg": 30.2493,
+        "ra_deg_signed": -68.4012
+      },
+      {
+        "ra_deg": 291.4926,
+        "dec_deg": 36.7487,
+        "ra_deg_signed": -68.5074
+      },
+      {
+        "ra_deg": 292.11969999999997,
+        "dec_deg": 36.7558,
+        "ra_deg_signed": -67.8803
+      },
+      {
+        "ra_deg": 291.9835,
+        "dec_deg": 43.755,
+        "ra_deg_signed": -68.0165
+      },
+      {
+        "ra_deg": 288.4703,
+        "dec_deg": 43.7149,
+        "ra_deg_signed": -71.5297
+      },
+      {
+        "ra_deg": 288.3755,
+        "dec_deg": 47.7144,
+        "ra_deg_signed": -71.6245
+      },
+      {
+        "ra_deg": 287.12059999999997,
+        "dec_deg": 47.6999,
+        "ra_deg_signed": -72.8794
+      },
+      {
+        "ra_deg": 286.87649999999996,
+        "dec_deg": 55.6984,
+        "ra_deg_signed": -73.1235
+      },
+      {
+        "ra_deg": 291.9046,
+        "dec_deg": 55.756,
+        "ra_deg_signed": -68.0954
+      },
+      {
+        "ra_deg": 291.8096,
+        "dec_deg": 58.2555,
+        "ra_deg_signed": -68.1904
+      },
+      {
+        "ra_deg": 297.1006,
+        "dec_deg": 58.3139,
+        "ra_deg_signed": -62.8994
+      },
+      {
+        "ra_deg": 297.0392,
+        "dec_deg": 59.8135,
+        "ra_deg_signed": -62.9608
+      },
+      {
+        "ra_deg": 300.5733,
+        "dec_deg": 59.8511,
+        "ra_deg_signed": -59.4267
+      },
+      {
+        "ra_deg": 308.71659999999997,
+        "dec_deg": 59.9322,
+        "ra_deg_signed": -51.2834
+      },
+      {
+        "ra_deg": 308.6608,
+        "dec_deg": 61.3486,
+        "ra_deg_signed": -51.3392
+      },
+      {
+        "ra_deg": 309.6238,
+        "dec_deg": 61.3577,
+        "ra_deg_signed": -50.3762
+      },
+      {
+        "ra_deg": 309.83140000000003,
+        "dec_deg": 55.2753,
+        "ra_deg_signed": -50.1686
+      },
+      {
+        "ra_deg": 330.6022,
+        "dec_deg": 55.4365,
+        "ra_deg_signed": -29.3978
+      },
+      {
+        "ra_deg": 330.6392,
+        "dec_deg": 53.3533,
+        "ra_deg_signed": -29.3608
+      },
+      {
+        "ra_deg": 330.7627,
+        "dec_deg": 44.6036,
+        "ra_deg_signed": -29.2373
+      },
+      {
+        "ra_deg": 329.8786,
+        "dec_deg": 44.5983,
+        "ra_deg_signed": -30.1214
+      },
+      {
+        "ra_deg": 329.8816,
+        "dec_deg": 44.3483,
+        "ra_deg_signed": -30.1184
+      },
+      {
+        "ra_deg": 329.3766,
+        "dec_deg": 44.3451,
+        "ra_deg_signed": -30.6234
+      },
+      {
+        "ra_deg": 329.461,
+        "dec_deg": 36.5954,
+        "ra_deg_signed": -30.539
+      },
+      {
+        "ra_deg": 327.32,
+        "dec_deg": 36.5815,
+        "ra_deg_signed": -32.68
+      },
+      {
+        "ra_deg": 327.3952,
+        "dec_deg": 28.5818,
+        "ra_deg_signed": -32.6048
+      },
+      {
+        "ra_deg": 322.6202,
+        "dec_deg": 28.5481,
+        "ra_deg_signed": -37.3798
+      },
+      {
+        "ra_deg": 315.08389999999997,
+        "dec_deg": 28.4872,
+        "ra_deg_signed": -44.9161
+      },
+      {
+        "ra_deg": 315.0726,
+        "dec_deg": 29.4871,
+        "ra_deg_signed": -44.9274
+      },
+      {
+        "ra_deg": 296.2509,
+        "dec_deg": 29.3011,
+        "ra_deg_signed": -63.7491
+      },
+      {
+        "ra_deg": 296.2722,
+        "dec_deg": 27.8012,
+        "ra_deg_signed": -63.7278
+      },
+      {
+        "ra_deg": 290.1326,
+        "dec_deg": 27.7324,
+        "ra_deg_signed": -69.8674
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      102098,
+      100453,
+      102488,
+      100453,
+      95947,
+      100453,
+      97165,
+      95853,
+      94779,
+      95853,
+      99848,
+      102098,
+      103413,
+      104732,
+      102488
+    ]
+  ],
+  "brightest_star": {
+    "name": "Deneb",
+    "designation": "50Alp Cyg",
+    "display_name": "50 Alpha Cygni",
+    "display_name_greek": "50 α Cygni",
+    "hip": 102098,
+    "ra_deg": 310.35798,
+    "dec_deg": 45.280338
+  }
+}

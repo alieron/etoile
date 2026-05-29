@@ -1,0 +1,160 @@
+{
+  "abbreviation": "Car",
+  "name": "Carina",
+  "genitive": "Carinae",
+  "meaning": "Keel",
+  "rank": 1,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 170.1559,
+        "dec_deg": -57.1843,
+        "ra_deg_signed": 170.1559
+      },
+      {
+        "ra_deg": 166.3373,
+        "dec_deg": -57.1744,
+        "ra_deg_signed": 166.3373
+      },
+      {
+        "ra_deg": 133.3237,
+        "dec_deg": -56.974,
+        "ra_deg_signed": 133.3237
+      },
+      {
+        "ra_deg": 133.3802,
+        "dec_deg": -54.9742,
+        "ra_deg_signed": 133.3802
+      },
+      {
+        "ra_deg": 127.5671,
+        "dec_deg": -54.9205,
+        "ra_deg_signed": 127.5671
+      },
+      {
+        "ra_deg": 127.6093,
+        "dec_deg": -53.4207,
+        "ra_deg_signed": 127.6093
+      },
+      {
+        "ra_deg": 123.3201,
+        "dec_deg": -53.3782,
+        "ra_deg_signed": 123.3201
+      },
+      {
+        "ra_deg": 123.3811,
+        "dec_deg": -51.1285,
+        "ra_deg_signed": 123.3811
+      },
+      {
+        "ra_deg": 120.8617,
+        "dec_deg": -51.1026,
+        "ra_deg_signed": 120.8617
+      },
+      {
+        "ra_deg": 90.7489,
+        "dec_deg": -50.7545,
+        "ra_deg_signed": 90.7489
+      },
+      {
+        "ra_deg": 90.6937,
+        "dec_deg": -52.5042,
+        "ra_deg_signed": 90.6937
+      },
+      {
+        "ra_deg": 93.1944,
+        "dec_deg": -52.5346,
+        "ra_deg_signed": 93.1944
+      },
+      {
+        "ra_deg": 93.1074,
+        "dec_deg": -55.034,
+        "ra_deg_signed": 93.1074
+      },
+      {
+        "ra_deg": 98.1143,
+        "dec_deg": -55.0946,
+        "ra_deg_signed": 98.1143
+      },
+      {
+        "ra_deg": 97.9951,
+        "dec_deg": -58.0938,
+        "ra_deg_signed": 97.9951
+      },
+      {
+        "ra_deg": 103.0111,
+        "dec_deg": -58.1537,
+        "ra_deg_signed": 103.0111
+      },
+      {
+        "ra_deg": 102.7033,
+        "dec_deg": -64.1519,
+        "ra_deg_signed": 102.7033
+      },
+      {
+        "ra_deg": 136.0947,
+        "dec_deg": -64.499,
+        "ra_deg_signed": 136.0947
+      },
+      {
+        "ra_deg": 135.2437,
+        "dec_deg": -75.4955,
+        "ra_deg_signed": 135.2437
+      },
+      {
+        "ra_deg": 169.857,
+        "dec_deg": -75.684,
+        "ra_deg_signed": 169.857
+      },
+      {
+        "ra_deg": 170.0848,
+        "dec_deg": -64.6843,
+        "ra_deg_signed": 170.0848
+      },
+      {
+        "ra_deg": 170.1559,
+        "dec_deg": -57.1843,
+        "ra_deg_signed": 170.1559
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      30438,
+      45238,
+      50099,
+      52419,
+      51576,
+      50371,
+      45556,
+      42913
+    ],
+    [
+      51576,
+      53253
+    ],
+    [
+      52419,
+      54301,
+      54751,
+      54463,
+      53253
+    ],
+    [
+      45556,
+      41037,
+      38827,
+      39953
+    ]
+  ],
+  "brightest_star": {
+    "name": "Canopus",
+    "designation": "Alp Car",
+    "display_name": "Alpha Carinae",
+    "display_name_greek": "α Carinae",
+    "hip": 30438,
+    "ra_deg": 95.98792499999999,
+    "dec_deg": -52.69566
+  }
+}

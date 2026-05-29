@@ -1,0 +1,92 @@
+{
+  "abbreviation": "Tuc",
+  "name": "Tucana",
+  "genitive": "Tucanae",
+  "meaning": "Toucan",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 351.9978,
+        "dec_deg": -74.3125,
+        "ra_deg_signed": -8.0022
+      },
+      {
+        "ra_deg": 1.5663,
+        "dec_deg": -74.304,
+        "ra_deg_signed": 1.5663
+      },
+      {
+        "ra_deg": 12.3324,
+        "dec_deg": -74.3186,
+        "ra_deg_signed": 12.3324
+      },
+      {
+        "ra_deg": 12.2954,
+        "dec_deg": -75.3185,
+        "ra_deg_signed": 12.2954
+      },
+      {
+        "ra_deg": 20.6541,
+        "dec_deg": -75.3472,
+        "ra_deg_signed": 20.6541
+      },
+      {
+        "ra_deg": 21.2062,
+        "dec_deg": -57.8484,
+        "ra_deg_signed": 21.2062
+      },
+      {
+        "ra_deg": 351.7784,
+        "dec_deg": -57.8127,
+        "ra_deg_signed": -8.2216
+      },
+      {
+        "ra_deg": 351.7685,
+        "dec_deg": -56.3127,
+        "ra_deg_signed": -8.2315
+      },
+      {
+        "ra_deg": 332.1137,
+        "dec_deg": -56.3908,
+        "ra_deg_signed": -27.8863
+      },
+      {
+        "ra_deg": 332.3986,
+        "dec_deg": -66.89,
+        "ra_deg_signed": -27.6014
+      },
+      {
+        "ra_deg": 351.8614,
+        "dec_deg": -66.8126,
+        "ra_deg_signed": -8.1386
+      },
+      {
+        "ra_deg": 351.9978,
+        "dec_deg": -74.3125,
+        "ra_deg_signed": -8.0022
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      2484,
+      1599,
+      118322,
+      110838,
+      110130,
+      114996,
+      2484
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Tuc",
+    "designation": "Alp Tuc",
+    "display_name": "Alpha Tucanae",
+    "display_name_greek": "α Tucanae",
+    "hip": 110130,
+    "ra_deg": 334.625565,
+    "dec_deg": -60.259587
+  }
+}

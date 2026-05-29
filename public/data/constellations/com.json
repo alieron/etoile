@@ -1,0 +1,93 @@
+{
+  "abbreviation": "Com",
+  "name": "Coma Berenices",
+  "genitive": "Comae Berenices",
+  "meaning": "Bernice's Hair",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 179.6045,
+        "dec_deg": 13.304,
+        "ra_deg_signed": 179.6045
+      },
+      {
+        "ra_deg": 179.6089,
+        "dec_deg": 28.304,
+        "ra_deg_signed": 179.6089
+      },
+      {
+        "ra_deg": 181.5957,
+        "dec_deg": 28.304,
+        "ra_deg_signed": -178.4043
+      },
+      {
+        "ra_deg": 181.5945,
+        "dec_deg": 33.304,
+        "ra_deg_signed": -178.4055
+      },
+      {
+        "ra_deg": 186.5543,
+        "dec_deg": 33.3074,
+        "ra_deg_signed": -173.4457
+      },
+      {
+        "ra_deg": 186.5577,
+        "dec_deg": 31.3074,
+        "ra_deg_signed": -173.4423
+      },
+      {
+        "ra_deg": 200.2077,
+        "dec_deg": 31.3437,
+        "ra_deg_signed": -159.7923
+      },
+      {
+        "ra_deg": 200.2266,
+        "dec_deg": 27.8438,
+        "ra_deg_signed": -159.7734
+      },
+      {
+        "ra_deg": 203.9539,
+        "dec_deg": 27.8603,
+        "ra_deg_signed": -156.0461
+      },
+      {
+        "ra_deg": 204.0289,
+        "dec_deg": 14.3605,
+        "ra_deg_signed": -155.9711
+      },
+      {
+        "ra_deg": 194.0591,
+        "dec_deg": 14.3225,
+        "ra_deg_signed": -165.9409
+      },
+      {
+        "ra_deg": 194.062,
+        "dec_deg": 13.3225,
+        "ra_deg_signed": -165.938
+      },
+      {
+        "ra_deg": 179.6045,
+        "dec_deg": 13.304,
+        "ra_deg_signed": 179.6045
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      64241,
+      64394,
+      60742
+    ]
+  ],
+  "brightest_star": {
+    "name": "43Bet Com",
+    "designation": "43Bet Com",
+    "display_name": "43 Beta Comae Berenices",
+    "display_name_greek": "43 β Comae Berenices",
+    "hip": 64394,
+    "ra_deg": 197.96856,
+    "dec_deg": 27.878183
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "abbreviation": "Hor",
+  "name": "Horologium",
+  "genitive": "Horologii",
+  "meaning": "Clock",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 65.0764,
+        "dec_deg": -39.7007,
+        "ra_deg_signed": 65.0764
+      },
+      {
+        "ra_deg": 64.8824,
+        "dec_deg": -48.6997,
+        "ra_deg_signed": 64.8824
+      },
+      {
+        "ra_deg": 62.1499,
+        "dec_deg": -48.67,
+        "ra_deg_signed": 62.1499
+      },
+      {
+        "ra_deg": 62.0986,
+        "dec_deg": -50.6697,
+        "ra_deg_signed": 62.0986
+      },
+      {
+        "ra_deg": 58.3772,
+        "dec_deg": -50.6305,
+        "ra_deg_signed": 58.3772
+      },
+      {
+        "ra_deg": 58.3188,
+        "dec_deg": -52.7968,
+        "ra_deg_signed": 58.3188
+      },
+      {
+        "ra_deg": 53.365,
+        "dec_deg": -52.7471,
+        "ra_deg_signed": 53.365
+      },
+      {
+        "ra_deg": 53.2368,
+        "dec_deg": -57.0798,
+        "ra_deg_signed": 53.2368
+      },
+      {
+        "ra_deg": 48.7911,
+        "dec_deg": -57.0378,
+        "ra_deg_signed": 48.7911
+      },
+      {
+        "ra_deg": 48.3627,
+        "dec_deg": -67.0358,
+        "ra_deg_signed": 48.3627
+      },
+      {
+        "ra_deg": 33.2024,
+        "dec_deg": -66.9152,
+        "ra_deg_signed": 33.2024
+      },
+      {
+        "ra_deg": 33.4894,
+        "dec_deg": -57.9162,
+        "ra_deg_signed": 33.4894
+      },
+      {
+        "ra_deg": 33.5841,
+        "dec_deg": -53.4165,
+        "ra_deg_signed": 33.5841
+      },
+      {
+        "ra_deg": 37.2833,
+        "dec_deg": -53.4424,
+        "ra_deg_signed": 37.2833
+      },
+      {
+        "ra_deg": 37.3412,
+        "dec_deg": -50.4426,
+        "ra_deg_signed": 37.3412
+      },
+      {
+        "ra_deg": 41.0477,
+        "dec_deg": -50.4709,
+        "ra_deg_signed": 41.0477
+      },
+      {
+        "ra_deg": 41.0853,
+        "dec_deg": -48.471,
+        "ra_deg_signed": 41.0853
+      },
+      {
+        "ra_deg": 46.0345,
+        "dec_deg": -48.5122,
+        "ra_deg_signed": 46.0345
+      },
+      {
+        "ra_deg": 46.0908,
+        "dec_deg": -45.5125,
+        "ra_deg_signed": 46.0908
+      },
+      {
+        "ra_deg": 52.289,
+        "dec_deg": -45.5692,
+        "ra_deg_signed": 52.289
+      },
+      {
+        "ra_deg": 52.3268,
+        "dec_deg": -43.5694,
+        "ra_deg_signed": 52.3268
+      },
+      {
+        "ra_deg": 59.0314,
+        "dec_deg": -43.6364,
+        "ra_deg_signed": 59.0314
+      },
+      {
+        "ra_deg": 59.1059,
+        "dec_deg": -39.6368,
+        "ra_deg_signed": 59.1059
+      },
+      {
+        "ra_deg": 65.0764,
+        "dec_deg": -39.7007,
+        "ra_deg_signed": 65.0764
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      19747,
+      12653,
+      12225,
+      12484,
+      14240,
+      13884
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Hor",
+    "designation": "Alp Hor",
+    "display_name": "Alpha Horologii",
+    "display_name_greek": "α Horologii",
+    "hip": 19747,
+    "ra_deg": 63.500445,
+    "dec_deg": -42.294368
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abbreviation": "Mic",
+  "name": "Microscopium",
+  "genitive": "Microscopii",
+  "meaning": "Microscope",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 306.898,
+        "dec_deg": -27.5913,
+        "ra_deg_signed": -53.102
+      },
+      {
+        "ra_deg": 321.8316,
+        "dec_deg": -27.4597,
+        "ra_deg_signed": -38.1684
+      },
+      {
+        "ra_deg": 321.9281,
+        "dec_deg": -36.4593,
+        "ra_deg_signed": -38.0719
+      },
+      {
+        "ra_deg": 322.0423,
+        "dec_deg": -44.9589,
+        "ra_deg_signed": -37.9577
+      },
+      {
+        "ra_deg": 307.1693,
+        "dec_deg": -45.09,
+        "ra_deg_signed": -52.8307
+      },
+      {
+        "ra_deg": 306.898,
+        "dec_deg": -27.5913,
+        "ra_deg_signed": -53.102
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      102831,
+      102989
+    ]
+  ],
+  "brightest_star": {
+    "name": "Gam Mic",
+    "designation": "Gam Mic",
+    "display_name": "Gamma Microscopii",
+    "display_name_greek": "γ Microscopii",
+    "hip": 103738,
+    "ra_deg": 315.322755,
+    "dec_deg": -32.257767
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "abbreviation": "Ser",
+  "name": "Serpens Caput",
+  "genitive": "Serpentis",
+  "meaning": "Serpent",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 227.853,
+        "dec_deg": -0.4743,
+        "ra_deg_signed": -132.147
+      },
+      {
+        "ra_deg": 227.7815,
+        "dec_deg": 7.5254,
+        "ra_deg_signed": -132.2185
+      },
+      {
+        "ra_deg": 227.6055,
+        "dec_deg": 25.5246,
+        "ra_deg_signed": -132.3945
+      },
+      {
+        "ra_deg": 229.0995,
+        "dec_deg": 25.5381,
+        "ra_deg_signed": -130.9005
+      },
+      {
+        "ra_deg": 241.8057,
+        "dec_deg": 25.6641,
+        "ra_deg_signed": -118.1943
+      },
+      {
+        "ra_deg": 241.85660000000001,
+        "dec_deg": 21.6644,
+        "ra_deg_signed": -118.1434
+      },
+      {
+        "ra_deg": 240.111,
+        "dec_deg": 21.646,
+        "ra_deg_signed": -119.889
+      },
+      {
+        "ra_deg": 240.18110000000001,
+        "dec_deg": 15.6463,
+        "ra_deg_signed": -119.8189
+      },
+      {
+        "ra_deg": 242.6766,
+        "dec_deg": 15.6728,
+        "ra_deg_signed": -117.3234
+      },
+      {
+        "ra_deg": 242.80970000000002,
+        "dec_deg": 3.6735,
+        "ra_deg_signed": -117.1903
+      },
+      {
+        "ra_deg": 245.5586,
+        "dec_deg": 3.7034,
+        "ra_deg_signed": -114.4414
+      },
+      {
+        "ra_deg": 245.6026,
+        "dec_deg": -0.2964,
+        "ra_deg_signed": -114.3974
+      },
+      {
+        "ra_deg": 245.6384,
+        "dec_deg": -3.5462,
+        "ra_deg_signed": -114.3616
+      },
+      {
+        "ra_deg": 240.387,
+        "dec_deg": -3.6026,
+        "ra_deg_signed": -119.613
+      },
+      {
+        "ra_deg": 227.882,
+        "dec_deg": -3.7242,
+        "ra_deg_signed": -132.118
+      },
+      {
+        "ra_deg": 227.853,
+        "dec_deg": -0.4743,
+        "ra_deg_signed": -132.147
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      77233,
+      78072,
+      77450,
+      76852,
+      77233,
+      76276,
+      77070,
+      77622,
+      77516,
+      79593
+    ],
+    [
+      84012,
+      86263,
+      88048,
+      89962,
+      92946
+    ]
+  ],
+  "brightest_star": {
+    "name": "Unukalhai",
+    "designation": "24Alp Ser",
+    "display_name": "24 Alpha Serpentis",
+    "display_name_greek": "24 α Serpentis",
+    "hip": 77070,
+    "ra_deg": 236.06697,
+    "dec_deg": 6.425627
+  }
+}

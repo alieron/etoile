@@ -1,0 +1,90 @@
+{
+  "abbreviation": "Ret",
+  "name": "Reticulum",
+  "genitive": "Reticuli",
+  "meaning": "Reticle",
+  "rank": 3,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 48.3627,
+        "dec_deg": -67.0358,
+        "ra_deg_signed": 48.3627
+      },
+      {
+        "ra_deg": 68.794,
+        "dec_deg": -67.2479,
+        "ra_deg_signed": 68.794
+      },
+      {
+        "ra_deg": 69.2745,
+        "dec_deg": -58.7507,
+        "ra_deg_signed": 69.2745
+      },
+      {
+        "ra_deg": 65.5546,
+        "dec_deg": -58.7089,
+        "ra_deg_signed": 65.5546
+      },
+      {
+        "ra_deg": 65.6505,
+        "dec_deg": -56.2094,
+        "ra_deg_signed": 65.6505
+      },
+      {
+        "ra_deg": 60.6929,
+        "dec_deg": -56.1556,
+        "ra_deg_signed": 60.6929
+      },
+      {
+        "ra_deg": 60.7979,
+        "dec_deg": -52.8228,
+        "ra_deg_signed": 60.7979
+      },
+      {
+        "ra_deg": 58.3188,
+        "dec_deg": -52.7968,
+        "ra_deg_signed": 58.3188
+      },
+      {
+        "ra_deg": 53.365,
+        "dec_deg": -52.7471,
+        "ra_deg_signed": 53.365
+      },
+      {
+        "ra_deg": 53.2368,
+        "dec_deg": -57.0798,
+        "ra_deg_signed": 53.2368
+      },
+      {
+        "ra_deg": 48.7911,
+        "dec_deg": -57.0378,
+        "ra_deg_signed": 48.7911
+      },
+      {
+        "ra_deg": 48.3627,
+        "dec_deg": -67.0358,
+        "ra_deg_signed": 48.3627
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      19780,
+      17440,
+      18597,
+      19921,
+      19780
+    ]
+  ],
+  "brightest_star": {
+    "name": "Alp Ret",
+    "designation": "Alp Ret",
+    "display_name": "Alpha Reticuli",
+    "display_name_greek": "α Reticuli",
+    "hip": 19780,
+    "ra_deg": 63.60606,
+    "dec_deg": -62.473858
+  }
+}

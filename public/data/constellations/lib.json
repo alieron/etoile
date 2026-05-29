@@ -1,0 +1,114 @@
+{
+  "abbreviation": "Lib",
+  "name": "Libra",
+  "genitive": "Librae",
+  "meaning": "Scales",
+  "rank": 2,
+  "boundary": {
+    "type": "Polygon",
+    "corners": [
+      {
+        "ra_deg": 227.853,
+        "dec_deg": -0.4743,
+        "ra_deg_signed": -132.147
+      },
+      {
+        "ra_deg": 221.6031,
+        "dec_deg": -0.5269,
+        "ra_deg_signed": -138.3969
+      },
+      {
+        "ra_deg": 221.6671,
+        "dec_deg": -8.5267,
+        "ra_deg_signed": -138.3329
+      },
+      {
+        "ra_deg": 215.4085,
+        "dec_deg": -8.5731,
+        "ra_deg_signed": -144.5915
+      },
+      {
+        "ra_deg": 215.5131,
+        "dec_deg": -22.5728,
+        "ra_deg_signed": -144.4869
+      },
+      {
+        "ra_deg": 215.5337,
+        "dec_deg": -25.0727,
+        "ra_deg_signed": -144.4663
+      },
+      {
+        "ra_deg": 225.5766,
+        "dec_deg": -24.9951,
+        "ra_deg_signed": -134.4234
+      },
+      {
+        "ra_deg": 225.6308,
+        "dec_deg": -29.9949,
+        "ra_deg_signed": -134.3692
+      },
+      {
+        "ra_deg": 236.93,
+        "dec_deg": -29.8896,
+        "ra_deg_signed": -123.07
+      },
+      {
+        "ra_deg": 236.81310000000002,
+        "dec_deg": -20.3902,
+        "ra_deg_signed": -123.1869
+      },
+      {
+        "ra_deg": 240.5718,
+        "dec_deg": -20.3516,
+        "ra_deg_signed": -119.4282
+      },
+      {
+        "ra_deg": 240.4373,
+        "dec_deg": -8.3523,
+        "ra_deg_signed": -119.5627
+      },
+      {
+        "ra_deg": 240.387,
+        "dec_deg": -3.6026,
+        "ra_deg_signed": -119.613
+      },
+      {
+        "ra_deg": 227.882,
+        "dec_deg": -3.7242,
+        "ra_deg_signed": -132.118
+      },
+      {
+        "ra_deg": 227.853,
+        "dec_deg": -0.4743,
+        "ra_deg_signed": -132.147
+      }
+    ]
+  },
+  "paths_hip": [
+    [
+      72622,
+      74785
+    ],
+    [
+      72622,
+      73714
+    ],
+    [
+      74785,
+      76333,
+      72622,
+      76333,
+      76470,
+      76600
+    ]
+  ],
+  "brightest_star": {
+    "name": "Zubeneschamali",
+    "designation": "27Bet Lib",
+    "display_name": "27 Beta Librae",
+    "display_name_greek": "27 β Librae",
+    "hip": 74785,
+    "ra_deg": 229.251735,
+    "dec_deg": -9.382917
+  }
+}

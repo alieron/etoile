@@ -1,0 +1,187 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Star",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "display_name",
+    "ra",
+    "dec",
+    "parallax",
+    "dist",
+    "sp_type",
+    "spectral_class",
+    "luminosity_class",
+    "star_type"
+  ],
+  "properties": {
+    "display_name": {
+      "type": "string"
+    },
+    "common_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "bayer_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "bayer_name_ascii": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "gaia_dr3_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "gaia_dr2_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "HD_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "HIP_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "gliese_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "2mass_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "WR_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ra": {
+      "type": "number",
+      "description": "degrees"
+    },
+    "ra_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "dec": {
+      "type": "number",
+      "description": "degrees"
+    },
+    "dec_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "parallax": {
+      "type": "number",
+      "description": "mas"
+    },
+    "parallax_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "dist": {
+      "type": "number",
+      "description": "parsecs"
+    },
+    "sp_type": {
+      "type": "string"
+    },
+    "sp_type_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "spectral_class": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "luminosity_class": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "star_type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "spectral_peculiarities": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "radius": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "solar radii"
+    },
+    "radius_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "luminosity": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "solar luminosities"
+    },
+    "luminosity_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "BV_color_index": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "BV_color_index_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
