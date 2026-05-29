@@ -4,7 +4,7 @@ import json
 import shutil
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / "data"
+DATA = ROOT / "public" / "data"
 DIST = ROOT / "dist"
 
 
