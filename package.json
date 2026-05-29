@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build:data": "tsx scripts/build.ts",
+    "validate:data": "tsx scripts/validate.ts",
+    "build": "npm run build:data && tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -21,6 +23,8 @@
     "@types/react-dom": "^19.2.3",
     "@types/three": "^0.176.0",
     "@vitejs/plugin-react": "^5.2.0",
+    "ajv": "^8.20.0",
+    "tsx": "^4.22.3",
     "typescript": "^5.8.3"
   }
 }

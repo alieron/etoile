@@ -24,14 +24,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-node@v6
         with:
-          python-version: "3.x"
-      - run: python scripts/build.py
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Prepare Pages artifact
+        run: |
+          rm -rf pages
+          mkdir -p pages
+          cp -a dist/. pages/
+          cp -a public/. pages/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: pages
 
   deploy:
     needs: [validate, build]
