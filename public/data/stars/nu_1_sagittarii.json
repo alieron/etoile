@@ -1,0 +1,17 @@
+{
+  "id": "nu_1_sagittarii",
+  "name": "Nu 1 Sagittarii",
+  "rank": 2,
+  "ra": 283.54240867928,
+  "dec": -22.74483961587,
+  "dist": 344.8276,
+  "otype": "*",
+  "spect": "K1II",
+  "cat": 13,
+  "proper": "Ainalrami",
+  "by": "nu.01",
+  "by_greek": "ν¹",
+  "by_con": "Sgr",
+  "fl": 32,
+  "fl_con": "Sgr"
+}

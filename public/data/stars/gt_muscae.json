@@ -1,0 +1,15 @@
+{
+  "id": "gt_muscae",
+  "name": "GT Muscae",
+  "rank": 5,
+  "ra": 174.873192067665,
+  "dec": -65.3978054020789,
+  "dist": 153.8462,
+  "otype": "**",
+  "spect": "G5/8IIIp+A0/1V",
+  "cat": 13,
+  "v": "GT",
+  "v_con": "Mus",
+  "fl": 12,
+  "fl_con": "Mus"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "omega_1_cygni",
+  "name": "Omega 1 Cygni",
+  "rank": 4,
+  "ra": 307.51475394137,
+  "dec": 48.95156682478001,
+  "dist": 278.5515,
+  "otype": "Pu*",
+  "spect": "B2.5IV",
+  "cat": 9,
+  "by": "ome01",
+  "by_greek": "ω¹",
+  "by_con": "Cyg",
+  "v": "V2014",
+  "v_con": "Cyg",
+  "fl": 45,
+  "fl_con": "Cyg"
+}

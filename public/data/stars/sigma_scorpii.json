@@ -1,0 +1,17 @@
+{
+  "id": "sigma_scorpii",
+  "name": "Sigma Scorpii",
+  "rank": 2,
+  "ra": 245.29714880583333,
+  "dec": -25.592792076666665,
+  "dist": 213.6752,
+  "otype": "bC*",
+  "spect": "B1III+B1:V",
+  "cat": 8,
+  "proper": "Alniyat",
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Sco",
+  "fl": 20,
+  "fl_con": "Sco"
+}

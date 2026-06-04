@@ -1,0 +1,15 @@
+{
+  "id": "vz_sagittae",
+  "name": "VZ Sagittae",
+  "rank": 5,
+  "ra": 300.01378299059,
+  "dec": 17.51650791964,
+  "dist": 312.5,
+  "otype": "LP*",
+  "spect": "M3/5III",
+  "cat": 14,
+  "v": "VZ",
+  "v_con": "Sge",
+  "fl": 13,
+  "fl_con": "Sge"
+}

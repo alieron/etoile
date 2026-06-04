@@ -1,0 +1,14 @@
+{
+  "id": "48_virginis_a",
+  "name": "48 Virginis A",
+  "rank": 5,
+  "ra": 195.97675295606658,
+  "dec": -3.663145634978728,
+  "dist": 155.040350388,
+  "otype": "*",
+  "spect": "A9IV",
+  "cat": 10,
+  "fl": 48,
+  "fl_con": "Vir",
+  "fl_comp": "A"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_eridani",
+  "name": "Epsilon Eridani",
+  "rank": 2,
+  "ra": 53.23268537982792,
+  "dec": -9.458260970518056,
+  "dist": 3.2161,
+  "otype": "BY*",
+  "spect": "K2V",
+  "cat": 4,
+  "proper": "Ran",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Eri",
+  "fl": 18,
+  "fl_con": "Eri"
+}

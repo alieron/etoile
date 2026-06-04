@@ -1,0 +1,13 @@
+{
+  "id": "35_capricorni",
+  "name": "35 Capricorni",
+  "rank": 5,
+  "ra": 321.81175708289,
+  "dec": -21.19621434535,
+  "dist": 171.8213,
+  "otype": "*",
+  "spect": "K3III",
+  "cat": 13,
+  "fl": 35,
+  "fl_con": "Cap"
+}

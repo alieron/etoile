@@ -1,0 +1,14 @@
+{
+  "id": "4_aquarii_a",
+  "name": "4 Aquarii A",
+  "rank": 5,
+  "ra": 312.85728443855993,
+  "dec": -5.626631083564819,
+  "dist": 60.71710716500001,
+  "otype": "PM*",
+  "spect": "F7IV+F6:V:",
+  "cat": 11,
+  "fl": 4,
+  "fl_con": "Aqr",
+  "fl_comp": "A"
+}

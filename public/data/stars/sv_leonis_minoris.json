@@ -1,0 +1,15 @@
+{
+  "id": "sv_leonis_minoris",
+  "name": "SV Leonis Minoris",
+  "rank": 5,
+  "ra": 143.91459247390253,
+  "dec": 35.810132514215276,
+  "dist": 11.3688,
+  "otype": "RS*",
+  "spect": "G8Va",
+  "cat": 5,
+  "v": "SV",
+  "v_con": "LMi",
+  "fl": 11,
+  "fl_con": "LMi"
+}

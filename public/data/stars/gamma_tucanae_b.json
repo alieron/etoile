@@ -1,0 +1,15 @@
+{
+  "id": "gamma_tucanae_b",
+  "name": "Gamma Tucanae B",
+  "rank": 4,
+  "ra": 349.35986643076,
+  "dec": -58.23609064314,
+  "dist": 22.717,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Tuc",
+  "by_comp": "B"
+}

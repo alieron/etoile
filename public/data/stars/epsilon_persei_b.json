@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_persei_b",
+  "name": "Epsilon Persei B",
+  "rank": 4,
+  "ra": 59.464047011119995,
+  "dec": 40.01269069001,
+  "dist": 233.874,
+  "otype": "*",
+  "spect": "A2V",
+  "cat": 7,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Per",
+  "by_comp": "B"
+}

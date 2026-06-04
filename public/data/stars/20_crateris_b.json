@@ -1,0 +1,14 @@
+{
+  "id": "20_crateris_b",
+  "name": "20 Crateris B",
+  "rank": 5,
+  "ra": 173.62699066910668,
+  "dec": -32.834001323349725,
+  "dist": 9.555,
+  "otype": "WD*",
+  "spect": "DC",
+  "cat": 1,
+  "fl": 20,
+  "fl_con": "Crt",
+  "fl_comp": "B"
+}

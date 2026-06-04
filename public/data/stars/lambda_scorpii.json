@@ -1,0 +1,17 @@
+{
+  "id": "lambda_scorpii",
+  "name": "Lambda Scorpii",
+  "rank": 2,
+  "ra": 263.40216718438023,
+  "dec": -37.10382355111976,
+  "dist": 175.1313,
+  "otype": "bC*",
+  "spect": "B2IV+DA7.9",
+  "cat": 8,
+  "proper": "Shaula",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Sco",
+  "fl": 35,
+  "fl_con": "Sco"
+}

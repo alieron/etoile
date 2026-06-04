@@ -1,0 +1,16 @@
+{
+  "id": "pi_1_gruis",
+  "name": "Pi 1 Gruis",
+  "rank": 4,
+  "ra": 335.68420162374997,
+  "dec": -45.94799754471,
+  "dist": 163.1321,
+  "otype": "S*",
+  "spect": "S5,7:",
+  "cat": 18,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Gru",
+  "fl": 161,
+  "fl_con": "Gru"
+}

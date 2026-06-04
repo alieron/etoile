@@ -1,0 +1,15 @@
+{
+  "id": "eta_2_fornacis_b",
+  "name": "Eta 2 Fornacis B",
+  "rank": 4,
+  "ra": 42.56206171412,
+  "dec": -35.84230762821,
+  "dist": 127.845,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "eta02",
+  "by_greek": "η²",
+  "by_con": "For",
+  "by_comp": "B"
+}

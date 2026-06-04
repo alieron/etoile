@@ -1,0 +1,13 @@
+{
+  "id": "81_tauri",
+  "name": "81 Tauri",
+  "rank": 5,
+  "ra": 67.66203799716,
+  "dec": 15.69187789749,
+  "dist": 44.9236,
+  "otype": "SB*",
+  "spect": "kA3hA8mF3",
+  "cat": 4,
+  "fl": 81,
+  "fl_con": "Tau"
+}

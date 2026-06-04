@@ -1,0 +1,16 @@
+{
+  "id": "xi_2_canis_majoris",
+  "name": "Xi 2 Canis Majoris",
+  "rank": 4,
+  "ra": 98.76411480246001,
+  "dec": -22.964795416690002,
+  "dist": 135.318,
+  "otype": "*",
+  "spect": "A0III",
+  "cat": 13,
+  "by": "ksi02",
+  "by_greek": "ξ²",
+  "by_con": "CMa",
+  "fl": 5,
+  "fl_con": "CMa"
+}

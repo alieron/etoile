@@ -1,0 +1,14 @@
+{
+  "id": "i_hydrae",
+  "name": "I Hydrae",
+  "rank": 4,
+  "ra": 145.32086129214542,
+  "dec": -23.591514310302497,
+  "dist": 155.2795,
+  "otype": "Be*",
+  "spect": "B5V",
+  "cat": 8,
+  "by": "I",
+  "by_greek": "I",
+  "by_con": "Hya"
+}

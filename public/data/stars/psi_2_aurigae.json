@@ -1,0 +1,16 @@
+{
+  "id": "psi_2_aurigae",
+  "name": "Psi 2 Aurigae",
+  "rank": 4,
+  "ra": 99.83261348225001,
+  "dec": 42.488876576299994,
+  "dist": 127.551,
+  "otype": "PM*",
+  "spect": "K2-III",
+  "cat": 13,
+  "by": "psi02",
+  "by_greek": "ψ²",
+  "by_con": "Aur",
+  "fl": 50,
+  "fl_con": "Aur"
+}

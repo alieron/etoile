@@ -1,0 +1,13 @@
+{
+  "id": "96_piscium",
+  "name": "96 Piscium",
+  "rank": 5,
+  "ra": 22.262905909,
+  "dec": 7.294091784410002,
+  "dist": 74.9064,
+  "otype": "PM*",
+  "spect": "F2",
+  "cat": 6,
+  "fl": 96,
+  "fl_con": "Psc"
+}

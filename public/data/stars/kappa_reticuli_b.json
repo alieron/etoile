@@ -1,0 +1,15 @@
+{
+  "id": "kappa_reticuli_b",
+  "name": "Kappa Reticuli B",
+  "rank": 4,
+  "ra": 52.37129274244583,
+  "dec": -62.946465692370275,
+  "dist": 21.6263,
+  "otype": "PM*",
+  "spect": "M0.5V",
+  "cat": 3,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Ret",
+  "by_comp": "B"
+}

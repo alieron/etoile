@@ -1,0 +1,15 @@
+{
+  "id": "alpha_pavonis",
+  "name": "Alpha Pavonis",
+  "rank": 2,
+  "ra": 306.4119043651986,
+  "dec": -56.73508972631689,
+  "dist": 54.8246,
+  "otype": "SB*",
+  "spect": "B2IV",
+  "cat": 9,
+  "proper": "Peacock",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Pav"
+}

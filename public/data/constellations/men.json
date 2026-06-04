@@ -1,82 +1,67 @@
 {
-  "abbreviation": "Men",
+  "id": "Men",
   "name": "Mensa",
-  "genitive": "Mensae",
+  "gen": "Mensae",
   "meaning": "Table Mountain",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 109.0197,
-        "dec_deg": -85.2614,
-        "ra_deg_signed": 109.0197
-      },
-      {
-        "ra_deg": 48.2329,
-        "dec_deg": -84.5554,
-        "ra_deg_signed": 48.2329
-      },
-      {
-        "ra_deg": 50.0917,
-        "dec_deg": -82.0645,
-        "ra_deg_signed": 50.0917
-      },
-      {
-        "ra_deg": 52.0758,
-        "dec_deg": -74.5741,
-        "ra_deg_signed": 52.0758
-      },
-      {
-        "ra_deg": 67.9575,
-        "dec_deg": -74.7432,
-        "ra_deg_signed": 67.9575
-      },
-      {
-        "ra_deg": 68.5815,
-        "dec_deg": -69.7467,
-        "ra_deg_signed": 68.5815
-      },
-      {
-        "ra_deg": 98.4544,
-        "dec_deg": -70.1041,
-        "ra_deg_signed": 98.4544
-      },
-      {
-        "ra_deg": 97.7707,
-        "dec_deg": -75.1,
-        "ra_deg_signed": 97.7707
-      },
-      {
-        "ra_deg": 114.2147,
-        "dec_deg": -75.2899,
-        "ra_deg_signed": 114.2147
-      },
-      {
-        "ra_deg": 111.6521,
-        "dec_deg": -82.7759,
-        "ra_deg_signed": 111.6521
-      },
-      {
-        "ra_deg": 109.0197,
-        "dec_deg": -85.2614,
-        "ra_deg_signed": 109.0197
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    81.2238,
+    -77.5041,
+    101
+  ],
+  "label": [
+    82.5,
+    -80
+  ],
+  "bound": [
     [
-      29271,
-      23467
+      [
+        109.0197,
+        -85.2614
+      ],
+      [
+        48.2329,
+        -84.5554
+      ],
+      [
+        50.0917,
+        -82.0645
+      ],
+      [
+        52.0758,
+        -74.5741
+      ],
+      [
+        67.9575,
+        -74.7432
+      ],
+      [
+        68.5815,
+        -69.7467
+      ],
+      [
+        98.4544,
+        -70.1041
+      ],
+      [
+        97.7707,
+        -75.1
+      ],
+      [
+        114.2147,
+        -75.2899
+      ],
+      [
+        111.6521,
+        -82.7759
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alp Men",
-    "designation": "Alp Men",
-    "display_name": "Alpha Mensae",
-    "display_name_greek": "α Mensae",
-    "hip": 29271,
-    "ra_deg": 92.55948000000001,
-    "dec_deg": -74.753045
-  }
+  "lines": [
+    [
+      "alpha_mensae",
+      "beta_mensae"
+    ]
+  ],
+  "bright": "alpha_mensae"
 }

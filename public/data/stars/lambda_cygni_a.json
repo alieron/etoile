@@ -1,0 +1,15 @@
+{
+  "id": "lambda_cygni_a",
+  "name": "Lambda Cygni A",
+  "rank": 4,
+  "ra": 311.852240262079,
+  "dec": 36.49071491221397,
+  "dist": 235.85145849100002,
+  "otype": "**",
+  "spect": "B5V",
+  "cat": 8,
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Cyg",
+  "by_comp": "A"
+}

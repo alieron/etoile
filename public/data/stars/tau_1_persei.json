@@ -1,0 +1,14 @@
+{
+  "id": "tau_1_persei",
+  "name": "Tau 1 Persei",
+  "rank": 4,
+  "ra": 43.56449050346,
+  "dec": 52.762467426469996,
+  "dist": 77.9423,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "tau01",
+  "by_greek": "τ¹",
+  "by_con": "Per"
+}

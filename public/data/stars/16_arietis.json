@@ -1,0 +1,13 @@
+{
+  "id": "16_arietis",
+  "name": "16 Arietis",
+  "rank": 5,
+  "ra": 32.80022860206001,
+  "dec": 25.936942264989998,
+  "dist": 235.2941,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "fl": 16,
+  "fl_con": "Ari"
+}

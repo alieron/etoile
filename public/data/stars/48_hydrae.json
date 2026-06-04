@@ -1,0 +1,13 @@
+{
+  "id": "48_hydrae",
+  "name": "48 Hydrae",
+  "rank": 5,
+  "ra": 210.00050295778,
+  "dec": -25.010404569209996,
+  "dist": 55.991,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "fl": 48,
+  "fl_con": "Hya"
+}

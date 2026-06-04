@@ -1,0 +1,18 @@
+{
+  "id": "phi_andromedae_b",
+  "name": "Phi Andromedae B",
+  "rank": 4,
+  "ra": 17.375635799999998,
+  "dec": 47.24172966111111,
+  "dist": 219.7802,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "phi",
+  "by_greek": "φ",
+  "by_con": "And",
+  "by_comp": "B",
+  "fl": 42,
+  "fl_con": "And",
+  "fl_comp": "B"
+}

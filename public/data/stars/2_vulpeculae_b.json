@@ -1,0 +1,14 @@
+{
+  "id": "2_vulpeculae_b",
+  "name": "2 Vulpeculae B",
+  "rank": 5,
+  "ra": 289.4322260655,
+  "dec": 23.02523899474,
+  "dist": 583.737,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 2,
+  "fl_con": "Vul",
+  "fl_comp": "B"
+}

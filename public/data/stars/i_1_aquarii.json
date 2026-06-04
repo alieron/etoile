@@ -1,0 +1,16 @@
+{
+  "id": "i_1_aquarii",
+  "name": "i 1 Aquarii",
+  "rank": 4,
+  "ra": 356.05032542615,
+  "dec": -18.27694956298,
+  "dist": 116.144,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "i01",
+  "by_greek": "i¹",
+  "by_con": "Aqr",
+  "fl": 106,
+  "fl_con": "Aqr"
+}

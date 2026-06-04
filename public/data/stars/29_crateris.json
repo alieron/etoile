@@ -1,0 +1,13 @@
+{
+  "id": "29_crateris",
+  "name": "29 Crateris",
+  "rank": 5,
+  "ra": 178.91721192764,
+  "dec": -28.47710390757,
+  "dist": 167.7852,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "fl": 29,
+  "fl_con": "Crt"
+}

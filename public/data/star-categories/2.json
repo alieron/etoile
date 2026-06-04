@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "name": "brown_dwarf_substellar",
+  "rgb": [
+    170,
+    80,
+    45
+  ],
+  "color": [
+    0.666667,
+    0.313725,
+    0.176471
+  ],
+  "radius": 0.1,
+  "point": 0.5,
+  "halo": 0.75,
+  "glow": 0.15
+}

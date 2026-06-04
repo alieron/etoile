@@ -1,0 +1,13 @@
+{
+  "id": "10_sextantis",
+  "name": "10 Sextantis",
+  "rank": 5,
+  "ra": 149.10822987404,
+  "dec": 8.933155864730832,
+  "dist": 177.6199,
+  "otype": "PM*",
+  "spect": "K2III:",
+  "cat": 13,
+  "fl": 10,
+  "fl_con": "Sex"
+}

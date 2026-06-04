@@ -1,0 +1,15 @@
+{
+  "id": "pi_puppis_b",
+  "name": "Pi Puppis B",
+  "rank": 4,
+  "ra": 109.28576021250001,
+  "dec": -37.09763321388889,
+  "dist": 247.5248,
+  "otype": "*",
+  "spect": "B5+",
+  "cat": 8,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Pup",
+  "by_comp": "B"
+}

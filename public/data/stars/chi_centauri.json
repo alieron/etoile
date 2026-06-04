@@ -1,0 +1,14 @@
+{
+  "id": "chi_centauri",
+  "name": "Chi Centauri",
+  "rank": 3,
+  "ra": 211.51153348661126,
+  "dec": -41.17963290966722,
+  "dist": 156.4945,
+  "otype": "bC*",
+  "spect": "B2V",
+  "cat": 8,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Cen"
+}

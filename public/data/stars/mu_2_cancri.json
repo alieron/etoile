@@ -1,0 +1,16 @@
+{
+  "id": "mu_2_cancri",
+  "name": "Mu 2 Cancri",
+  "rank": 4,
+  "ra": 121.94106771398005,
+  "dec": 21.58181300396,
+  "dist": 23.2883,
+  "otype": "PM*",
+  "spect": "G1IVb",
+  "cat": 11,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Cnc",
+  "fl": 10,
+  "fl_con": "Cnc"
+}

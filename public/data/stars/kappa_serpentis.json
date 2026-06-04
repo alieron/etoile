@@ -1,0 +1,17 @@
+{
+  "id": "kappa_serpentis",
+  "name": "Kappa Serpentis",
+  "rank": 2,
+  "ra": 237.1849050094375,
+  "dec": 18.141564908046668,
+  "dist": 117.096,
+  "otype": "PM*",
+  "spect": "M0.5IIIab",
+  "cat": 15,
+  "proper": "Gudja",
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Ser",
+  "fl": 35,
+  "fl_con": "Ser"
+}

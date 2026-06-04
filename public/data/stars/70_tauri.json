@@ -1,0 +1,13 @@
+{
+  "id": "70_tauri",
+  "name": "70 Tauri",
+  "rank": 5,
+  "ra": 66.40551051752,
+  "dec": 15.94102321123,
+  "dist": 47.1698,
+  "otype": "SB*",
+  "spect": "F7V",
+  "cat": 6,
+  "fl": 70,
+  "fl_con": "Tau"
+}

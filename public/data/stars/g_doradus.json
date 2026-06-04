@@ -1,0 +1,16 @@
+{
+  "id": "g_doradus",
+  "name": "G Doradus",
+  "rank": 4,
+  "ra": 83.24819047703375,
+  "dec": -64.22751491597833,
+  "dist": 71.0227,
+  "otype": "SB*",
+  "spect": "G8/K0III",
+  "cat": 13,
+  "by": "G",
+  "by_greek": "G",
+  "by_con": "Dor",
+  "fl": 28,
+  "fl_con": "Dor"
+}

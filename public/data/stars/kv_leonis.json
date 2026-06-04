@@ -1,0 +1,15 @@
+{
+  "id": "kv_leonis",
+  "name": "KV Leonis",
+  "rank": 5,
+  "ra": 171.45856925745,
+  "dec": 3.86006382202,
+  "dist": 55.9284,
+  "otype": "gD*",
+  "spect": "F2IVnn",
+  "cat": 6,
+  "v": "KV",
+  "v_con": "Leo",
+  "fl": 80,
+  "fl_con": "Leo"
+}

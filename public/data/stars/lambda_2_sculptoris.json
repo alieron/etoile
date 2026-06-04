@@ -1,0 +1,14 @@
+{
+  "id": "lambda_2_sculptoris",
+  "name": "Lambda 2 Sculptoris",
+  "rank": 4,
+  "ra": 11.05041263631,
+  "dec": -38.42168172442,
+  "dist": 103.8422,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "by": "lam02",
+  "by_greek": "λ²",
+  "by_con": "Scl"
+}

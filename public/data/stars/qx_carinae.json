@@ -1,0 +1,15 @@
+{
+  "id": "qx_carinae",
+  "name": "QX Carinae",
+  "rank": 5,
+  "ra": 148.64118448283,
+  "dec": -58.42127214267,
+  "dist": 492.6108,
+  "otype": "SB*",
+  "spect": "B2V",
+  "cat": 8,
+  "v": "QX",
+  "v_con": "Car",
+  "fl": 163,
+  "fl_con": "Car"
+}

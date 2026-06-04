@@ -1,0 +1,16 @@
+{
+  "id": "chi_geminorum",
+  "name": "Chi Geminorum",
+  "rank": 4,
+  "ra": 120.87958206382004,
+  "dec": 27.794350812640005,
+  "dist": 78.5546,
+  "otype": "SB*",
+  "spect": "K1-IIIb",
+  "cat": 15,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Gem",
+  "fl": 6,
+  "fl_con": "Cnc"
+}

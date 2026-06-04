@@ -1,177 +1,146 @@
 {
-  "abbreviation": "Psc",
+  "id": "Psc",
   "name": "Pisces",
-  "genitive": "Piscium",
+  "gen": "Piscium",
   "meaning": "Fishes",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 342.8497,
-        "dec_deg": 0.6622,
-        "ra_deg_signed": -17.1503
-      },
-      {
-        "ra_deg": 342.8422,
-        "dec_deg": 2.6622,
-        "ra_deg_signed": -17.1578
-      },
-      {
-        "ra_deg": 342.8214,
-        "dec_deg": 8.1622,
-        "ra_deg_signed": -17.1786
-      },
-      {
-        "ra_deg": 359.098,
-        "dec_deg": 8.1958,
-        "ra_deg_signed": -0.902
-      },
-      {
-        "ra_deg": 359.0971,
-        "dec_deg": 10.6958,
-        "ra_deg_signed": -0.9029
-      },
-      {
-        "ra_deg": 1.6027,
-        "dec_deg": 10.696,
-        "ra_deg_signed": 1.6027
-      },
-      {
-        "ra_deg": 1.6032,
-        "dec_deg": 13.196,
-        "ra_deg_signed": 1.6032
-      },
-      {
-        "ra_deg": 3.7341,
-        "dec_deg": 13.1952,
-        "ra_deg_signed": 3.7341
-      },
-      {
-        "ra_deg": 3.7399,
-        "dec_deg": 21.6952,
-        "ra_deg_signed": 3.7399
-      },
-      {
-        "ra_deg": 14.4148,
-        "dec_deg": 21.6766,
-        "ra_deg_signed": 14.4148
-      },
-      {
-        "ra_deg": 14.4241,
-        "dec_deg": 24.4266,
-        "ra_deg_signed": 14.4241
-      },
-      {
-        "ra_deg": 12.4135,
-        "dec_deg": 24.4319,
-        "ra_deg_signed": 12.4135
-      },
-      {
-        "ra_deg": 12.4431,
-        "dec_deg": 33.6819,
-        "ra_deg_signed": 12.4431
-      },
-      {
-        "ra_deg": 22.8974,
-        "dec_deg": 33.6454,
-        "ra_deg_signed": 22.8974
-      },
-      {
-        "ra_deg": 22.8664,
-        "dec_deg": 28.6454,
-        "ra_deg_signed": 22.8664
-      },
-      {
-        "ra_deg": 26.7647,
-        "dec_deg": 28.6263,
-        "ra_deg_signed": 26.7647
-      },
-      {
-        "ra_deg": 26.7447,
-        "dec_deg": 25.6263,
-        "ra_deg_signed": 26.7447
-      },
-      {
-        "ra_deg": 26.6557,
-        "dec_deg": 10.5432,
-        "ra_deg_signed": 26.6557
-      },
-      {
-        "ra_deg": 31.6652,
-        "dec_deg": 10.5144,
-        "ra_deg_signed": 31.6652
-      },
-      {
-        "ra_deg": 31.6153,
-        "dec_deg": 2.5979,
-        "ra_deg_signed": 31.6153
-      },
-      {
-        "ra_deg": 6.6038,
-        "dec_deg": 2.6925,
-        "ra_deg_signed": 6.6038
-      },
-      {
-        "ra_deg": 6.6013,
-        "dec_deg": 0.6925,
-        "ra_deg_signed": 6.6013
-      },
-      {
-        "ra_deg": 6.5927,
-        "dec_deg": -6.3075,
-        "ra_deg_signed": 6.5927
-      },
-      {
-        "ra_deg": 359.1033,
-        "dec_deg": -6.3042,
-        "ra_deg_signed": -0.8967
-      },
-      {
-        "ra_deg": 359.1022,
-        "dec_deg": -3.3042,
-        "ra_deg_signed": -0.8978
-      },
-      {
-        "ra_deg": 342.86469999999997,
-        "dec_deg": -3.3378,
-        "ra_deg_signed": -17.1353
-      },
-      {
-        "ra_deg": 342.8497,
-        "dec_deg": 0.6622,
-        "ra_deg_signed": -17.1503
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 1,
+  "focus": [
+    -353,
+    14,
+    125
+  ],
+  "label": [
+    19.5,
+    15
+  ],
+  "bound": [
     [
-      5742,
-      6193,
-      5586,
-      5742,
-      7097,
-      8198,
-      9487,
-      7884,
-      4906,
-      3786,
-      118268,
-      116771,
-      115830,
-      114971,
-      115738,
-      116928,
-      116771
+      [
+        -17.1503,
+        0.6622
+      ],
+      [
+        -17.1578,
+        2.6622
+      ],
+      [
+        -17.1786,
+        8.1622
+      ],
+      [
+        -0.902,
+        8.1958
+      ],
+      [
+        -0.9029,
+        10.6958
+      ],
+      [
+        1.6027,
+        10.696
+      ],
+      [
+        1.6032,
+        13.196
+      ],
+      [
+        3.7341,
+        13.1952
+      ],
+      [
+        3.7399,
+        21.6952
+      ],
+      [
+        14.4148,
+        21.6766
+      ],
+      [
+        14.4241,
+        24.4266
+      ],
+      [
+        12.4135,
+        24.4319
+      ],
+      [
+        12.4431,
+        33.6819
+      ],
+      [
+        22.8974,
+        33.6454
+      ],
+      [
+        22.8664,
+        28.6454
+      ],
+      [
+        26.7647,
+        28.6263
+      ],
+      [
+        26.7447,
+        25.6263
+      ],
+      [
+        26.6557,
+        10.5432
+      ],
+      [
+        31.6652,
+        10.5144
+      ],
+      [
+        31.6153,
+        2.5979
+      ],
+      [
+        6.6038,
+        2.6925
+      ],
+      [
+        6.6013,
+        0.6925
+      ],
+      [
+        6.5927,
+        -6.3075
+      ],
+      [
+        -0.8967,
+        -6.3042
+      ],
+      [
+        -0.8978,
+        -3.3042
+      ],
+      [
+        -17.1353,
+        -3.3378
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alpherg",
-    "designation": "99Eta Psc",
-    "display_name": "99 Eta Piscium",
-    "display_name_greek": "99 η Piscium",
-    "hip": 7097,
-    "ra_deg": 22.870875,
-    "dec_deg": 15.345823
-  }
+  "lines": [
+    [
+      "phi_piscium",
+      "upsilon_piscium",
+      "tau_piscium",
+      "phi_piscium",
+      "eta_piscium",
+      "omicron_piscium",
+      "alpha_piscium_a",
+      "nu_piscium",
+      "epsilon_piscium",
+      "delta_piscium",
+      "omega_piscium",
+      "iota_piscium",
+      "theta_piscium",
+      "gamma_piscium",
+      "kappa_piscium",
+      "lambda_piscium",
+      "iota_piscium"
+    ]
+  ],
+  "bright": "eta_piscium"
 }

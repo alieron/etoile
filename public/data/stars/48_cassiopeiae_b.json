@@ -1,0 +1,14 @@
+{
+  "id": "48_cassiopeiae_b",
+  "name": "48 Cassiopeiae B",
+  "rank": 5,
+  "ra": 30.48866940833333,
+  "dec": 70.9069254861111,
+  "dist": 35.2609,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "fl": 48,
+  "fl_con": "Cas",
+  "fl_comp": "B"
+}

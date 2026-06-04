@@ -1,0 +1,16 @@
+{
+  "id": "i_lupi",
+  "name": "i Lupi",
+  "rank": 4,
+  "ra": 228.65549934059996,
+  "dec": -31.51912384467,
+  "dist": 598.8024,
+  "otype": "*",
+  "spect": "F3III",
+  "cat": 13,
+  "by": "i",
+  "by_greek": "i",
+  "by_con": "Lup",
+  "fl": 1,
+  "fl_con": "Lup"
+}

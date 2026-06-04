@@ -1,0 +1,15 @@
+{
+  "id": "gamma_coronae_borealis_b",
+  "name": "Gamma Coronae Borealis B",
+  "rank": 4,
+  "ra": 235.68585517083332,
+  "dec": 26.295557416666668,
+  "dist": 44.7828,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "CrB",
+  "by_comp": "B"
+}

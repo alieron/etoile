@@ -1,0 +1,14 @@
+{
+  "id": "theta_chamaeleontis",
+  "name": "Theta Chamaeleontis",
+  "rank": 4,
+  "ra": 125.16057952578583,
+  "dec": -77.48447920000307,
+  "dist": 47.619,
+  "otype": "PM*",
+  "spect": "K2IIIbCN0.5",
+  "cat": 15,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cha"
+}

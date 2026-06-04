@@ -1,0 +1,17 @@
+{
+  "id": "beta_andromedae",
+  "name": "Beta Andromedae",
+  "rank": 2,
+  "ra": 17.43301617293042,
+  "dec": 35.62055765052624,
+  "dist": 60.5327,
+  "otype": "PM*",
+  "spect": "M0+IIIa",
+  "cat": 15,
+  "proper": "Mirach",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "And",
+  "fl": 43,
+  "fl_con": "And"
+}

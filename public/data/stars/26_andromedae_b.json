@@ -1,0 +1,14 @@
+{
+  "id": "26_andromedae_b",
+  "name": "26 Andromedae B",
+  "rank": 5,
+  "ra": 4.67358998355,
+  "dec": 43.79027155904,
+  "dist": 182.872,
+  "otype": "*",
+  "spect": "F3V",
+  "cat": 6,
+  "fl": 26,
+  "fl_con": "And",
+  "fl_comp": "B"
+}

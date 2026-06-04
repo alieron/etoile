@@ -1,0 +1,17 @@
+{
+  "id": "gamma_2_caeli_a",
+  "name": "Gamma 2 Caeli A",
+  "rank": 4,
+  "ra": 76.10898791084333,
+  "dec": -35.705106244880284,
+  "dist": 98.3284,
+  "otype": "dS*",
+  "spect": "F2IV/V",
+  "cat": 6,
+  "by": "gam02",
+  "by_greek": "γ²",
+  "by_con": "Cae",
+  "by_comp": "A",
+  "v": "X",
+  "v_con": "Cae"
+}

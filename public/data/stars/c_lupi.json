@@ -1,0 +1,16 @@
+{
+  "id": "c_lupi",
+  "name": "c Lupi",
+  "rank": 4,
+  "ra": 224.07187955192,
+  "dec": -52.80955114484,
+  "dist": 61.5006,
+  "otype": "SB*",
+  "spect": "A1IV/V",
+  "cat": 10,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Lup",
+  "fl": 36,
+  "fl_con": "Lup"
+}

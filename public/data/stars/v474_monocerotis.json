@@ -1,0 +1,15 @@
+{
+  "id": "v474_monocerotis",
+  "name": "V474 Monocerotis",
+  "rank": 5,
+  "ra": 89.75450082731,
+  "dec": -9.3822240003,
+  "dist": 90.3342,
+  "otype": "dS*",
+  "spect": "F2/3IV",
+  "cat": 6,
+  "v": "V474",
+  "v_con": "Mon",
+  "fl": 1,
+  "fl_con": "Mon"
+}

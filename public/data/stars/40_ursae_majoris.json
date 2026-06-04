@@ -1,0 +1,13 @@
+{
+  "id": "40_ursae_majoris",
+  "name": "40 Ursae Majoris",
+  "rank": 5,
+  "ra": 161.49946820483,
+  "dec": 56.92084410095,
+  "dist": 113.2503,
+  "otype": "SB*",
+  "spect": "A8V",
+  "cat": 7,
+  "fl": 40,
+  "fl_con": "UMa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "38_piscium",
+  "name": "38 Piscium",
+  "rank": 5,
+  "ra": 4.352178834166667,
+  "dec": 8.8764424225,
+  "dist": 15.186,
+  "otype": "**",
+  "spect": "G0:III+F2V+F8V",
+  "cat": 13,
+  "fl": 38,
+  "fl_con": "Psc"
+}

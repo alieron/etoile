@@ -1,0 +1,15 @@
+{
+  "id": "ap_piscium",
+  "name": "AP Piscium",
+  "rank": 5,
+  "ra": 2.05039813069,
+  "dec": -2.44770571823,
+  "dist": 279.3296,
+  "otype": "SB*",
+  "spect": "K2IIICNIVp",
+  "cat": 12,
+  "v": "AP",
+  "v_con": "Psc",
+  "fl": 5,
+  "fl_con": "Cet"
+}

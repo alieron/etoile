@@ -1,0 +1,14 @@
+{
+  "id": "15_canum_venaticorum_a",
+  "name": "15 Canum Venaticorum A",
+  "rank": 5,
+  "ra": 197.42513340829,
+  "dec": 38.53388406655,
+  "dist": 370.3704,
+  "otype": "*",
+  "spect": "B7III",
+  "cat": 17,
+  "fl": 15,
+  "fl_con": "CVn",
+  "fl_comp": "A"
+}

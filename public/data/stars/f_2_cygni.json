@@ -1,0 +1,16 @@
+{
+  "id": "f_2_cygni",
+  "name": "f 2 Cygni",
+  "rank": 4,
+  "ra": 316.6503893069042,
+  "dec": 47.648403390030836,
+  "dist": 316.4557,
+  "otype": "*",
+  "spect": "K4Ib-IIa",
+  "cat": 15,
+  "by": "f02",
+  "by_greek": "f²",
+  "by_con": "Cyg",
+  "fl": 63,
+  "fl_con": "Cyg"
+}

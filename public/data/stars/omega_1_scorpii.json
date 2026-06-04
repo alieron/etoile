@@ -1,0 +1,16 @@
+{
+  "id": "omega_1_scorpii",
+  "name": "Omega 1 Scorpii",
+  "rank": 4,
+  "ra": 241.70177077785254,
+  "dec": -20.669188851758612,
+  "dist": 144.5087,
+  "otype": "bC*",
+  "spect": "B1V",
+  "cat": 8,
+  "by": "ome01",
+  "by_greek": "ω¹",
+  "by_con": "Sco",
+  "fl": 9,
+  "fl_con": "Sco"
+}

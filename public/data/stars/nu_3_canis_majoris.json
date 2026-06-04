@@ -1,0 +1,16 @@
+{
+  "id": "nu_3_canis_majoris",
+  "name": "Nu 3 Canis Majoris",
+  "rank": 4,
+  "ra": 99.47258909203,
+  "dec": -18.23748068501,
+  "dist": 129.199,
+  "otype": "*",
+  "spect": "K1-III",
+  "cat": 13,
+  "by": "nu.03",
+  "by_greek": "ν³",
+  "by_con": "CMa",
+  "fl": 8,
+  "fl_con": "CMa"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "eta_carinae",
+  "name": "Eta Carinae",
+  "rank": 4,
+  "ra": 161.26477419999998,
+  "dec": -59.684430899999995,
+  "dist": 2300.0,
+  "otype": "s*b",
+  "spect": "LBV",
+  "cat": 17,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Car"
+}

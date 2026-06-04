@@ -1,0 +1,15 @@
+{
+  "id": "theta_reticuli_a",
+  "name": "Theta Reticuli A",
+  "rank": 4,
+  "ra": 64.41779987959843,
+  "dec": -63.25540608860828,
+  "dist": 141.244312429,
+  "otype": "Er*",
+  "spect": "",
+  "cat": 0,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Ret",
+  "by_comp": "A"
+}

@@ -1,88 +1,72 @@
 {
-  "abbreviation": "For",
+  "id": "For",
   "name": "Fornax",
-  "genitive": "Fornacis",
+  "gen": "Fornacis",
   "meaning": "Furnace",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 26.466,
-        "dec_deg": -23.7563,
-        "ra_deg_signed": 26.466
-      },
-      {
-        "ra_deg": 41.1488,
-        "dec_deg": -23.8536,
-        "ra_deg_signed": 41.1488
-      },
-      {
-        "ra_deg": 57.5889,
-        "dec_deg": -24.0034,
-        "ra_deg_signed": 57.5889
-      },
-      {
-        "ra_deg": 57.4305,
-        "dec_deg": -35.6192,
-        "ra_deg_signed": 57.4305
-      },
-      {
-        "ra_deg": 53.6996,
-        "dec_deg": -35.582,
-        "ra_deg_signed": 53.6996
-      },
-      {
-        "ra_deg": 53.6443,
-        "dec_deg": -39.1651,
-        "ra_deg_signed": 53.6443
-      },
-      {
-        "ra_deg": 46.1933,
-        "dec_deg": -39.0963,
-        "ra_deg_signed": 46.1933
-      },
-      {
-        "ra_deg": 46.1873,
-        "dec_deg": -39.5129,
-        "ra_deg_signed": 46.1873
-      },
-      {
-        "ra_deg": 36.264,
-        "dec_deg": -39.4342,
-        "ra_deg_signed": 36.264
-      },
-      {
-        "ra_deg": 26.3507,
-        "dec_deg": -39.3726,
-        "ra_deg_signed": 26.3507
-      },
-      {
-        "ra_deg": 26.4589,
-        "dec_deg": -24.8729,
-        "ra_deg_signed": 26.4589
-      },
-      {
-        "ra_deg": 26.466,
-        "dec_deg": -23.7563,
-        "ra_deg_signed": 26.466
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    41.9698,
+    -31.6346,
+    66
+  ],
+  "label": [
+    40.5,
+    -28
+  ],
+  "bound": [
     [
-      14879,
-      13147,
-      9677
+      [
+        26.466,
+        -23.7563
+      ],
+      [
+        41.1488,
+        -23.8536
+      ],
+      [
+        57.5889,
+        -24.0034
+      ],
+      [
+        57.4305,
+        -35.6192
+      ],
+      [
+        53.6996,
+        -35.582
+      ],
+      [
+        53.6443,
+        -39.1651
+      ],
+      [
+        46.1933,
+        -39.0963
+      ],
+      [
+        46.1873,
+        -39.5129
+      ],
+      [
+        36.264,
+        -39.4342
+      ],
+      [
+        26.3507,
+        -39.3726
+      ],
+      [
+        26.4589,
+        -24.8729
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Dalim",
-    "designation": "Alp For",
-    "display_name": "Alpha Fornacis",
-    "display_name_greek": "α Fornacis",
-    "hip": 14879,
-    "ra_deg": 48.018735,
-    "dec_deg": -28.987618
-  }
+  "lines": [
+    [
+      "alpha_fornacis",
+      "beta_fornacis",
+      "nu_fornacis"
+    ]
+  ],
+  "bright": "alpha_fornacis"
 }

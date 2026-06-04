@@ -1,0 +1,18 @@
+{
+  "id": "delta_serpentis_b",
+  "name": "Delta Serpentis B",
+  "rank": 4,
+  "ra": 233.70072992077996,
+  "dec": 10.53775277531,
+  "dist": 52.708,
+  "otype": "PM*",
+  "spect": "F0IV",
+  "cat": 11,
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Ser",
+  "by_comp": "B",
+  "fl": 13,
+  "fl_con": "Ser",
+  "fl_comp": "B"
+}

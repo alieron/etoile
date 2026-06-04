@@ -1,0 +1,15 @@
+{
+  "id": "dd_lacertae",
+  "name": "DD Lacertae",
+  "rank": 5,
+  "ra": 340.36937294394,
+  "dec": 40.225447149050005,
+  "dist": 411.5226,
+  "otype": "bC*",
+  "spect": "B1.5III",
+  "cat": 8,
+  "v": "DD",
+  "v_con": "Lac",
+  "fl": 12,
+  "fl_con": "Lac"
+}

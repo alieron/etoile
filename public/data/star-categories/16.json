@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "name": "yellow_supergiant_hypergiant",
+  "rgb": [
+    255,
+    220,
+    120
+  ],
+  "color": [
+    1.0,
+    0.862745,
+    0.470588
+  ],
+  "radius": 300.0,
+  "point": 2.45,
+  "halo": 3.0,
+  "glow": 0.6
+}

@@ -1,0 +1,16 @@
+{
+  "id": "r_apodis",
+  "name": "R Apodis",
+  "rank": 4,
+  "ra": 224.47076466101,
+  "dec": -76.66265469388,
+  "dist": 114.8106,
+  "otype": "PM*",
+  "spect": "K4III:",
+  "cat": 13,
+  "by": "R",
+  "by_greek": "R",
+  "by_con": "Aps",
+  "v": "R",
+  "v_con": "Aps"
+}

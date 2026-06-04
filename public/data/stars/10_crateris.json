@@ -1,0 +1,13 @@
+{
+  "id": "10_crateris",
+  "name": "10 Crateris",
+  "rank": 5,
+  "ra": 167.18329210779,
+  "dec": -28.08065386398,
+  "dist": 55.6483,
+  "otype": "PM*",
+  "spect": "A1V",
+  "cat": 7,
+  "fl": 10,
+  "fl_con": "Crt"
+}

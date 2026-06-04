@@ -1,0 +1,15 @@
+{
+  "id": "h_tauri_b",
+  "name": "h Tauri B",
+  "rank": 4,
+  "ra": 64.99046309114749,
+  "dec": 14.044777934629167,
+  "dist": 46.7447,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Tau",
+  "by_comp": "B"
+}

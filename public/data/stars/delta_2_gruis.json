@@ -1,0 +1,14 @@
+{
+  "id": "delta_2_gruis",
+  "name": "Delta 2 Gruis",
+  "rank": 4,
+  "ra": 337.4393047889025,
+  "dec": -43.749218877369444,
+  "dist": 101.2146,
+  "otype": "LP?",
+  "spect": "M4.5IIIa",
+  "cat": 15,
+  "by": "del02",
+  "by_greek": "δ²",
+  "by_con": "Gru"
+}

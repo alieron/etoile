@@ -1,0 +1,15 @@
+{
+  "id": "eta_sagittarii_b",
+  "name": "Eta Sagittarii B",
+  "rank": 4,
+  "ra": 274.40798597062167,
+  "dec": -36.762001859188054,
+  "dist": 47.2737,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Sgr",
+  "by_comp": "B"
+}

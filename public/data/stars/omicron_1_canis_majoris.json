@@ -1,0 +1,16 @@
+{
+  "id": "omicron_1_canis_majoris",
+  "name": "Omicron 1 Canis Majoris",
+  "rank": 3,
+  "ra": 103.53313445883,
+  "dec": -24.18421097264,
+  "dist": 100000.0,
+  "otype": "s*r",
+  "spect": "K2Iab",
+  "cat": 15,
+  "by": "omi01",
+  "by_greek": "ο¹",
+  "by_con": "CMa",
+  "fl": 16,
+  "fl_con": "CMa"
+}

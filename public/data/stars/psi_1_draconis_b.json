@@ -1,0 +1,18 @@
+{
+  "id": "psi_1_draconis_b",
+  "name": "Psi 1 Draconis B",
+  "rank": 4,
+  "ra": 265.4920968238599,
+  "dec": 72.15690156364,
+  "dist": 23.0627,
+  "otype": "PM*",
+  "spect": "F8V",
+  "cat": 6,
+  "by": "psi01",
+  "by_greek": "ψ¹",
+  "by_con": "Dra",
+  "by_comp": "B",
+  "fl": 31,
+  "fl_con": "Dra",
+  "fl_comp": "B"
+}

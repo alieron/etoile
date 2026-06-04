@@ -1,0 +1,15 @@
+{
+  "id": "kappa_velorum",
+  "name": "Kappa Velorum",
+  "rank": 2,
+  "ra": 140.52840670833334,
+  "dec": -55.01066713416667,
+  "dist": 175.4386,
+  "otype": "SB*",
+  "spect": "B2IV",
+  "cat": 9,
+  "proper": "Markeb",
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Vel"
+}

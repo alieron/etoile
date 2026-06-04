@@ -1,0 +1,15 @@
+{
+  "id": "zeta_volantis_b",
+  "name": "Zeta Volantis B",
+  "rank": 4,
+  "ra": 115.46905944301001,
+  "dec": -72.60825451624,
+  "dist": 44.222,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Vol",
+  "by_comp": "B"
+}

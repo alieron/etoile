@@ -1,0 +1,15 @@
+{
+  "id": "gz_librae",
+  "name": "GZ Librae",
+  "rank": 5,
+  "ra": 232.39476000892,
+  "dec": -17.440938311450005,
+  "dist": 88.6525,
+  "otype": "a2*",
+  "spect": "F0VspEuGdSr",
+  "cat": 20,
+  "v": "GZ",
+  "v_con": "Lib",
+  "fl": 33,
+  "fl_con": "Lib"
+}

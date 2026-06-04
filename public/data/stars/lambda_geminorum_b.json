@@ -1,0 +1,15 @@
+{
+  "id": "lambda_geminorum_b",
+  "name": "Lambda Geminorum B",
+  "rank": 4,
+  "ra": 109.52484493917,
+  "dec": 16.54265583536,
+  "dist": 30.379,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Gem",
+  "by_comp": "B"
+}

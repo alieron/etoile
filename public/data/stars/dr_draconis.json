@@ -1,0 +1,15 @@
+{
+  "id": "dr_draconis",
+  "name": "DR Draconis",
+  "rank": 5,
+  "ra": 263.17173001733,
+  "dec": 74.22735853593,
+  "dist": 103.5197,
+  "otype": "RS*",
+  "spect": "K0+DA1.5",
+  "cat": 4,
+  "v": "DR",
+  "v_con": "Dra",
+  "fl": 29,
+  "fl_con": "Dra"
+}

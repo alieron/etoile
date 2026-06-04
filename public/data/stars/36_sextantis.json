@@ -1,0 +1,13 @@
+{
+  "id": "36_sextantis",
+  "name": "36 Sextantis",
+  "rank": 5,
+  "ra": 161.28940464958333,
+  "dec": 2.4879738052777776,
+  "dist": 147.0588,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "fl": 36,
+  "fl_con": "Sex"
+}

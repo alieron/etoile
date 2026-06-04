@@ -1,0 +1,15 @@
+{
+  "id": "fs_serpentis",
+  "name": "FS Serpentis",
+  "rank": 5,
+  "ra": 242.11698245115997,
+  "dec": 8.534310907539998,
+  "dist": 247.5248,
+  "otype": "LP?",
+  "spect": "M4IIIa",
+  "cat": 15,
+  "v": "FS",
+  "v_con": "Ser",
+  "fl": 47,
+  "fl_con": "Ser"
+}

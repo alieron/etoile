@@ -1,0 +1,14 @@
+{
+  "id": "eta_crux",
+  "name": "Eta Crux",
+  "rank": 4,
+  "ra": 181.72040893237084,
+  "dec": -64.61373070048556,
+  "dist": 19.755,
+  "otype": "SB*",
+  "spect": "F2V",
+  "cat": 6,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Cru"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "su_leonis_minoris",
+  "name": "SU Leonis Minoris",
+  "rank": 3,
+  "ra": 143.55575768679,
+  "dec": 36.39755806204,
+  "dist": 56.7215,
+  "otype": "RS*",
+  "spect": "G7.5IIIb",
+  "cat": 16,
+  "v": "SU",
+  "v_con": "LMi",
+  "fl": 10,
+  "fl_con": "LMi"
+}

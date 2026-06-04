@@ -1,0 +1,15 @@
+{
+  "id": "v571_monocerotis",
+  "name": "V571 Monocerotis",
+  "rank": 5,
+  "ra": 107.84839940537,
+  "dec": -0.30192920468000006,
+  "dist": 87.184,
+  "otype": "dS*",
+  "spect": "F2IV",
+  "cat": 6,
+  "v": "V571",
+  "v_con": "Mon",
+  "fl": 21,
+  "fl_con": "Mon"
+}

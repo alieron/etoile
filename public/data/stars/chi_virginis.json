@@ -1,0 +1,16 @@
+{
+  "id": "chi_virginis",
+  "name": "Chi Virginis",
+  "rank": 4,
+  "ra": 189.8115290086,
+  "dec": -7.995564957179998,
+  "dist": 90.009,
+  "otype": "**",
+  "spect": "K2+IIICN0.5",
+  "cat": 13,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Vir",
+  "fl": 26,
+  "fl_con": "Vir"
+}

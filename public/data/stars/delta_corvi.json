@@ -1,0 +1,17 @@
+{
+  "id": "delta_corvi",
+  "name": "Delta Corvi",
+  "rank": 2,
+  "ra": 187.46606318416664,
+  "dec": -16.515431261666667,
+  "dist": 26.6312,
+  "otype": "PM*",
+  "spect": "A0IV(n)kB9",
+  "cat": 10,
+  "proper": "Algorab",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Crv",
+  "fl": 7,
+  "fl_con": "Crv"
+}

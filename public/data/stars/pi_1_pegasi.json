@@ -1,0 +1,16 @@
+{
+  "id": "pi_1_pegasi",
+  "name": "Pi 1 Pegasi",
+  "rank": 3,
+  "ra": 332.30677123194,
+  "dec": 33.17235478882,
+  "dist": 88.4956,
+  "otype": "PM*",
+  "spect": "G6III:",
+  "cat": 13,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Peg",
+  "fl": 27,
+  "fl_con": "Peg"
+}

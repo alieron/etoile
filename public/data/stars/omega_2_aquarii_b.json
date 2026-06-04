@@ -1,0 +1,15 @@
+{
+  "id": "omega_2_aquarii_b",
+  "name": "Omega 2 Aquarii B",
+  "rank": 4,
+  "ra": 355.68217185407,
+  "dec": -14.544721228869998,
+  "dist": 49.621,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "ome02",
+  "by_greek": "ω²",
+  "by_con": "Aqr",
+  "by_comp": "B"
+}

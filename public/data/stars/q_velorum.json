@@ -1,0 +1,14 @@
+{
+  "id": "q_velorum",
+  "name": "Q Velorum",
+  "rank": 3,
+  "ra": 152.23433169975752,
+  "dec": -51.81126175603361,
+  "dist": 408.1633,
+  "otype": "Pu*",
+  "spect": "B3III/IV",
+  "cat": 9,
+  "by": "Q",
+  "by_greek": "Q",
+  "by_con": "Vel"
+}

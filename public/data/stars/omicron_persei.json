@@ -1,0 +1,17 @@
+{
+  "id": "omicron_persei",
+  "name": "Omicron Persei",
+  "rank": 2,
+  "ra": 56.07972403666,
+  "dec": 32.2882464911,
+  "dist": 343.6426,
+  "otype": "SB*",
+  "spect": "B1III",
+  "cat": 17,
+  "proper": "Atik",
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "Per",
+  "fl": 38,
+  "fl_con": "Per"
+}

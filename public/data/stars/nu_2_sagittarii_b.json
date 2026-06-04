@@ -1,0 +1,15 @@
+{
+  "id": "nu_2_sagittarii_b",
+  "name": "Nu 2 Sagittarii B",
+  "rank": 4,
+  "ra": 283.77674419236877,
+  "dec": -22.67111660212139,
+  "dist": 96.5745,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "nu.02",
+  "by_greek": "ν²",
+  "by_con": "Sgr",
+  "by_comp": "B"
+}

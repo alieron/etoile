@@ -1,0 +1,14 @@
+{
+  "id": "gamma_1_fornacis",
+  "name": "Gamma 1 Fornacis",
+  "rank": 4,
+  "ra": 42.462340628060005,
+  "dec": -24.560311689399995,
+  "dist": 133.6898,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "gam01",
+  "by_greek": "γ¹",
+  "by_con": "For"
+}

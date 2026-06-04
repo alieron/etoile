@@ -1,0 +1,13 @@
+{
+  "id": "82_ursae_majoris",
+  "name": "82 Ursae Majoris",
+  "rank": 5,
+  "ra": 204.87686642934997,
+  "dec": 52.92120763437,
+  "dist": 53.5906,
+  "otype": "PM*",
+  "spect": "A2Vnp",
+  "cat": 7,
+  "fl": 82,
+  "fl_con": "UMa"
+}

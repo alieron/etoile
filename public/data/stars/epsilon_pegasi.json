@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_pegasi",
+  "name": "Epsilon Pegasi",
+  "rank": 2,
+  "ra": 326.04648391416663,
+  "dec": 9.875008653333333,
+  "dist": 211.4165,
+  "otype": "LP*",
+  "spect": "K2Ib-II",
+  "cat": 14,
+  "proper": "Enif",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Peg",
+  "fl": 8,
+  "fl_con": "Peg"
+}

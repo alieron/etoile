@@ -1,0 +1,13 @@
+{
+  "id": "35_leonis",
+  "name": "35 Leonis",
+  "rank": 5,
+  "ra": 154.13453844261,
+  "dec": 23.50311299039,
+  "dist": 31.1721,
+  "otype": "**",
+  "spect": "G1.5IV-V",
+  "cat": 11,
+  "fl": 35,
+  "fl_con": "Leo"
+}

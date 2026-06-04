@@ -1,0 +1,14 @@
+{
+  "id": "iota_1_scorpii",
+  "name": "Iota 1 Scorpii",
+  "rank": 3,
+  "ra": 266.89616445956506,
+  "dec": -40.12699736232806,
+  "dist": 591.716,
+  "otype": "s*y",
+  "spect": "F2Ia",
+  "cat": 16,
+  "by": "iot01",
+  "by_greek": "ι¹",
+  "by_con": "Sco"
+}

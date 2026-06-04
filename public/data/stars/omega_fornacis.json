@@ -1,0 +1,14 @@
+{
+  "id": "omega_fornacis",
+  "name": "Omega Fornacis",
+  "rank": 4,
+  "ra": 38.46125624119999,
+  "dec": -28.232337658359995,
+  "dist": 148.368,
+  "otype": "*",
+  "spect": "B9.5IV",
+  "cat": 9,
+  "by": "ome",
+  "by_greek": "ω",
+  "by_con": "For"
+}

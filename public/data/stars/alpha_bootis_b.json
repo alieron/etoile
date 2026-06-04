@@ -1,0 +1,15 @@
+{
+  "id": "alpha_bootis_b",
+  "name": "Alpha Boötis B",
+  "rank": 4,
+  "ra": 213.91527820000002,
+  "dec": 19.182345824999995,
+  "dist": 11.2575,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Boo",
+  "by_comp": "B"
+}

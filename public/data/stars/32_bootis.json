@@ -1,0 +1,13 @@
+{
+  "id": "32_bootis",
+  "name": "32 Boötis",
+  "rank": 5,
+  "ra": 220.43133475801,
+  "dec": 11.66066201253,
+  "dist": 123.6094,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 32,
+  "fl_con": "Boo"
+}

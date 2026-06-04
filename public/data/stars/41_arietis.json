@@ -1,0 +1,14 @@
+{
+  "id": "41_arietis",
+  "name": "41 Arietis",
+  "rank": 2,
+  "ra": 42.49597183583333,
+  "dec": 27.26050722722222,
+  "dist": 50.7872,
+  "otype": "**",
+  "spect": "B8Vn",
+  "cat": 8,
+  "proper": "Bharani",
+  "fl": 41,
+  "fl_con": "Ari"
+}

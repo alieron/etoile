@@ -1,0 +1,17 @@
+{
+  "id": "gamma_2_leonis",
+  "name": "Gamma 2 Leonis",
+  "rank": 4,
+  "ra": 154.99424882083335,
+  "dec": 19.840750963888887,
+  "dist": 39.8883,
+  "otype": "PM*",
+  "spect": "G7IIIbFe-1.5",
+  "cat": 16,
+  "by": "gam02",
+  "by_greek": "γ²",
+  "by_con": "Leo",
+  "fl": 41,
+  "fl_con": "Leo",
+  "fl_comp": "B"
+}

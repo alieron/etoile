@@ -1,0 +1,16 @@
+{
+  "id": "chi_bootis",
+  "name": "Chi Boötis",
+  "rank": 4,
+  "ra": 228.62149478085,
+  "dec": 29.16429637325,
+  "dist": 77.3994,
+  "otype": "PM*",
+  "spect": "A1Va+",
+  "cat": 7,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Boo",
+  "fl": 48,
+  "fl_con": "Boo"
+}

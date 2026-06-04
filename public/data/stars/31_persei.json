@@ -1,0 +1,13 @@
+{
+  "id": "31_persei",
+  "name": "31 Persei",
+  "rank": 5,
+  "ra": 49.78183035314001,
+  "dec": 50.09496937873,
+  "dist": 171.8213,
+  "otype": "Pu*",
+  "spect": "B5V",
+  "cat": 8,
+  "fl": 31,
+  "fl_con": "Per"
+}

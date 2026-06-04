@@ -1,0 +1,15 @@
+{
+  "id": "delta_crux",
+  "name": "Delta Crux",
+  "rank": 2,
+  "ra": 183.78632699611498,
+  "dec": -58.748924076838335,
+  "dist": 105.8201,
+  "otype": "Pu*",
+  "spect": "B2IV",
+  "cat": 9,
+  "proper": "Imai",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Cru"
+}

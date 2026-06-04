@@ -1,0 +1,13 @@
+{
+  "id": "22_librae",
+  "name": "22 Librae",
+  "rank": 5,
+  "ra": 226.70441879958,
+  "dec": -16.48436091119,
+  "dist": 114.4165,
+  "otype": "PM*",
+  "spect": "A6VkA0.5mA0.5_lB",
+  "cat": 7,
+  "fl": 22,
+  "fl_con": "Lib"
+}

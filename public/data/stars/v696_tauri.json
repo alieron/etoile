@@ -1,0 +1,15 @@
+{
+  "id": "v696_tauri",
+  "name": "V696 Tauri",
+  "rank": 5,
+  "ra": 65.15129318402,
+  "dec": 15.095452823510003,
+  "dist": 46.9484,
+  "otype": "dS*",
+  "spect": "F0IV-V",
+  "cat": 6,
+  "v": "V696",
+  "v_con": "Tau",
+  "fl": 58,
+  "fl_con": "Tau"
+}

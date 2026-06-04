@@ -1,0 +1,13 @@
+{
+  "id": "9_sagittarii",
+  "name": "9 Sagittarii",
+  "rank": 5,
+  "ra": 270.96852085459,
+  "dec": -24.36073118167,
+  "dist": 100000.0,
+  "otype": "Y*O",
+  "spect": "O4V((f))z",
+  "cat": 21,
+  "fl": 9,
+  "fl_con": "Sgr"
+}

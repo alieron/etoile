@@ -1,0 +1,15 @@
+{
+  "id": "sy_ursae_majoris",
+  "name": "SY Ursae Majoris",
+  "rank": 5,
+  "ra": 148.92917414907,
+  "dec": 49.81984301326,
+  "dist": 63.7755,
+  "otype": "*",
+  "spect": "A3III",
+  "cat": 13,
+  "v": "SY",
+  "v_con": "UMa",
+  "fl": 31,
+  "fl_con": "UMa"
+}

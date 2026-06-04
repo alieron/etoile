@@ -1,0 +1,15 @@
+{
+  "id": "ae_ceti",
+  "name": "AE Ceti",
+  "rank": 5,
+  "ra": 3.6600704726100006,
+  "dec": -18.932863353932504,
+  "dist": 137.1742,
+  "otype": "LP?",
+  "spect": "M1III",
+  "cat": 14,
+  "v": "AE",
+  "v_con": "Cet",
+  "fl": 7,
+  "fl_con": "Cet"
+}

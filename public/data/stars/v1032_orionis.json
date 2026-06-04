@@ -1,0 +1,15 @@
+{
+  "id": "v1032_orionis",
+  "name": "V1032 Orionis",
+  "rank": 3,
+  "ra": 76.14228828818082,
+  "dec": 15.404102144530556,
+  "dist": 111.9821,
+  "otype": "a2*",
+  "spect": "A1VpSiCr",
+  "cat": 20,
+  "v": "V1032",
+  "v_con": "Ori",
+  "fl": 11,
+  "fl_con": "Ori"
+}

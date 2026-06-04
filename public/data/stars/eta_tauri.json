@@ -1,0 +1,17 @@
+{
+  "id": "eta_tauri",
+  "name": "Eta Tauri",
+  "rank": 2,
+  "ra": 56.871152303749994,
+  "dec": 24.105135651944444,
+  "dist": 123.6094,
+  "otype": "Be*",
+  "spect": "B7III",
+  "cat": 8,
+  "proper": "Alcyone",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Tau",
+  "fl": 25,
+  "fl_con": "Tau"
+}

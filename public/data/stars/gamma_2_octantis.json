@@ -1,0 +1,14 @@
+{
+  "id": "gamma_2_octantis",
+  "name": "Gamma 2 Octantis",
+  "rank": 4,
+  "ra": 359.38692394875,
+  "dec": -82.16980824557,
+  "dist": 93.5454,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "gam02",
+  "by_greek": "γ²",
+  "by_con": "Oct"
+}

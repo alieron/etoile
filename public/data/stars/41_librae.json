@@ -1,0 +1,13 @@
+{
+  "id": "41_librae",
+  "name": "41 Librae",
+  "rank": 5,
+  "ra": 234.72732241396,
+  "dec": -19.30189099624,
+  "dist": 95.4198,
+  "otype": "**",
+  "spect": "G8III/IV",
+  "cat": 11,
+  "fl": 41,
+  "fl_con": "Lib"
+}

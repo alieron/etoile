@@ -1,0 +1,18 @@
+{
+  "id": "psi_cygni_b",
+  "name": "Psi Cygni B",
+  "rank": 4,
+  "ra": 298.90753831392,
+  "dec": 52.43812642148,
+  "dist": 87.056,
+  "otype": "*",
+  "spect": "F4V",
+  "cat": 6,
+  "by": "psi",
+  "by_greek": "ψ",
+  "by_con": "Cyg",
+  "by_comp": "B",
+  "fl": 24,
+  "fl_con": "Cyg",
+  "fl_comp": "B"
+}

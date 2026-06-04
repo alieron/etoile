@@ -1,0 +1,18 @@
+{
+  "id": "kappa_leporis_b",
+  "name": "Kappa Leporis B",
+  "rank": 4,
+  "ra": 78.30779102451042,
+  "dec": -12.940694033719998,
+  "dist": 190.295,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Lep",
+  "by_comp": "B",
+  "fl": 4,
+  "fl_con": "Lep",
+  "fl_comp": "B"
+}

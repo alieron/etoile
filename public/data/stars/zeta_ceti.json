@@ -1,0 +1,17 @@
+{
+  "id": "zeta_ceti",
+  "name": "Zeta Ceti",
+  "rank": 2,
+  "ra": 27.86513061761,
+  "dec": -10.335031066289998,
+  "dist": 72.0461,
+  "otype": "SB*",
+  "spect": "K0.5III",
+  "cat": 13,
+  "proper": "Baten Kaitos",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Cet",
+  "fl": 55,
+  "fl_con": "Cet"
+}

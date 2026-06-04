@@ -1,0 +1,15 @@
+{
+  "id": "v1146_tauri",
+  "name": "V1146 Tauri",
+  "rank": 5,
+  "ra": 67.7799600695,
+  "dec": 15.10503770785,
+  "dist": 167.7852,
+  "otype": "LP?",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "V1146",
+  "v_con": "Tau",
+  "fl": 84,
+  "fl_con": "Tau"
+}

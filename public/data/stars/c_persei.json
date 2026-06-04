@@ -1,0 +1,18 @@
+{
+  "id": "c_persei",
+  "name": "c Persei",
+  "rank": 3,
+  "ra": 62.165389873278755,
+  "dec": 47.712510557601675,
+  "dist": 146.1988,
+  "otype": "Be*",
+  "spect": "B3Ve",
+  "cat": 8,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Per",
+  "v": "MX",
+  "v_con": "Per",
+  "fl": 48,
+  "fl_con": "Per"
+}

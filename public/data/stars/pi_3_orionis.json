@@ -1,0 +1,17 @@
+{
+  "id": "pi_3_orionis",
+  "name": "Pi 3 Orionis",
+  "rank": 2,
+  "ra": 72.46004668811875,
+  "dec": 6.961277950629445,
+  "dist": 8.0684,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "proper": "Tabit",
+  "by": "pi.03",
+  "by_greek": "π³",
+  "by_con": "Ori",
+  "fl": 1,
+  "fl_con": "Ori"
+}

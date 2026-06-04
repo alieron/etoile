@@ -1,0 +1,15 @@
+{
+  "id": "cs_ursae_majoris",
+  "name": "CS Ursae Majoris",
+  "rank": 5,
+  "ra": 146.63193572702,
+  "dec": 57.12806888069,
+  "dist": 169.4915,
+  "otype": "LP?",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "CS",
+  "v_con": "UMa",
+  "fl": 44,
+  "fl_con": "Lyn"
+}

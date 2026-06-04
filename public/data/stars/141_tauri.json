@@ -1,0 +1,13 @@
+{
+  "id": "141_tauri",
+  "name": "141 Tauri",
+  "rank": 5,
+  "ra": 90.42345606377,
+  "dec": 22.40099536229,
+  "dist": 240.9639,
+  "otype": "Be*",
+  "spect": "B8IVe",
+  "cat": 8,
+  "fl": 141,
+  "fl_con": "Tau"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chi_cassiopeiae",
+  "name": "Chi Cassiopeiae",
+  "rank": 4,
+  "ra": 23.48283948896,
+  "dec": 59.23205391431,
+  "dist": 63.8162,
+  "otype": "*",
+  "spect": "G9IIIb",
+  "cat": 16,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Cas",
+  "fl": 39,
+  "fl_con": "Cas"
+}

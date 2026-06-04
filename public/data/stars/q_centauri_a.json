@@ -1,0 +1,15 @@
+{
+  "id": "q_centauri_a",
+  "name": "Q Centauri A",
+  "rank": 4,
+  "ra": 205.43655068818802,
+  "dec": -54.55942429508456,
+  "dist": 83.195531947,
+  "otype": "PM*",
+  "spect": "B8.5Vn+A2.5Va",
+  "cat": 8,
+  "by": "Q",
+  "by_greek": "Q",
+  "by_con": "Cen",
+  "by_comp": "A"
+}

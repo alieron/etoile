@@ -1,0 +1,16 @@
+{
+  "id": "chi_capricorni",
+  "name": "Chi Capricorni",
+  "rank": 4,
+  "ra": 317.14010425733994,
+  "dec": -21.19367070845,
+  "dist": 55.1268,
+  "otype": "PM*",
+  "spect": "A0Van",
+  "cat": 7,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Cap",
+  "fl": 25,
+  "fl_con": "Cap"
+}

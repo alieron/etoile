@@ -1,0 +1,13 @@
+{
+  "id": "104_aquarii",
+  "name": "104 Aquarii",
+  "rank": 5,
+  "ra": 355.44085990105,
+  "dec": -17.81653194641,
+  "dist": 257.0694,
+  "otype": "*",
+  "spect": "G2Ib/II",
+  "cat": 16,
+  "fl": 104,
+  "fl_con": "Aqr"
+}

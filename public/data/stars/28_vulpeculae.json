@@ -1,0 +1,13 @@
+{
+  "id": "28_vulpeculae",
+  "name": "28 Vulpeculae",
+  "rank": 5,
+  "ra": 309.6329770046,
+  "dec": 24.11595912067,
+  "dist": 160.2564,
+  "otype": "*",
+  "spect": "B5IV",
+  "cat": 9,
+  "fl": 28,
+  "fl_con": "Vul"
+}

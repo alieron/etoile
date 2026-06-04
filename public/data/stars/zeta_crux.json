@@ -1,0 +1,14 @@
+{
+  "id": "zeta_crux",
+  "name": "Zeta Crux",
+  "rank": 4,
+  "ra": 184.60934197714997,
+  "dec": -64.0030853698,
+  "dist": 109.6491,
+  "otype": "Pu*",
+  "spect": "B2/3V",
+  "cat": 8,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Cru"
+}

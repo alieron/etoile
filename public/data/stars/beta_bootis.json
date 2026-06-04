@@ -1,0 +1,17 @@
+{
+  "id": "beta_bootis",
+  "name": "Beta Boötis",
+  "rank": 2,
+  "ra": 225.48650960185543,
+  "dec": 40.39056857046112,
+  "dist": 69.0608,
+  "otype": "PM*",
+  "spect": "G8IIIaFe-0.5",
+  "cat": 16,
+  "proper": "Nekkar",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Boo",
+  "fl": 42,
+  "fl_con": "Boo"
+}

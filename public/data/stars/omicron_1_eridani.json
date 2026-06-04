@@ -1,0 +1,17 @@
+{
+  "id": "omicron_1_eridani",
+  "name": "Omicron 1 Eridani",
+  "rank": 2,
+  "ra": 62.96641270133917,
+  "dec": -6.837579624323332,
+  "dist": 37.3134,
+  "otype": "dS*",
+  "spect": "F0III",
+  "cat": 6,
+  "proper": "Beid",
+  "by": "omi01",
+  "by_greek": "ο¹",
+  "by_con": "Eri",
+  "fl": 38,
+  "fl_con": "Eri"
+}

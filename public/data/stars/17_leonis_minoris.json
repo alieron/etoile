@@ -1,0 +1,13 @@
+{
+  "id": "17_leonis_minoris",
+  "name": "17 Leonis Minoris",
+  "rank": 5,
+  "ra": 148.09011982184,
+  "dec": 37.9144691508,
+  "dist": 128.866,
+  "otype": "PM*",
+  "spect": "F0",
+  "cat": 6,
+  "fl": 17,
+  "fl_con": "LMi"
+}

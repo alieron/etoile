@@ -1,0 +1,15 @@
+{
+  "id": "iota_cassiopeiae_c",
+  "name": "Iota Cassiopeiae C",
+  "rank": 4,
+  "ra": 37.27129110173,
+  "dec": 67.40151505705,
+  "dist": 45.214,
+  "otype": "**",
+  "spect": "G4V",
+  "cat": 5,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Cas",
+  "by_comp": "C"
+}

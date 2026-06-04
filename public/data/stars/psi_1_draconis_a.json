@@ -1,0 +1,19 @@
+{
+  "id": "psi_1_draconis_a",
+  "name": "Psi 1 Draconis A",
+  "rank": 2,
+  "ra": 265.48749999999995,
+  "dec": 72.15277777777779,
+  "dist": 22.836528363000003,
+  "otype": "SB*",
+  "spect": "",
+  "cat": 19,
+  "proper": "Dziban",
+  "by": "psi01",
+  "by_greek": "ψ¹",
+  "by_con": "Dra",
+  "by_comp": "A",
+  "fl": 31,
+  "fl_con": "Dra",
+  "fl_comp": "A"
+}

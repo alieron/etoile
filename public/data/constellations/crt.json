@@ -1,88 +1,74 @@
 {
-  "abbreviation": "Crt",
+  "id": "Crt",
   "name": "Crater",
-  "genitive": "Crateris",
+  "gen": "Crateris",
   "meaning": "Cup",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 162.8271,
-        "dec_deg": -6.6622,
-        "ra_deg_signed": 162.8271
-      },
-      {
-        "ra_deg": 162.8079,
-        "dec_deg": -11.6621,
-        "ra_deg_signed": 162.8079
-      },
-      {
-        "ra_deg": 162.7755,
-        "dec_deg": -19.6621,
-        "ra_deg_signed": 162.7755
-      },
-      {
-        "ra_deg": 164.0306,
-        "dec_deg": -19.6666,
-        "ra_deg_signed": 164.0306
-      },
-      {
-        "ra_deg": 164.0081,
-        "dec_deg": -25.1666,
-        "ra_deg_signed": 164.0081
-      },
-      {
-        "ra_deg": 179.0913,
-        "dec_deg": -25.1958,
-        "ra_deg_signed": 179.0913
-      },
-      {
-        "ra_deg": 179.0968,
-        "dec_deg": -11.6958,
-        "ra_deg_signed": 179.0968
-      },
-      {
-        "ra_deg": 179.0986,
-        "dec_deg": -6.6958,
-        "ra_deg_signed": 179.0986
-      },
-      {
-        "ra_deg": 174.3423,
-        "dec_deg": -6.6917,
-        "ra_deg_signed": 174.3423
-      },
-      {
-        "ra_deg": 162.8271,
-        "dec_deg": -6.6622,
-        "ra_deg_signed": 162.8271
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    170.9371,
+    -15.929,
+    51
+  ],
+  "label": [
+    174.75,
+    -15
+  ],
+  "bound": [
     [
-      53740,
-      54682,
-      55705,
-      57283,
-      58188,
-      57283,
-      55705,
-      55282,
-      55687,
-      56633,
-      55687,
-      55282,
-      53740
+      [
+        162.8271,
+        -6.6622
+      ],
+      [
+        162.8079,
+        -11.6621
+      ],
+      [
+        162.7755,
+        -19.6621
+      ],
+      [
+        164.0306,
+        -19.6666
+      ],
+      [
+        164.0081,
+        -25.1666
+      ],
+      [
+        179.0913,
+        -25.1958
+      ],
+      [
+        179.0968,
+        -11.6958
+      ],
+      [
+        179.0986,
+        -6.6958
+      ],
+      [
+        174.3423,
+        -6.6917
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "12Del Crt",
-    "designation": "12Del Crt",
-    "display_name": "12 Delta Crateris",
-    "display_name_greek": "12 δ Crateris",
-    "hip": 55282,
-    "ra_deg": 169.835205,
-    "dec_deg": -14.778541
-  }
+  "lines": [
+    [
+      "alpha_crateris",
+      "beta_crateris",
+      "gamma_crateris",
+      "zeta_crateris",
+      "eta_crateris",
+      "zeta_crateris",
+      "gamma_crateris",
+      "delta_crateris",
+      "epsilon_crateris",
+      "theta_crateris",
+      "epsilon_crateris",
+      "delta_crateris",
+      "alpha_crateris"
+    ]
+  ],
+  "bright": "delta_crateris"
 }

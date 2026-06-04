@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_scorpii_b",
+  "name": "Epsilon Scorpii B",
+  "rank": 4,
+  "ra": 252.5447256469633,
+  "dec": -34.29572348070138,
+  "dist": 19.8322,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Sco",
+  "by_comp": "B"
+}

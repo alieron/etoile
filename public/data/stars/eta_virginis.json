@@ -1,0 +1,17 @@
+{
+  "id": "eta_virginis",
+  "name": "Eta Virginis",
+  "rank": 2,
+  "ra": 184.97642665915,
+  "dec": -0.66679619811,
+  "dist": 81.367,
+  "otype": "SB*",
+  "spect": "A2IV",
+  "cat": 10,
+  "proper": "Zaniah",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Vir",
+  "fl": 15,
+  "fl_con": "Vir"
+}

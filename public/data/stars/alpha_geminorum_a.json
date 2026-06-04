@@ -1,0 +1,19 @@
+{
+  "id": "alpha_geminorum_a",
+  "name": "Alpha Geminorum A",
+  "rank": 2,
+  "ra": 113.64947163976585,
+  "dec": 31.88828221646326,
+  "dist": 15.595955958000001,
+  "otype": "SB*",
+  "spect": "A1V+A2Vm",
+  "cat": 7,
+  "proper": "Castor",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Gem",
+  "by_comp": "A",
+  "fl": 66,
+  "fl_con": "Gem",
+  "fl_comp": "A"
+}

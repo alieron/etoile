@@ -1,0 +1,15 @@
+{
+  "id": "lambda_aurigae_a",
+  "name": "Lambda Aurigae A",
+  "rank": 4,
+  "ra": 79.78531437463376,
+  "dec": 40.09905141137223,
+  "dist": 12.63112631,
+  "otype": "*",
+  "spect": "G1.5IV-VFe-1",
+  "cat": 11,
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Aur",
+  "by_comp": "A"
+}

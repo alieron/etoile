@@ -1,0 +1,14 @@
+{
+  "id": "phi_1_pavonis",
+  "name": "Phi 1 Pavonis",
+  "rank": 4,
+  "ra": 308.89520861537994,
+  "dec": -60.58174912319,
+  "dist": 27.7932,
+  "otype": "PM*",
+  "spect": "F0V",
+  "cat": 6,
+  "by": "phi01",
+  "by_greek": "φ¹",
+  "by_con": "Pav"
+}

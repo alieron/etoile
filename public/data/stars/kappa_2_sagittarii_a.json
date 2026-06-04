@@ -1,0 +1,15 @@
+{
+  "id": "kappa_2_sagittarii_a",
+  "name": "Kappa 2 Sagittarii A",
+  "rank": 4,
+  "ra": 305.9715694156583,
+  "dec": -42.42287154722226,
+  "dist": 95.51195511,
+  "otype": "*",
+  "spect": "A5V",
+  "cat": 7,
+  "by": "kap02",
+  "by_greek": "κ²",
+  "by_con": "Sgr",
+  "by_comp": "A"
+}

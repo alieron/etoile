@@ -1,0 +1,16 @@
+{
+  "id": "v971_tauri",
+  "name": "V971 Tauri",
+  "rank": 2,
+  "ra": 56.58160786306708,
+  "dec": 23.948358938116662,
+  "dist": 116.5501,
+  "otype": "Be*",
+  "spect": "B6IV(e)",
+  "cat": 8,
+  "proper": "Merope",
+  "v": "V971",
+  "v_con": "Tau",
+  "fl": 23,
+  "fl_con": "Tau"
+}

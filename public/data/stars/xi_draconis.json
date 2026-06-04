@@ -1,0 +1,17 @@
+{
+  "id": "xi_draconis",
+  "name": "Xi Draconis",
+  "rank": 2,
+  "ra": 268.38220642831584,
+  "dec": 56.87264192915222,
+  "dist": 34.5066,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "proper": "Grumium",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Dra",
+  "fl": 32,
+  "fl_con": "Dra"
+}

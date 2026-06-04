@@ -1,0 +1,15 @@
+{
+  "id": "sigma_serpentis_b",
+  "name": "Sigma Serpentis B",
+  "rank": 4,
+  "ra": 245.5268629599,
+  "dec": 1.02099885445,
+  "dist": 27.909,
+  "otype": "PM*",
+  "spect": "M2V",
+  "cat": 3,
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Ser",
+  "by_comp": "B"
+}

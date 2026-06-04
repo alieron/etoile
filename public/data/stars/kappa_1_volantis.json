@@ -1,0 +1,14 @@
+{
+  "id": "kappa_1_volantis",
+  "name": "Kappa 1 Volantis",
+  "rank": 4,
+  "ra": 124.95401786562998,
+  "dec": -71.51490870496,
+  "dist": 133.3333,
+  "otype": "SB*",
+  "spect": "B9III/IV",
+  "cat": 9,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "Vol"
+}

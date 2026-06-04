@@ -1,0 +1,16 @@
+{
+  "id": "theta_virginis",
+  "name": "Theta Virginis",
+  "rank": 3,
+  "ra": 197.4874539107,
+  "dec": -5.53900406522,
+  "dist": 96.8054,
+  "otype": "**",
+  "spect": "A1IVs",
+  "cat": 10,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Vir",
+  "fl": 51,
+  "fl_con": "Vir"
+}

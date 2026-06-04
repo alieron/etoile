@@ -1,0 +1,13 @@
+{
+  "id": "16_velorum",
+  "name": "16 Velorum",
+  "rank": 5,
+  "ra": 123.39269460753002,
+  "dec": -50.19607520281001,
+  "dist": 221.2389,
+  "otype": "*",
+  "spect": "M1III",
+  "cat": 14,
+  "fl": 16,
+  "fl_con": "Vel"
+}

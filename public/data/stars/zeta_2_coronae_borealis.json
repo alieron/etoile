@@ -1,0 +1,17 @@
+{
+  "id": "zeta_2_coronae_borealis",
+  "name": "Zeta 2 Coronae Borealis",
+  "rank": 4,
+  "ra": 234.84447017954,
+  "dec": 36.63581105988,
+  "dist": 145.1379,
+  "otype": "SB*",
+  "spect": "B7V",
+  "cat": 8,
+  "by": "zet02",
+  "by_greek": "ζ²",
+  "by_con": "CrB",
+  "fl": 7,
+  "fl_con": "CrB",
+  "fl_comp": "A"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "14_monocerotis",
+  "name": "14 Monocerotis",
+  "rank": 5,
+  "ra": 98.69299183429,
+  "dec": 7.5724821815000025,
+  "dist": 115.4734,
+  "otype": "*",
+  "spect": "A0Vs",
+  "cat": 7,
+  "fl": 14,
+  "fl_con": "Mon"
+}

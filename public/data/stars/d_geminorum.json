@@ -1,0 +1,16 @@
+{
+  "id": "d_geminorum",
+  "name": "d Geminorum",
+  "rank": 4,
+  "ra": 102.88769326208,
+  "dec": 21.76114529117,
+  "dist": 150.6024,
+  "otype": "*",
+  "spect": "A2V",
+  "cat": 7,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Gem",
+  "fl": 36,
+  "fl_con": "Gem"
+}

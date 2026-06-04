@@ -1,174 +1,145 @@
 {
-  "abbreviation": "Gem",
+  "id": "Gem",
   "name": "Gemini",
-  "genitive": "Geminorum",
+  "gen": "Geminorum",
   "meaning": "Twins",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 96.3728,
-        "dec_deg": 11.9333,
-        "ra_deg_signed": 96.3728
-      },
-      {
-        "ra_deg": 96.4439,
-        "dec_deg": 17.4329,
-        "ra_deg_signed": 96.4439
-      },
-      {
-        "ra_deg": 95.0696,
-        "dec_deg": 17.4495,
-        "ra_deg_signed": 95.0696
-      },
-      {
-        "ra_deg": 95.1241,
-        "dec_deg": 21.4492,
-        "ra_deg_signed": 95.1241
-      },
-      {
-        "ra_deg": 90.1252,
-        "dec_deg": 21.5099,
-        "ra_deg_signed": 90.1252
-      },
-      {
-        "ra_deg": 90.144,
-        "dec_deg": 22.8431,
-        "ra_deg_signed": 90.144
-      },
-      {
-        "ra_deg": 90.2211,
-        "dec_deg": 28.0093,
-        "ra_deg_signed": 90.2211
-      },
-      {
-        "ra_deg": 99.9657,
-        "dec_deg": 27.8913,
-        "ra_deg_signed": 99.9657
-      },
-      {
-        "ra_deg": 100.0903,
-        "dec_deg": 35.3906,
-        "ra_deg_signed": 100.0903
-      },
-      {
-        "ra_deg": 112.5607,
-        "dec_deg": 35.2445,
-        "ra_deg_signed": 112.5607
-      },
-      {
-        "ra_deg": 118.2897,
-        "dec_deg": 35.1811,
-        "ra_deg_signed": 118.2897
-      },
-      {
-        "ra_deg": 118.2581,
-        "dec_deg": 33.1812,
-        "ra_deg_signed": 118.2581
-      },
-      {
-        "ra_deg": 121.9932,
-        "dec_deg": 33.1415,
-        "ra_deg_signed": 121.9932
-      },
-      {
-        "ra_deg": 121.916,
-        "dec_deg": 27.6419,
-        "ra_deg_signed": 121.916
-      },
-      {
-        "ra_deg": 120.1716,
-        "dec_deg": 27.6603,
-        "ra_deg_signed": 120.1716
-      },
-      {
-        "ra_deg": 120.0701,
-        "dec_deg": 19.6608,
-        "ra_deg_signed": 120.0701
-      },
-      {
-        "ra_deg": 118.9475,
-        "dec_deg": 19.6728,
-        "ra_deg_signed": 118.9475
-      },
-      {
-        "ra_deg": 118.8716,
-        "dec_deg": 13.1732,
-        "ra_deg_signed": 118.8716
-      },
-      {
-        "ra_deg": 114.2527,
-        "dec_deg": 13.2238,
-        "ra_deg_signed": 114.2527
-      },
-      {
-        "ra_deg": 114.241,
-        "dec_deg": 12.2239,
-        "ra_deg_signed": 114.241
-      },
-      {
-        "ra_deg": 106.7482,
-        "dec_deg": 12.3096,
-        "ra_deg_signed": 106.7482
-      },
-      {
-        "ra_deg": 106.7179,
-        "dec_deg": 9.8098,
-        "ra_deg_signed": 106.7179
-      },
-      {
-        "ra_deg": 105.7185,
-        "dec_deg": 9.8215,
-        "ra_deg_signed": 105.7185
-      },
-      {
-        "ra_deg": 105.7428,
-        "dec_deg": 11.8213,
-        "ra_deg_signed": 105.7428
-      },
-      {
-        "ra_deg": 96.3728,
-        "dec_deg": 11.9333,
-        "ra_deg_signed": 96.3728
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    106.0592,
+    22.6002,
+    67
+  ],
+  "label": [
+    107.25,
+    23.5
+  ],
+  "bound": [
     [
-      32362,
-      35350,
-      35550,
-      34088,
-      31681,
-      34088,
-      35550,
-      36962,
-      37740,
-      36962,
-      37826,
-      36962,
-      36046,
-      34693,
-      36850,
-      34693,
-      33018,
-      34693,
-      32246,
-      30883,
-      32246,
-      30343,
-      29655,
-      28734
+      [
+        96.3728,
+        11.9333
+      ],
+      [
+        96.4439,
+        17.4329
+      ],
+      [
+        95.0696,
+        17.4495
+      ],
+      [
+        95.1241,
+        21.4492
+      ],
+      [
+        90.1252,
+        21.5099
+      ],
+      [
+        90.144,
+        22.8431
+      ],
+      [
+        90.2211,
+        28.0093
+      ],
+      [
+        99.9657,
+        27.8913
+      ],
+      [
+        100.0903,
+        35.3906
+      ],
+      [
+        112.5607,
+        35.2445
+      ],
+      [
+        118.2897,
+        35.1811
+      ],
+      [
+        118.2581,
+        33.1812
+      ],
+      [
+        121.9932,
+        33.1415
+      ],
+      [
+        121.916,
+        27.6419
+      ],
+      [
+        120.1716,
+        27.6603
+      ],
+      [
+        120.0701,
+        19.6608
+      ],
+      [
+        118.9475,
+        19.6728
+      ],
+      [
+        118.8716,
+        13.1732
+      ],
+      [
+        114.2527,
+        13.2238
+      ],
+      [
+        114.241,
+        12.2239
+      ],
+      [
+        106.7482,
+        12.3096
+      ],
+      [
+        106.7179,
+        9.8098
+      ],
+      [
+        105.7185,
+        9.8215
+      ],
+      [
+        105.7428,
+        11.8213
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Pollux",
-    "designation": "78Bet Gem",
-    "display_name": "78 Beta Geminorum",
-    "display_name_greek": "78 β Geminorum",
-    "hip": 37826,
-    "ra_deg": 116.329155,
-    "dec_deg": 28.026199
-  }
+  "lines": [
+    [
+      "xi_geminorum",
+      "lambda_geminorum",
+      "delta_geminorum",
+      "zeta_geminorum",
+      "gamma_geminorum",
+      "zeta_geminorum",
+      "delta_geminorum",
+      "upsilon_geminorum",
+      "kappa_geminorum",
+      "upsilon_geminorum",
+      "beta_geminorum",
+      "upsilon_geminorum",
+      "iota_geminorum",
+      "tau_geminorum",
+      "alpha_geminorum_a",
+      "tau_geminorum",
+      "theta_geminorum",
+      "tau_geminorum",
+      "epsilon_geminorum",
+      "nu_geminorum",
+      "epsilon_geminorum",
+      "mu_geminorum",
+      "eta_geminorum",
+      "1_geminorum"
+    ]
+  ],
+  "bright": "beta_geminorum"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "psi_1_piscium_a",
+  "name": "Psi 1 Piscium A",
+  "rank": 4,
+  "ra": 16.420600536865418,
+  "dec": 21.473191900011386,
+  "dist": 84.317,
+  "otype": "**",
+  "spect": "A0IV-Vnn",
+  "cat": 10,
+  "by": "psi01",
+  "by_greek": "ψ¹",
+  "by_con": "Psc",
+  "by_comp": "A",
+  "fl": 74,
+  "fl_con": "Psc",
+  "fl_comp": "A"
+}

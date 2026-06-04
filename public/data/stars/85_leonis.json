@@ -1,0 +1,13 @@
+{
+  "id": "85_leonis",
+  "name": "85 Leonis",
+  "rank": 5,
+  "ra": 172.42434900698,
+  "dec": 15.41326571258,
+  "dist": 134.2282,
+  "otype": "PM*",
+  "spect": "K4III",
+  "cat": 13,
+  "fl": 85,
+  "fl_con": "Leo"
+}

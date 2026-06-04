@@ -1,0 +1,13 @@
+{
+  "id": "67_muscae",
+  "name": "67 Muscae",
+  "rank": 5,
+  "ra": 201.45958819875997,
+  "dec": -70.62725255886,
+  "dist": 136.0544,
+  "otype": "SB*",
+  "spect": "ApHg(Mn)",
+  "cat": 7,
+  "fl": 67,
+  "fl_con": "Mus"
+}

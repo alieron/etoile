@@ -1,0 +1,14 @@
+{
+  "id": "89_centauri_a",
+  "name": "89 Centauri A",
+  "rank": 5,
+  "ra": 180.90142901690734,
+  "dec": -39.009080465599034,
+  "dist": 45.97745977,
+  "otype": "PM*",
+  "spect": "F7V",
+  "cat": 6,
+  "fl": 89,
+  "fl_con": "Cen",
+  "fl_comp": "A"
+}

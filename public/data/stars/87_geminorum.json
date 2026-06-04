@@ -1,0 +1,13 @@
+{
+  "id": "87_geminorum",
+  "name": "87 Geminorum",
+  "rank": 5,
+  "ra": 102.99994238463,
+  "dec": 23.60172198957,
+  "dist": 141.844,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 87,
+  "fl_con": "Gem"
+}

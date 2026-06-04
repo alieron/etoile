@@ -1,0 +1,17 @@
+{
+  "id": "mu_sagittarii",
+  "name": "Mu Sagittarii",
+  "rank": 2,
+  "ra": 273.4408701670833,
+  "dec": -21.058831686944444,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B8Iab(e)",
+  "cat": 17,
+  "proper": "Polis",
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Sgr",
+  "fl": 13,
+  "fl_con": "Sgr"
+}

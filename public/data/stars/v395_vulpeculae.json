@@ -1,0 +1,15 @@
+{
+  "id": "v395_vulpeculae",
+  "name": "V395 Vulpeculae",
+  "rank": 5,
+  "ra": 297.76711795234,
+  "dec": 22.610048054990003,
+  "dist": 193.0502,
+  "otype": "Be*",
+  "spect": "B2.5Ve",
+  "cat": 8,
+  "v": "V395",
+  "v_con": "Vul",
+  "fl": 12,
+  "fl_con": "Vul"
+}

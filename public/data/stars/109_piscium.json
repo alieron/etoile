@@ -1,0 +1,13 @@
+{
+  "id": "109_piscium",
+  "name": "109 Piscium",
+  "rank": 5,
+  "ra": 26.23260630701,
+  "dec": 20.08314913689,
+  "dist": 32.5733,
+  "otype": "PM*",
+  "spect": "G3Va",
+  "cat": 5,
+  "fl": 109,
+  "fl_con": "Psc"
+}

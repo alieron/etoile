@@ -1,0 +1,17 @@
+{
+  "id": "iota_hydrae",
+  "name": "Iota Hydrae",
+  "rank": 2,
+  "ra": 144.96400613436165,
+  "dec": -1.142810731513889,
+  "dist": 80.7103,
+  "otype": "PM*",
+  "spect": "K2.5III",
+  "cat": 13,
+  "proper": "Ukdah",
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Hya",
+  "fl": 35,
+  "fl_con": "Hya"
+}

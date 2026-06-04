@@ -1,0 +1,13 @@
+{
+  "id": "28_scorpii",
+  "name": "28 Scorpii",
+  "rank": 5,
+  "ra": 256.54912358267995,
+  "dec": -21.56457374799,
+  "dist": 106.8376,
+  "otype": "PM*",
+  "spect": "A1mA2-A5/7",
+  "cat": 7,
+  "fl": 28,
+  "fl_con": "Sco"
+}

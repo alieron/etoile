@@ -1,0 +1,16 @@
+{
+  "id": "omega_2_aquilae",
+  "name": "Omega 2 Aquilae",
+  "rank": 4,
+  "ra": 289.97111172706,
+  "dec": 11.534964085730001,
+  "dist": 81.4996,
+  "otype": "*",
+  "spect": "A2V",
+  "cat": 7,
+  "by": "ome02",
+  "by_greek": "ω²",
+  "by_con": "Aql",
+  "fl": 29,
+  "fl_con": "Aql"
+}

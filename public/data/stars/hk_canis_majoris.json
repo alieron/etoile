@@ -1,0 +1,15 @@
+{
+  "id": "hk_canis_majoris",
+  "name": "HK Canis Majoris",
+  "rank": 5,
+  "ra": 101.75618136296002,
+  "dec": -21.01540324902,
+  "dist": 241.5459,
+  "otype": "a2*",
+  "spect": "B7II/III",
+  "cat": 20,
+  "v": "HK",
+  "v_con": "CMa",
+  "fl": 12,
+  "fl_con": "CMa"
+}

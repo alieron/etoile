@@ -1,0 +1,19 @@
+{
+  "id": "xi_ursae_majoris_a",
+  "name": "Xi Ursae Majoris A",
+  "rank": 2,
+  "ra": 169.54554950000002,
+  "dec": 31.529288899999997,
+  "dist": 8.734687346000001,
+  "otype": "SB*",
+  "spect": "F8.5:V+G2V",
+  "cat": 6,
+  "proper": "Alula Australis",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "UMa",
+  "by_comp": "A",
+  "fl": 53,
+  "fl_con": "UMa",
+  "fl_comp": "A"
+}

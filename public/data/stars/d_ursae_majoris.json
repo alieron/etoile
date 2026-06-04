@@ -1,0 +1,18 @@
+{
+  "id": "d_ursae_majoris",
+  "name": "d Ursae Majoris",
+  "rank": 4,
+  "ra": 143.62024780327,
+  "dec": 69.83034070608,
+  "dist": 31.9285,
+  "otype": "RS*",
+  "spect": "G5III-IV",
+  "cat": 11,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "UMa",
+  "v": "DK",
+  "v_con": "UMa",
+  "fl": 24,
+  "fl_con": "UMa"
+}

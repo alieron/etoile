@@ -1,0 +1,15 @@
+{
+  "id": "xi_ursae_majoris_bb",
+  "name": "Xi Ursae Majoris Bb",
+  "rank": 4,
+  "ra": 169.54515004808545,
+  "dec": 31.529117136364995,
+  "dist": 8.734687346000001,
+  "otype": "BD?",
+  "spect": "",
+  "cat": 0,
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "UMa",
+  "by_comp": "Bb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "b_2_carinae",
+  "name": "b 2 Carinae",
+  "rank": 4,
+  "ra": 134.8507569791233,
+  "dec": -59.083711773961944,
+  "dist": 26.4201,
+  "otype": "PM*",
+  "spect": "F4V",
+  "cat": 6,
+  "by": "b02",
+  "by_greek": "b²",
+  "by_con": "Car"
+}

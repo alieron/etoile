@@ -1,0 +1,14 @@
+{
+  "id": "43_cygni_b",
+  "name": "43 Cygni B",
+  "rank": 5,
+  "ra": 306.77264793930624,
+  "dec": 49.37054001774584,
+  "dist": 38.9952,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 43,
+  "fl_con": "Cyg",
+  "fl_comp": "B"
+}

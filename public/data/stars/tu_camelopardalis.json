@@ -1,0 +1,15 @@
+{
+  "id": "tu_camelopardalis",
+  "name": "TU Camelopardalis",
+  "rank": 5,
+  "ra": 88.7409423662,
+  "dec": 59.88836865484,
+  "dist": 143.6782,
+  "otype": "SB*",
+  "spect": "A2V",
+  "cat": 7,
+  "v": "TU",
+  "v_con": "Cam",
+  "fl": 31,
+  "fl_con": "Cam"
+}

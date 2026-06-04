@@ -1,0 +1,15 @@
+{
+  "id": "xi_ursae_majoris_c",
+  "name": "Xi Ursae Majoris C",
+  "rank": 4,
+  "ra": 169.661254,
+  "dec": 31.4272,
+  "dist": 8.8,
+  "otype": "BD*",
+  "spect": "T8.5",
+  "cat": 2,
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "UMa",
+  "by_comp": "C"
+}

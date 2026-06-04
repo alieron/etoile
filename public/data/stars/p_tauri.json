@@ -1,0 +1,18 @@
+{
+  "id": "p_tauri",
+  "name": "p Tauri",
+  "rank": 4,
+  "ra": 62.70775351963,
+  "dec": 26.48095457622,
+  "dist": 62.9327,
+  "otype": "dS*",
+  "spect": "F2IV-V",
+  "cat": 6,
+  "by": "p",
+  "by_greek": "p",
+  "by_con": "Tau",
+  "v": "IM",
+  "v_con": "Tau",
+  "fl": 44,
+  "fl_con": "Tau"
+}

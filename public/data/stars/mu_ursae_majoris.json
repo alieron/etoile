@@ -1,0 +1,17 @@
+{
+  "id": "mu_ursae_majoris",
+  "name": "Mu Ursae Majoris",
+  "rank": 2,
+  "ra": 155.5821986521946,
+  "dec": 41.499538262575555,
+  "dist": 70.6215,
+  "otype": "SB*",
+  "spect": "M0III",
+  "cat": 14,
+  "proper": "Tania Australis",
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "UMa",
+  "fl": 34,
+  "fl_con": "UMa"
+}

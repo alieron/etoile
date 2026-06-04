@@ -1,210 +1,171 @@
 {
-  "abbreviation": "Cam",
+  "id": "Cam",
   "name": "Camelopardalis",
-  "genitive": "Camelopardalis",
+  "gen": "Camelopardalis",
   "meaning": "Giraffe",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 94.1311,
-        "dec_deg": 55.9658,
-        "ra_deg_signed": 94.1311
-      },
-      {
-        "ra_deg": 77.6068,
-        "dec_deg": 56.1648,
-        "ra_deg_signed": 77.6068
-      },
-      {
-        "ra_deg": 77.4848,
-        "dec_deg": 52.6656,
-        "ra_deg_signed": 77.4848
-      },
-      {
-        "ra_deg": 72.8403,
-        "dec_deg": 52.7196,
-        "ra_deg_signed": 72.8403
-      },
-      {
-        "ra_deg": 52.3131,
-        "dec_deg": 52.9366,
-        "ra_deg_signed": 52.3131
-      },
-      {
-        "ra_deg": 52.3819,
-        "dec_deg": 55.4363,
-        "ra_deg_signed": 52.3819
-      },
-      {
-        "ra_deg": 49.854,
-        "dec_deg": 55.4597,
-        "ra_deg_signed": 49.854
-      },
-      {
-        "ra_deg": 49.9135,
-        "dec_deg": 57.4594,
-        "ra_deg_signed": 49.9135
-      },
-      {
-        "ra_deg": 48.9009,
-        "dec_deg": 57.4685,
-        "ra_deg_signed": 48.9009
-      },
-      {
-        "ra_deg": 49.3955,
-        "dec_deg": 68.4663,
-        "ra_deg_signed": 49.3955
-      },
-      {
-        "ra_deg": 54.237,
-        "dec_deg": 68.4214,
-        "ra_deg_signed": 54.237
-      },
-      {
-        "ra_deg": 55.3087,
-        "dec_deg": 77.4163,
-        "ra_deg_signed": 55.3087
-      },
-      {
-        "ra_deg": 56.7262,
-        "dec_deg": 77.4026,
-        "ra_deg_signed": 56.7262
-      },
-      {
-        "ra_deg": 57.5305,
-        "dec_deg": 80.3987,
-        "ra_deg_signed": 57.5305
-      },
-      {
-        "ra_deg": 80.4889,
-        "dec_deg": 80.1479,
-        "ra_deg_signed": 80.4889
-      },
-      {
-        "ra_deg": 84.5361,
-        "dec_deg": 85.1239,
-        "ra_deg_signed": 84.5361
-      },
-      {
-        "ra_deg": 127.9536,
-        "dec_deg": 84.6104,
-        "ra_deg_signed": 127.9536
-      },
-      {
-        "ra_deg": 130.4028,
-        "dec_deg": 86.0975,
-        "ra_deg_signed": 130.4028
-      },
-      {
-        "ra_deg": 213.023,
-        "dec_deg": 85.9308,
-        "ra_deg_signed": -146.977
-      },
-      {
-        "ra_deg": 216.7829,
-        "dec_deg": 79.445,
-        "ra_deg_signed": -143.2171
-      },
-      {
-        "ra_deg": 203.8092,
-        "dec_deg": 79.3629,
-        "ra_deg_signed": -156.1908
-      },
-      {
-        "ra_deg": 204.157,
-        "dec_deg": 76.3638,
-        "ra_deg_signed": -155.843
-      },
-      {
-        "ra_deg": 195.8206,
-        "dec_deg": 76.3289,
-        "ra_deg_signed": -164.1794
-      },
-      {
-        "ra_deg": 174.4348,
-        "dec_deg": 76.3084,
-        "ra_deg_signed": 174.4348
-      },
-      {
-        "ra_deg": 174.5316,
-        "dec_deg": 79.3083,
-        "ra_deg_signed": 174.5316
-      },
-      {
-        "ra_deg": 162.8186,
-        "dec_deg": 79.3402,
-        "ra_deg_signed": 162.8186
-      },
-      {
-        "ra_deg": 163.1054,
-        "dec_deg": 81.3396,
-        "ra_deg_signed": 163.1054
-      },
-      {
-        "ra_deg": 142.1912,
-        "dec_deg": 81.4678,
-        "ra_deg_signed": 142.1912
-      },
-      {
-        "ra_deg": 140.6155,
-        "dec_deg": 72.9741,
-        "ra_deg_signed": 140.6155
-      },
-      {
-        "ra_deg": 123.0862,
-        "dec_deg": 73.1384,
-        "ra_deg_signed": 123.0862
-      },
-      {
-        "ra_deg": 122.1291,
-        "dec_deg": 59.6434,
-        "ra_deg_signed": 122.1291
-      },
-      {
-        "ra_deg": 107.7532,
-        "dec_deg": 59.8037,
-        "ra_deg_signed": 107.7532
-      },
-      {
-        "ra_deg": 107.8516,
-        "dec_deg": 61.8031,
-        "ra_deg_signed": 107.8516
-      },
-      {
-        "ra_deg": 94.4075,
-        "dec_deg": 61.9641,
-        "ra_deg_signed": 94.4075
-      },
-      {
-        "ra_deg": 94.1311,
-        "dec_deg": 55.9658,
-        "ra_deg_signed": 94.1311
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 1,
+  "focus": [
+    80,
+    70,
+    160
+  ],
+  "label": [
+    84,
+    72
+  ],
+  "bound": [
     [
-      23040,
-      23522,
-      22783,
-      29997,
-      33694,
-      29997,
-      22783,
-      17959,
-      17884,
-      16228
+      [
+        94.1311,
+        55.9658
+      ],
+      [
+        77.6068,
+        56.1648
+      ],
+      [
+        77.4848,
+        52.6656
+      ],
+      [
+        72.8403,
+        52.7196
+      ],
+      [
+        52.3131,
+        52.9366
+      ],
+      [
+        52.3819,
+        55.4363
+      ],
+      [
+        49.854,
+        55.4597
+      ],
+      [
+        49.9135,
+        57.4594
+      ],
+      [
+        48.9009,
+        57.4685
+      ],
+      [
+        49.3955,
+        68.4663
+      ],
+      [
+        54.237,
+        68.4214
+      ],
+      [
+        55.3087,
+        77.4163
+      ],
+      [
+        56.7262,
+        77.4026
+      ],
+      [
+        57.5305,
+        80.3987
+      ],
+      [
+        80.4889,
+        80.1479
+      ],
+      [
+        84.5361,
+        85.1239
+      ],
+      [
+        127.9536,
+        84.6104
+      ],
+      [
+        130.4028,
+        86.0975
+      ],
+      [
+        -146.977,
+        85.9308
+      ],
+      [
+        -143.2171,
+        79.445
+      ],
+      [
+        -156.1908,
+        79.3629
+      ],
+      [
+        -155.843,
+        76.3638
+      ],
+      [
+        -164.1794,
+        76.3289
+      ],
+      [
+        174.4348,
+        76.3084
+      ],
+      [
+        174.5316,
+        79.3083
+      ],
+      [
+        162.8186,
+        79.3402
+      ],
+      [
+        163.1054,
+        81.3396
+      ],
+      [
+        142.1912,
+        81.4678
+      ],
+      [
+        140.6155,
+        72.9741
+      ],
+      [
+        123.0862,
+        73.1384
+      ],
+      [
+        122.1291,
+        59.6434
+      ],
+      [
+        107.7532,
+        59.8037
+      ],
+      [
+        107.8516,
+        61.8031
+      ],
+      [
+        94.4075,
+        61.9641
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "10Bet Cam",
-    "designation": "10Bet Cam",
-    "display_name": "10 Beta Camelopardalis",
-    "display_name_greek": "10 β Camelopardalis",
-    "hip": 23522,
-    "ra_deg": 75.85454999999999,
-    "dec_deg": 60.442245
-  }
+  "lines": [
+    [
+      "7_camelopardalis",
+      "beta_camelopardalis",
+      "alpha_camelopardalis",
+      "shangwei",
+      "tonglingxing",
+      "shangwei",
+      "alpha_camelopardalis",
+      "gamma_camelopardalis",
+      "be_camelopardalis",
+      "cs_camelopardalis_a"
+    ]
+  ],
+  "bright": "beta_camelopardalis"
 }

@@ -1,0 +1,13 @@
+{
+  "id": "10_serpentis",
+  "name": "10 Serpentis",
+  "rank": 5,
+  "ra": 232.15932091851997,
+  "dec": 1.8420796482300004,
+  "dist": 39.7456,
+  "otype": "PM*",
+  "spect": "A6III",
+  "cat": 13,
+  "fl": 10,
+  "fl_con": "Ser"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "alpha_comae_berenices_a",
+  "name": "Alpha Comae Berenices A",
+  "rank": 2,
+  "ra": 197.49702168569598,
+  "dec": 17.52945526166217,
+  "dist": 17.825478253,
+  "otype": "PM*",
+  "spect": "F5V+F6V",
+  "cat": 6,
+  "proper": "Diadem",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Com",
+  "by_comp": "A",
+  "fl": 42,
+  "fl_con": "Com",
+  "fl_comp": "A"
+}

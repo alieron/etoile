@@ -1,0 +1,13 @@
+{
+  "id": "21_piscis_austrini",
+  "name": "21 Piscis Austrini",
+  "rank": 5,
+  "ra": 342.83724361593994,
+  "dec": -29.53630657697,
+  "dist": 98.912,
+  "otype": "*",
+  "spect": "G8/K0III",
+  "cat": 13,
+  "fl": 21,
+  "fl_con": "PsA"
+}

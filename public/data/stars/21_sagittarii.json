@@ -1,0 +1,13 @@
+{
+  "id": "21_sagittarii",
+  "name": "21 Sagittarii",
+  "rank": 5,
+  "ra": 276.33766429256,
+  "dec": -20.541672835259998,
+  "dist": 125.7862,
+  "otype": "*",
+  "spect": "K1/2III",
+  "cat": 13,
+  "fl": 21,
+  "fl_con": "Sgr"
+}

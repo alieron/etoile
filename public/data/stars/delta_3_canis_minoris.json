@@ -1,0 +1,16 @@
+{
+  "id": "delta_3_canis_minoris",
+  "name": "Delta 3 Canis Minoris",
+  "rank": 4,
+  "ra": 113.56621917976,
+  "dec": 3.3717243208,
+  "dist": 176.3668,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "del03",
+  "by_greek": "δ³",
+  "by_con": "CMi",
+  "fl": 9,
+  "fl_con": "CMi"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "alpha_herculis_a",
+  "name": "Alpha Herculis A",
+  "rank": 2,
+  "ra": 258.66190909203993,
+  "dec": 14.39034061013818,
+  "dist": 110.25470253600001,
+  "otype": "LP*",
+  "spect": "M5Ib-II+G5III+F2V:",
+  "cat": 14,
+  "proper": "Rasalgethi",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Her",
+  "by_comp": "A",
+  "fl": 64,
+  "fl_con": "Her",
+  "fl_comp": "A"
+}

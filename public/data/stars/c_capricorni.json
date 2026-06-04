@@ -1,0 +1,16 @@
+{
+  "id": "c_capricorni",
+  "name": "c Capricorni",
+  "rank": 4,
+  "ra": 326.25106113622,
+  "dec": -9.08242767233,
+  "dist": 242.7184,
+  "otype": "*",
+  "spect": "G7.5II-IIICN0.5",
+  "cat": 13,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Cap",
+  "fl": 46,
+  "fl_con": "Cap"
+}

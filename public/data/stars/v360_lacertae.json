@@ -1,0 +1,15 @@
+{
+  "id": "v360_lacertae",
+  "name": "V360 Lacertae",
+  "rank": 5,
+  "ra": 342.59074398551,
+  "dec": 41.9533948334,
+  "dist": 348.4321,
+  "otype": "EB*",
+  "spect": "B4III",
+  "cat": 17,
+  "v": "V360",
+  "v_con": "Lac",
+  "fl": 14,
+  "fl_con": "Lac"
+}

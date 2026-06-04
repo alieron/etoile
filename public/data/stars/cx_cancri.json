@@ -1,0 +1,15 @@
+{
+  "id": "cx_cancri",
+  "name": "CX Cancri",
+  "rank": 5,
+  "ra": 127.15327206421,
+  "dec": 24.144921639670002,
+  "dist": 136.612,
+  "otype": "dS*",
+  "spect": "F0Vn",
+  "cat": 6,
+  "v": "CX",
+  "v_con": "Cnc",
+  "fl": 28,
+  "fl_con": "Cnc"
+}

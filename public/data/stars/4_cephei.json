@@ -1,0 +1,13 @@
+{
+  "id": "4_cephei",
+  "name": "4 Cephei",
+  "rank": 5,
+  "ra": 310.79592141367,
+  "dec": 66.65744732012,
+  "dist": 42.7899,
+  "otype": "*",
+  "spect": "A8V",
+  "cat": 7,
+  "fl": 4,
+  "fl_con": "Cep"
+}

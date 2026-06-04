@@ -1,0 +1,13 @@
+{
+  "id": "12_puppis",
+  "name": "12 Puppis",
+  "rank": 5,
+  "ra": 119.77381262427,
+  "dec": -23.310396533719995,
+  "dist": 263.8522,
+  "otype": "Pe*",
+  "spect": "G9IIa",
+  "cat": 16,
+  "fl": 12,
+  "fl_con": "Pup"
+}

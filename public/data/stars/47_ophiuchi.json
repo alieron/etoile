@@ -1,0 +1,13 @@
+{
+  "id": "47_ophiuchi",
+  "name": "47 Ophiuchi",
+  "rank": 5,
+  "ra": 261.6578398576724,
+  "dec": -5.086598463661944,
+  "dist": 30.0752,
+  "otype": "SB*",
+  "spect": "F3V",
+  "cat": 6,
+  "fl": 47,
+  "fl_con": "Oph"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mu_cephei",
+  "name": "Mu Cephei",
+  "rank": 2,
+  "ra": 325.8769148160595,
+  "dec": 58.78004609373167,
+  "dist": 100000.0,
+  "otype": "s*r",
+  "spect": "M2-Ia",
+  "cat": 15,
+  "proper": "Garnet Star",
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Cep"
+}

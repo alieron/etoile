@@ -1,0 +1,16 @@
+{
+  "id": "tau_9_eridani",
+  "name": "Tau 9 Eridani",
+  "rank": 3,
+  "ra": 59.981182366400006,
+  "dec": -24.01621588763,
+  "dist": 100.4016,
+  "otype": "a2*",
+  "spect": "ApSi",
+  "cat": 20,
+  "by": "tau09",
+  "by_greek": "τ⁹",
+  "by_con": "Eri",
+  "fl": 36,
+  "fl_con": "Eri"
+}

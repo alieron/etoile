@@ -1,0 +1,13 @@
+{
+  "id": "14_vulpeculae",
+  "name": "14 Vulpeculae",
+  "rank": 5,
+  "ra": 299.79390294448,
+  "dec": 23.101278930999996,
+  "dist": 49.1159,
+  "otype": "PM*",
+  "spect": "F0",
+  "cat": 6,
+  "fl": 14,
+  "fl_con": "Vul"
+}

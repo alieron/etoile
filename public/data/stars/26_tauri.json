@@ -1,0 +1,13 @@
+{
+  "id": "26_tauri",
+  "name": "26 Tauri",
+  "rank": 5,
+  "ra": 57.23725791723,
+  "dec": 23.85713188897,
+  "dist": 75.643,
+  "otype": "PM*",
+  "spect": "F0",
+  "cat": 6,
+  "fl": 26,
+  "fl_con": "Tau"
+}

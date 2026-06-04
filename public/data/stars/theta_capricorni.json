@@ -1,0 +1,17 @@
+{
+  "id": "theta_capricorni",
+  "name": "Theta Capricorni",
+  "rank": 2,
+  "ra": 316.4867853131225,
+  "dec": -17.232862837423333,
+  "dist": 49.7265,
+  "otype": "PM*",
+  "spect": "A1V",
+  "cat": 7,
+  "proper": "Udang",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cap",
+  "fl": 23,
+  "fl_con": "Cap"
+}

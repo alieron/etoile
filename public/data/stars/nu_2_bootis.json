@@ -1,0 +1,16 @@
+{
+  "id": "nu_2_bootis",
+  "name": "Nu 2 Boötis",
+  "rank": 4,
+  "ra": 232.94576269019004,
+  "dec": 40.89933486302999,
+  "dist": 119.0476,
+  "otype": "**",
+  "spect": "A2V",
+  "cat": 7,
+  "by": "nu.02",
+  "by_greek": "ν²",
+  "by_con": "Boo",
+  "fl": 53,
+  "fl_con": "Boo"
+}

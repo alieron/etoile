@@ -1,0 +1,15 @@
+{
+  "id": "delta_sculptoris_b",
+  "name": "Delta Sculptoris B",
+  "rank": 4,
+  "ra": 357.23095747961,
+  "dec": -28.13128898695,
+  "dist": 42.1408,
+  "otype": "**",
+  "spect": "",
+  "cat": 19,
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Scl",
+  "by_comp": "B"
+}

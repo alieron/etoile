@@ -1,0 +1,13 @@
+{
+  "id": "19_herculis",
+  "name": "19 Herculis",
+  "rank": 5,
+  "ra": 244.59854514526003,
+  "dec": 25.896688151879996,
+  "dist": 135.6852,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 19,
+  "fl_con": "Her"
+}

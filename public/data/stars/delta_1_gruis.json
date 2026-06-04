@@ -1,0 +1,14 @@
+{
+  "id": "delta_1_gruis",
+  "name": "Delta 1 Gruis",
+  "rank": 3,
+  "ra": 337.31739147484666,
+  "dec": -43.49556159542195,
+  "dist": 94.8767,
+  "otype": "*",
+  "spect": "G6/8III",
+  "cat": 13,
+  "by": "del01",
+  "by_greek": "δ¹",
+  "by_con": "Gru"
+}

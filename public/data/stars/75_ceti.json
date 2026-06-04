@@ -1,0 +1,13 @@
+{
+  "id": "75_ceti",
+  "name": "75 Ceti",
+  "rank": 5,
+  "ra": 38.03926003996,
+  "dec": -1.03489349199,
+  "dist": 81.4332,
+  "otype": "HB*",
+  "spect": "K1III",
+  "cat": 13,
+  "fl": 75,
+  "fl_con": "Cet"
+}

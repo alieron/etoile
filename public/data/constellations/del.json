@@ -1,111 +1,91 @@
 {
-  "abbreviation": "Del",
+  "id": "Del",
   "name": "Delphinus",
-  "genitive": "Delphini",
+  "gen": "Delphini",
   "meaning": "Dolphin",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 309.5799,
-        "dec_deg": 2.4361,
-        "ra_deg_signed": -50.4201
-      },
-      {
-        "ra_deg": 306.0791,
-        "dec_deg": 2.4021,
-        "ra_deg_signed": -53.9209
-      },
-      {
-        "ra_deg": 306.014,
-        "dec_deg": 8.9018,
-        "ra_deg_signed": -53.986
-      },
-      {
-        "ra_deg": 303.6367,
-        "dec_deg": 8.8779,
-        "ra_deg_signed": -56.3633
-      },
-      {
-        "ra_deg": 303.55899999999997,
-        "dec_deg": 16.1275,
-        "ra_deg_signed": -56.441
-      },
-      {
-        "ra_deg": 305.1869,
-        "dec_deg": 16.144,
-        "ra_deg_signed": -54.8131
-      },
-      {
-        "ra_deg": 305.134,
-        "dec_deg": 20.8937,
-        "ra_deg_signed": -54.866
-      },
-      {
-        "ra_deg": 309.8969,
-        "dec_deg": 20.9399,
-        "ra_deg_signed": -50.1031
-      },
-      {
-        "ra_deg": 309.9077,
-        "dec_deg": 19.94,
-        "ra_deg_signed": -50.0923
-      },
-      {
-        "ra_deg": 317.1788,
-        "dec_deg": 20.0046,
-        "ra_deg_signed": -42.8212
-      },
-      {
-        "ra_deg": 317.2484,
-        "dec_deg": 12.3383,
-        "ra_deg_signed": -42.7516
-      },
-      {
-        "ra_deg": 314.6186,
-        "dec_deg": 12.3158,
-        "ra_deg_signed": -45.3814
-      },
-      {
-        "ra_deg": 314.6711,
-        "dec_deg": 6.4827,
-        "ra_deg_signed": -45.3289
-      },
-      {
-        "ra_deg": 314.0455,
-        "dec_deg": 6.4772,
-        "ra_deg_signed": -45.9545
-      },
-      {
-        "ra_deg": 314.0811,
-        "dec_deg": 2.4773,
-        "ra_deg_signed": -45.9189
-      },
-      {
-        "ra_deg": 309.5799,
-        "dec_deg": 2.4361,
-        "ra_deg_signed": -50.4201
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    -49.5963,
+    11.671,
+    49
+  ],
+  "label": [
+    -51,
+    6
+  ],
+  "bound": [
     [
-      101421,
-      101769,
-      101958,
-      102532,
-      102281,
-      101769
+      [
+        -50.4201,
+        2.4361
+      ],
+      [
+        -53.9209,
+        2.4021
+      ],
+      [
+        -53.986,
+        8.9018
+      ],
+      [
+        -56.3633,
+        8.8779
+      ],
+      [
+        -56.441,
+        16.1275
+      ],
+      [
+        -54.8131,
+        16.144
+      ],
+      [
+        -54.866,
+        20.8937
+      ],
+      [
+        -50.1031,
+        20.9399
+      ],
+      [
+        -50.0923,
+        19.94
+      ],
+      [
+        -42.8212,
+        20.0046
+      ],
+      [
+        -42.7516,
+        12.3383
+      ],
+      [
+        -45.3814,
+        12.3158
+      ],
+      [
+        -45.3289,
+        6.4827
+      ],
+      [
+        -45.9545,
+        6.4772
+      ],
+      [
+        -45.9189,
+        2.4773
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Rotanev",
-    "designation": "6Bet Del",
-    "display_name": "6 Beta Delphini",
-    "display_name_greek": "6 β Delphini",
-    "hip": 101769,
-    "ra_deg": 309.38724,
-    "dec_deg": 14.595087
-  }
+  "lines": [
+    [
+      "epsilon_delphini",
+      "beta_delphini",
+      "alpha_delphini",
+      "gamma_2_delphini",
+      "delta_delphini",
+      "beta_delphini"
+    ]
+  ],
+  "bright": "beta_delphini"
 }

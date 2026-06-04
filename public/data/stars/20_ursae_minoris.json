@@ -1,0 +1,13 @@
+{
+  "id": "20_ursae_minoris",
+  "name": "20 Ursae Minoris",
+  "rank": 5,
+  "ra": 243.13373071426,
+  "dec": 75.21068144176,
+  "dist": 200.4008,
+  "otype": "PM*",
+  "spect": "K2IV",
+  "cat": 12,
+  "fl": 20,
+  "fl_con": "UMi"
+}

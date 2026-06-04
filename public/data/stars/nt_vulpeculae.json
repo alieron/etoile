@@ -1,0 +1,15 @@
+{
+  "id": "nt_vulpeculae",
+  "name": "NT Vulpeculae",
+  "rank": 5,
+  "ra": 300.2752024264857,
+  "dec": 27.7535730205825,
+  "dist": 72.4638,
+  "otype": "a2*",
+  "spect": "A4III",
+  "cat": 20,
+  "v": "NT",
+  "v_con": "Vul",
+  "fl": 15,
+  "fl_con": "Vul"
+}

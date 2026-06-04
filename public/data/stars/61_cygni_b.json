@@ -1,0 +1,14 @@
+{
+  "id": "61_cygni_b",
+  "name": "61 Cygni B",
+  "rank": 5,
+  "ra": 316.7302660185276,
+  "dec": 38.74204403329556,
+  "dist": 3.498,
+  "otype": "PM*",
+  "spect": "K7V",
+  "cat": 4,
+  "fl": 61,
+  "fl_con": "Cyg",
+  "fl_comp": "B"
+}

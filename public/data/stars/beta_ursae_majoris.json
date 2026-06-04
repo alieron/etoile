@@ -1,0 +1,17 @@
+{
+  "id": "beta_ursae_majoris",
+  "name": "Beta Ursae Majoris",
+  "rank": 2,
+  "ra": 165.46033229797294,
+  "dec": 56.382433649496384,
+  "dist": 24.4499,
+  "otype": "PM*",
+  "spect": "A1IVps",
+  "cat": 10,
+  "proper": "Merak",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "UMa",
+  "fl": 48,
+  "fl_con": "UMa"
+}

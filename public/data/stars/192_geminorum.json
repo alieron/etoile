@@ -1,0 +1,13 @@
+{
+  "id": "192_geminorum",
+  "name": "192 Geminorum",
+  "rank": 5,
+  "ra": 115.84241220276,
+  "dec": 22.39944361483,
+  "dist": 98.2318,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 192,
+  "fl_con": "Gem"
+}

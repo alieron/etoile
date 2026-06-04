@@ -1,0 +1,14 @@
+{
+  "id": "cs_camelopardalis_a",
+  "name": "CS Camelopardalis A",
+  "rank": 3,
+  "ra": 52.267220373399994,
+  "dec": 59.940333656830006,
+  "dist": 595.2381,
+  "otype": "s*b",
+  "spect": "B9Ia",
+  "cat": 17,
+  "v": "CS",
+  "v_con": "Cam",
+  "v_comp": "A"
+}

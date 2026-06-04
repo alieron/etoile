@@ -1,0 +1,15 @@
+{
+  "id": "rr_arietis",
+  "name": "RR Arietis",
+  "rank": 5,
+  "ra": 28.96266019423,
+  "dec": 23.57731542463,
+  "dist": 170.9402,
+  "otype": "RG*",
+  "spect": "G8III",
+  "cat": 14,
+  "v": "RR",
+  "v_con": "Ari",
+  "fl": 7,
+  "fl_con": "Ari"
+}

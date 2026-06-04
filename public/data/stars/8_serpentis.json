@@ -1,0 +1,13 @@
+{
+  "id": "8_serpentis",
+  "name": "8 Serpentis",
+  "rank": 5,
+  "ra": 230.93212418152,
+  "dec": -1.02238612199,
+  "dist": 51.1247,
+  "otype": "PM*",
+  "spect": "A5II/III",
+  "cat": 13,
+  "fl": 8,
+  "fl_con": "Ser"
+}

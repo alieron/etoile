@@ -1,0 +1,14 @@
+{
+  "id": "46_leonis_minoris",
+  "name": "46 Leonis Minoris",
+  "rank": 2,
+  "ra": 163.32787152823542,
+  "dec": 34.214892133082785,
+  "dist": 29.0867,
+  "otype": "PM*",
+  "spect": "K0+III-IV",
+  "cat": 12,
+  "proper": "Praecipua",
+  "fl": 46,
+  "fl_con": "LMi"
+}

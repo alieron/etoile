@@ -1,0 +1,18 @@
+{
+  "id": "l_1_puppis",
+  "name": "L 1 Puppis",
+  "rank": 4,
+  "ra": 108.30562750228,
+  "dec": -45.18273759937,
+  "dist": 56.5291,
+  "otype": "a2*",
+  "spect": "B9V",
+  "cat": 20,
+  "by": "L01",
+  "by_greek": "L¹",
+  "by_con": "Pup",
+  "v": "OU",
+  "v_con": "Pup",
+  "fl": 72,
+  "fl_con": "Pup"
+}

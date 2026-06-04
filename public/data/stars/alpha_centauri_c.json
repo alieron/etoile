@@ -1,0 +1,18 @@
+{
+  "id": "alpha_centauri_c",
+  "name": "Alpha Centauri C",
+  "rank": 2,
+  "ra": 217.42894222160578,
+  "dec": -62.67949018907555,
+  "dist": 1.2959,
+  "otype": "PM*",
+  "spect": "M5.5Ve",
+  "cat": 3,
+  "proper": "Proxima Centauri",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cen",
+  "by_comp": "C",
+  "v": "V645",
+  "v_con": "Cen"
+}

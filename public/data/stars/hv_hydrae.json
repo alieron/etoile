@@ -1,0 +1,15 @@
+{
+  "id": "hv_hydrae",
+  "name": "HV Hydrae",
+  "rank": 5,
+  "ra": 128.86749495767,
+  "dec": -7.9822938393800005,
+  "dist": 92.8505,
+  "otype": "a2*",
+  "spect": "A1VpSrCr",
+  "cat": 20,
+  "v": "HV",
+  "v_con": "Hya",
+  "fl": 3,
+  "fl_con": "Hya"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "v1809_cygni",
+  "name": "V1809 Cygni",
+  "rank": 5,
+  "ra": 319.61327592469,
+  "dec": 43.94594420774,
+  "dist": 100000.0,
+  "otype": "SB*",
+  "spect": "O7.5IIIn((f))",
+  "cat": 17,
+  "v": "V1809",
+  "v_con": "Cyg",
+  "fl": 68,
+  "fl_con": "Cyg"
+}

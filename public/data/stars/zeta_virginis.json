@@ -1,0 +1,17 @@
+{
+  "id": "zeta_virginis",
+  "name": "Zeta Virginis",
+  "rank": 2,
+  "ra": 203.67329732802997,
+  "dec": -0.59581641612,
+  "dist": 22.7118,
+  "otype": "PM*",
+  "spect": "A2Van",
+  "cat": 7,
+  "proper": "Heze",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Vir",
+  "fl": 79,
+  "fl_con": "Vir"
+}

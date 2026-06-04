@@ -1,0 +1,13 @@
+{
+  "id": "26_geminorum",
+  "name": "26 Geminorum",
+  "rank": 5,
+  "ra": 100.60136351493875,
+  "dec": 17.645301800167225,
+  "dist": 43.63,
+  "otype": "PM*",
+  "spect": "A2V",
+  "cat": 7,
+  "fl": 26,
+  "fl_con": "Gem"
+}

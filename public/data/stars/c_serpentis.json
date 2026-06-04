@@ -1,0 +1,16 @@
+{
+  "id": "c_serpentis",
+  "name": "c Serpentis",
+  "rank": 4,
+  "ra": 277.42074781306997,
+  "dec": -1.98530779712,
+  "dist": 70.4225,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Ser",
+  "fl": 60,
+  "fl_con": "Ser"
+}

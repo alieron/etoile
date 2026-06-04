@@ -1,0 +1,17 @@
+{
+  "id": "gamma_1_arietis",
+  "name": "Gamma 1 Arietis",
+  "rank": 4,
+  "ra": 28.3825800137264,
+  "dec": 19.2959529982388,
+  "dist": 52.9636,
+  "otype": "PM*",
+  "spect": "A0Vnp_lB",
+  "cat": 7,
+  "by": "gam01",
+  "by_greek": "γ¹",
+  "by_con": "Ari",
+  "fl": 5,
+  "fl_con": "Ari",
+  "fl_comp": "B"
+}

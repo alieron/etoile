@@ -1,0 +1,13 @@
+{
+  "id": "40_piscium",
+  "name": "40 Piscium",
+  "rank": 5,
+  "ra": 4.98448174193,
+  "dec": 16.25087158577,
+  "dist": 162.6016,
+  "otype": "*",
+  "spect": "K0",
+  "cat": 4,
+  "fl": 40,
+  "fl_con": "Psc"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "84_virginis_b",
+  "name": "84 Virginis B",
+  "rank": 5,
+  "ra": 205.76488218563208,
+  "dec": 3.5373715593997224,
+  "dist": 76.8203,
+  "otype": "PM*",
+  "spect": "G3IV",
+  "cat": 11,
+  "fl": 84,
+  "fl_con": "Vir",
+  "fl_comp": "B"
+}

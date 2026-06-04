@@ -1,0 +1,16 @@
+{
+  "id": "w_bootis",
+  "name": "W Boötis",
+  "rank": 2,
+  "ra": 220.85567727263,
+  "dec": 26.527853383836113,
+  "dist": 215.9827,
+  "otype": "LP*",
+  "spect": "M3-III",
+  "cat": 14,
+  "proper": "Alrumh",
+  "v": "W",
+  "v_con": "Boo",
+  "fl": 34,
+  "fl_con": "Boo"
+}

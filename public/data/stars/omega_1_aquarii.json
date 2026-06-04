@@ -1,0 +1,16 @@
+{
+  "id": "omega_1_aquarii",
+  "name": "Omega 1 Aquarii",
+  "rank": 4,
+  "ra": 354.94612245626996,
+  "dec": -14.22215365198,
+  "dist": 43.592,
+  "otype": "PM*",
+  "spect": "A7IV",
+  "cat": 10,
+  "by": "ome01",
+  "by_greek": "ω¹",
+  "by_con": "Aqr",
+  "fl": 102,
+  "fl_con": "Aqr"
+}

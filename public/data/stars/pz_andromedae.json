@@ -1,0 +1,15 @@
+{
+  "id": "pz_andromedae",
+  "name": "PZ Andromedae",
+  "rank": 5,
+  "ra": 35.24250643037,
+  "dec": 50.15149589561,
+  "dist": 120.3369,
+  "otype": "a2*",
+  "spect": "B9VpSi",
+  "cat": 20,
+  "v": "PZ",
+  "v_con": "And",
+  "fl": 63,
+  "fl_con": "And"
+}

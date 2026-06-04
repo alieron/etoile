@@ -1,0 +1,17 @@
+{
+  "id": "upsilon_persei",
+  "name": "Upsilon Persei",
+  "rank": 2,
+  "ra": 24.498158433053337,
+  "dec": 48.62821196304722,
+  "dist": 54.3183,
+  "otype": "PM*",
+  "spect": "K3-IIICN0.5",
+  "cat": 13,
+  "proper": "Nembus",
+  "by": "ups",
+  "by_greek": "υ",
+  "by_con": "Per",
+  "fl": 51,
+  "fl_con": "And"
+}

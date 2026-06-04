@@ -1,0 +1,13 @@
+{
+  "id": "4_andromedae",
+  "name": "4 Andromedae",
+  "rank": 5,
+  "ra": 346.91361334227,
+  "dec": 46.38723060745001,
+  "dist": 106.9519,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "fl": 4,
+  "fl_con": "And"
+}

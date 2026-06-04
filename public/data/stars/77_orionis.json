@@ -1,0 +1,13 @@
+{
+  "id": "77_orionis",
+  "name": "77 Orionis",
+  "rank": 5,
+  "ra": 96.80733781849,
+  "dec": 0.29924419928,
+  "dist": 260.4167,
+  "otype": "*",
+  "spect": "K1II",
+  "cat": 13,
+  "fl": 77,
+  "fl_con": "Ori"
+}

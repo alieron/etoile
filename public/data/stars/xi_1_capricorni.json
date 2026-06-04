@@ -1,0 +1,16 @@
+{
+  "id": "xi_1_capricorni",
+  "name": "Xi 1 Capricorni",
+  "rank": 4,
+  "ra": 302.99124185094,
+  "dec": -12.39240204301,
+  "dist": 143.8849,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "ksi01",
+  "by_greek": "ξ¹",
+  "by_con": "Cap",
+  "fl": 1,
+  "fl_con": "Cap"
+}

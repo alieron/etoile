@@ -1,0 +1,13 @@
+{
+  "id": "12_cancri",
+  "name": "12 Cancri",
+  "rank": 5,
+  "ra": 122.17685700073,
+  "dec": 13.64091872008,
+  "dist": 80.0,
+  "otype": "*",
+  "spect": "F3V",
+  "cat": 6,
+  "fl": 12,
+  "fl_con": "Cnc"
+}

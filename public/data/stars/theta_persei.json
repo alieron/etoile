@@ -1,0 +1,16 @@
+{
+  "id": "theta_persei",
+  "name": "Theta Persei",
+  "rank": 3,
+  "ra": 41.04994423087624,
+  "dec": 49.228448519215,
+  "dist": 11.1272,
+  "otype": "PM*",
+  "spect": "F8V",
+  "cat": 6,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Per",
+  "fl": 13,
+  "fl_con": "Per"
+}

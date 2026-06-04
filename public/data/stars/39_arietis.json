@@ -1,0 +1,14 @@
+{
+  "id": "39_arietis",
+  "name": "39 Arietis",
+  "rank": 2,
+  "ra": 41.9772586465075,
+  "dec": 29.247118272015555,
+  "dist": 52.6039,
+  "otype": "PM*",
+  "spect": "K0.5IIIb",
+  "cat": 15,
+  "proper": "Lilii Borea",
+  "fl": 39,
+  "fl_con": "Ari"
+}

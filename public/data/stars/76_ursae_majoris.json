@@ -1,0 +1,13 @@
+{
+  "id": "76_ursae_majoris",
+  "name": "76 Ursae Majoris",
+  "rank": 5,
+  "ra": 190.39129310819996,
+  "dec": 62.713039589320005,
+  "dist": 160.0,
+  "otype": "*",
+  "spect": "A2III",
+  "cat": 13,
+  "fl": 76,
+  "fl_con": "UMa"
+}

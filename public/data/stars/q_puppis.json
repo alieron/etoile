@@ -1,0 +1,14 @@
+{
+  "id": "q_puppis",
+  "name": "q Puppis",
+  "rank": 4,
+  "ra": 124.63880435555504,
+  "dec": -36.65928921661222,
+  "dist": 28.6287,
+  "otype": "PM*",
+  "spect": "A8V",
+  "cat": 7,
+  "by": "q",
+  "by_greek": "q",
+  "by_con": "Pup"
+}

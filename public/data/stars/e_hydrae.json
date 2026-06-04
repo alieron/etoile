@@ -1,0 +1,17 @@
+{
+  "id": "e_hydrae",
+  "name": "E Hydrae",
+  "rank": 2,
+  "ra": 222.57211788284,
+  "dec": -27.960361231049998,
+  "dist": 101.5228,
+  "otype": "PM*",
+  "spect": "K2.5IIIbFe-1:",
+  "cat": 15,
+  "proper": "Solitaire",
+  "by": "E",
+  "by_greek": "E",
+  "by_con": "Hya",
+  "fl": 58,
+  "fl_con": "Hya"
+}

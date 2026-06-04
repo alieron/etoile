@@ -1,0 +1,17 @@
+{
+  "id": "pi_1_cygni",
+  "name": "Pi 1 Cygni",
+  "rank": 2,
+  "ra": 325.5235860829083,
+  "dec": 51.18962768180972,
+  "dist": 529.1005,
+  "otype": "SB*",
+  "spect": "B3III",
+  "cat": 17,
+  "proper": "Azelfafage",
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Cyg",
+  "fl": 80,
+  "fl_con": "Cyg"
+}

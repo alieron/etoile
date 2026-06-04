@@ -1,0 +1,15 @@
+{
+  "id": "v486_tauri",
+  "name": "V486 Tauri",
+  "rank": 5,
+  "ra": 54.24177456887,
+  "dec": 23.21106841105,
+  "dist": 130.719,
+  "otype": "a2*",
+  "spect": "A2p",
+  "cat": 20,
+  "v": "V486",
+  "v_con": "Tau",
+  "fl": 9,
+  "fl_con": "Tau"
+}

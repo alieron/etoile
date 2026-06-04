@@ -1,0 +1,14 @@
+{
+  "id": "2_comae_berenices_b",
+  "name": "2 Comae Berenices B",
+  "rank": 5,
+  "ra": 181.06824098271997,
+  "dec": 21.458571642,
+  "dist": 103.945,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 2,
+  "fl_con": "Com",
+  "fl_comp": "B"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_delphini",
+  "name": "Epsilon Delphini",
+  "rank": 2,
+  "ra": 308.30322026626874,
+  "dec": 11.303266387445278,
+  "dist": 101.3171,
+  "otype": "*",
+  "spect": "B6IV",
+  "cat": 9,
+  "proper": "Aldulfin",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Del",
+  "fl": 2,
+  "fl_con": "Del"
+}

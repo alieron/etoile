@@ -1,0 +1,17 @@
+{
+  "id": "alpha_hydrae",
+  "name": "Alpha Hydrae",
+  "rank": 2,
+  "ra": 141.89684459585948,
+  "dec": -8.658599531745583,
+  "dist": 55.2792,
+  "otype": "*",
+  "spect": "K3IIIa",
+  "cat": 15,
+  "proper": "Alphard",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Hya",
+  "fl": 30,
+  "fl_con": "Hya"
+}

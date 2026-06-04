@@ -1,0 +1,16 @@
+{
+  "id": "f_sagittarii",
+  "name": "f Sagittarii",
+  "rank": 4,
+  "ra": 296.59058130579245,
+  "dec": -19.761114615344447,
+  "dist": 63.6537,
+  "otype": "PM*",
+  "spect": "K0+III",
+  "cat": 13,
+  "by": "f",
+  "by_greek": "f",
+  "by_con": "Sgr",
+  "fl": 56,
+  "fl_con": "Sgr"
+}

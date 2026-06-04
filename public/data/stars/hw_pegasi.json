@@ -1,0 +1,15 @@
+{
+  "id": "hw_pegasi",
+  "name": "HW Pegasi",
+  "rank": 5,
+  "ra": 353.3670539945046,
+  "dec": 22.498780708390562,
+  "dist": 159.4896,
+  "otype": "LP?",
+  "spect": "M5III",
+  "cat": 14,
+  "v": "HW",
+  "v_con": "Peg",
+  "fl": 71,
+  "fl_con": "Peg"
+}

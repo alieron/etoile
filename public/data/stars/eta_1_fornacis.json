@@ -1,0 +1,14 @@
+{
+  "id": "eta_1_fornacis",
+  "name": "Eta 1 Fornacis",
+  "rank": 4,
+  "ra": 41.89062714347,
+  "dec": -35.55062109947,
+  "dist": 152.6718,
+  "otype": "PM*",
+  "spect": "K0/1III",
+  "cat": 13,
+  "by": "eta01",
+  "by_greek": "η¹",
+  "by_con": "For"
+}

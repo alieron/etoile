@@ -1,0 +1,14 @@
+{
+  "id": "eta_2_pictoris",
+  "name": "Eta 2 Pictoris",
+  "rank": 4,
+  "ra": 76.24172583954,
+  "dec": -49.57783409028,
+  "dist": 136.0544,
+  "otype": "PM*",
+  "spect": "K5III",
+  "cat": 13,
+  "by": "eta02",
+  "by_greek": "η²",
+  "by_con": "Pic"
+}

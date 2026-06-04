@@ -1,58 +1,48 @@
 {
-  "abbreviation": "Tel",
+  "id": "Tel",
   "name": "Telescopium",
-  "genitive": "Telescopii",
+  "gen": "Telescopii",
   "meaning": "Telescope",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 307.4588,
-        "dec_deg": -56.5886,
-        "ra_deg_signed": -52.5412
-      },
-      {
-        "ra_deg": 307.1693,
-        "dec_deg": -45.09,
-        "ra_deg_signed": -52.8307
-      },
-      {
-        "ra_deg": 289.76959999999997,
-        "dec_deg": -45.2776,
-        "ra_deg_signed": -70.2304
-      },
-      {
-        "ra_deg": 272.30899999999997,
-        "dec_deg": -45.486,
-        "ra_deg_signed": -87.691
-      },
-      {
-        "ra_deg": 272.6723,
-        "dec_deg": -56.9838,
-        "ra_deg_signed": -87.3277
-      },
-      {
-        "ra_deg": 307.4588,
-        "dec_deg": -56.5886,
-        "ra_deg_signed": -52.5412
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    -70.1161,
+    -51.0369,
+    70
+  ],
+  "label": [
+    -82.5,
+    -54
+  ],
+  "bound": [
     [
-      89112,
-      90422,
-      90568
+      [
+        -52.5412,
+        -56.5886
+      ],
+      [
+        -52.8307,
+        -45.09
+      ],
+      [
+        -70.2304,
+        -45.2776
+      ],
+      [
+        -87.691,
+        -45.486
+      ],
+      [
+        -87.3277,
+        -56.9838
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alp Tel",
-    "designation": "Alp Tel",
-    "display_name": "Alpha Telescopii",
-    "display_name_greek": "α Telescopii",
-    "hip": 90422,
-    "ra_deg": 276.74341499999997,
-    "dec_deg": -45.968459
-  }
+  "lines": [
+    [
+      "epsilon_telescopii",
+      "alpha_telescopii",
+      "zeta_telescopii"
+    ]
+  ],
+  "bright": "alpha_telescopii"
 }

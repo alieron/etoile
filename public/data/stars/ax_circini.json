@@ -1,0 +1,15 @@
+{
+  "id": "ax_circini",
+  "name": "AX Circini",
+  "rank": 5,
+  "ra": 223.14691149792,
+  "dec": -63.80982131411001,
+  "dist": 505.0505,
+  "otype": "cC*",
+  "spect": "F8II",
+  "cat": 18,
+  "v": "AX",
+  "v_con": "Cir",
+  "fl": 26,
+  "fl_con": "Cir"
+}

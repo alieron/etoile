@@ -1,0 +1,16 @@
+{
+  "id": "nu_1_coronae_borealis",
+  "name": "Nu 1 Coronae Borealis",
+  "rank": 4,
+  "ra": 245.58927013859997,
+  "dec": 33.799052230520005,
+  "dist": 196.4637,
+  "otype": "*",
+  "spect": "M2III",
+  "cat": 14,
+  "by": "nu.01",
+  "by_greek": "ν¹",
+  "by_con": "CrB",
+  "fl": 20,
+  "fl_con": "CrB"
+}

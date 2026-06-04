@@ -1,0 +1,16 @@
+{
+  "id": "c_bootis",
+  "name": "c Boötis",
+  "rank": 4,
+  "ra": 226.82527472847997,
+  "dec": 24.86919427955,
+  "dist": 19.5542,
+  "otype": "PM*",
+  "spect": "F5V",
+  "cat": 6,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Boo",
+  "fl": 45,
+  "fl_con": "Boo"
+}

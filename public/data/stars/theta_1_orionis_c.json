@@ -1,0 +1,18 @@
+{
+  "id": "theta_1_orionis_c",
+  "name": "Theta 1 Orionis C",
+  "rank": 4,
+  "ra": 83.8186095697,
+  "dec": -5.3897005033,
+  "dist": 100000.0,
+  "otype": "SB*",
+  "spect": "O7Vp",
+  "cat": 17,
+  "by": "tet01",
+  "by_greek": "θ¹",
+  "by_con": "Ori",
+  "by_comp": "C",
+  "fl": 41,
+  "fl_con": "Ori",
+  "fl_comp": "C"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sigma_orionis_d",
+  "name": "Sigma Orionis D",
+  "rank": 4,
+  "ra": 84.69010556463,
+  "dec": -2.5996929663399997,
+  "dist": 156.7398,
+  "otype": "Y*O",
+  "spect": "B2V",
+  "cat": 21,
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Ori",
+  "by_comp": "D"
+}

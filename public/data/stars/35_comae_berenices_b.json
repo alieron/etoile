@@ -1,0 +1,14 @@
+{
+  "id": "35_comae_berenices_b",
+  "name": "35 Comae Berenices B",
+  "rank": 5,
+  "ra": 193.32394558,
+  "dec": 21.244665887222226,
+  "dist": 86.8056,
+  "otype": "PM*",
+  "spect": "F6:",
+  "cat": 6,
+  "fl": 35,
+  "fl_con": "Com",
+  "fl_comp": "B"
+}

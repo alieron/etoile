@@ -1,0 +1,16 @@
+{
+  "id": "l_puppis",
+  "name": "l Puppis",
+  "rank": 3,
+  "ra": 115.95195672770251,
+  "dec": -28.95482621033833,
+  "dist": 100000.0,
+  "otype": "sg*",
+  "spect": "A4Iabe",
+  "cat": 17,
+  "by": "l",
+  "by_greek": "l",
+  "by_con": "Pup",
+  "fl": 3,
+  "fl_con": "Pup"
+}

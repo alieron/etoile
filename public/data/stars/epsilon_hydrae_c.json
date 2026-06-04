@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_hydrae_c",
+  "name": "Epsilon Hydrae C",
+  "rank": 4,
+  "ra": 131.69314029886,
+  "dec": 6.41915790864,
+  "dist": 37.826,
+  "otype": "SB*",
+  "spect": "F7V",
+  "cat": 6,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Hya",
+  "by_comp": "C"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kappa_orionis",
+  "name": "Kappa Orionis",
+  "rank": 2,
+  "ra": 86.93912016833333,
+  "dec": -9.66960491861111,
+  "dist": 198.4127,
+  "otype": "s*b",
+  "spect": "B0.5Ia",
+  "cat": 17,
+  "proper": "Saiph",
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Ori",
+  "fl": 53,
+  "fl_con": "Ori"
+}

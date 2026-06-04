@@ -1,0 +1,15 @@
+{
+  "id": "v1661_cygni",
+  "name": "V1661 Cygni",
+  "rank": 5,
+  "ra": 312.2345483006,
+  "dec": 46.11413434584,
+  "dist": 714.2857,
+  "otype": "s*b",
+  "spect": "B2.5Ia",
+  "cat": 17,
+  "v": "V1661",
+  "v_con": "Cyg",
+  "fl": 55,
+  "fl_con": "Cyg"
+}

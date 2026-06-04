@@ -1,0 +1,14 @@
+{
+  "id": "4_monocerotis_b",
+  "name": "4 Monocerotis B",
+  "rank": 5,
+  "ra": 92.1056332286,
+  "dec": -11.147265414789999,
+  "dist": 80.295,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 4,
+  "fl_con": "Mon",
+  "fl_comp": "B"
+}

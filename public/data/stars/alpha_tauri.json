@@ -1,0 +1,17 @@
+{
+  "id": "alpha_tauri",
+  "name": "Alpha Tauri",
+  "rank": 2,
+  "ra": 68.9801627900154,
+  "dec": 16.5093023507718,
+  "dist": 20.4332,
+  "otype": "LP?",
+  "spect": "K5+III",
+  "cat": 13,
+  "proper": "Aldebaran",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Tau",
+  "fl": 87,
+  "fl_con": "Tau"
+}

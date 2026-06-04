@@ -1,0 +1,17 @@
+{
+  "id": "beta_1_monocerotis",
+  "name": "Beta 1 Monocerotis",
+  "rank": 3,
+  "ra": 97.20445710998001,
+  "dec": -7.033058368333033,
+  "dist": 207.470974689,
+  "otype": "Be*",
+  "spect": "B4Ve+B2Vn(e)+B3V:nne",
+  "cat": 8,
+  "by": "bet01",
+  "by_greek": "β¹",
+  "by_con": "Mon",
+  "fl": 11,
+  "fl_con": "Mon",
+  "fl_comp": "A"
+}

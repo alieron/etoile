@@ -1,0 +1,14 @@
+{
+  "id": "21_cancri_b",
+  "name": "21 Cancri B",
+  "rank": 5,
+  "ra": 125.97971647083332,
+  "dec": 10.632004977777777,
+  "dist": 272.4796,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 21,
+  "fl_con": "Cnc",
+  "fl_comp": "B"
+}

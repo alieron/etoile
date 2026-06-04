@@ -1,0 +1,13 @@
+{
+  "id": "8_persei",
+  "name": "8 Persei",
+  "rank": 5,
+  "ra": 34.49953011256001,
+  "dec": 57.89982132122001,
+  "dist": 125.9446,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "fl": 8,
+  "fl_con": "Per"
+}

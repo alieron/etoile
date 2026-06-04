@@ -1,0 +1,16 @@
+{
+  "id": "pi_6_orionis",
+  "name": "Pi 6 Orionis",
+  "rank": 3,
+  "ra": 74.63709287275,
+  "dec": 1.7140135367600002,
+  "dist": 289.8551,
+  "otype": "*",
+  "spect": "K2-IIb",
+  "cat": 15,
+  "by": "pi.06",
+  "by_greek": "π⁶",
+  "by_con": "Ori",
+  "fl": 10,
+  "fl_con": "Ori"
+}

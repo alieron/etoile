@@ -1,0 +1,16 @@
+{
+  "id": "w_carinae",
+  "name": "w Carinae",
+  "rank": 4,
+  "ra": 160.88453953976,
+  "dec": -60.566620770969166,
+  "dist": 349.6503,
+  "otype": "LP?",
+  "spect": "K4III",
+  "cat": 13,
+  "by": "w",
+  "by_greek": "w",
+  "by_con": "Car",
+  "v": "V520",
+  "v_con": "Car"
+}

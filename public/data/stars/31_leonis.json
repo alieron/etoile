@@ -1,0 +1,14 @@
+{
+  "id": "31_leonis",
+  "name": "31 Leonis",
+  "rank": 2,
+  "ra": 151.9761254861525,
+  "dec": 9.997506874934166,
+  "dist": 90.5797,
+  "otype": "PM*",
+  "spect": "K3.5IIIbFe-1:",
+  "cat": 15,
+  "proper": "Yunü",
+  "fl": 31,
+  "fl_con": "Leo"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "b_3_hydrae",
+  "name": "b 3 Hydrae",
+  "rank": 4,
+  "ra": 163.37305094078,
+  "dec": -20.13872945562,
+  "dist": 30.8071,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "by": "b03",
+  "by_greek": "b³",
+  "by_con": "Hya",
+  "fl": 6,
+  "fl_con": "Crt"
+}

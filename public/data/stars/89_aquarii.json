@@ -1,0 +1,13 @@
+{
+  "id": "89_aquarii",
+  "name": "89 Aquarii",
+  "rank": 5,
+  "ra": 347.47870627107613,
+  "dec": -22.457606905887776,
+  "dist": 154.5595,
+  "otype": "**",
+  "spect": "G2III+A2V",
+  "cat": 13,
+  "fl": 89,
+  "fl_con": "Aqr"
+}

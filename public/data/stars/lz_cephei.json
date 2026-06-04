@@ -1,0 +1,15 @@
+{
+  "id": "lz_cephei",
+  "name": "LZ Cephei",
+  "rank": 5,
+  "ra": 330.5190526126099,
+  "dec": 58.000363821810005,
+  "dist": 934.5794,
+  "otype": "SB*",
+  "spect": "O9IV(n)var+B1:V:",
+  "cat": 9,
+  "v": "LZ",
+  "v_con": "Cep",
+  "fl": 14,
+  "fl_con": "Cep"
+}

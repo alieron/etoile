@@ -1,0 +1,16 @@
+{
+  "id": "chi_3_sagittarii",
+  "name": "Chi 3 Sagittarii",
+  "rank": 4,
+  "ra": 291.37358156858,
+  "dec": -23.962453665290003,
+  "dist": 153.1394,
+  "otype": "*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "chi03",
+  "by_greek": "χ³",
+  "by_con": "Sgr",
+  "fl": 49,
+  "fl_con": "Sgr"
+}

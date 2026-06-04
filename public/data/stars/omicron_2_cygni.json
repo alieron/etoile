@@ -1,0 +1,18 @@
+{
+  "id": "omicron_2_cygni",
+  "name": "Omicron 2 Cygni",
+  "rank": 3,
+  "ra": 303.8680175512,
+  "dec": 47.71422609236,
+  "dist": 324.6753,
+  "otype": "SB*",
+  "spect": "K7Ib-II+B1V",
+  "cat": 15,
+  "by": "omi02",
+  "by_greek": "ο²",
+  "by_con": "Cyg",
+  "v": "V1488",
+  "v_con": "Cyg",
+  "fl": 32,
+  "fl_con": "Cyg"
+}

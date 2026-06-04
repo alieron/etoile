@@ -1,0 +1,14 @@
+{
+  "id": "63_geminorum_b",
+  "name": "63 Geminorum B",
+  "rank": 5,
+  "ra": 111.93599017916668,
+  "dec": 21.445108152777777,
+  "dist": 32.0205,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 63,
+  "fl_con": "Gem",
+  "fl_comp": "B"
+}

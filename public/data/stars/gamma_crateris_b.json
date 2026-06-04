@@ -1,0 +1,18 @@
+{
+  "id": "gamma_crateris_b",
+  "name": "Gamma Crateris B",
+  "rank": 4,
+  "ra": 171.22200376655,
+  "dec": -17.68410139879,
+  "dist": 26.576,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Crt",
+  "by_comp": "B",
+  "fl": 15,
+  "fl_con": "Crt",
+  "fl_comp": "B"
+}

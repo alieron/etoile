@@ -1,0 +1,13 @@
+{
+  "id": "8_crateris",
+  "name": "8 Crateris",
+  "rank": 5,
+  "ra": 165.60188799483,
+  "dec": -26.83150561729,
+  "dist": 56.0852,
+  "otype": "**",
+  "spect": "A9III/IV",
+  "cat": 10,
+  "fl": 8,
+  "fl_con": "Crt"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "eta_telescopii_b",
+  "name": "Eta Telescopii B",
+  "rank": 4,
+  "ra": 290.7139917850992,
+  "dec": -54.42543607680444,
+  "dist": 47.7,
+  "otype": "LM*",
+  "spect": "M7.5V",
+  "cat": 3,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Tel",
+  "by_comp": "B"
+}

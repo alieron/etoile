@@ -1,0 +1,15 @@
+{
+  "id": "el_piscium",
+  "name": "EL Piscium",
+  "rank": 5,
+  "ra": 11.63729937483,
+  "dec": 15.475509018240002,
+  "dist": 238.0952,
+  "otype": "LP*",
+  "spect": "M4III",
+  "cat": 14,
+  "v": "EL",
+  "v_con": "Psc",
+  "fl": 57,
+  "fl_con": "Psc"
+}

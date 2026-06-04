@@ -1,0 +1,15 @@
+{
+  "id": "zeta_virginis_b",
+  "name": "Zeta Virginis B",
+  "rank": 4,
+  "ra": 203.67374999999998,
+  "dec": -0.5964444444444446,
+  "dist": 22.7118,
+  "otype": "LM*",
+  "spect": "M4V-M7V",
+  "cat": 3,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Vir",
+  "by_comp": "B"
+}

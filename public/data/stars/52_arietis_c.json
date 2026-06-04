@@ -1,0 +1,14 @@
+{
+  "id": "52_arietis_c",
+  "name": "52 Arietis C",
+  "rank": 5,
+  "ra": 46.361147344120006,
+  "dec": 25.25659729905,
+  "dist": 187.864,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 52,
+  "fl_con": "Ari",
+  "fl_comp": "C"
+}

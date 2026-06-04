@@ -1,0 +1,13 @@
+{
+  "id": "22_aurigae",
+  "name": "22 Aurigae",
+  "rank": 5,
+  "ra": 80.845302381,
+  "dec": 28.936760883289995,
+  "dist": 162.6016,
+  "otype": "*",
+  "spect": "B9Vs",
+  "cat": 8,
+  "fl": 22,
+  "fl_con": "Aur"
+}

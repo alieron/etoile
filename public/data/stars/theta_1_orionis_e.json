@@ -1,0 +1,15 @@
+{
+  "id": "theta_1_orionis_e",
+  "name": "Theta 1 Orionis E",
+  "rank": 4,
+  "ra": 83.81571742286,
+  "dec": -5.38608036575,
+  "dist": 382.995,
+  "otype": "Or*",
+  "spect": "G2IV",
+  "cat": 21,
+  "by": "tet01",
+  "by_greek": "θ¹",
+  "by_con": "Ori",
+  "by_comp": "E"
+}

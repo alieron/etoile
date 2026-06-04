@@ -1,0 +1,17 @@
+{
+  "id": "beta_cephei",
+  "name": "Beta Cephei",
+  "rank": 2,
+  "ra": 322.1649868804167,
+  "dec": 70.56071518916666,
+  "dist": 210.084,
+  "otype": "bC*",
+  "spect": "B0.5IIIs",
+  "cat": 8,
+  "proper": "Alfirk",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cep",
+  "fl": 8,
+  "fl_con": "Cep"
+}

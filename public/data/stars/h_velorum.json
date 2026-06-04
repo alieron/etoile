@@ -1,0 +1,14 @@
+{
+  "id": "h_velorum",
+  "name": "H Velorum",
+  "rank": 4,
+  "ra": 134.08026256965,
+  "dec": -52.72347411847999,
+  "dist": 108.3424,
+  "otype": "SB*",
+  "spect": "B5/6IV",
+  "cat": 9,
+  "by": "H",
+  "by_greek": "H",
+  "by_con": "Vel"
+}

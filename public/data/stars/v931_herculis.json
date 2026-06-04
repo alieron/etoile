@@ -1,0 +1,15 @@
+{
+  "id": "v931_herculis",
+  "name": "V931 Herculis",
+  "rank": 5,
+  "ra": 255.87589789929999,
+  "dec": 35.41406097548,
+  "dist": 229.8851,
+  "otype": "LP?",
+  "spect": "M4III",
+  "cat": 14,
+  "v": "V931",
+  "v_con": "Her",
+  "fl": 61,
+  "fl_con": "Her"
+}

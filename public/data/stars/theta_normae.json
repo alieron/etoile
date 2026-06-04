@@ -1,0 +1,14 @@
+{
+  "id": "theta_normae",
+  "name": "Theta Normae",
+  "rank": 4,
+  "ra": 243.81382400228,
+  "dec": -47.37201987805,
+  "dist": 118.2033,
+  "otype": "PM*",
+  "spect": "B8V",
+  "cat": 8,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Nor"
+}

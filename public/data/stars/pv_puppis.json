@@ -1,0 +1,16 @@
+{
+  "id": "pv_puppis",
+  "name": "PV Puppis",
+  "rank": 5,
+  "ra": 116.36973707178002,
+  "dec": -14.68616286693,
+  "dist": 100000.0,
+  "otype": "SB*",
+  "spect": "A0/1V",
+  "cat": 7,
+  "v": "PV",
+  "v_con": "Pup",
+  "fl": 2,
+  "fl_con": "Pup",
+  "fl_comp": "B"
+}

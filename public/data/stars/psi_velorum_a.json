@@ -1,0 +1,15 @@
+{
+  "id": "psi_velorum_a",
+  "name": "Psi Velorum A",
+  "rank": 3,
+  "ra": 142.67499823420744,
+  "dec": -40.46673934507773,
+  "dist": 18.814888147,
+  "otype": "PM*",
+  "spect": "F3VFe-0.7",
+  "cat": 6,
+  "by": "psi",
+  "by_greek": "ψ",
+  "by_con": "Vel",
+  "by_comp": "A"
+}

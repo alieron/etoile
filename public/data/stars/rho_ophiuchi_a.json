@@ -1,0 +1,18 @@
+{
+  "id": "rho_ophiuchi_a",
+  "name": "Rho Ophiuchi A",
+  "rank": 3,
+  "ra": 246.39632358927884,
+  "dec": -23.44717083027709,
+  "dist": 110.74310742000002,
+  "otype": "SB*",
+  "spect": "B2IV+B2V",
+  "cat": 9,
+  "by": "rho",
+  "by_greek": "ρ",
+  "by_con": "Oph",
+  "by_comp": "A",
+  "fl": 5,
+  "fl_con": "Oph",
+  "fl_comp": "A"
+}

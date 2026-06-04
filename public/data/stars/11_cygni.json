@@ -1,0 +1,13 @@
+{
+  "id": "11_cygni",
+  "name": "11 Cygni",
+  "rank": 5,
+  "ra": 293.95126806523,
+  "dec": 36.94454074271,
+  "dist": 184.8429,
+  "otype": "Be*",
+  "spect": "B8Vne",
+  "cat": 8,
+  "fl": 11,
+  "fl_con": "Cyg"
+}

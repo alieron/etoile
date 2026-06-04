@@ -1,0 +1,13 @@
+{
+  "id": "1_ceti",
+  "name": "1 Ceti",
+  "rank": 5,
+  "ra": 359.58843741597,
+  "dec": -15.84748362405,
+  "dist": 190.8397,
+  "otype": "PM*",
+  "spect": "K1IIICNII",
+  "cat": 13,
+  "fl": 1,
+  "fl_con": "Cet"
+}

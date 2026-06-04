@@ -1,0 +1,16 @@
+{
+  "id": "c_ophiuchi",
+  "name": "c Ophiuchi",
+  "rank": 4,
+  "ra": 262.8539744625691,
+  "dec": -23.962643000745558,
+  "dist": 124.3781,
+  "otype": "Be*",
+  "spect": "A0V",
+  "cat": 8,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Oph",
+  "fl": 51,
+  "fl_con": "Oph"
+}

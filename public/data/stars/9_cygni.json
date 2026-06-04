@@ -1,0 +1,13 @@
+{
+  "id": "9_cygni",
+  "name": "9 Cygni",
+  "rank": 5,
+  "ra": 293.71220157565,
+  "dec": 29.46296778773,
+  "dist": 171.2329,
+  "otype": "SB*",
+  "spect": "G8III+A2III:",
+  "cat": 13,
+  "fl": 9,
+  "fl_con": "Cyg"
+}

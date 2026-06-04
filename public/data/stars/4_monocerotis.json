@@ -1,0 +1,13 @@
+{
+  "id": "4_monocerotis",
+  "name": "4 Monocerotis",
+  "rank": 5,
+  "ra": 92.10580911815,
+  "dec": -11.14629063894,
+  "dist": 104.9318,
+  "otype": "*",
+  "spect": "A3V",
+  "cat": 7,
+  "fl": 4,
+  "fl_con": "Mon"
+}

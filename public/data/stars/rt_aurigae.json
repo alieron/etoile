@@ -1,0 +1,15 @@
+{
+  "id": "rt_aurigae",
+  "name": "RT Aurigae",
+  "rank": 5,
+  "ra": 97.14203410228626,
+  "dec": 30.493035999127777,
+  "dist": 100000.0,
+  "otype": "cC*",
+  "spect": "F5.5-G0Ib",
+  "cat": 18,
+  "v": "RT",
+  "v_con": "Aur",
+  "fl": 48,
+  "fl_con": "Aur"
+}

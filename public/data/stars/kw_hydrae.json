@@ -1,0 +1,15 @@
+{
+  "id": "kw_hydrae",
+  "name": "KW Hydrae",
+  "rank": 5,
+  "ra": 138.10854366445,
+  "dec": -7.109805389110001,
+  "dist": 86.7303,
+  "otype": "SB*",
+  "spect": "A0mA5/7-F0",
+  "cat": 7,
+  "v": "KW",
+  "v_con": "Hya",
+  "fl": 21,
+  "fl_con": "Hya"
+}

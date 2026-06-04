@@ -1,0 +1,18 @@
+{
+  "id": "tau_herculis_b",
+  "name": "Tau Herculis B",
+  "rank": 4,
+  "ra": 244.93652162288998,
+  "dec": 46.31175470199,
+  "dist": 97.994,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Her",
+  "by_comp": "B",
+  "fl": 22,
+  "fl_con": "Her",
+  "fl_comp": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "h_1_puppis",
+  "name": "h 1 Puppis",
+  "rank": 4,
+  "ra": 122.83955595925998,
+  "dec": -39.61854410984,
+  "dist": 520.8333,
+  "otype": "s*r",
+  "spect": "K4.5Ib",
+  "cat": 15,
+  "by": "h01",
+  "by_greek": "h¹",
+  "by_con": "Pup",
+  "v": "NS",
+  "v_con": "Pup"
+}

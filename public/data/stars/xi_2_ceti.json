@@ -1,0 +1,16 @@
+{
+  "id": "xi_2_ceti",
+  "name": "Xi 2 Ceti",
+  "rank": 3,
+  "ra": 37.0398210789746,
+  "dec": 8.4600602248073,
+  "dist": 59.2066,
+  "otype": "*",
+  "spect": "B9III",
+  "cat": 17,
+  "by": "ksi02",
+  "by_greek": "ξ²",
+  "by_con": "Cet",
+  "fl": 73,
+  "fl_con": "Cet"
+}

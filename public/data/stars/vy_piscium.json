@@ -1,0 +1,15 @@
+{
+  "id": "vy_piscium",
+  "name": "VY Piscium",
+  "rank": 5,
+  "ra": 26.64707729751,
+  "dec": 17.41269790355,
+  "dist": 140.056,
+  "otype": "dS*",
+  "spect": "A9III",
+  "cat": 6,
+  "v": "VY",
+  "v_con": "Psc",
+  "fl": 3,
+  "fl_con": "Ari"
+}

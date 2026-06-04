@@ -1,0 +1,16 @@
+{
+  "id": "v2215_ophiuchi",
+  "name": "V2215 Ophiuchi",
+  "rank": 5,
+  "ra": 259.0556767257492,
+  "dec": -26.54614904538722,
+  "dist": 5.9705,
+  "otype": "RS*",
+  "spect": "K5V",
+  "cat": 4,
+  "v": "V2215",
+  "v_con": "Oph",
+  "fl": 36,
+  "fl_con": "Oph",
+  "fl_comp": "C"
+}

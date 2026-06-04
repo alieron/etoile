@@ -1,0 +1,17 @@
+{
+  "id": "nu_capricorni",
+  "name": "Nu Capricorni",
+  "rank": 2,
+  "ra": 305.1658991456237,
+  "dec": -12.759080634501943,
+  "dist": 77.6398,
+  "otype": "*",
+  "spect": "B9IV",
+  "cat": 9,
+  "proper": "Alshat",
+  "by": "nu.",
+  "by_greek": "ν",
+  "by_con": "Cap",
+  "fl": 8,
+  "fl_con": "Cap"
+}

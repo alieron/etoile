@@ -1,0 +1,14 @@
+{
+  "id": "zeta_1_muscae",
+  "name": "Zeta 1 Muscae",
+  "rank": 4,
+  "ra": 185.55012052837998,
+  "dec": -68.30733591001,
+  "dist": 100.2004,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "zet01",
+  "by_greek": "ζ¹",
+  "by_con": "Mus"
+}

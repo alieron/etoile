@@ -1,0 +1,15 @@
+{
+  "id": "e_centauri_b",
+  "name": "e Centauri B",
+  "rank": 4,
+  "ra": 193.2819944456312,
+  "dec": -48.94266680267777,
+  "dist": 88.9711,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Cen",
+  "by_comp": "B"
+}

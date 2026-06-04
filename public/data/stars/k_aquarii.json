@@ -1,0 +1,18 @@
+{
+  "id": "k_aquarii",
+  "name": "k Aquarii",
+  "rank": 4,
+  "ra": 311.9343269618446,
+  "dec": -5.027701147756111,
+  "dist": 179.5332,
+  "otype": "LP*",
+  "spect": "M3III",
+  "cat": 14,
+  "by": "k",
+  "by_greek": "k",
+  "by_con": "Aqr",
+  "v": "EN",
+  "v_con": "Aqr",
+  "fl": 3,
+  "fl_con": "Aqr"
+}

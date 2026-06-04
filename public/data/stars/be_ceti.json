@@ -1,0 +1,15 @@
+{
+  "id": "be_ceti",
+  "name": "BE Ceti",
+  "rank": 5,
+  "ra": 5.715785230647916,
+  "dec": -12.209436089255277,
+  "dist": 20.8638,
+  "otype": "BY*",
+  "spect": "G2.5V",
+  "cat": 0,
+  "v": "BE",
+  "v_con": "Cet",
+  "fl": 9,
+  "fl_con": "Cet"
+}

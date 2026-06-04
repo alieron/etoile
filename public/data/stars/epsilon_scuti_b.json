@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_scuti_b",
+  "name": "Epsilon Scuti B",
+  "rank": 4,
+  "ra": 280.88345194863996,
+  "dec": -8.27441781565,
+  "dist": 165.0165,
+  "otype": "LP?",
+  "spect": "",
+  "cat": 0,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Sct",
+  "by_comp": "B"
+}

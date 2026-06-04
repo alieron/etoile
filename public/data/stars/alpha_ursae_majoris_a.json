@@ -1,0 +1,16 @@
+{
+  "id": "alpha_ursae_majoris_a",
+  "name": "Alpha Ursae Majoris A",
+  "rank": 2,
+  "ra": 165.9319646738126,
+  "dec": 61.751034687818226,
+  "dist": 37.679376790000006,
+  "otype": "PM*",
+  "spect": "G9III+A7.5",
+  "cat": 13,
+  "proper": "Dubhe",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "UMa",
+  "by_comp": "A"
+}

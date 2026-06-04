@@ -1,0 +1,15 @@
+{
+  "id": "cr_ursae_majoris",
+  "name": "CR Ursae Majoris",
+  "rank": 5,
+  "ra": 206.64856994852997,
+  "dec": 54.43267876629,
+  "dist": 89.0472,
+  "otype": "a2*",
+  "spect": "A0VpSrCrEu",
+  "cat": 20,
+  "v": "CR",
+  "v_con": "UMa",
+  "fl": 84,
+  "fl_con": "UMa"
+}

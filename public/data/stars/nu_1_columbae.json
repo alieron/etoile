@@ -1,0 +1,14 @@
+{
+  "id": "nu_1_columbae",
+  "name": "Nu 1 Columbae",
+  "rank": 4,
+  "ra": 84.31876251206,
+  "dec": -27.871454290960003,
+  "dist": 39.3701,
+  "otype": "*",
+  "spect": "F0IV",
+  "cat": 11,
+  "by": "nu.01",
+  "by_greek": "ν¹",
+  "by_con": "Col"
+}

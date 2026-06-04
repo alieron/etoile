@@ -1,0 +1,13 @@
+{
+  "id": "10_monocerotis",
+  "name": "10 Monocerotis",
+  "rank": 5,
+  "ra": 96.98986680181083,
+  "dec": -4.7621476108591665,
+  "dist": 333.3333,
+  "otype": "bC*",
+  "spect": "B2V",
+  "cat": 8,
+  "fl": 10,
+  "fl_con": "Mon"
+}

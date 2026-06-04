@@ -1,0 +1,16 @@
+{
+  "id": "psi_4_aurigae",
+  "name": "Psi 4 Aurigae",
+  "rank": 4,
+  "ra": 100.77071698459,
+  "dec": 44.524449467130005,
+  "dist": 99.2063,
+  "otype": "PM*",
+  "spect": "K5III",
+  "cat": 13,
+  "by": "psi04",
+  "by_greek": "ψ⁴",
+  "by_con": "Aur",
+  "fl": 55,
+  "fl_con": "Aur"
+}

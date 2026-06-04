@@ -1,0 +1,17 @@
+{
+  "id": "gamma_cygni",
+  "name": "Gamma Cygni",
+  "rank": 2,
+  "ra": 305.55709098208337,
+  "dec": 40.25667915638889,
+  "dist": 561.7978,
+  "otype": "*",
+  "spect": "F8Ib",
+  "cat": 16,
+  "proper": "Sadr",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cyg",
+  "fl": 37,
+  "fl_con": "Cyg"
+}

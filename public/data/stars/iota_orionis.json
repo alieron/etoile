@@ -1,0 +1,17 @@
+{
+  "id": "iota_orionis",
+  "name": "Iota Orionis",
+  "rank": 2,
+  "ra": 83.85827580502625,
+  "dec": -5.909888523506666,
+  "dist": 714.2857,
+  "otype": "SB*",
+  "spect": "O9IIIvar",
+  "cat": 9,
+  "proper": "Hatysa",
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Ori",
+  "fl": 44,
+  "fl_con": "Ori"
+}

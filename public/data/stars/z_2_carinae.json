@@ -1,0 +1,18 @@
+{
+  "id": "z_2_carinae",
+  "name": "z 2 Carinae",
+  "rank": 4,
+  "ra": 167.14165761612,
+  "dec": -61.94717569912,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B9.5Ia",
+  "cat": 17,
+  "by": "z02",
+  "by_greek": "z²",
+  "by_con": "Car",
+  "v": "V371",
+  "v_con": "Car",
+  "fl": 261,
+  "fl_con": "Car"
+}

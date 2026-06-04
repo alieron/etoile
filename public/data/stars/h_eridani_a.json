@@ -1,0 +1,15 @@
+{
+  "id": "h_eridani_a",
+  "name": "h Eridani A",
+  "rank": 4,
+  "ra": 55.708562114702914,
+  "dec": -37.313516819271946,
+  "dist": 56.4972,
+  "otype": "HB*",
+  "spect": "K1.5IIIbCN0.5",
+  "cat": 15,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Eri",
+  "by_comp": "A"
+}

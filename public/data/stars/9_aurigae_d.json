@@ -1,0 +1,14 @@
+{
+  "id": "9_aurigae_d",
+  "name": "9 Aurigae D",
+  "rank": 5,
+  "ra": 76.7039367439425,
+  "dec": 51.609449507719724,
+  "dist": 26.7976,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 9,
+  "fl_con": "Aur",
+  "fl_comp": "D"
+}

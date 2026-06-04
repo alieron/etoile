@@ -1,0 +1,16 @@
+{
+  "id": "theta_draconis",
+  "name": "Theta Draconis",
+  "rank": 3,
+  "ra": 240.4722707483108,
+  "dec": 58.56525053776528,
+  "dist": 21.0349,
+  "otype": "SB*",
+  "spect": "F9V",
+  "cat": 6,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Dra",
+  "fl": 13,
+  "fl_con": "Dra"
+}

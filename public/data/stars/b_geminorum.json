@@ -1,0 +1,16 @@
+{
+  "id": "b_geminorum",
+  "name": "b Geminorum",
+  "rank": 4,
+  "ra": 112.4531745852,
+  "dec": 27.916120362050002,
+  "dist": 148.368,
+  "otype": "SB*",
+  "spect": "G9IIIb",
+  "cat": 16,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Gem",
+  "fl": 65,
+  "fl_con": "Gem"
+}

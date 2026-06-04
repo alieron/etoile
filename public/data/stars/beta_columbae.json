@@ -1,0 +1,15 @@
+{
+  "id": "beta_columbae",
+  "name": "Beta Columbae",
+  "rank": 2,
+  "ra": 87.73996785288541,
+  "dec": -35.76830962121,
+  "dist": 26.7308,
+  "otype": "PM*",
+  "spect": "K1III_CN+1",
+  "cat": 13,
+  "proper": "Wazn",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Col"
+}

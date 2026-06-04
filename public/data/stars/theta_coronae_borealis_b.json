@@ -1,0 +1,15 @@
+{
+  "id": "theta_coronae_borealis_b",
+  "name": "Theta Coronae Borealis B",
+  "rank": 4,
+  "ra": 233.2323567625,
+  "dec": 31.358977519444448,
+  "dist": 115.0748,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "CrB",
+  "by_comp": "B"
+}

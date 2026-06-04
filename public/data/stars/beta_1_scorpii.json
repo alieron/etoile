@@ -1,0 +1,18 @@
+{
+  "id": "beta_1_scorpii",
+  "name": "Beta 1 Scorpii",
+  "rank": 2,
+  "ra": 241.3592999275,
+  "dec": -19.805452782777778,
+  "dist": 123.9157,
+  "otype": "bC*",
+  "spect": "B1V",
+  "cat": 8,
+  "proper": "Acrab",
+  "by": "bet01",
+  "by_greek": "β¹",
+  "by_con": "Sco",
+  "fl": 8,
+  "fl_con": "Sco",
+  "fl_comp": "A"
+}

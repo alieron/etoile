@@ -1,0 +1,16 @@
+{
+  "id": "g_aquarii",
+  "name": "g Aquarii",
+  "rank": 4,
+  "ra": 340.89680519415367,
+  "dec": -18.83037508142056,
+  "dist": 132.8021,
+  "otype": "*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "g",
+  "by_greek": "g",
+  "by_con": "Aqr",
+  "fl": 66,
+  "fl_con": "Aqr"
+}

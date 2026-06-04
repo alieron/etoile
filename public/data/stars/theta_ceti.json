@@ -1,0 +1,16 @@
+{
+  "id": "theta_ceti",
+  "name": "Theta Ceti",
+  "rank": 3,
+  "ra": 21.005847006805414,
+  "dec": -8.183260897344443,
+  "dist": 34.8918,
+  "otype": "HB*",
+  "spect": "K0IIIb",
+  "cat": 15,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cet",
+  "fl": 45,
+  "fl_con": "Cet"
+}

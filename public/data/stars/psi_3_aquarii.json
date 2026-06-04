@@ -1,0 +1,16 @@
+{
+  "id": "psi_3_aquarii",
+  "name": "Psi 3 Aquarii",
+  "rank": 4,
+  "ra": 349.74031942223,
+  "dec": -9.61074871262,
+  "dist": 80.1925,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "psi03",
+  "by_greek": "ψ³",
+  "by_con": "Aqr",
+  "fl": 95,
+  "fl_con": "Aqr"
+}

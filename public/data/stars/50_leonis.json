@@ -1,0 +1,13 @@
+{
+  "id": "50_leonis",
+  "name": "50 Leonis",
+  "rank": 5,
+  "ra": 159.72722472204,
+  "dec": 16.1274243236,
+  "dist": 52.3286,
+  "otype": "PM*",
+  "spect": "F5V",
+  "cat": 6,
+  "fl": 50,
+  "fl_con": "Leo"
+}

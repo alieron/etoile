@@ -1,0 +1,14 @@
+{
+  "id": "delta_2_telescopii",
+  "name": "Delta 2 Telescopii",
+  "rank": 4,
+  "ra": 278.00810174593,
+  "dec": -45.757379180150004,
+  "dist": 366.3004,
+  "otype": "SB*",
+  "spect": "B3IV/V",
+  "cat": 9,
+  "by": "del02",
+  "by_greek": "δ²",
+  "by_con": "Tel"
+}

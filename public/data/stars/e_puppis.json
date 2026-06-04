@@ -1,0 +1,16 @@
+{
+  "id": "e_puppis",
+  "name": "E Puppis",
+  "rank": 4,
+  "ra": 108.06586250894,
+  "dec": -40.49882093915,
+  "dist": 126.1034,
+  "otype": "SB*",
+  "spect": "A1/2V:+ApSrEu",
+  "cat": 7,
+  "by": "E",
+  "by_greek": "E",
+  "by_con": "Pup",
+  "fl": 70,
+  "fl_con": "Pup"
+}

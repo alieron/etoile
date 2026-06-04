@@ -1,0 +1,14 @@
+{
+  "id": "xi_1_centauri",
+  "name": "Xi 1 Centauri",
+  "rank": 4,
+  "ra": 195.88877129561996,
+  "dec": -49.52726358175,
+  "dist": 67.6133,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "ksi01",
+  "by_greek": "ξ¹",
+  "by_con": "Cen"
+}

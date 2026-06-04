@@ -1,0 +1,17 @@
+{
+  "id": "eta_ursae_majoris",
+  "name": "Eta Ursae Majoris",
+  "rank": 2,
+  "ra": 206.88515734206297,
+  "dec": 49.31326672942533,
+  "dist": 31.8674,
+  "otype": "PM*",
+  "spect": "B3V",
+  "cat": 8,
+  "proper": "Alkaid",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "UMa",
+  "fl": 85,
+  "fl_con": "UMa"
+}

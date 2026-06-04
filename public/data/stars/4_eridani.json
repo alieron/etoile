@@ -1,0 +1,13 @@
+{
+  "id": "4_eridani",
+  "name": "4 Eridani",
+  "rank": 5,
+  "ra": 44.34902727981,
+  "dec": -23.86216557161,
+  "dist": 47.6872,
+  "otype": "PM*",
+  "spect": "A5IV/V",
+  "cat": 10,
+  "fl": 4,
+  "fl_con": "Eri"
+}

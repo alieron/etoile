@@ -1,0 +1,16 @@
+{
+  "id": "mu_herculis",
+  "name": "Mu Herculis",
+  "rank": 3,
+  "ra": 266.61478040032705,
+  "dec": 27.720711383034715,
+  "dist": 8.3105,
+  "otype": "**",
+  "spect": "G5IV",
+  "cat": 11,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Her",
+  "fl": 86,
+  "fl_con": "Her"
+}

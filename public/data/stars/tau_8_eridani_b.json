@@ -1,0 +1,15 @@
+{
+  "id": "tau_8_eridani_b",
+  "name": "Tau 8 Eridani B",
+  "rank": 4,
+  "ra": 58.428653560914576,
+  "dec": -24.61953073148861,
+  "dist": 105.775,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "tau08",
+  "by_greek": "τ⁸",
+  "by_con": "Eri",
+  "by_comp": "B"
+}

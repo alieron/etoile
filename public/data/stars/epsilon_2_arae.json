@@ -1,0 +1,14 @@
+{
+  "id": "epsilon_2_arae",
+  "name": "Epsilon 2 Arae",
+  "rank": 4,
+  "ra": 255.78647331191996,
+  "dec": -53.23693600877001,
+  "dist": 27.2257,
+  "otype": "**",
+  "spect": "F5VFe+0.5",
+  "cat": 6,
+  "by": "eps02",
+  "by_greek": "ε²",
+  "by_con": "Ara"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zeta_orionis_c",
+  "name": "Zeta Orionis C",
+  "rank": 4,
+  "ra": 85.19236298923,
+  "dec": -1.9267637100999997,
+  "dist": 386.444,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Ori",
+  "by_comp": "C"
+}

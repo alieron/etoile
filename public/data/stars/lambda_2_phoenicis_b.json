@@ -1,0 +1,15 @@
+{
+  "id": "lambda_2_phoenicis_b",
+  "name": "Lambda 2 Phoenicis B",
+  "rank": 4,
+  "ra": 8.92353351625125,
+  "dec": -48.00388771894417,
+  "dist": 35.3369,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "lam02",
+  "by_greek": "λ²",
+  "by_con": "Phe",
+  "by_comp": "B"
+}

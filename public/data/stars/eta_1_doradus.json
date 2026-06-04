@@ -1,0 +1,14 @@
+{
+  "id": "eta_1_doradus",
+  "name": "Eta 1 Doradus",
+  "rank": 4,
+  "ra": 91.53909069845,
+  "dec": -66.03962089776,
+  "dist": 98.6193,
+  "otype": "SB*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "eta01",
+  "by_greek": "η¹",
+  "by_con": "Dor"
+}

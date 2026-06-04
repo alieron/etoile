@@ -1,0 +1,15 @@
+{
+  "id": "kappa_leonis_b",
+  "name": "Kappa Leonis B",
+  "rank": 4,
+  "ra": 141.1630108935721,
+  "dec": 26.181640703919722,
+  "dist": 61.7284,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Leo",
+  "by_comp": "B"
+}

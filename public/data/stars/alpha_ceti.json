@@ -1,0 +1,17 @@
+{
+  "id": "alpha_ceti",
+  "name": "Alpha Ceti",
+  "rank": 2,
+  "ra": 45.56988780332224,
+  "dec": 4.089738771805157,
+  "dist": 76.3942,
+  "otype": "LP?",
+  "spect": "M1.5IIIa",
+  "cat": 15,
+  "proper": "Menkar",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cet",
+  "fl": 92,
+  "fl_con": "Cet"
+}

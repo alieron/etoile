@@ -1,0 +1,18 @@
+{
+  "id": "l_hydrae_c",
+  "name": "l Hydrae C",
+  "rank": 4,
+  "ra": 217.0421606104,
+  "dec": -29.49140408143,
+  "dist": 128.121,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "l",
+  "by_greek": "l",
+  "by_con": "Hya",
+  "by_comp": "C",
+  "fl": 52,
+  "fl_con": "Hya",
+  "fl_comp": "C"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "k_centauri",
+  "name": "K Centauri",
+  "rank": 4,
+  "ra": 202.35522611598998,
+  "dec": -51.16513152620999,
+  "dist": 155.521,
+  "otype": "*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "K",
+  "by_greek": "K",
+  "by_con": "Cen"
+}

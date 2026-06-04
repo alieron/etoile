@@ -1,0 +1,15 @@
+{
+  "id": "gamma_lupi_a",
+  "name": "Gamma Lupi A",
+  "rank": 3,
+  "ra": 233.78520144771352,
+  "dec": -41.16675686900692,
+  "dist": 129.033590323,
+  "otype": "SB*",
+  "spect": "B2IV",
+  "cat": 9,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Lup",
+  "by_comp": "A"
+}

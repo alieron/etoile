@@ -1,0 +1,19 @@
+{
+  "id": "l_eridani_a",
+  "name": "l Eridani A",
+  "rank": 2,
+  "ra": 69.54509840443708,
+  "dec": -14.30402789671278,
+  "dist": 33.681736814,
+  "otype": "PM*",
+  "spect": "K2-IIIb",
+  "cat": 15,
+  "proper": "Sceptrum",
+  "by": "l",
+  "by_greek": "l",
+  "by_con": "Eri",
+  "by_comp": "A",
+  "fl": 53,
+  "fl_con": "Eri",
+  "fl_comp": "A"
+}

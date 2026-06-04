@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StarCategory",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "rgb",
+    "color",
+    "radius",
+    "point",
+    "halo",
+    "glow"
+  ],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "name": {
+      "type": "string"
+    },
+    "rgb": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "integer",
+        "minimum": 0,
+        "maximum": 255
+      }
+    },
+    "color": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      }
+    },
+    "radius": {
+      "type": "number"
+    },
+    "point": {
+      "type": "number"
+    },
+    "halo": {
+      "type": "number"
+    },
+    "glow": {
+      "type": "number"
+    }
+  },
+  "additionalProperties": false
+}

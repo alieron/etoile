@@ -1,0 +1,15 @@
+{
+  "id": "b_velorum_a",
+  "name": "B Velorum A",
+  "rank": 4,
+  "ra": 125.63205878624781,
+  "dec": -48.49037863888738,
+  "dist": 526.321063158,
+  "otype": "*",
+  "spect": "B2III",
+  "cat": 17,
+  "by": "B",
+  "by_greek": "B",
+  "by_con": "Vel",
+  "by_comp": "A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bq_geminorum",
+  "name": "BQ Geminorum",
+  "rank": 5,
+  "ra": 108.34281597940002,
+  "dec": 16.15896421893,
+  "dist": 165.8375,
+  "otype": "LP*",
+  "spect": "M4III",
+  "cat": 14,
+  "v": "BQ",
+  "v_con": "Gem",
+  "fl": 51,
+  "fl_con": "Gem"
+}

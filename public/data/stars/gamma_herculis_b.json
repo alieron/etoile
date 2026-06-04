@@ -1,0 +1,15 @@
+{
+  "id": "gamma_herculis_b",
+  "name": "Gamma Herculis B",
+  "rank": 4,
+  "ra": 245.48020110558,
+  "dec": 19.1508004572,
+  "dist": 59.345,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Her",
+  "by_comp": "B"
+}

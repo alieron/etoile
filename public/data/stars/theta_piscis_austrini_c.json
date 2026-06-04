@@ -1,0 +1,15 @@
+{
+  "id": "theta_piscis_austrini_c",
+  "name": "Theta Piscis Austrini C",
+  "rank": 4,
+  "ra": 326.9348266874896,
+  "dec": -30.89676539843416,
+  "dist": 94.9514,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "PsA",
+  "by_comp": "C"
+}

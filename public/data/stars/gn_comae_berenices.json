@@ -1,0 +1,15 @@
+{
+  "id": "gn_comae_berenices",
+  "name": "GN Comae Berenices",
+  "rank": 5,
+  "ra": 186.07728709571998,
+  "dec": 26.098589278830005,
+  "dist": 81.103,
+  "otype": "a2*",
+  "spect": "A3V",
+  "cat": 20,
+  "v": "GN",
+  "v_con": "Com",
+  "fl": 13,
+  "fl_con": "Com"
+}

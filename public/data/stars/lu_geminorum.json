@@ -1,0 +1,15 @@
+{
+  "id": "lu_geminorum",
+  "name": "LU Geminorum",
+  "rank": 5,
+  "ra": 94.83040019547,
+  "dec": 23.46940611501,
+  "dist": 990.099,
+  "otype": "bC*",
+  "spect": "B0II",
+  "cat": 8,
+  "v": "LU",
+  "v_con": "Gem",
+  "fl": 11,
+  "fl_con": "Gem"
+}

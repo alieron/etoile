@@ -1,0 +1,14 @@
+{
+  "id": "z_centauri",
+  "name": "z Centauri",
+  "rank": 4,
+  "ra": 206.73479897558997,
+  "dec": -36.251933347599994,
+  "dist": 133.8688,
+  "otype": "Pu*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "z",
+  "by_greek": "z",
+  "by_con": "Cen"
+}

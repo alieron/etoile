@@ -1,0 +1,16 @@
+{
+  "id": "psi_8_aurigae",
+  "name": "Psi 8 Aurigae",
+  "rank": 4,
+  "ra": 103.48780427170001,
+  "dec": 38.50501910637,
+  "dist": 229.3578,
+  "otype": "*",
+  "spect": "B9.5pSi",
+  "cat": 8,
+  "by": "psi08",
+  "by_greek": "ψ⁸",
+  "by_con": "Aur",
+  "fl": 61,
+  "fl_con": "Aur"
+}

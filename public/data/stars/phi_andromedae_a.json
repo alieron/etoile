@@ -1,0 +1,19 @@
+{
+  "id": "phi_andromedae_a",
+  "name": "Phi Andromedae A",
+  "rank": 2,
+  "ra": 17.37552339943203,
+  "dec": 47.241794288193404,
+  "dist": 219.78239780200002,
+  "otype": "*",
+  "spect": "B5IIIe",
+  "cat": 17,
+  "proper": "Junnanmen",
+  "by": "phi",
+  "by_greek": "φ",
+  "by_con": "And",
+  "by_comp": "A",
+  "fl": 42,
+  "fl_con": "And",
+  "fl_comp": "A"
+}

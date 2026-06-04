@@ -1,121 +1,99 @@
 {
-  "abbreviation": "LMi",
+  "id": "LMi",
   "name": "Leo Minor",
-  "genitive": "Leonis Minoris",
-  "meaning": "Lesser Lion",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 140.646,
-        "dec_deg": 32.9691,
-        "ra_deg_signed": 140.646
-      },
-      {
-        "ra_deg": 140.7216,
-        "dec_deg": 39.2188,
-        "ra_deg_signed": 140.7216
-      },
-      {
-        "ra_deg": 145.682,
-        "dec_deg": 39.1818,
-        "ra_deg_signed": 145.682
-      },
-      {
-        "ra_deg": 145.7092,
-        "dec_deg": 41.4317,
-        "ra_deg_signed": 145.7092
-      },
-      {
-        "ra_deg": 154.3782,
-        "dec_deg": 41.3774,
-        "ra_deg_signed": 154.3782
-      },
-      {
-        "ra_deg": 154.3594,
-        "dec_deg": 39.3774,
-        "ra_deg_signed": 154.3594
-      },
-      {
-        "ra_deg": 163.5232,
-        "dec_deg": 39.3356,
-        "ra_deg_signed": 163.5232
-      },
-      {
-        "ra_deg": 163.4894,
-        "dec_deg": 33.3357,
-        "ra_deg_signed": 163.4894
-      },
-      {
-        "ra_deg": 166.7142,
-        "dec_deg": 33.325,
-        "ra_deg_signed": 166.7142
-      },
-      {
-        "ra_deg": 166.694,
-        "dec_deg": 28.325,
-        "ra_deg_signed": 166.694
-      },
-      {
-        "ra_deg": 166.6809,
-        "dec_deg": 24.825,
-        "ra_deg_signed": 166.6809
-      },
-      {
-        "ra_deg": 162.9515,
-        "dec_deg": 24.8376,
-        "ra_deg_signed": 162.9515
-      },
-      {
-        "ra_deg": 162.9425,
-        "dec_deg": 22.8376,
-        "ra_deg_signed": 162.9425
-      },
-      {
-        "ra_deg": 159.2109,
-        "dec_deg": 22.853,
-        "ra_deg_signed": 159.2109
-      },
-      {
-        "ra_deg": 159.2384,
-        "dec_deg": 27.8529,
-        "ra_deg_signed": 159.2384
-      },
-      {
-        "ra_deg": 150.0423,
-        "dec_deg": 27.9024,
-        "ra_deg_signed": 150.0423
-      },
-      {
-        "ra_deg": 150.0844,
-        "dec_deg": 32.9023,
-        "ra_deg_signed": 150.0844
-      },
-      {
-        "ra_deg": 140.646,
-        "dec_deg": 32.9691,
-        "ra_deg_signed": 140.646
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Leonis Minoris",
+  "meaning": "Little Lion",
+  "rank": 2,
+  "focus": [
+    153.6801,
+    32.1346,
+    61
+  ],
+  "label": [
+    157.5,
+    30
+  ],
+  "bound": [
     [
-      46952,
-      49593,
-      51233,
-      53229,
-      51056,
-      49593
+      [
+        140.646,
+        32.9691
+      ],
+      [
+        140.7216,
+        39.2188
+      ],
+      [
+        145.682,
+        39.1818
+      ],
+      [
+        145.7092,
+        41.4317
+      ],
+      [
+        154.3782,
+        41.3774
+      ],
+      [
+        154.3594,
+        39.3774
+      ],
+      [
+        163.5232,
+        39.3356
+      ],
+      [
+        163.4894,
+        33.3357
+      ],
+      [
+        166.7142,
+        33.325
+      ],
+      [
+        166.694,
+        28.325
+      ],
+      [
+        166.6809,
+        24.825
+      ],
+      [
+        162.9515,
+        24.8376
+      ],
+      [
+        162.9425,
+        22.8376
+      ],
+      [
+        159.2109,
+        22.853
+      ],
+      [
+        159.2384,
+        27.8529
+      ],
+      [
+        150.0423,
+        27.9024
+      ],
+      [
+        150.0844,
+        32.9023
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Praecipua",
-    "designation": "46    LMi",
-    "display_name": "Praecipua",
-    "display_name_greek": "Praecipua",
-    "hip": 53229,
-    "ra_deg": 163.32789,
-    "dec_deg": 34.214871
-  }
+  "lines": [
+    [
+      "su_leonis_minoris",
+      "21_leonis_minoris",
+      "beta_leonis_minoris",
+      "46_leonis_minoris",
+      "30_leonis_minoris",
+      "21_leonis_minoris"
+    ]
+  ],
+  "bright": "46_leonis_minoris"
 }

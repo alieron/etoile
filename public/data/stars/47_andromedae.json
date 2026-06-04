@@ -1,0 +1,13 @@
+{
+  "id": "47_andromedae",
+  "name": "47 Andromedae",
+  "rank": 5,
+  "ra": 20.919234508920002,
+  "dec": 37.71494426926,
+  "dist": 63.857,
+  "otype": "SB*",
+  "spect": "A2Vm",
+  "cat": 7,
+  "fl": 47,
+  "fl_con": "And"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "psi_2_orionis",
+  "name": "Psi 2 Orionis",
+  "rank": 4,
+  "ra": 81.70928884671,
+  "dec": 3.0956728206000004,
+  "dist": 348.4321,
+  "otype": "bC*",
+  "spect": "B2IV",
+  "cat": 8,
+  "by": "psi02",
+  "by_greek": "ψ²",
+  "by_con": "Ori",
+  "fl": 30,
+  "fl_con": "Ori"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gamma_normae",
+  "name": "Gamma Normae",
+  "rank": 4,
+  "ra": 244.25389311347118,
+  "dec": -50.06812142537778,
+  "dist": 450.45500450500003,
+  "otype": "**",
+  "spect": "F9Ia",
+  "cat": 16,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Nor"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5_piscium_b",
+  "name": "5 Piscium B",
+  "rank": 5,
+  "ra": 347.17002258350004,
+  "dec": 2.1277231483991668,
+  "dist": 95.9711,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 5,
+  "fl_con": "Psc",
+  "fl_comp": "B"
+}

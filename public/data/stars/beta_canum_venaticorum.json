@@ -1,0 +1,17 @@
+{
+  "id": "beta_canum_venaticorum",
+  "name": "Beta Canum Venaticorum",
+  "rank": 2,
+  "ra": 188.43560104856124,
+  "dec": 41.35747815357195,
+  "dist": 8.4395,
+  "otype": "**",
+  "spect": "G0V",
+  "cat": 5,
+  "proper": "Chara",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "CVn",
+  "fl": 8,
+  "fl_con": "CVn"
+}

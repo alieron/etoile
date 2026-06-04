@@ -1,107 +1,87 @@
 {
-  "abbreviation": "CVn",
+  "id": "CVn",
   "name": "Canes Venatici",
-  "genitive": "Canum Venaticorum",
-  "meaning": "Hunting Dogs",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 181.5945,
-        "dec_deg": 33.304,
-        "ra_deg_signed": -178.4055
-      },
-      {
-        "ra_deg": 181.5914,
-        "dec_deg": 44.304,
-        "ra_deg_signed": -178.4086
-      },
-      {
-        "ra_deg": 182.8264,
-        "dec_deg": 44.3043,
-        "ra_deg_signed": -177.1736
-      },
-      {
-        "ra_deg": 182.8185,
-        "dec_deg": 52.3043,
-        "ra_deg_signed": -177.1815
-      },
-      {
-        "ra_deg": 203.7424,
-        "dec_deg": 52.3598,
-        "ra_deg_signed": -156.2576
-      },
-      {
-        "ra_deg": 203.7951,
-        "dec_deg": 47.8599,
-        "ra_deg_signed": -156.2049
-      },
-      {
-        "ra_deg": 211.6987,
-        "dec_deg": 47.9039,
-        "ra_deg_signed": -148.3013
-      },
-      {
-        "ra_deg": 211.8889,
-        "dec_deg": 30.1545,
-        "ra_deg_signed": -148.1111
-      },
-      {
-        "ra_deg": 210.7709,
-        "dec_deg": 30.1476,
-        "ra_deg_signed": -149.2291
-      },
-      {
-        "ra_deg": 210.7888,
-        "dec_deg": 27.8977,
-        "ra_deg_signed": -149.2112
-      },
-      {
-        "ra_deg": 203.9539,
-        "dec_deg": 27.8603,
-        "ra_deg_signed": -156.0461
-      },
-      {
-        "ra_deg": 200.2266,
-        "dec_deg": 27.8438,
-        "ra_deg_signed": -159.7734
-      },
-      {
-        "ra_deg": 200.2077,
-        "dec_deg": 31.3437,
-        "ra_deg_signed": -159.7923
-      },
-      {
-        "ra_deg": 186.5577,
-        "dec_deg": 31.3074,
-        "ra_deg_signed": -173.4423
-      },
-      {
-        "ra_deg": 186.5543,
-        "dec_deg": 33.3074,
-        "ra_deg_signed": -173.4457
-      },
-      {
-        "ra_deg": 181.5945,
-        "dec_deg": 33.304,
-        "ra_deg_signed": -178.4055
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Canum Venaticorum",
+  "meaning": "Hunting Dogs",
+  "rank": 1,
+  "focus": [
+    -163.2598,
+    40.1018,
+    65
+  ],
+  "label": [
+    -168,
+    43
+  ],
+  "bound": [
     [
-      63125,
-      61317
+      [
+        -178.4055,
+        33.304
+      ],
+      [
+        -178.4086,
+        44.304
+      ],
+      [
+        -177.1736,
+        44.3043
+      ],
+      [
+        -177.1815,
+        52.3043
+      ],
+      [
+        -156.2576,
+        52.3598
+      ],
+      [
+        -156.2049,
+        47.8599
+      ],
+      [
+        -148.3013,
+        47.9039
+      ],
+      [
+        -148.1111,
+        30.1545
+      ],
+      [
+        -149.2291,
+        30.1476
+      ],
+      [
+        -149.2112,
+        27.8977
+      ],
+      [
+        -156.0461,
+        27.8603
+      ],
+      [
+        -159.7734,
+        27.8438
+      ],
+      [
+        -159.7923,
+        31.3437
+      ],
+      [
+        -173.4423,
+        31.3074
+      ],
+      [
+        -173.4457,
+        33.3074
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Cor Caroli",
-    "designation": "12Alp2CVn",
-    "display_name": "12 Alpha2CVn Canum Venaticorum",
-    "display_name_greek": "12 α2CVn Canum Venaticorum",
-    "hip": 63125,
-    "ra_deg": 194.007105,
-    "dec_deg": 38.31838
-  }
+  "lines": [
+    [
+      "alpha_canum_venaticorum_a",
+      "beta_canum_venaticorum"
+    ]
+  ],
+  "bright": "alpha_canum_venaticorum_a"
 }

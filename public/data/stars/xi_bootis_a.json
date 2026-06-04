@@ -1,0 +1,15 @@
+{
+  "id": "xi_bootis_a",
+  "name": "Xi Boötis A",
+  "rank": 4,
+  "ra": 222.8474163722046,
+  "dec": 19.100472048411426,
+  "dist": 6.712367123,
+  "otype": "PM*",
+  "spect": "G7Ve+K5Ve",
+  "cat": 5,
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Boo",
+  "by_comp": "A"
+}

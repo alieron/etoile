@@ -1,0 +1,13 @@
+{
+  "id": "24_hydrae",
+  "name": "24 Hydrae",
+  "rank": 5,
+  "ra": 139.17236146498,
+  "dec": -8.744758350200001,
+  "dist": 207.4689,
+  "otype": "*",
+  "spect": "B3III/IV",
+  "cat": 9,
+  "fl": 24,
+  "fl_con": "Hya"
+}

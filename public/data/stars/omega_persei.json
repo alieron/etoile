@@ -1,0 +1,16 @@
+{
+  "id": "omega_persei",
+  "name": "Omega Persei",
+  "rank": 4,
+  "ra": 47.82242490244833,
+  "dec": 39.61158091384389,
+  "dist": 88.3392,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "ome",
+  "by_greek": "ω",
+  "by_con": "Per",
+  "fl": 28,
+  "fl_con": "Per"
+}

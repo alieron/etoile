@@ -1,0 +1,17 @@
+{
+  "id": "upsilon_2_cassiopeiae",
+  "name": "Upsilon 2 Cassiopeiae",
+  "rank": 2,
+  "ra": 14.16627144337,
+  "dec": 59.18105702418999,
+  "dist": 61.2745,
+  "otype": "Pe*",
+  "spect": "G8.5IIIbFe-0.5",
+  "cat": 16,
+  "proper": "Castula",
+  "by": "ups02",
+  "by_greek": "υ²",
+  "by_con": "Cas",
+  "fl": 28,
+  "fl_con": "Cas"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kappa_ursae_majoris",
+  "name": "Kappa Ursae Majoris",
+  "rank": 2,
+  "ra": 135.90636507404153,
+  "dec": 47.15652472719766,
+  "dist": 109.8901,
+  "otype": "**",
+  "spect": "A1Vn",
+  "cat": 7,
+  "proper": "Alkaphrah",
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "UMa",
+  "fl": 12,
+  "fl_con": "UMa"
+}

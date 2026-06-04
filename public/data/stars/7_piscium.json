@@ -1,0 +1,13 @@
+{
+  "id": "7_piscium",
+  "name": "7 Piscium",
+  "rank": 5,
+  "ra": 350.0857626938,
+  "dec": 5.381307885449999,
+  "dist": 132.626,
+  "otype": "PM*",
+  "spect": "K1IV",
+  "cat": 12,
+  "fl": 7,
+  "fl_con": "Psc"
+}

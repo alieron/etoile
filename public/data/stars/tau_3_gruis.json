@@ -1,0 +1,14 @@
+{
+  "id": "tau_3_gruis",
+  "name": "Tau 3 Gruis",
+  "rank": 4,
+  "ra": 344.19916791336993,
+  "dec": -47.96922040331,
+  "dist": 74.6269,
+  "otype": "Pu*",
+  "spect": "A4mA5-F2",
+  "cat": 7,
+  "by": "tau03",
+  "by_greek": "τ³",
+  "by_con": "Gru"
+}

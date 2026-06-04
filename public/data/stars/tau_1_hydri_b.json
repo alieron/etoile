@@ -1,0 +1,15 @@
+{
+  "id": "tau_1_hydri_b",
+  "name": "Tau 1 Hydri B",
+  "rank": 4,
+  "ra": 25.3400625,
+  "dec": -79.14815277777778,
+  "dist": 120.7729,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "tau01",
+  "by_greek": "τ¹",
+  "by_con": "Hyi",
+  "by_comp": "B"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "g_hydrae",
+  "name": "G Hydrae",
+  "rank": 4,
+  "ra": 141.82671876496,
+  "dec": -22.343727089549997,
+  "dist": 48.0077,
+  "otype": "PM*",
+  "spect": "K2+IIIb",
+  "cat": 15,
+  "by": "G",
+  "by_greek": "G",
+  "by_con": "Hya"
+}

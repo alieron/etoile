@@ -1,66 +1,55 @@
 {
-  "abbreviation": "Cha",
+  "id": "Cha",
   "name": "Chamaeleon",
-  "genitive": "Chamaeleontis",
+  "gen": "Chamaeleontis",
   "meaning": "Chameleon",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 111.6521,
-        "dec_deg": -82.7759,
-        "ra_deg_signed": 111.6521
-      },
-      {
-        "ra_deg": 209.1111,
-        "dec_deg": -83.1201,
-        "ra_deg_signed": -150.8889
-      },
-      {
-        "ra_deg": 207.7814,
-        "dec_deg": -75.6236,
-        "ra_deg_signed": -152.2186
-      },
-      {
-        "ra_deg": 169.857,
-        "dec_deg": -75.684,
-        "ra_deg_signed": 169.857
-      },
-      {
-        "ra_deg": 135.2437,
-        "dec_deg": -75.4955,
-        "ra_deg_signed": 135.2437
-      },
-      {
-        "ra_deg": 114.2147,
-        "dec_deg": -75.2899,
-        "ra_deg_signed": 114.2147
-      },
-      {
-        "ra_deg": 111.6521,
-        "dec_deg": -82.7759,
-        "ra_deg_signed": 111.6521
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    160,
+    -79,
+    95
+  ],
+  "label": [
+    -171,
+    -81
+  ],
+  "bound": [
     [
-      40702,
-      51839,
-      52633,
-      60000,
-      58484,
-      51839
+      [
+        111.6521,
+        -82.7759
+      ],
+      [
+        -150.8889,
+        -83.1201
+      ],
+      [
+        -152.2186,
+        -75.6236
+      ],
+      [
+        169.857,
+        -75.684
+      ],
+      [
+        135.2437,
+        -75.4955
+      ],
+      [
+        114.2147,
+        -75.2899
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alp Cha",
-    "designation": "Alp Cha",
-    "display_name": "Alpha Chamaeleontis",
-    "display_name_greek": "α Chamaeleontis",
-    "hip": 40702,
-    "ra_deg": 124.630545,
-    "dec_deg": -76.919722
-  }
+  "lines": [
+    [
+      "alpha_chamaeleontis",
+      "gamma_chamaeleontis",
+      "delta_2_chamaeleontis",
+      "beta_chamaeleontis",
+      "epsilon_chamaeleontis_a",
+      "gamma_chamaeleontis"
+    ]
+  ],
+  "bright": "alpha_chamaeleontis"
 }

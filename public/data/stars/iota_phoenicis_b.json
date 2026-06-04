@@ -1,0 +1,15 @@
+{
+  "id": "iota_phoenicis_b",
+  "name": "Iota Phoenicis B",
+  "rank": 4,
+  "ra": 353.76654568622,
+  "dec": -42.61502255661,
+  "dist": 78.97,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Phe",
+  "by_comp": "B"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bc_piscium",
+  "name": "BC Piscium",
+  "rank": 5,
+  "ra": 1.3339215498499999,
+  "dec": -5.7076199163391665,
+  "dist": 39.4945,
+  "otype": "RS*",
+  "spect": "K0III-IV",
+  "cat": 12,
+  "v": "BC",
+  "v_con": "Psc",
+  "fl": 33,
+  "fl_con": "Psc"
+}

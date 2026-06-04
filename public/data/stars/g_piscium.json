@@ -1,0 +1,16 @@
+{
+  "id": "g_piscium",
+  "name": "g Piscium",
+  "rank": 4,
+  "ra": 17.77818049308,
+  "dec": 31.42472934753,
+  "dist": 147.2754,
+  "otype": "**",
+  "spect": "F0V",
+  "cat": 6,
+  "by": "g",
+  "by_greek": "g",
+  "by_con": "Psc",
+  "fl": 82,
+  "fl_con": "Psc"
+}

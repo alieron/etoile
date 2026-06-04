@@ -1,0 +1,14 @@
+{
+  "id": "56_persei_b",
+  "name": "56 Persei B",
+  "rank": 5,
+  "ra": 66.1566057288275,
+  "dec": 33.96083482394722,
+  "dist": 40.5976,
+  "otype": "**",
+  "spect": "F2",
+  "cat": 6,
+  "fl": 56,
+  "fl_con": "Per",
+  "fl_comp": "B"
+}

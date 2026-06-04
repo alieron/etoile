@@ -1,96 +1,79 @@
 {
-  "abbreviation": "Cnc",
+  "id": "Cnc",
   "name": "Cancer",
-  "genitive": "Cancri",
+  "gen": "Cancri",
   "meaning": "Crab",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 140.4043,
-        "dec_deg": 6.4701,
-        "ra_deg_signed": 140.4043
-      },
-      {
-        "ra_deg": 122.9214,
-        "dec_deg": 6.6302,
-        "ra_deg_signed": 122.9214
-      },
-      {
-        "ra_deg": 120.5483,
-        "dec_deg": 6.655,
-        "ra_deg_signed": 120.5483
-      },
-      {
-        "ra_deg": 120.5807,
-        "dec_deg": 9.6548,
-        "ra_deg_signed": 120.5807
-      },
-      {
-        "ra_deg": 118.8325,
-        "dec_deg": 9.6734,
-        "ra_deg_signed": 118.8325
-      },
-      {
-        "ra_deg": 118.8716,
-        "dec_deg": 13.1732,
-        "ra_deg_signed": 118.8716
-      },
-      {
-        "ra_deg": 118.9475,
-        "dec_deg": 19.6728,
-        "ra_deg_signed": 118.9475
-      },
-      {
-        "ra_deg": 120.0701,
-        "dec_deg": 19.6608,
-        "ra_deg_signed": 120.0701
-      },
-      {
-        "ra_deg": 120.1716,
-        "dec_deg": 27.6603,
-        "ra_deg_signed": 120.1716
-      },
-      {
-        "ra_deg": 121.916,
-        "dec_deg": 27.6419,
-        "ra_deg_signed": 121.916
-      },
-      {
-        "ra_deg": 121.9932,
-        "dec_deg": 33.1415,
-        "ra_deg_signed": 121.9932
-      },
-      {
-        "ra_deg": 140.646,
-        "dec_deg": 32.9691,
-        "ra_deg_signed": 140.646
-      },
-      {
-        "ra_deg": 140.4043,
-        "dec_deg": 6.4701,
-        "ra_deg_signed": 140.4043
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 1,
+  "focus": [
+    129.7392,
+    19.8058,
+    57
+  ],
+  "label": [
+    128.25,
+    27
+  ],
+  "bound": [
     [
-      44066,
-      42911,
-      40526,
-      42911,
-      42806,
-      43103
+      [
+        140.4043,
+        6.4701
+      ],
+      [
+        122.9214,
+        6.6302
+      ],
+      [
+        120.5483,
+        6.655
+      ],
+      [
+        120.5807,
+        9.6548
+      ],
+      [
+        118.8325,
+        9.6734
+      ],
+      [
+        118.8716,
+        13.1732
+      ],
+      [
+        118.9475,
+        19.6728
+      ],
+      [
+        120.0701,
+        19.6608
+      ],
+      [
+        120.1716,
+        27.6603
+      ],
+      [
+        121.916,
+        27.6419
+      ],
+      [
+        121.9932,
+        33.1415
+      ],
+      [
+        140.646,
+        32.9691
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Tarf",
-    "designation": "17Bet Cnc",
-    "display_name": "17 Beta Cancri",
-    "display_name_greek": "17 β Cancri",
-    "hip": 40526,
-    "ra_deg": 124.12884000000001,
-    "dec_deg": 9.185545
-  }
+  "lines": [
+    [
+      "alpha_cancri",
+      "delta_cancri",
+      "beta_cancri",
+      "delta_cancri",
+      "gamma_cancri",
+      "iota_cancri"
+    ]
+  ],
+  "bright": "beta_cancri"
 }

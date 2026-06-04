@@ -1,0 +1,15 @@
+{
+  "id": "alpha_circini",
+  "name": "Alpha Circini",
+  "rank": 2,
+  "ra": 220.62675271705453,
+  "dec": -64.97513301263639,
+  "dist": 16.57,
+  "otype": "a2*",
+  "spect": "A7VpSrCrEu",
+  "cat": 20,
+  "proper": "Xami",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cir"
+}

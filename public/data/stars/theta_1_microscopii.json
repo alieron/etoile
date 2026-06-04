@@ -1,0 +1,14 @@
+{
+  "id": "theta_1_microscopii",
+  "name": "Theta 1 Microscopii",
+  "rank": 4,
+  "ra": 320.19008098640995,
+  "dec": -40.80961670725999,
+  "dist": 60.4595,
+  "otype": "a2*",
+  "spect": "ApCrEuSr",
+  "cat": 20,
+  "by": "tet01",
+  "by_greek": "θ¹",
+  "by_con": "Mic"
+}

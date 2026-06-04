@@ -1,0 +1,13 @@
+{
+  "id": "37_tauri",
+  "name": "37 Tauri",
+  "rank": 5,
+  "ra": 61.173803671547084,
+  "dec": 22.081929673256663,
+  "dist": 57.3723,
+  "otype": "PM*",
+  "spect": "K0III-IIIb",
+  "cat": 15,
+  "fl": 37,
+  "fl_con": "Tau"
+}

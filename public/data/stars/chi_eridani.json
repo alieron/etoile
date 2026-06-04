@@ -1,0 +1,14 @@
+{
+  "id": "chi_eridani",
+  "name": "Chi Eridani",
+  "rank": 3,
+  "ra": 28.989415693558758,
+  "dec": -51.60887759053111,
+  "dist": 17.8508,
+  "otype": "PM*",
+  "spect": "G8IIIbCNIV",
+  "cat": 16,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Eri"
+}

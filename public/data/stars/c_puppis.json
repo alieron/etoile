@@ -1,0 +1,14 @@
+{
+  "id": "c_puppis",
+  "name": "c Puppis",
+  "rank": 4,
+  "ra": 116.31373389138793,
+  "dec": -37.968585259939175,
+  "dist": 347.2222,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Pup"
+}

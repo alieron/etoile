@@ -1,0 +1,14 @@
+{
+  "id": "h_carinae",
+  "name": "h Carinae",
+  "rank": 4,
+  "ra": 143.61104506125,
+  "dec": -59.229751953055555,
+  "dist": 406.5041,
+  "otype": "*",
+  "spect": "B5II",
+  "cat": 17,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Car"
+}

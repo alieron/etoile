@@ -1,0 +1,15 @@
+{
+  "id": "tau_bootis_b",
+  "name": "Tau Boötis B",
+  "rank": 4,
+  "ra": 206.8138853222079,
+  "dec": 17.45734235086,
+  "dist": 15.6177,
+  "otype": "*",
+  "spect": "M3V",
+  "cat": 3,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Boo",
+  "by_comp": "B"
+}

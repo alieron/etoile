@@ -1,0 +1,18 @@
+{
+  "id": "zeta_bootis_b",
+  "name": "Zeta Boötis B",
+  "rank": 4,
+  "ra": 220.28711599166667,
+  "dec": 13.72841686111111,
+  "dist": 53.8793,
+  "otype": "PM*",
+  "spect": "A2",
+  "cat": 7,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Boo",
+  "by_comp": "B",
+  "fl": 30,
+  "fl_con": "Boo",
+  "fl_comp": "B"
+}

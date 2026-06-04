@@ -1,0 +1,16 @@
+{
+  "id": "theta_cephei",
+  "name": "Theta Cephei",
+  "rank": 3,
+  "ra": 307.39543861014,
+  "dec": 62.99411033485,
+  "dist": 41.841,
+  "otype": "SB*",
+  "spect": "A7III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cep",
+  "fl": 2,
+  "fl_con": "Cep"
+}

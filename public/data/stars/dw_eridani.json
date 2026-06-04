@@ -1,0 +1,16 @@
+{
+  "id": "dw_eridani",
+  "name": "DW Eridani",
+  "rank": 5,
+  "ra": 70.89477615981583,
+  "dec": -8.79431275768639,
+  "dist": 143.596,
+  "otype": "a2*",
+  "spect": "F2VpSrSi",
+  "cat": 20,
+  "v": "DW",
+  "v_con": "Eri",
+  "fl": 55,
+  "fl_con": "Eri",
+  "fl_comp": "B"
+}

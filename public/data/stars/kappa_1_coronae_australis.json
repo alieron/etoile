@@ -1,0 +1,14 @@
+{
+  "id": "kappa_1_coronae_australis",
+  "name": "Kappa 1 Coronae Australis",
+  "rank": 4,
+  "ra": 278.34617047935,
+  "dec": -38.72004621579,
+  "dist": 47.2144,
+  "otype": "*",
+  "spect": "B8/A1",
+  "cat": 8,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "CrA"
+}

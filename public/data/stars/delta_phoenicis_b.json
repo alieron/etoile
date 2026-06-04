@@ -1,0 +1,15 @@
+{
+  "id": "delta_phoenicis_b",
+  "name": "Delta Phoenicis B",
+  "rank": 4,
+  "ra": 22.80826381001,
+  "dec": -49.062826273789995,
+  "dist": 43.82,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Phe",
+  "by_comp": "B"
+}

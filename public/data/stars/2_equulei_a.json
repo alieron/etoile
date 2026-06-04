@@ -1,0 +1,14 @@
+{
+  "id": "2_equulei_a",
+  "name": "2 Equulei A",
+  "rank": 5,
+  "ra": 315.5520942389178,
+  "dec": 7.179765142082901,
+  "dist": 80.97250971700001,
+  "otype": "*",
+  "spect": "F8",
+  "cat": 6,
+  "fl": 2,
+  "fl_con": "Equ",
+  "fl_comp": "A"
+}

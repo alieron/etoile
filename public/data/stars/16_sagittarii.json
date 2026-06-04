@@ -1,0 +1,13 @@
+{
+  "id": "16_sagittarii",
+  "name": "16 Sagittarii",
+  "rank": 5,
+  "ra": 273.80403761618,
+  "dec": -20.3879697351,
+  "dist": 100000.0,
+  "otype": "SB*",
+  "spect": "O9.5III",
+  "cat": 17,
+  "fl": 16,
+  "fl_con": "Sgr"
+}

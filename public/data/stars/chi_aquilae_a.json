@@ -1,0 +1,18 @@
+{
+  "id": "chi_aquilae_a",
+  "name": "Chi Aquilae A",
+  "rank": 4,
+  "ra": 295.64170118572144,
+  "dec": 11.826583967083302,
+  "dist": 261.78271780100005,
+  "otype": "*",
+  "spect": "G2Ib+B5.5",
+  "cat": 16,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Aql",
+  "by_comp": "A",
+  "fl": 47,
+  "fl_con": "Aql",
+  "fl_comp": "A"
+}

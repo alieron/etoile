@@ -1,0 +1,13 @@
+{
+  "id": "41_andromedae",
+  "name": "41 Andromedae",
+  "rank": 5,
+  "ra": 17.00355275473,
+  "dec": 43.94209037995,
+  "dist": 58.9623,
+  "otype": "PM*",
+  "spect": "A3m",
+  "cat": 7,
+  "fl": 41,
+  "fl_con": "And"
+}

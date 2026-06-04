@@ -1,0 +1,13 @@
+{
+  "id": "11_canis_minoris",
+  "name": "11 Canis Minoris",
+  "rank": 5,
+  "ra": 116.56750514761,
+  "dec": 10.76825170496,
+  "dist": 92.4214,
+  "otype": "*",
+  "spect": "A1Vnn",
+  "cat": 7,
+  "fl": 11,
+  "fl_con": "CMi"
+}

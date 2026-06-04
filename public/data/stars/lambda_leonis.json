@@ -1,0 +1,17 @@
+{
+  "id": "lambda_leonis",
+  "name": "Lambda Leonis",
+  "rank": 2,
+  "ra": 142.93012390931915,
+  "dec": 22.967981285818055,
+  "dist": 100.9082,
+  "otype": "*",
+  "spect": "K4.5III",
+  "cat": 13,
+  "proper": "Alterf",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Leo",
+  "fl": 4,
+  "fl_con": "Leo"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c_aquilae",
+  "name": "c Aquilae",
+  "rank": 4,
+  "ra": 292.25411225117,
+  "dec": 1.9504491180899994,
+  "dist": 61.1995,
+  "otype": "dS*",
+  "spect": "A0IVp",
+  "cat": 6,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Aql",
+  "v": "V1431",
+  "v_con": "Aql",
+  "fl": 35,
+  "fl_con": "Aql"
+}

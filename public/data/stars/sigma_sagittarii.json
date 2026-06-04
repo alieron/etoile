@@ -1,0 +1,17 @@
+{
+  "id": "sigma_sagittarii",
+  "name": "Sigma Sagittarii",
+  "rank": 2,
+  "ra": 283.81636040649323,
+  "dec": -26.29672411476388,
+  "dist": 69.8324,
+  "otype": "**",
+  "spect": "B2.5V",
+  "cat": 8,
+  "proper": "Nunki",
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Sgr",
+  "fl": 34,
+  "fl_con": "Sgr"
+}

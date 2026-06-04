@@ -1,0 +1,15 @@
+{
+  "id": "rs_sextantis",
+  "name": "RS Sextantis",
+  "rank": 5,
+  "ra": 155.25835821861,
+  "dec": 2.2897216043000004,
+  "dist": 769.2308,
+  "otype": "Pu*",
+  "spect": "B2IV/V",
+  "cat": 9,
+  "v": "RS",
+  "v_con": "Sex",
+  "fl": 23,
+  "fl_con": "Sex"
+}

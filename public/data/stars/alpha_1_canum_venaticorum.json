@@ -1,0 +1,17 @@
+{
+  "id": "alpha_1_canum_venaticorum",
+  "name": "Alpha 1 Canum Venaticorum",
+  "rank": 4,
+  "ra": 194.00179795076,
+  "dec": 38.31485251695,
+  "dist": 36.9004,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "by": "alf01",
+  "by_greek": "α¹",
+  "by_con": "CVn",
+  "fl": 12,
+  "fl_con": "CVn",
+  "fl_comp": "B"
+}

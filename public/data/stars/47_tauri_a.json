@@ -1,0 +1,14 @@
+{
+  "id": "47_tauri_a",
+  "name": "47 Tauri A",
+  "rank": 5,
+  "ra": 63.48493672980735,
+  "dec": 9.263825808984539,
+  "dist": 101.730417294,
+  "otype": "*",
+  "spect": "G5III+A7V:",
+  "cat": 13,
+  "fl": 47,
+  "fl_con": "Tau",
+  "fl_comp": "A"
+}

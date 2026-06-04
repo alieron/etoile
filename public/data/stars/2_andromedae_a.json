@@ -1,0 +1,14 @@
+{
+  "id": "2_andromedae_a",
+  "name": "2 Andromedae A",
+  "rank": 5,
+  "ra": 345.6515906572597,
+  "dec": 42.757795235266656,
+  "dist": 129.20029199,
+  "otype": "PM*",
+  "spect": "A1V",
+  "cat": 7,
+  "fl": 2,
+  "fl_con": "And",
+  "fl_comp": "A"
+}

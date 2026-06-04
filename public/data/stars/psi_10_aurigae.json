@@ -1,0 +1,16 @@
+{
+  "id": "psi_10_aurigae",
+  "name": "Psi 10 Aurigae",
+  "rank": 4,
+  "ra": 104.40461340335541,
+  "dec": 45.094093919998336,
+  "dist": 73.8552,
+  "otype": "*",
+  "spect": "A2Vn",
+  "cat": 7,
+  "by": "psi10",
+  "by_greek": "ψ¹⁰",
+  "by_con": "Aur",
+  "fl": 16,
+  "fl_con": "Lyn"
+}

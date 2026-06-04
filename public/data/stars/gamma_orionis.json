@@ -1,0 +1,17 @@
+{
+  "id": "gamma_orionis",
+  "name": "Gamma Orionis",
+  "rank": 2,
+  "ra": 81.28276355652378,
+  "dec": 6.3497032644440665,
+  "dist": 77.3994,
+  "otype": "*",
+  "spect": "B2III",
+  "cat": 17,
+  "proper": "Bellatrix",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Ori",
+  "fl": 24,
+  "fl_con": "Ori"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "65_piscium_a",
+  "name": "65 Piscium A",
+  "rank": 5,
+  "ra": 12.47152922429139,
+  "dec": 27.710286859663068,
+  "dist": 88.57488574,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 65,
+  "fl_con": "Psc",
+  "fl_comp": "A"
+}

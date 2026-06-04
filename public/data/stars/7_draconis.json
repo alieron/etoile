@@ -1,0 +1,14 @@
+{
+  "id": "7_draconis",
+  "name": "7 Draconis",
+  "rank": 2,
+  "ra": 191.89309745841996,
+  "dec": 66.79030426272,
+  "dist": 227.2727,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "proper": "Tianyi",
+  "fl": 7,
+  "fl_con": "Dra"
+}

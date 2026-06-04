@@ -1,0 +1,13 @@
+{
+  "id": "57_sagittarii",
+  "name": "57 Sagittarii",
+  "rank": 5,
+  "ra": 298.0500171505,
+  "dec": -19.045002305689998,
+  "dist": 115.8749,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 57,
+  "fl_con": "Sgr"
+}

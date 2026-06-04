@@ -1,0 +1,15 @@
+{
+  "id": "kappa_andromedae_b",
+  "name": "Kappa Andromedae B",
+  "rank": 4,
+  "ra": 355.1024166666667,
+  "dec": 44.33411111111111,
+  "dist": 51.6262,
+  "otype": "BD*",
+  "spect": "L1",
+  "cat": 2,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "And",
+  "by_comp": "B"
+}

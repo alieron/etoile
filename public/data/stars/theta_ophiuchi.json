@@ -1,0 +1,16 @@
+{
+  "id": "theta_ophiuchi",
+  "name": "Theta Ophiuchi",
+  "rank": 3,
+  "ra": 260.502413945,
+  "dec": -24.99954638166667,
+  "dist": 133.6898,
+  "otype": "bC*",
+  "spect": "OB",
+  "cat": 8,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Oph",
+  "fl": 42,
+  "fl_con": "Oph"
+}

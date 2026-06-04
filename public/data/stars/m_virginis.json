@@ -1,0 +1,16 @@
+{
+  "id": "m_virginis",
+  "name": "m Virginis",
+  "rank": 4,
+  "ra": 205.40320868534,
+  "dec": -8.702980285469998,
+  "dist": 156.25,
+  "otype": "PM*",
+  "spect": "M1+III",
+  "cat": 14,
+  "by": "m",
+  "by_greek": "m",
+  "by_con": "Vir",
+  "fl": 82,
+  "fl_con": "Vir"
+}

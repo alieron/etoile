@@ -1,0 +1,13 @@
+{
+  "id": "4_pegasi",
+  "name": "4 Pegasi",
+  "rank": 5,
+  "ra": 324.63308540817,
+  "dec": 5.7717451269,
+  "dist": 54.7046,
+  "otype": "PM*",
+  "spect": "A9IV-Vn",
+  "cat": 10,
+  "fl": 4,
+  "fl_con": "Peg"
+}

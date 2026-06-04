@@ -1,0 +1,15 @@
+{
+  "id": "theta_columbae",
+  "name": "Theta Columbae",
+  "rank": 2,
+  "ra": 91.88180343427,
+  "dec": -37.2529192305,
+  "dist": 221.2389,
+  "otype": "*",
+  "spect": "B7III",
+  "cat": 17,
+  "proper": "Elkurud",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Col"
+}

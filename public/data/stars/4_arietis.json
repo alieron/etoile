@@ -1,0 +1,13 @@
+{
+  "id": "4_arietis",
+  "name": "4 Arietis",
+  "rank": 5,
+  "ra": 27.045515366370005,
+  "dec": 16.9555159733,
+  "dist": 84.3882,
+  "otype": "PM*",
+  "spect": "B9.5V",
+  "cat": 8,
+  "fl": 4,
+  "fl_con": "Ari"
+}

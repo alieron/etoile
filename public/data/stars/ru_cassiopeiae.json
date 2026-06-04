@@ -1,0 +1,15 @@
+{
+  "id": "ru_cassiopeiae",
+  "name": "RU Cassiopeiae",
+  "rank": 5,
+  "ra": 17.922510062640004,
+  "dec": 65.01885383057,
+  "dist": 119.0476,
+  "otype": "*",
+  "spect": "B9IV",
+  "cat": 9,
+  "v": "RU",
+  "v_con": "Cas",
+  "fl": 32,
+  "fl_con": "Cas"
+}

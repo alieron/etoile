@@ -1,0 +1,15 @@
+{
+  "id": "af_draconis",
+  "name": "AF Draconis",
+  "rank": 5,
+  "ra": 307.87669456698,
+  "dec": 74.95462607263,
+  "dist": 121.3592,
+  "otype": "a2*",
+  "spect": "A9:VpCrSrEu",
+  "cat": 20,
+  "v": "AF",
+  "v_con": "Dra",
+  "fl": 73,
+  "fl_con": "Dra"
+}

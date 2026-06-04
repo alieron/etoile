@@ -1,0 +1,13 @@
+{
+  "id": "61_pictoris",
+  "name": "61 Pictoris",
+  "rank": 5,
+  "ra": 97.36874223280002,
+  "dec": -56.85276685523,
+  "dist": 93.2836,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 61,
+  "fl_con": "Pic"
+}

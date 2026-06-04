@@ -1,0 +1,14 @@
+{
+  "id": "18_delphini",
+  "name": "18 Delphini",
+  "rank": 2,
+  "ra": 314.60805637291,
+  "dec": 10.839286352639999,
+  "dist": 75.3012,
+  "otype": "PM*",
+  "spect": "G6III",
+  "cat": 13,
+  "proper": "Musica",
+  "fl": 18,
+  "fl_con": "Del"
+}

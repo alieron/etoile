@@ -1,0 +1,17 @@
+{
+  "id": "gamma_draconis",
+  "name": "Gamma Draconis",
+  "rank": 2,
+  "ra": 269.1515411786243,
+  "dec": 51.48889561763423,
+  "dist": 47.3037,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "proper": "Eltanin",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Dra",
+  "fl": 33,
+  "fl_con": "Dra"
+}

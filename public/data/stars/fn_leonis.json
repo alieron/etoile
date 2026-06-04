@@ -1,0 +1,15 @@
+{
+  "id": "fn_leonis",
+  "name": "FN Leonis",
+  "rank": 5,
+  "ra": 168.80095164026002,
+  "dec": 23.09550895620472,
+  "dist": 294.1176,
+  "otype": "LP*",
+  "spect": "M3IIb:",
+  "cat": 14,
+  "v": "FN",
+  "v_con": "Leo",
+  "fl": 72,
+  "fl_con": "Leo"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "eta_pegasi",
+  "name": "Eta Pegasi",
+  "rank": 2,
+  "ra": 340.75053685395,
+  "dec": 30.221214713719995,
+  "dist": 65.703,
+  "otype": "SB*",
+  "spect": "G8II+F0V",
+  "cat": 13,
+  "proper": "Matar",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Peg",
+  "fl": 44,
+  "fl_con": "Peg"
+}

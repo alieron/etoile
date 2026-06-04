@@ -1,0 +1,14 @@
+{
+  "id": "42_draconis",
+  "name": "42 Draconis",
+  "rank": 2,
+  "ra": 276.49640400057,
+  "dec": 65.56348092883,
+  "dist": 96.5251,
+  "otype": "PM*",
+  "spect": "K1.5IIIFe-1",
+  "cat": 13,
+  "proper": "Fafnir",
+  "fl": 42,
+  "fl_con": "Dra"
+}

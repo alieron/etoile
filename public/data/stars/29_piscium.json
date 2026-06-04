@@ -1,0 +1,13 @@
+{
+  "id": "29_piscium",
+  "name": "29 Piscium",
+  "rank": 5,
+  "ra": 0.45603380293,
+  "dec": -3.02750328334,
+  "dist": 139.2758,
+  "otype": "*",
+  "spect": "B7III-IV",
+  "cat": 9,
+  "fl": 29,
+  "fl_con": "Psc"
+}

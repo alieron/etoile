@@ -1,0 +1,15 @@
+{
+  "id": "bm_cancri",
+  "name": "BM Cancri",
+  "rank": 5,
+  "ra": 123.2869502501,
+  "dec": 29.656537988909996,
+  "dist": 209.6436,
+  "otype": "a2*",
+  "spect": "B8VpSi",
+  "cat": 20,
+  "v": "BM",
+  "v_con": "Cnc",
+  "fl": 15,
+  "fl_con": "Cnc"
+}

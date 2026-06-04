@@ -1,0 +1,16 @@
+{
+  "id": "theta_cancri",
+  "name": "Theta Cancri",
+  "rank": 4,
+  "ra": 127.89887483424998,
+  "dec": 18.09441817296,
+  "dist": 127.2265,
+  "otype": "PM*",
+  "spect": "K5III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cnc",
+  "fl": 31,
+  "fl_con": "Cnc"
+}

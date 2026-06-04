@@ -1,0 +1,15 @@
+{
+  "id": "gamma_circini_b",
+  "name": "Gamma Circini B",
+  "rank": 4,
+  "ra": 230.84454829999999,
+  "dec": -59.32048580000001,
+  "dist": 137.5516,
+  "otype": "*",
+  "spect": "F8V",
+  "cat": 6,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cir",
+  "by_comp": "B"
+}

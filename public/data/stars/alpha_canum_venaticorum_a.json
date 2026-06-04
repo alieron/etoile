@@ -1,0 +1,19 @@
+{
+  "id": "alpha_canum_venaticorum_a",
+  "name": "Alpha Canum Venaticorum A",
+  "rank": 2,
+  "ra": 194.00693995375286,
+  "dec": 38.31837643625333,
+  "dist": 35.1989,
+  "otype": "a2*",
+  "spect": "A0VpSiEu",
+  "cat": 20,
+  "proper": "Cor Caroli",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "CVn",
+  "by_comp": "A",
+  "fl": 12,
+  "fl_con": "CVn",
+  "fl_comp": "A"
+}

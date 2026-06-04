@@ -1,0 +1,16 @@
+{
+  "id": "tau_persei",
+  "name": "Tau Persei",
+  "rank": 3,
+  "ra": 43.56449050346,
+  "dec": 52.762467426469996,
+  "dist": 77.943858846,
+  "otype": "SB*",
+  "spect": "G8III+A7V",
+  "cat": 13,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Per",
+  "fl": 18,
+  "fl_con": "Per"
+}

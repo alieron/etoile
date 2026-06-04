@@ -1,69 +1,58 @@
 {
-  "abbreviation": "Crv",
+  "id": "Crv",
   "name": "Corvus",
-  "genitive": "Corvi",
+  "gen": "Corvi",
   "meaning": "Crow",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 194.1331,
-        "dec_deg": -11.6774,
-        "ra_deg_signed": -165.8669
-      },
-      {
-        "ra_deg": 179.0968,
-        "dec_deg": -11.6958,
-        "ra_deg_signed": 179.0968
-      },
-      {
-        "ra_deg": 179.0913,
-        "dec_deg": -25.1958,
-        "ra_deg_signed": 179.0913
-      },
-      {
-        "ra_deg": 190.4045,
-        "dec_deg": -25.1864,
-        "ra_deg_signed": -169.5955
-      },
-      {
-        "ra_deg": 190.3985,
-        "dec_deg": -22.6864,
-        "ra_deg_signed": -169.6015
-      },
-      {
-        "ra_deg": 194.1669,
-        "dec_deg": -22.6773,
-        "ra_deg_signed": -165.8331
-      },
-      {
-        "ra_deg": 194.1331,
-        "dec_deg": -11.6774,
-        "ra_deg_signed": -165.8669
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    -173.3709,
+    -18.4366,
+    50
+  ],
+  "label": [
+    -174,
+    -19.5
+  ],
+  "bound": [
     [
-      60965,
-      59803,
-      59316,
-      61359,
-      60965
-    ],
-    [
-      59316,
-      59199
+      [
+        -165.8669,
+        -11.6774
+      ],
+      [
+        179.0968,
+        -11.6958
+      ],
+      [
+        179.0913,
+        -25.1958
+      ],
+      [
+        -169.5955,
+        -25.1864
+      ],
+      [
+        -169.6015,
+        -22.6864
+      ],
+      [
+        -165.8331,
+        -22.6773
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Gienah",
-    "designation": "4Gam Crv",
-    "display_name": "4 Gamma Corvi",
-    "display_name_greek": "4 γ Corvi",
-    "hip": 59803,
-    "ra_deg": 183.95155499999998,
-    "dec_deg": -17.541929
-  }
+  "lines": [
+    [
+      "delta_corvi",
+      "gamma_corvi",
+      "epsilon_corvi",
+      "beta_corvi",
+      "delta_corvi"
+    ],
+    [
+      "epsilon_corvi",
+      "alpha_corvi"
+    ]
+  ],
+  "bright": "gamma_corvi"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "theta_canis_majoris",
+  "name": "Theta Canis Majoris",
+  "rank": 3,
+  "ra": 103.54749525536,
+  "dec": -12.038628101049998,
+  "dist": 79.9361,
+  "otype": "PM*",
+  "spect": "K3/4III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "CMa",
+  "fl": 14,
+  "fl_con": "CMa"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "epsilon_bootis_b",
+  "name": "Epsilon Boötis B",
+  "rank": 4,
+  "ra": 221.24645736371372,
+  "dec": 27.07498558868861,
+  "dist": 67.1926,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Boo",
+  "by_comp": "B",
+  "fl": 36,
+  "fl_con": "Boo",
+  "fl_comp": "B"
+}

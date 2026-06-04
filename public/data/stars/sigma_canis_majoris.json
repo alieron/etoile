@@ -1,0 +1,17 @@
+{
+  "id": "sigma_canis_majoris",
+  "name": "Sigma Canis Majoris",
+  "rank": 2,
+  "ra": 105.42978350186792,
+  "dec": -27.934830340443888,
+  "dist": 343.646036426,
+  "otype": "s*r",
+  "spect": "K5Ib",
+  "cat": 15,
+  "proper": "Nganurganity",
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "CMa",
+  "fl": 22,
+  "fl_con": "CMa"
+}

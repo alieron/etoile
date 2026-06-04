@@ -1,0 +1,15 @@
+{
+  "id": "beta_centauri",
+  "name": "Beta Centauri",
+  "rank": 2,
+  "ra": 210.95585562281522,
+  "dec": -60.373035161541594,
+  "dist": 120.1923,
+  "otype": "bC*",
+  "spect": "B1III",
+  "cat": 8,
+  "proper": "Hadar",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cen"
+}

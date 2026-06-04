@@ -1,0 +1,13 @@
+{
+  "id": "14_tauri",
+  "name": "14 Tauri",
+  "rank": 5,
+  "ra": 55.94672368786,
+  "dec": 19.66503485223,
+  "dist": 125.6281,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 14,
+  "fl_con": "Tau"
+}

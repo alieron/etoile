@@ -1,0 +1,14 @@
+{
+  "id": "59_andromedae_a",
+  "name": "59 Andromedae A",
+  "rank": 5,
+  "ra": 32.72010201974,
+  "dec": 39.03954272116,
+  "dist": 139.6648,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "fl": 59,
+  "fl_con": "And",
+  "fl_comp": "A"
+}

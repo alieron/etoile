@@ -1,0 +1,16 @@
+{
+  "id": "a_hydrae",
+  "name": "a Hydrae",
+  "rank": 4,
+  "ra": 130.00613100331,
+  "dec": -12.47537472912,
+  "dist": 119.0476,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "a",
+  "by_greek": "a",
+  "by_con": "Hya",
+  "fl": 6,
+  "fl_con": "Hya"
+}

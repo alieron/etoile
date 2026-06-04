@@ -1,0 +1,16 @@
+{
+  "id": "phi_piscium",
+  "name": "Phi Piscium",
+  "rank": 3,
+  "ra": 18.4372752354,
+  "dec": 24.58369761573,
+  "dist": 136.80026798900002,
+  "otype": "SB*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "phi",
+  "by_greek": "φ",
+  "by_con": "Psc",
+  "fl": 85,
+  "fl_con": "Psc"
+}

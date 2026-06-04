@@ -1,0 +1,16 @@
+{
+  "id": "e_2_sagittarii",
+  "name": "e 2 Sagittarii",
+  "rank": 4,
+  "ra": 295.62972079235,
+  "dec": -16.12399803088,
+  "dist": 54.3183,
+  "otype": "**",
+  "spect": "F3IV/V",
+  "cat": 11,
+  "by": "e02",
+  "by_greek": "e²",
+  "by_con": "Sgr",
+  "fl": 55,
+  "fl_con": "Sgr"
+}

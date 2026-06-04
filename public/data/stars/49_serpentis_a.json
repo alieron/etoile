@@ -1,0 +1,14 @@
+{
+  "id": "49_serpentis_a",
+  "name": "49 Serpentis A",
+  "rank": 5,
+  "ra": 243.32688506714396,
+  "dec": 13.526907027640634,
+  "dist": 23.585135849000004,
+  "otype": "**",
+  "spect": "G9V+G9V",
+  "cat": 5,
+  "fl": 49,
+  "fl_con": "Ser",
+  "fl_comp": "A"
+}

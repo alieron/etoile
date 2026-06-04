@@ -1,0 +1,17 @@
+{
+  "id": "sigma_1_coronae_borealis",
+  "name": "Sigma 1 Coronae Borealis",
+  "rank": 4,
+  "ra": 243.66828086078544,
+  "dec": 33.85752671858167,
+  "dist": 22.6583,
+  "otype": "PM*",
+  "spect": "G1V",
+  "cat": 5,
+  "by": "sig01",
+  "by_greek": "σ¹",
+  "by_con": "CrB",
+  "fl": 17,
+  "fl_con": "CrB",
+  "fl_comp": "B"
+}

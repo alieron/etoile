@@ -1,0 +1,15 @@
+{
+  "id": "tau_cygni_b",
+  "name": "Tau Cygni B",
+  "rank": 4,
+  "ra": 318.6977613291667,
+  "dec": 38.04559447222222,
+  "dist": 20.3417,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Cyg",
+  "by_comp": "B"
+}

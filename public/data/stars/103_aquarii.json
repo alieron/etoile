@@ -1,0 +1,13 @@
+{
+  "id": "103_aquarii",
+  "name": "103 Aquarii",
+  "rank": 5,
+  "ra": 355.39370232905,
+  "dec": -18.027074353820005,
+  "dist": 232.0186,
+  "otype": "PM*",
+  "spect": "K4/5III",
+  "cat": 13,
+  "fl": 103,
+  "fl_con": "Aqr"
+}

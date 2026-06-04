@@ -1,0 +1,15 @@
+{
+  "id": "gamma_sextantis_a",
+  "name": "Gamma Sextantis A",
+  "rank": 3,
+  "ra": 148.1268219732712,
+  "dec": -8.10503523899151,
+  "dist": 85.107251064,
+  "otype": "PM*",
+  "spect": "A0/1V",
+  "cat": 7,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Sex",
+  "by_comp": "A"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "be_camelopardalis",
+  "name": "BE Camelopardalis",
+  "rank": 2,
+  "ra": 57.38032311777,
+  "dec": 65.52597939514,
+  "dist": 243.9024,
+  "otype": "LP*",
+  "spect": "M2II",
+  "cat": 14,
+  "proper": "Custos",
+  "v": "BE",
+  "v_con": "Cam"
+}

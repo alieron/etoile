@@ -1,0 +1,15 @@
+{
+  "id": "cv_eridani",
+  "name": "CV Eridani",
+  "rank": 5,
+  "ra": 45.21200053761001,
+  "dec": -2.8786217229,
+  "dist": 255.102,
+  "otype": "LP?",
+  "spect": "M0/1III",
+  "cat": 14,
+  "v": "CV",
+  "v_con": "Eri",
+  "fl": 7,
+  "fl_con": "Eri"
+}

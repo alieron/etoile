@@ -1,0 +1,13 @@
+{
+  "id": "73_piscium",
+  "name": "73 Piscium",
+  "rank": 5,
+  "ra": 16.21932463518,
+  "dec": 5.65626473416,
+  "dist": 199.6008,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 73,
+  "fl_con": "Psc"
+}

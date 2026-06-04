@@ -1,0 +1,13 @@
+{
+  "id": "1_leporis",
+  "name": "1 Leporis",
+  "rank": 5,
+  "ra": 75.68741198181,
+  "dec": -22.795052603429998,
+  "dist": 143.472,
+  "otype": "PM*",
+  "spect": "K1IV",
+  "cat": 12,
+  "fl": 1,
+  "fl_con": "Lep"
+}

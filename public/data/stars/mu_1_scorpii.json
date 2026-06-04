@@ -1,0 +1,15 @@
+{
+  "id": "mu_1_scorpii",
+  "name": "Mu 1 Scorpii",
+  "rank": 2,
+  "ra": 252.96761814529,
+  "dec": -38.04739946400001,
+  "dist": 153.6098,
+  "otype": "Be*",
+  "spect": "B1V+B",
+  "cat": 8,
+  "proper": "Xamidimura",
+  "by": "mu.01",
+  "by_greek": "μ¹",
+  "by_con": "Sco"
+}

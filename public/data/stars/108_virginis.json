@@ -1,0 +1,13 @@
+{
+  "id": "108_virginis",
+  "name": "108 Virginis",
+  "rank": 5,
+  "ra": 221.37585193216,
+  "dec": 0.71727227856,
+  "dist": 151.2859,
+  "otype": "*",
+  "spect": "B9.5V",
+  "cat": 8,
+  "fl": 108,
+  "fl_con": "Vir"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "en_lacertae",
+  "name": "EN Lacertae",
+  "rank": 5,
+  "ra": 344.09845803464,
+  "dec": 41.6038745779,
+  "dist": 390.625,
+  "otype": "bC*",
+  "spect": "B2IVs",
+  "cat": 8,
+  "v": "EN",
+  "v_con": "Lac",
+  "fl": 16,
+  "fl_con": "Lac"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "uu_piscium",
+  "name": "UU Piscium",
+  "rank": 5,
+  "ra": 3.745168167340001,
+  "dec": 8.82096132554,
+  "dist": 77.7605,
+  "otype": "SB*",
+  "spect": "F0",
+  "cat": 6,
+  "v": "UU",
+  "v_con": "Psc",
+  "fl": 35,
+  "fl_con": "Psc"
+}

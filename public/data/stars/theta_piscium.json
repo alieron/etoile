@@ -1,0 +1,16 @@
+{
+  "id": "theta_piscium",
+  "name": "Theta Piscium",
+  "rank": 3,
+  "ra": 351.9920611016038,
+  "dec": 6.378992306441944,
+  "dist": 45.5373,
+  "otype": "PM*",
+  "spect": "K0.5III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Psc",
+  "fl": 10,
+  "fl_con": "Psc"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "13_leonis",
+  "name": "13 Leonis",
+  "rank": 5,
+  "ra": 145.41035209505,
+  "dec": 25.91287742942,
+  "dist": 169.2047,
+  "otype": "*",
+  "spect": "K2III:",
+  "cat": 13,
+  "fl": 13,
+  "fl_con": "Leo"
+}

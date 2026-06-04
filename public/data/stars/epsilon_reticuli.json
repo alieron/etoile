@@ -1,0 +1,14 @@
+{
+  "id": "epsilon_reticuli",
+  "name": "Epsilon Reticuli",
+  "rank": 3,
+  "ra": 64.12095061260834,
+  "dec": -59.302154414251106,
+  "dist": 18.2382,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Ret"
+}

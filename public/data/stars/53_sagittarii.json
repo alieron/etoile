@@ -1,0 +1,13 @@
+{
+  "id": "53_sagittarii",
+  "name": "53 Sagittarii",
+  "rank": 5,
+  "ra": 294.9560715884292,
+  "dec": -23.4276820114689,
+  "dist": 98.7167,
+  "otype": "**",
+  "spect": "A0V",
+  "cat": 7,
+  "fl": 53,
+  "fl_con": "Sgr"
+}

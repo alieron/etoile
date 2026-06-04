@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_bootis_c",
+  "name": "Epsilon Boötis C",
+  "rank": 4,
+  "ra": 221.2711917950333,
+  "dec": 27.07432989356639,
+  "dist": 63.5708,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Boo",
+  "by_comp": "C"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bq_lyncis",
+  "name": "BQ Lyncis",
+  "rank": 5,
+  "ra": 98.63666727260001,
+  "dec": 55.35304328903,
+  "dist": 295.858,
+  "otype": "LP*",
+  "spect": "K0III:",
+  "cat": 14,
+  "v": "BQ",
+  "v_con": "Lyn",
+  "fl": 7,
+  "fl_con": "Lyn"
+}

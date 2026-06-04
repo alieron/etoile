@@ -1,0 +1,16 @@
+{
+  "id": "tau_5_eridani",
+  "name": "Tau 5 Eridani",
+  "rank": 3,
+  "ra": 53.44698288227083,
+  "dec": -21.63288447691278,
+  "dist": 89.9281,
+  "otype": "SB*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "tau05",
+  "by_greek": "τ⁵",
+  "by_con": "Eri",
+  "fl": 19,
+  "fl_con": "Eri"
+}

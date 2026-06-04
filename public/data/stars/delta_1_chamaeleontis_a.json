@@ -1,0 +1,15 @@
+{
+  "id": "delta_1_chamaeleontis_a",
+  "name": "Delta 1 Chamaeleontis A",
+  "rank": 4,
+  "ra": 161.31797692258218,
+  "dec": -80.4695946835946,
+  "dist": 106.838668376,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "del01",
+  "by_greek": "δ¹",
+  "by_con": "Cha",
+  "by_comp": "A"
+}

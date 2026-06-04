@@ -1,0 +1,15 @@
+{
+  "id": "mm_canis_majoris",
+  "name": "MM Canis Majoris",
+  "rank": 5,
+  "ra": 108.05089461894002,
+  "dec": -25.942587800760002,
+  "dist": 257.0694,
+  "otype": "Pu*",
+  "spect": "B2IV/V",
+  "cat": 9,
+  "v": "MM",
+  "v_con": "CMa",
+  "fl": 26,
+  "fl_con": "CMa"
+}

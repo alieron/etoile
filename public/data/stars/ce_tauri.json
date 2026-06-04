@@ -1,0 +1,15 @@
+{
+  "id": "ce_tauri",
+  "name": "CE Tauri",
+  "rank": 5,
+  "ra": 83.05313179526708,
+  "dec": 18.59423660180722,
+  "dist": 549.4505,
+  "otype": "s*r",
+  "spect": "M2Iab-Ib",
+  "cat": 15,
+  "v": "CE",
+  "v_con": "Tau",
+  "fl": 119,
+  "fl_con": "Tau"
+}

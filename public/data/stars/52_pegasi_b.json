@@ -1,0 +1,14 @@
+{
+  "id": "52_pegasi_b",
+  "name": "52 Pegasi B",
+  "rank": 5,
+  "ra": 344.79914425,
+  "dec": 11.728929302777779,
+  "dist": 94.3396,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "fl": 52,
+  "fl_con": "Peg",
+  "fl_comp": "B"
+}

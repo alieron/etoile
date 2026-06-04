@@ -1,0 +1,16 @@
+{
+  "id": "f_bootis",
+  "name": "f Boötis",
+  "rank": 4,
+  "ra": 216.61402119599998,
+  "dec": 19.22689967908,
+  "dist": 89.1266,
+  "otype": "PM*",
+  "spect": "kA7hA8mF2(III)((Sr))",
+  "cat": 13,
+  "by": "f",
+  "by_greek": "f",
+  "by_con": "Boo",
+  "fl": 22,
+  "fl_con": "Boo"
+}

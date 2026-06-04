@@ -1,0 +1,17 @@
+{
+  "id": "alpha_serpentis",
+  "name": "Alpha Serpentis",
+  "rank": 2,
+  "ra": 236.0669754565879,
+  "dec": 6.425630220244722,
+  "dist": 22.6757,
+  "otype": "PM*",
+  "spect": "K2IIIbCN1",
+  "cat": 15,
+  "proper": "Unukalhai",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Ser",
+  "fl": 24,
+  "fl_con": "Ser"
+}

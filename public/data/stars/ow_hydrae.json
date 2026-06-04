@@ -1,0 +1,15 @@
+{
+  "id": "ow_hydrae",
+  "name": "OW Hydrae",
+  "rank": 5,
+  "ra": 144.94754480123,
+  "dec": -10.570271580610001,
+  "dist": 307.6923,
+  "otype": "**",
+  "spect": "A0V",
+  "cat": 7,
+  "v": "OW",
+  "v_con": "Hya",
+  "fl": 37,
+  "fl_con": "Hya"
+}

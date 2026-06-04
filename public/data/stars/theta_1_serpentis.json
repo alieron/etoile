@@ -1,0 +1,18 @@
+{
+  "id": "theta_1_serpentis",
+  "name": "Theta 1 Serpentis",
+  "rank": 2,
+  "ra": 284.05494665111996,
+  "dec": 4.20360613639,
+  "dist": 47.4158,
+  "otype": "PM*",
+  "spect": "A5V",
+  "cat": 7,
+  "proper": "Alya",
+  "by": "tet01",
+  "by_greek": "θ¹",
+  "by_con": "Ser",
+  "fl": 63,
+  "fl_con": "Ser",
+  "fl_comp": "A"
+}

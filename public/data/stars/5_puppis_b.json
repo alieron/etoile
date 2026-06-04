@@ -1,0 +1,14 @@
+{
+  "id": "5_puppis_b",
+  "name": "5 Puppis B",
+  "rank": 5,
+  "ra": 116.9862610375,
+  "dec": -12.192306511111111,
+  "dist": 28.5959,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 5,
+  "fl_con": "Pup",
+  "fl_comp": "B"
+}

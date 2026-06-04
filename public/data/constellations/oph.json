@@ -1,257 +1,213 @@
 {
-  "abbreviation": "Oph",
+  "id": "Oph",
   "name": "Ophiuchus",
-  "genitive": "Ophiuchi",
+  "gen": "Ophiuchi",
   "meaning": "Serpent Bearer",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 245.6026,
-        "dec_deg": -0.2964,
-        "ra_deg_signed": -114.3974
-      },
-      {
-        "ra_deg": 245.5586,
-        "dec_deg": 3.7034,
-        "ra_deg_signed": -114.4414
-      },
-      {
-        "ra_deg": 252.8059,
-        "dec_deg": 3.7852,
-        "ra_deg_signed": -107.1941
-      },
-      {
-        "ra_deg": 252.7015,
-        "dec_deg": 12.6179,
-        "ra_deg_signed": -107.2985
-      },
-      {
-        "ra_deg": 260.1958,
-        "dec_deg": 12.7061,
-        "ra_deg_signed": -99.8042
-      },
-      {
-        "ra_deg": 260.1769,
-        "dec_deg": 14.206,
-        "ra_deg_signed": -99.8231
-      },
-      {
-        "ra_deg": 275.1733,
-        "dec_deg": 14.3875,
-        "ra_deg_signed": -84.8267
-      },
-      {
-        "ra_deg": 275.2031,
-        "dec_deg": 12.0543,
-        "ra_deg_signed": -84.7969
-      },
-      {
-        "ra_deg": 281.38800000000003,
-        "dec_deg": 12.1288,
-        "ra_deg_signed": -78.612
-      },
-      {
-        "ra_deg": 281.4586,
-        "dec_deg": 6.3792,
-        "ra_deg_signed": -78.5414
-      },
-      {
-        "ra_deg": 275.2746,
-        "dec_deg": 6.3048,
-        "ra_deg_signed": -84.7254
-      },
-      {
-        "ra_deg": 275.296,
-        "dec_deg": 4.5549,
-        "ra_deg_signed": -84.704
-      },
-      {
-        "ra_deg": 277.9211,
-        "dec_deg": 4.5866,
-        "ra_deg_signed": -82.0789
-      },
-      {
-        "ra_deg": 277.9392,
-        "dec_deg": 3.0867,
-        "ra_deg_signed": -82.0608
-      },
-      {
-        "ra_deg": 275.3142,
-        "dec_deg": 3.055,
-        "ra_deg_signed": -84.6858
-      },
-      {
-        "ra_deg": 275.3506,
-        "dec_deg": 0.0552,
-        "ra_deg_signed": -84.6494
-      },
-      {
-        "ra_deg": 269.101,
-        "dec_deg": -0.0206,
-        "ra_deg_signed": -90.899
-      },
-      {
-        "ra_deg": 269.1497,
-        "dec_deg": -4.0204,
-        "ra_deg_signed": -90.8503
-      },
-      {
-        "ra_deg": 271.1497,
-        "dec_deg": -3.9961,
-        "ra_deg_signed": -88.8503
-      },
-      {
-        "ra_deg": 271.2237,
-        "dec_deg": -9.9956,
-        "ra_deg_signed": -88.7763
-      },
-      {
-        "ra_deg": 266.7238,
-        "dec_deg": -10.0502,
-        "ra_deg_signed": -93.2762
-      },
-      {
-        "ra_deg": 266.74469999999997,
-        "dec_deg": -11.7168,
-        "ra_deg_signed": -93.2553
-      },
-      {
-        "ra_deg": 265.4944,
-        "dec_deg": -11.7319,
-        "ra_deg_signed": -94.5056
-      },
-      {
-        "ra_deg": 265.4735,
-        "dec_deg": -10.0654,
-        "ra_deg_signed": -94.5265
-      },
-      {
-        "ra_deg": 259.2221,
-        "dec_deg": -10.1404,
-        "ra_deg_signed": -100.7779
-      },
-      {
-        "ra_deg": 259.2974,
-        "dec_deg": -16.14,
-        "ra_deg_signed": -100.7026
-      },
-      {
-        "ra_deg": 265.8002,
-        "dec_deg": -16.0619,
-        "ra_deg_signed": -94.1998
-      },
-      {
-        "ra_deg": 266.0018,
-        "dec_deg": -30.0607,
-        "ra_deg_signed": -93.9982
-      },
-      {
-        "ra_deg": 253.2353,
-        "dec_deg": -30.2123,
-        "ra_deg_signed": -106.7647
-      },
-      {
-        "ra_deg": 253.1557,
-        "dec_deg": -24.7961,
-        "ra_deg_signed": -106.8443
-      },
-      {
-        "ra_deg": 245.8914,
-        "dec_deg": -24.8781,
-        "ra_deg_signed": -114.1086
-      },
-      {
-        "ra_deg": 245.82299999999998,
-        "dec_deg": -19.5452,
-        "ra_deg_signed": -114.177
-      },
-      {
-        "ra_deg": 247.45069999999998,
-        "dec_deg": -19.5272,
-        "ra_deg_signed": -112.5493
-      },
-      {
-        "ra_deg": 247.4382,
-        "dec_deg": -18.5272,
-        "ra_deg_signed": -112.5618
-      },
-      {
-        "ra_deg": 245.8107,
-        "dec_deg": -18.5452,
-        "ra_deg_signed": -114.1893
-      },
-      {
-        "ra_deg": 245.69119999999998,
-        "dec_deg": -8.2959,
-        "ra_deg_signed": -114.3088
-      },
-      {
-        "ra_deg": 240.4373,
-        "dec_deg": -8.3523,
-        "ra_deg_signed": -119.5627
-      },
-      {
-        "ra_deg": 240.387,
-        "dec_deg": -3.6026,
-        "ra_deg_signed": -119.613
-      },
-      {
-        "ra_deg": 245.6384,
-        "dec_deg": -3.5462,
-        "ra_deg_signed": -114.3616
-      },
-      {
-        "ra_deg": 245.6026,
-        "dec_deg": -0.2964,
-        "ra_deg_signed": -114.3974
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 1,
+  "focus": [
+    -99,
+    -7,
+    105
+  ],
+  "label": [
+    -102,
+    3
+  ],
+  "bound": [
     [
-      86032,
-      83000,
-      80883,
-      79593,
-      79882,
-      80628,
-      81377,
-      80628,
-      79882,
-      79593,
-      80883,
-      83000,
-      81377,
-      84012,
-      86742,
-      87108,
-      88048,
-      87108,
-      86742,
-      86032
-    ],
-    [
-      84012,
-      84970,
-      85423
-    ],
-    [
-      81377,
-      80894,
-      80569,
-      80343,
-      80473
+      [
+        -114.3974,
+        -0.2964
+      ],
+      [
+        -114.4414,
+        3.7034
+      ],
+      [
+        -107.1941,
+        3.7852
+      ],
+      [
+        -107.2985,
+        12.6179
+      ],
+      [
+        -99.8042,
+        12.7061
+      ],
+      [
+        -99.8231,
+        14.206
+      ],
+      [
+        -84.8267,
+        14.3875
+      ],
+      [
+        -84.7969,
+        12.0543
+      ],
+      [
+        -78.612,
+        12.1288
+      ],
+      [
+        -78.5414,
+        6.3792
+      ],
+      [
+        -84.7254,
+        6.3048
+      ],
+      [
+        -84.704,
+        4.5549
+      ],
+      [
+        -82.0789,
+        4.5866
+      ],
+      [
+        -82.0608,
+        3.0867
+      ],
+      [
+        -84.6858,
+        3.055
+      ],
+      [
+        -84.6494,
+        0.0552
+      ],
+      [
+        -90.899,
+        -0.0206
+      ],
+      [
+        -90.8503,
+        -4.0204
+      ],
+      [
+        -88.8503,
+        -3.9961
+      ],
+      [
+        -88.7763,
+        -9.9956
+      ],
+      [
+        -93.2762,
+        -10.0502
+      ],
+      [
+        -93.2553,
+        -11.7168
+      ],
+      [
+        -94.5056,
+        -11.7319
+      ],
+      [
+        -94.5265,
+        -10.0654
+      ],
+      [
+        -100.7779,
+        -10.1404
+      ],
+      [
+        -100.7026,
+        -16.14
+      ],
+      [
+        -94.1998,
+        -16.0619
+      ],
+      [
+        -93.9982,
+        -30.0607
+      ],
+      [
+        -106.7647,
+        -30.2123
+      ],
+      [
+        -106.8443,
+        -24.7961
+      ],
+      [
+        -114.1086,
+        -24.8781
+      ],
+      [
+        -114.177,
+        -19.5452
+      ],
+      [
+        -112.5493,
+        -19.5272
+      ],
+      [
+        -112.5618,
+        -18.5272
+      ],
+      [
+        -114.1893,
+        -18.5452
+      ],
+      [
+        -114.3088,
+        -8.2959
+      ],
+      [
+        -119.5627,
+        -8.3523
+      ],
+      [
+        -119.613,
+        -3.6026
+      ],
+      [
+        -114.3616,
+        -3.5462
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Rasalhague",
-    "designation": "55Alp Oph",
-    "display_name": "55 Alpha Ophiuchi",
-    "display_name_greek": "55 α Ophiuchi",
-    "hip": 86032,
-    "ra_deg": 263.733615,
-    "dec_deg": 12.560035
-  }
+  "lines": [
+    [
+      "alpha_ophiuchi",
+      "kappa_ophiuchi",
+      "lambda_ophiuchi_a",
+      "delta_ophiuchi",
+      "epsilon_ophiuchi",
+      "upsilon_ophiuchi",
+      "zeta_ophiuchi",
+      "upsilon_ophiuchi",
+      "epsilon_ophiuchi",
+      "delta_ophiuchi",
+      "lambda_ophiuchi_a",
+      "kappa_ophiuchi",
+      "zeta_ophiuchi",
+      "eta_ophiuchi_a",
+      "beta_ophiuchi",
+      "gamma_ophiuchi",
+      "nu_ophiuchi",
+      "gamma_ophiuchi",
+      "beta_ophiuchi",
+      "alpha_ophiuchi"
+    ],
+    [
+      "eta_ophiuchi_a",
+      "theta_ophiuchi",
+      "d_ophiuchi"
+    ],
+    [
+      "zeta_ophiuchi",
+      "phi_ophiuchi",
+      "chi_ophiuchi",
+      "psi_ophiuchi",
+      "rho_ophiuchi_a"
+    ]
+  ],
+  "bright": "alpha_ophiuchi"
 }

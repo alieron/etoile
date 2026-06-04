@@ -1,110 +1,92 @@
 {
-  "abbreviation": "Pup",
+  "id": "Pup",
   "name": "Puppis",
-  "genitive": "Puppis",
-  "meaning": "Stern",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 111.9734,
-        "dec_deg": -11.2521,
-        "ra_deg_signed": 111.9734
-      },
-      {
-        "ra_deg": 111.6772,
-        "dec_deg": -33.2505,
-        "ra_deg_signed": 111.6772
-      },
-      {
-        "ra_deg": 99.9039,
-        "dec_deg": -33.1128,
-        "ra_deg_signed": 99.9039
-      },
-      {
-        "ra_deg": 99.7089,
-        "dec_deg": -43.1116,
-        "ra_deg_signed": 99.7089
-      },
-      {
-        "ra_deg": 90.9518,
-        "dec_deg": -43.0058,
-        "ra_deg_signed": 90.9518
-      },
-      {
-        "ra_deg": 90.7489,
-        "dec_deg": -50.7545,
-        "ra_deg_signed": 90.7489
-      },
-      {
-        "ra_deg": 120.8617,
-        "dec_deg": -51.1026,
-        "ra_deg_signed": 120.8617
-      },
-      {
-        "ra_deg": 121.0383,
-        "dec_deg": -43.3535,
-        "ra_deg_signed": 121.0383
-      },
-      {
-        "ra_deg": 126.5723,
-        "dec_deg": -43.4095,
-        "ra_deg_signed": 126.5723
-      },
-      {
-        "ra_deg": 126.6778,
-        "dec_deg": -37.16,
-        "ra_deg_signed": 126.6778
-      },
-      {
-        "ra_deg": 126.9271,
-        "dec_deg": -17.4113,
-        "ra_deg_signed": 126.9271
-      },
-      {
-        "ra_deg": 126.9898,
-        "dec_deg": -11.4116,
-        "ra_deg_signed": 126.9898
-      },
-      {
-        "ra_deg": 122.7342,
-        "dec_deg": -11.3688,
-        "ra_deg_signed": 122.7342
-      },
-      {
-        "ra_deg": 111.9734,
-        "dec_deg": -11.2521,
-        "ra_deg_signed": 111.9734
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Puppis",
+  "meaning": "Poop Deck",
+  "rank": 1,
+  "focus": [
+    109,
+    -31,
+    91
+  ],
+  "label": [
+    111,
+    -46
+  ],
+  "bound": [
     [
-      39953,
-      39429,
-      39757,
-      38170,
-      37229,
-      36917,
-      35264,
-      31685,
-      30438
-    ],
-    [
-      36917,
-      37677,
-      38070,
-      38170
+      [
+        111.9734,
+        -11.2521
+      ],
+      [
+        111.6772,
+        -33.2505
+      ],
+      [
+        99.9039,
+        -33.1128
+      ],
+      [
+        99.7089,
+        -43.1116
+      ],
+      [
+        90.9518,
+        -43.0058
+      ],
+      [
+        90.7489,
+        -50.7545
+      ],
+      [
+        120.8617,
+        -51.1026
+      ],
+      [
+        121.0383,
+        -43.3535
+      ],
+      [
+        126.5723,
+        -43.4095
+      ],
+      [
+        126.6778,
+        -37.16
+      ],
+      [
+        126.9271,
+        -17.4113
+      ],
+      [
+        126.9898,
+        -11.4116
+      ],
+      [
+        122.7342,
+        -11.3688
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Naos",
-    "designation": "Zet Pup",
-    "display_name": "Zeta Puppis",
-    "display_name_greek": "ζ Puppis",
-    "hip": 39429,
-    "ra_deg": 120.896055,
-    "dec_deg": -40.003148
-  }
+  "lines": [
+    [
+      "gamma_velorum",
+      "zeta_puppis",
+      "rho_puppis",
+      "xi_puppis",
+      "k_puppis",
+      "p_puppis",
+      "pi_puppis",
+      "nu_puppis",
+      "alpha_carinae"
+    ],
+    [
+      "p_puppis",
+      "l_puppis",
+      "omicron_puppis",
+      "xi_puppis"
+    ]
+  ],
+  "bright": "zeta_puppis"
 }

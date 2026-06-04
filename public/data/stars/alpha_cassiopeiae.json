@@ -1,0 +1,17 @@
+{
+  "id": "alpha_cassiopeiae",
+  "name": "Alpha Cassiopeiae",
+  "rank": 2,
+  "ra": 10.126846007691249,
+  "dec": 56.537329217042775,
+  "dist": 69.979,
+  "otype": "PM*",
+  "spect": "K0-IIIa",
+  "cat": 15,
+  "proper": "Schedar",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cas",
+  "fl": 18,
+  "fl_con": "Cas"
+}

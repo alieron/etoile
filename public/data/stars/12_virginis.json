@@ -1,0 +1,13 @@
+{
+  "id": "12_virginis",
+  "name": "12 Virginis",
+  "rank": 5,
+  "ra": 183.35808024760996,
+  "dec": 10.26233970406,
+  "dist": 50.1756,
+  "otype": "PM*",
+  "spect": "kA3hF2mF2",
+  "cat": 4,
+  "fl": 12,
+  "fl_con": "Vir"
+}

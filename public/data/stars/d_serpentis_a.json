@@ -1,0 +1,15 @@
+{
+  "id": "d_serpentis_a",
+  "name": "d Serpentis A",
+  "rank": 4,
+  "ra": 276.8021156098089,
+  "dec": 0.1961086529166643,
+  "dist": 143.886338849,
+  "otype": "SB*",
+  "spect": "A0Vs+G:III",
+  "cat": 13,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Ser",
+  "by_comp": "A"
+}

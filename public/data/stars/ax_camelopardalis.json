@@ -1,0 +1,15 @@
+{
+  "id": "ax_camelopardalis",
+  "name": "AX Camelopardalis",
+  "rank": 5,
+  "ra": 120.42683494776999,
+  "dec": 60.32439078699999,
+  "dist": 98.7167,
+  "otype": "a2*",
+  "spect": "A3VpSrSiCrEu",
+  "cat": 20,
+  "v": "AX",
+  "v_con": "Cam",
+  "fl": 53,
+  "fl_con": "Cam"
+}

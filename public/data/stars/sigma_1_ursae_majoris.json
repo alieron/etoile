@@ -1,0 +1,16 @@
+{
+  "id": "sigma_1_ursae_majoris",
+  "name": "Sigma 1 Ursae Majoris",
+  "rank": 4,
+  "ra": 137.09791530152,
+  "dec": 66.8732339353,
+  "dist": 159.7444,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "by": "sig01",
+  "by_greek": "σ¹",
+  "by_con": "UMa",
+  "fl": 11,
+  "fl_con": "UMa"
+}

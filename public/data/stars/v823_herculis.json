@@ -1,0 +1,15 @@
+{
+  "id": "v823_herculis",
+  "name": "V823 Herculis",
+  "rank": 5,
+  "ra": 253.02021102111001,
+  "dec": 14.97421430675,
+  "dist": 124.0695,
+  "otype": "a2*",
+  "spect": "B9.5pSiCr",
+  "cat": 20,
+  "v": "V823",
+  "v_con": "Her",
+  "fl": 49,
+  "fl_con": "Her"
+}

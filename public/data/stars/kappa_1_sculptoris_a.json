@@ -1,0 +1,15 @@
+{
+  "id": "kappa_1_sculptoris_a",
+  "name": "Kappa 1 Sculptoris A",
+  "rank": 4,
+  "ra": 2.337779005195678,
+  "dec": -27.987925601925987,
+  "dist": 77.460074593,
+  "otype": "PM*",
+  "spect": "F3V",
+  "cat": 6,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "Scl",
+  "by_comp": "A"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "eta_2_doradus",
+  "name": "Eta 2 Doradus",
+  "rank": 4,
+  "ra": 92.81242353741,
+  "dec": -65.58941802255,
+  "dist": 196.4637,
+  "otype": "PM*",
+  "spect": "M2.5III",
+  "cat": 14,
+  "by": "eta02",
+  "by_greek": "η²",
+  "by_con": "Dor"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chi_serpentis",
+  "name": "Chi Serpentis",
+  "rank": 4,
+  "ra": 235.44756139817,
+  "dec": 12.847526029400003,
+  "dist": 67.3854,
+  "otype": "a2*",
+  "spect": "A2VpMnEu(Sr)",
+  "cat": 20,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Ser",
+  "fl": 20,
+  "fl_con": "Ser"
+}

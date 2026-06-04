@@ -1,0 +1,16 @@
+{
+  "id": "b_ophiuchi",
+  "name": "b Ophiuchi",
+  "rank": 4,
+  "ra": 261.59256892034335,
+  "dec": -24.175306945060278,
+  "dist": 25.4972,
+  "otype": "PM*",
+  "spect": "kA5hA9mF1III",
+  "cat": 13,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Oph",
+  "fl": 44,
+  "fl_con": "Oph"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "omicron_1_cygni_b",
+  "name": "Omicron 1 Cygni B",
+  "rank": 4,
+  "ra": 303.4133308511899,
+  "dec": 46.71185973963001,
+  "dist": 421.9409,
+  "otype": "*",
+  "spect": "B9",
+  "cat": 8,
+  "by": "omi01",
+  "by_greek": "ο¹",
+  "by_con": "Cyg",
+  "by_comp": "B",
+  "fl": 31,
+  "fl_con": "Cyg",
+  "fl_comp": "B"
+}

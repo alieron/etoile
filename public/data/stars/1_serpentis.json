@@ -1,0 +1,13 @@
+{
+  "id": "1_serpentis",
+  "name": "1 Serpentis",
+  "rank": 5,
+  "ra": 224.38854728552,
+  "dec": -0.1676119348,
+  "dist": 89.3655,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "fl": 1,
+  "fl_con": "Ser"
+}

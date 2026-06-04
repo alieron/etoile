@@ -1,0 +1,13 @@
+{
+  "id": "6_puppis",
+  "name": "6 Puppis",
+  "rank": 5,
+  "ra": 117.42167260860002,
+  "dec": -17.22840846556,
+  "dist": 78.064,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "fl": 6,
+  "fl_con": "Pup"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zeta_1_librae",
+  "name": "Zeta 1 Librae",
+  "rank": 4,
+  "ra": 232.06420082374,
+  "dec": -16.71648542046,
+  "dist": 240.3846,
+  "otype": "*",
+  "spect": "K4.5III",
+  "cat": 13,
+  "by": "zet01",
+  "by_greek": "ζ¹",
+  "by_con": "Lib",
+  "fl": 32,
+  "fl_con": "Lib"
+}

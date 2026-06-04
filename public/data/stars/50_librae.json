@@ -1,0 +1,13 @@
+{
+  "id": "50_librae",
+  "name": "50 Librae",
+  "rank": 5,
+  "ra": 240.19846801063,
+  "dec": -8.411358271080001,
+  "dist": 150.1502,
+  "otype": "HB*",
+  "spect": "A0V",
+  "cat": 7,
+  "fl": 50,
+  "fl_con": "Lib"
+}

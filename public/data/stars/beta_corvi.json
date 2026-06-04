@@ -1,0 +1,17 @@
+{
+  "id": "beta_corvi",
+  "name": "Beta Corvi",
+  "rank": 2,
+  "ra": 188.59681217680622,
+  "dec": -23.39676021620222,
+  "dist": 44.6628,
+  "otype": "PM*",
+  "spect": "G5IIBa0.3",
+  "cat": 16,
+  "proper": "Kraz",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Crv",
+  "fl": 9,
+  "fl_con": "Crv"
+}

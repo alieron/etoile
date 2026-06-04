@@ -1,0 +1,15 @@
+{
+  "id": "hx_virginis",
+  "name": "HX Virginis",
+  "rank": 5,
+  "ra": 203.01169372812,
+  "dec": -18.72887784322,
+  "dist": 76.5697,
+  "otype": "dS*",
+  "spect": "A7IV/V",
+  "cat": 6,
+  "v": "HX",
+  "v_con": "Vir",
+  "fl": 73,
+  "fl_con": "Vir"
+}

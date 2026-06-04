@@ -1,0 +1,14 @@
+{
+  "id": "lambda_2_fornacis",
+  "name": "Lambda 2 Fornacis",
+  "rank": 4,
+  "ra": 39.24419895574001,
+  "dec": -34.57797534624,
+  "dist": 25.7798,
+  "otype": "PM*",
+  "spect": "G1V",
+  "cat": 5,
+  "by": "lam02",
+  "by_greek": "λ²",
+  "by_con": "For"
+}

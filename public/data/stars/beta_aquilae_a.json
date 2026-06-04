@@ -1,0 +1,18 @@
+{
+  "id": "beta_aquilae_a",
+  "name": "Beta Aquilae A",
+  "rank": 2,
+  "ra": 298.8283035123829,
+  "dec": 6.406764233985,
+  "dist": 13.6986,
+  "otype": "PM*",
+  "spect": "G8IV",
+  "cat": 11,
+  "proper": "Alshain",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Aql",
+  "by_comp": "A",
+  "fl": 60,
+  "fl_con": "Aql"
+}

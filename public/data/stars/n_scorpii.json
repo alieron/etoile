@@ -1,0 +1,14 @@
+{
+  "id": "n_scorpii",
+  "name": "N Scorpii",
+  "rank": 4,
+  "ra": 247.84556033467496,
+  "dec": -34.704368192821676,
+  "dist": 170.068,
+  "otype": "*",
+  "spect": "B2III-IV",
+  "cat": 9,
+  "by": "N",
+  "by_greek": "N",
+  "by_con": "Sco"
+}

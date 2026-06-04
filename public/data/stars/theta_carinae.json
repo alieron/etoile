@@ -1,0 +1,14 @@
+{
+  "id": "theta_carinae",
+  "name": "Theta Carinae",
+  "rank": 3,
+  "ra": 160.73917486416664,
+  "dec": -64.39445022111111,
+  "dist": 139.6648,
+  "otype": "SB*",
+  "spect": "B0Vp",
+  "cat": 8,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Car"
+}

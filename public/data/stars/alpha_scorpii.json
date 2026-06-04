@@ -1,0 +1,17 @@
+{
+  "id": "alpha_scorpii",
+  "name": "Alpha Scorpii",
+  "rank": 2,
+  "ra": 247.3519154198264,
+  "dec": -26.432002611950832,
+  "dist": 169.7793,
+  "otype": "s*r",
+  "spect": "M1.5Iab+B2Vn",
+  "cat": 15,
+  "proper": "Antares",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Sco",
+  "fl": 21,
+  "fl_con": "Sco"
+}

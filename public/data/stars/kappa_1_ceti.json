@@ -1,0 +1,16 @@
+{
+  "id": "kappa_1_ceti",
+  "name": "Kappa 1 Ceti",
+  "rank": 4,
+  "ra": 49.840401739905,
+  "dec": 3.370198605523333,
+  "dist": 9.1399,
+  "otype": "BY*",
+  "spect": "G5V",
+  "cat": 0,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "Cet",
+  "fl": 96,
+  "fl_con": "Cet"
+}

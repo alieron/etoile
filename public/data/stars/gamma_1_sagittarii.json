@@ -1,0 +1,16 @@
+{
+  "id": "gamma_1_sagittarii",
+  "name": "Gamma 1 Sagittarii",
+  "rank": 4,
+  "ra": 271.25511014821,
+  "dec": -29.580089506210005,
+  "dist": 266.6667,
+  "otype": "cC*",
+  "spect": "G0Ib/II",
+  "cat": 18,
+  "by": "gam01",
+  "by_greek": "γ¹",
+  "by_con": "Sgr",
+  "v": "W",
+  "v_con": "Sgr"
+}

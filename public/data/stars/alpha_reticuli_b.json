@@ -1,0 +1,15 @@
+{
+  "id": "alpha_reticuli_b",
+  "name": "Alpha Reticuli B",
+  "rank": 4,
+  "ra": 63.60371457651001,
+  "dec": -62.46042039505999,
+  "dist": 49.26,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Ret",
+  "by_comp": "B"
+}

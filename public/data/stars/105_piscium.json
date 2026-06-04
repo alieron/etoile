@@ -1,0 +1,13 @@
+{
+  "id": "105_piscium",
+  "name": "105 Piscium",
+  "rank": 5,
+  "ra": 24.920076443389995,
+  "dec": 16.40585513614,
+  "dist": 120.1923,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "fl": 105,
+  "fl_con": "Psc"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "n_centauri_b",
+  "name": "N Centauri B",
+  "rank": 4,
+  "ra": 208.01238040191,
+  "dec": -52.80991885344,
+  "dist": 100000.0,
+  "otype": "PM*",
+  "spect": "B8V",
+  "cat": 8,
+  "by": "N",
+  "by_greek": "N",
+  "by_con": "Cen",
+  "by_comp": "B"
+}

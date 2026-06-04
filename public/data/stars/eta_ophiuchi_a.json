@@ -1,0 +1,16 @@
+{
+  "id": "eta_ophiuchi_a",
+  "name": "Eta Ophiuchi A",
+  "rank": 2,
+  "ra": 257.5945287106208,
+  "dec": -15.724906641710527,
+  "dist": 27.093170929000003,
+  "otype": "PM*",
+  "spect": "A2IV-V",
+  "cat": 10,
+  "proper": "Sabik",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Oph",
+  "by_comp": "A"
+}

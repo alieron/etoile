@@ -1,0 +1,14 @@
+{
+  "id": "52_orionis_a",
+  "name": "52 Orionis A",
+  "rank": 5,
+  "ra": 87.00097377309,
+  "dec": 6.454151357499999,
+  "dist": 165.018150165,
+  "otype": "*",
+  "spect": "A5V",
+  "cat": 7,
+  "fl": 52,
+  "fl_con": "Ori",
+  "fl_comp": "A"
+}

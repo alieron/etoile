@@ -1,0 +1,15 @@
+{
+  "id": "mu_arae",
+  "name": "Mu Arae",
+  "rank": 2,
+  "ra": 266.03626308953,
+  "dec": -51.8340532231,
+  "dist": 15.5111,
+  "otype": "PM*",
+  "spect": "G3IV-V",
+  "cat": 11,
+  "proper": "Cervantes",
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Ara"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "eta_piscium",
+  "name": "Eta Piscium",
+  "rank": 2,
+  "ra": 22.870867450065003,
+  "dec": 15.345831842497502,
+  "dist": 107.1811,
+  "otype": "**",
+  "spect": "G7IIIa",
+  "cat": 16,
+  "proper": "Alpherg",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Psc",
+  "fl": 99,
+  "fl_con": "Psc"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "beta_phoenicis_a",
+  "name": "Beta Phoenicis A",
+  "rank": 3,
+  "ra": 16.520997989851963,
+  "dec": -46.71841069311463,
+  "dist": 100001.0,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Phe",
+  "by_comp": "A"
+}

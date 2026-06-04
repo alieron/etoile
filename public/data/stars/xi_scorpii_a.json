@@ -1,0 +1,15 @@
+{
+  "id": "xi_scorpii_a",
+  "name": "Xi Scorpii A",
+  "rank": 4,
+  "ra": 241.09222739999996,
+  "dec": -11.3731039,
+  "dist": 27.892278920000003,
+  "otype": "PM*",
+  "spect": "F7V",
+  "cat": 6,
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Sco",
+  "by_comp": "A"
+}

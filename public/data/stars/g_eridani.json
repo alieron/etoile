@@ -1,0 +1,14 @@
+{
+  "id": "g_eridani",
+  "name": "g Eridani",
+  "rank": 3,
+  "ra": 57.36352607903708,
+  "dec": -36.20025674197,
+  "dist": 64.3501,
+  "otype": "PM*",
+  "spect": "G7III",
+  "cat": 13,
+  "by": "g",
+  "by_greek": "g",
+  "by_con": "Eri"
+}

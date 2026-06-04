@@ -1,0 +1,15 @@
+{
+  "id": "cy_bootis",
+  "name": "CY Boötis",
+  "rank": 5,
+  "ra": 214.36854793707997,
+  "dec": 15.26338049573,
+  "dist": 233.6449,
+  "otype": "LP*",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "CY",
+  "v_con": "Boo",
+  "fl": 101,
+  "fl_con": "Vir"
+}

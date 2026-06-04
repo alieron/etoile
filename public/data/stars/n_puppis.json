@@ -1,0 +1,14 @@
+{
+  "id": "n_puppis",
+  "name": "N Puppis",
+  "rank": 4,
+  "ra": 119.32675417525415,
+  "dec": -44.10985982722473,
+  "dist": 335.5705,
+  "otype": "*",
+  "spect": "B2III/IV",
+  "cat": 9,
+  "by": "N",
+  "by_greek": "N",
+  "by_con": "Pup"
+}

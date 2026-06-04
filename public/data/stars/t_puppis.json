@@ -1,0 +1,14 @@
+{
+  "id": "t_puppis",
+  "name": "t Puppis",
+  "rank": 4,
+  "ra": 104.60453697492,
+  "dec": -34.11169011774,
+  "dist": 180.8318,
+  "otype": "**",
+  "spect": "B4IV/V",
+  "cat": 9,
+  "by": "t",
+  "by_greek": "t",
+  "by_con": "Pup"
+}

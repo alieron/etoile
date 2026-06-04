@@ -1,0 +1,17 @@
+{
+  "id": "alpha_sagittae",
+  "name": "Alpha Sagittae",
+  "rank": 2,
+  "ra": 295.02413054827,
+  "dec": 18.01389072819,
+  "dist": 130.3781,
+  "otype": "*",
+  "spect": "G1II",
+  "cat": 13,
+  "proper": "Sham",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Sge",
+  "fl": 5,
+  "fl_con": "Sge"
+}

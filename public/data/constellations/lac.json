@@ -1,130 +1,108 @@
 {
-  "abbreviation": "Lac",
+  "id": "Lac",
   "name": "Lacerta",
-  "genitive": "Lacertae",
+  "gen": "Lacertae",
   "meaning": "Lizard",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 329.461,
-        "dec_deg": 36.5954,
-        "ra_deg_signed": -30.539
-      },
-      {
-        "ra_deg": 329.3766,
-        "dec_deg": 44.3451,
-        "ra_deg_signed": -30.6234
-      },
-      {
-        "ra_deg": 329.8816,
-        "dec_deg": 44.3483,
-        "ra_deg_signed": -30.1184
-      },
-      {
-        "ra_deg": 329.8786,
-        "dec_deg": 44.5983,
-        "ra_deg_signed": -30.1214
-      },
-      {
-        "ra_deg": 330.7627,
-        "dec_deg": 44.6036,
-        "ra_deg_signed": -29.2373
-      },
-      {
-        "ra_deg": 330.6392,
-        "dec_deg": 53.3533,
-        "ra_deg_signed": -29.3608
-      },
-      {
-        "ra_deg": 333.17470000000003,
-        "dec_deg": 53.3679,
-        "ra_deg_signed": -26.8253
-      },
-      {
-        "ra_deg": 333.1376,
-        "dec_deg": 55.6178,
-        "ra_deg_signed": -26.8624
-      },
-      {
-        "ra_deg": 335.9313,
-        "dec_deg": 55.6326,
-        "ra_deg_signed": -24.0687
-      },
-      {
-        "ra_deg": 335.9109,
-        "dec_deg": 56.8826,
-        "ra_deg_signed": -24.0891
-      },
-      {
-        "ra_deg": 344.304,
-        "dec_deg": 56.918,
-        "ra_deg_signed": -15.696
-      },
-      {
-        "ra_deg": 344.3429,
-        "dec_deg": 53.168,
-        "ra_deg_signed": -15.6571
-      },
-      {
-        "ra_deg": 344.4653,
-        "dec_deg": 35.1682,
-        "ra_deg_signed": -15.5347
-      },
-      {
-        "ra_deg": 343.7092,
-        "dec_deg": 35.1656,
-        "ra_deg_signed": -16.2908
-      },
-      {
-        "ra_deg": 343.7065,
-        "dec_deg": 35.6656,
-        "ra_deg_signed": -16.2935
-      },
-      {
-        "ra_deg": 331.3596,
-        "dec_deg": 35.6069,
-        "ra_deg_signed": -28.6404
-      },
-      {
-        "ra_deg": 331.3505,
-        "dec_deg": 36.6069,
-        "ra_deg_signed": -28.6495
-      },
-      {
-        "ra_deg": 329.461,
-        "dec_deg": 36.5954,
-        "ra_deg_signed": -30.539
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    -23.079,
+    46.0418,
+    50
+  ],
+  "label": [
+    -18,
+    47
+  ],
+  "bound": [
     [
-      111022,
-      111169,
-      110538,
-      110609,
-      111022,
-      110351,
-      111104,
-      111944,
-      111104,
-      111944,
-      111022,
-      111944,
-      111104,
-      109754,
-      109937
+      [
+        -30.539,
+        36.5954
+      ],
+      [
+        -30.6234,
+        44.3451
+      ],
+      [
+        -30.1184,
+        44.3483
+      ],
+      [
+        -30.1214,
+        44.5983
+      ],
+      [
+        -29.2373,
+        44.6036
+      ],
+      [
+        -29.3608,
+        53.3533
+      ],
+      [
+        -26.8253,
+        53.3679
+      ],
+      [
+        -26.8624,
+        55.6178
+      ],
+      [
+        -24.0687,
+        55.6326
+      ],
+      [
+        -24.0891,
+        56.8826
+      ],
+      [
+        -15.696,
+        56.918
+      ],
+      [
+        -15.6571,
+        53.168
+      ],
+      [
+        -15.5347,
+        35.1682
+      ],
+      [
+        -16.2908,
+        35.1656
+      ],
+      [
+        -16.2935,
+        35.6656
+      ],
+      [
+        -28.6404,
+        35.6069
+      ],
+      [
+        -28.6495,
+        36.6069
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "7Alp Lac",
-    "designation": "7Alp Lac",
-    "display_name": "7 Alpha Lacertae",
-    "display_name_greek": "7 α Lacertae",
-    "hip": 111169,
-    "ra_deg": 337.822725,
-    "dec_deg": 50.282491
-  }
+  "lines": [
+    [
+      "v412_lacertae",
+      "alpha_lacertae",
+      "beta_lacertae",
+      "4_lacertae",
+      "v412_lacertae",
+      "2_lacertae",
+      "6_lacertae",
+      "11_lacertae",
+      "6_lacertae",
+      "11_lacertae",
+      "v412_lacertae",
+      "11_lacertae",
+      "6_lacertae",
+      "hip_109754",
+      "1_lacertae"
+    ]
+  ],
+  "bright": "alpha_lacertae"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "f_1_cygni",
+  "name": "f 1 Cygni",
+  "rank": 4,
+  "ra": 314.95647551979,
+  "dec": 47.52093437401,
+  "dist": 434.7826,
+  "otype": "Be*",
+  "spect": "B1.5Vnne",
+  "cat": 8,
+  "by": "f01",
+  "by_greek": "f¹",
+  "by_con": "Cyg",
+  "v": "V832",
+  "v_con": "Cyg",
+  "fl": 59,
+  "fl_con": "Cyg"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gamma_2_sagittarii",
+  "name": "Gamma 2 Sagittarii",
+  "rank": 2,
+  "ra": 271.45203374499994,
+  "dec": -30.424089849444446,
+  "dist": 29.7,
+  "otype": "PM*",
+  "spect": "K0+III",
+  "cat": 13,
+  "proper": "Alnasl",
+  "by": "gam02",
+  "by_greek": "γ²",
+  "by_con": "Sgr",
+  "fl": 10,
+  "fl_con": "Sgr"
+}

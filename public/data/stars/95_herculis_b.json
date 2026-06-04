@@ -1,0 +1,14 @@
+{
+  "id": "95_herculis_b",
+  "name": "95 Herculis B",
+  "rank": 5,
+  "ra": 270.37484989855,
+  "dec": 21.59539009657,
+  "dist": 132.464,
+  "otype": "*",
+  "spect": "G5III",
+  "cat": 13,
+  "fl": 95,
+  "fl_con": "Her",
+  "fl_comp": "B"
+}

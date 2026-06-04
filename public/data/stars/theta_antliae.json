@@ -1,0 +1,14 @@
+{
+  "id": "theta_antliae",
+  "name": "Theta Antliae",
+  "rank": 4,
+  "ra": 146.05039631875,
+  "dec": -27.769472515277776,
+  "dist": 104.0583,
+  "otype": "**",
+  "spect": "A7V+G8III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Ant"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mu_geminorum",
+  "name": "Mu Geminorum",
+  "rank": 2,
+  "ra": 95.74011192619564,
+  "dec": 22.513582745904277,
+  "dist": 71.0227,
+  "otype": "LP*",
+  "spect": "M3IIIab",
+  "cat": 14,
+  "proper": "Tejat",
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Gem",
+  "fl": 13,
+  "fl_con": "Gem"
+}

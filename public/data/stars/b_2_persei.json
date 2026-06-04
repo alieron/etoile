@@ -1,0 +1,14 @@
+{
+  "id": "b_2_persei",
+  "name": "b 2 Persei",
+  "rank": 4,
+  "ra": 65.04796906426,
+  "dec": 50.9209347287,
+  "dist": 332.2259,
+  "otype": "*",
+  "spect": "B1.5IV",
+  "cat": 9,
+  "by": "b02",
+  "by_greek": "b²",
+  "by_con": "Per"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "g_bootis",
+  "name": "g Boötis",
+  "rank": 4,
+  "ra": 217.15755366011288,
+  "dec": 49.84485042362362,
+  "dist": 100.0,
+  "otype": "HB*",
+  "spect": "G4III-IVFe-1",
+  "cat": 11,
+  "by": "g",
+  "by_greek": "g",
+  "by_con": "Boo",
+  "fl": 24,
+  "fl_con": "Boo"
+}

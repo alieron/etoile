@@ -1,0 +1,14 @@
+{
+  "id": "nu_1_lupi",
+  "name": "Nu 1 Lupi",
+  "rank": 4,
+  "ra": 230.53446116810002,
+  "dec": -47.927792546899994,
+  "dist": 35.8551,
+  "otype": "PM*",
+  "spect": "F6III-IV",
+  "cat": 11,
+  "by": "nu.01",
+  "by_greek": "ν¹",
+  "by_con": "Lup"
+}

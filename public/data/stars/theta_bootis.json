@@ -1,0 +1,16 @@
+{
+  "id": "theta_bootis",
+  "name": "Theta Boötis",
+  "rank": 3,
+  "ra": 216.2991539590004,
+  "dec": 51.85074367335807,
+  "dist": 14.5307,
+  "otype": "PM*",
+  "spect": "F7V",
+  "cat": 6,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Boo",
+  "fl": 23,
+  "fl_con": "Boo"
+}

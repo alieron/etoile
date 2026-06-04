@@ -1,0 +1,17 @@
+{
+  "id": "beta_lyrae",
+  "name": "Beta Lyrae",
+  "rank": 2,
+  "ra": 282.51997976764824,
+  "dec": 33.36266676977778,
+  "dist": 294.9853,
+  "otype": "SB*",
+  "spect": "B8.5Ib-II",
+  "cat": 17,
+  "proper": "Sheliak",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Lyr",
+  "fl": 10,
+  "fl_con": "Lyr"
+}

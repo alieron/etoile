@@ -1,0 +1,16 @@
+{
+  "id": "nu_2_sagittarii",
+  "name": "Nu 2 Sagittarii",
+  "rank": 4,
+  "ra": 283.77973942564,
+  "dec": -22.671283787580002,
+  "dist": 83.9631,
+  "otype": "PM*",
+  "spect": "K3-II-III:CN1Ba1",
+  "cat": 13,
+  "by": "nu.02",
+  "by_greek": "ν²",
+  "by_con": "Sgr",
+  "fl": 35,
+  "fl_con": "Sgr"
+}

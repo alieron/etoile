@@ -1,0 +1,13 @@
+{
+  "id": "38_capricorni",
+  "name": "38 Capricorni",
+  "rank": 5,
+  "ra": 323.72905890189,
+  "dec": -20.252719153790004,
+  "dist": 55.5247,
+  "otype": "PM*",
+  "spect": "F7V",
+  "cat": 6,
+  "fl": 38,
+  "fl_con": "Cap"
+}

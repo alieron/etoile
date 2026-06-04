@@ -1,0 +1,15 @@
+{
+  "id": "alpha_trianguli_australis",
+  "name": "Alpha Trianguli Australis",
+  "rank": 2,
+  "ra": 252.1662295073803,
+  "dec": -69.02771184691984,
+  "dist": 119.7605,
+  "otype": "*",
+  "spect": "K2III_Ba1",
+  "cat": 13,
+  "proper": "Atria",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "TrA"
+}

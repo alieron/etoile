@@ -1,0 +1,17 @@
+{
+  "id": "beta_coronae_borealis",
+  "name": "Beta Coronae Borealis",
+  "rank": 2,
+  "ra": 231.95730858154164,
+  "dec": 29.10569295567611,
+  "dist": 34.2818,
+  "otype": "a2*",
+  "spect": "F2VpSrCrEuSi",
+  "cat": 20,
+  "proper": "Nusakan",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "CrB",
+  "fl": 3,
+  "fl_con": "CrB"
+}

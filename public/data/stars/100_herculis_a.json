@@ -1,0 +1,14 @@
+{
+  "id": "100_herculis_a",
+  "name": "100 Herculis A",
+  "rank": 5,
+  "ra": 271.9566666666666,
+  "dec": 26.101111111111113,
+  "dist": 49.603696032,
+  "otype": "**",
+  "spect": "",
+  "cat": 19,
+  "fl": 100,
+  "fl_con": "Her",
+  "fl_comp": "A"
+}

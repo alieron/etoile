@@ -1,0 +1,14 @@
+{
+  "id": "nu_2_arae",
+  "name": "Nu 2 Arae",
+  "rank": 4,
+  "ra": 267.79602210925,
+  "dec": -53.13026904318,
+  "dist": 156.0062,
+  "otype": "*",
+  "spect": "B9.5III/IV",
+  "cat": 9,
+  "by": "nu.02",
+  "by_greek": "ν²",
+  "by_con": "Ara"
+}

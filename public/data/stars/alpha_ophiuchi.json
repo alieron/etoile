@@ -1,0 +1,17 @@
+{
+  "id": "alpha_ophiuchi",
+  "name": "Alpha Ophiuchi",
+  "rank": 2,
+  "ra": 263.73362272030505,
+  "dec": 12.560037391671425,
+  "dist": 14.8965,
+  "otype": "**",
+  "spect": "A5IVnn",
+  "cat": 10,
+  "proper": "Rasalhague",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Oph",
+  "fl": 55,
+  "fl_con": "Oph"
+}

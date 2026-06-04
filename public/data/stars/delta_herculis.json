@@ -1,0 +1,17 @@
+{
+  "id": "delta_herculis",
+  "name": "Delta Herculis",
+  "rank": 2,
+  "ra": 258.7579607430354,
+  "dec": 24.839206966655976,
+  "dist": 23.0362,
+  "otype": "SB*",
+  "spect": "A1IVn",
+  "cat": 10,
+  "proper": "Sarin",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Her",
+  "fl": 65,
+  "fl_con": "Her"
+}

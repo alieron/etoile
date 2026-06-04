@@ -1,0 +1,14 @@
+{
+  "id": "66_piscium_a",
+  "name": "66 Piscium A",
+  "rank": 5,
+  "ra": 13.646760709965415,
+  "dec": 19.188422173789725,
+  "dist": 108.109181081,
+  "otype": "*",
+  "spect": "A1Vn",
+  "cat": 7,
+  "fl": 66,
+  "fl_con": "Psc",
+  "fl_comp": "A"
+}

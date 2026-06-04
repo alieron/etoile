@@ -1,0 +1,15 @@
+{
+  "id": "lambda_1_sculptoris_a",
+  "name": "Lambda 1 Sculptoris A",
+  "rank": 4,
+  "ra": 10.678716266595814,
+  "dec": -38.46348377333307,
+  "dist": 145.139351379,
+  "otype": "*",
+  "spect": "B9.5V",
+  "cat": 8,
+  "by": "lam01",
+  "by_greek": "λ¹",
+  "by_con": "Scl",
+  "by_comp": "A"
+}

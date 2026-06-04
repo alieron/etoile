@@ -1,0 +1,15 @@
+{
+  "id": "ss_sextantis",
+  "name": "SS Sextantis",
+  "rank": 5,
+  "ra": 155.86032593897,
+  "dec": -4.07403283934,
+  "dist": 104.1667,
+  "otype": "a2*",
+  "spect": "ApSiCr",
+  "cat": 20,
+  "v": "SS",
+  "v_con": "Sex",
+  "fl": 25,
+  "fl_con": "Sex"
+}

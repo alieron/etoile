@@ -1,0 +1,18 @@
+{
+  "id": "zeta_1_cancri_a",
+  "name": "Zeta 1 Cancri A",
+  "rank": 4,
+  "ra": 123.05300171204,
+  "dec": 17.64764147554,
+  "dist": 24.457,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "zet01",
+  "by_greek": "ζ¹",
+  "by_con": "Cnc",
+  "by_comp": "A",
+  "fl": 16,
+  "fl_con": "Cnc",
+  "fl_comp": "A"
+}

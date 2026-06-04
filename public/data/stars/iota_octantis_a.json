@@ -1,0 +1,15 @@
+{
+  "id": "iota_octantis_a",
+  "name": "Iota Octantis A",
+  "rank": 4,
+  "ra": 193.7450395577171,
+  "dec": -85.12336225671578,
+  "dist": 107.875978749,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Oct",
+  "by_comp": "A"
+}

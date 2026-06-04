@@ -1,0 +1,17 @@
+{
+  "id": "gamma_aquarii",
+  "name": "Gamma Aquarii",
+  "rank": 2,
+  "ra": 335.41404820054,
+  "dec": -1.38734919411,
+  "dist": 50.2008,
+  "otype": "PM*",
+  "spect": "A0V",
+  "cat": 7,
+  "proper": "Sadachbia",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Aqr",
+  "fl": 48,
+  "fl_con": "Aqr"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20_persei_c",
+  "name": "20 Persei C",
+  "rank": 5,
+  "ra": 43.42343069662,
+  "dec": 38.335358848350005,
+  "dist": 66.625,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 20,
+  "fl_con": "Per",
+  "fl_comp": "C"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "xi_1_sagittarii",
+  "name": "Xi 1 Sagittarii",
+  "rank": 4,
+  "ra": 284.33532038596,
+  "dec": -20.65634787079,
+  "dist": 632.9114,
+  "otype": "*",
+  "spect": "B9/A0Ib",
+  "cat": 17,
+  "by": "ksi01",
+  "by_greek": "ξ¹",
+  "by_con": "Sgr",
+  "fl": 36,
+  "fl_con": "Sgr"
+}

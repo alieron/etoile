@@ -1,0 +1,14 @@
+{
+  "id": "46_virginis_a",
+  "name": "46 Virginis A",
+  "rank": 5,
+  "ra": 195.14977899581,
+  "dec": -3.36848787677,
+  "dist": 100.301903009,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "fl": 46,
+  "fl_con": "Vir",
+  "fl_comp": "A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "eta_muscae_b",
+  "name": "Eta Muscae B",
+  "rank": 4,
+  "ra": 198.81391110149,
+  "dec": -67.89500658809,
+  "dist": 115.26,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Mus",
+  "by_comp": "B"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "32_herculis_b",
+  "name": "32 Herculis B",
+  "rank": 5,
+  "ra": 248.37212545621998,
+  "dec": 30.499993777,
+  "dist": 167.012,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 32,
+  "fl_con": "Her",
+  "fl_comp": "B"
+}

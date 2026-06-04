@@ -1,0 +1,17 @@
+{
+  "id": "alpha_delphini",
+  "name": "Alpha Delphini",
+  "rank": 2,
+  "ra": 309.90949848153707,
+  "dec": 15.912160008943609,
+  "dist": 77.821,
+  "otype": "**",
+  "spect": "B9IV",
+  "cat": 9,
+  "proper": "Sualocin",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Del",
+  "fl": 9,
+  "fl_con": "Del"
+}

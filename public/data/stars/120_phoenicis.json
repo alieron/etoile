@@ -1,0 +1,13 @@
+{
+  "id": "120_phoenicis",
+  "name": "120 Phoenicis",
+  "rank": 5,
+  "ra": 26.52485575357,
+  "dec": -50.816254465990006,
+  "dist": 194.5525,
+  "otype": "*",
+  "spect": "M2III",
+  "cat": 14,
+  "fl": 120,
+  "fl_con": "Phe"
+}

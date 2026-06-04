@@ -1,0 +1,14 @@
+{
+  "id": "17_virginis_b",
+  "name": "17 Virginis B",
+  "rank": 5,
+  "ra": 185.63126199224996,
+  "dec": 5.31079656262,
+  "dist": 58.0046,
+  "otype": "PM*",
+  "spect": "K5V:",
+  "cat": 4,
+  "fl": 17,
+  "fl_con": "Vir",
+  "fl_comp": "B"
+}

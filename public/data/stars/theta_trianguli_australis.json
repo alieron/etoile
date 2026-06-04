@@ -1,0 +1,14 @@
+{
+  "id": "theta_trianguli_australis",
+  "name": "Theta Trianguli Australis",
+  "rank": 4,
+  "ra": 248.93675436895998,
+  "dec": -65.495399624,
+  "dist": 104.9318,
+  "otype": "*",
+  "spect": "G8/K0III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "TrA"
+}

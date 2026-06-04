@@ -1,0 +1,16 @@
+{
+  "id": "alpha_1_capricorni",
+  "name": "Alpha 1 Capricorni",
+  "rank": 4,
+  "ra": 304.41195470044,
+  "dec": -12.50821218603,
+  "dist": 174.5201,
+  "otype": "**",
+  "spect": "G3Ib",
+  "cat": 16,
+  "by": "alf01",
+  "by_greek": "α¹",
+  "by_con": "Cap",
+  "fl": 5,
+  "fl_con": "Cap"
+}

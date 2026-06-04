@@ -1,0 +1,14 @@
+{
+  "id": "9_lacertae_b",
+  "name": "9 Lacertae B",
+  "rank": 5,
+  "ra": 339.33959735674,
+  "dec": 51.54174894023,
+  "dist": 52.801,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 9,
+  "fl_con": "Lac",
+  "fl_comp": "B"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "epsilon_2_lyrae_b",
+  "name": "Epsilon 2 Lyrae B",
+  "rank": 4,
+  "ra": 281.09576442363993,
+  "dec": 39.6127947724,
+  "dist": 48.889,
+  "otype": "PM*",
+  "spect": "A7Vn",
+  "cat": 7,
+  "by": "eps02",
+  "by_greek": "ε²",
+  "by_con": "Lyr",
+  "by_comp": "B",
+  "fl": 5,
+  "fl_con": "Lyr",
+  "fl_comp": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lm_virginis",
+  "name": "LM Virginis",
+  "rank": 5,
+  "ra": 198.3618161289683,
+  "dec": -18.826405003742252,
+  "dist": 194.176741748,
+  "otype": "EB*",
+  "spect": "B9V+A2VpSr",
+  "cat": 8,
+  "v": "LM",
+  "v_con": "Vir",
+  "fl": 54,
+  "fl_con": "Vir",
+  "fl_comp": "A"
+}

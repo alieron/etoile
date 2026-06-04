@@ -1,0 +1,17 @@
+{
+  "id": "delta_draconis",
+  "name": "Delta Draconis",
+  "rank": 2,
+  "ra": 288.1387557204383,
+  "dec": 67.66153865705445,
+  "dist": 29.8686,
+  "otype": "PM*",
+  "spect": "G9III",
+  "cat": 13,
+  "proper": "Altais",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Dra",
+  "fl": 57,
+  "fl_con": "Dra"
+}

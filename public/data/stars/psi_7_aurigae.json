@@ -1,0 +1,16 @@
+{
+  "id": "psi_7_aurigae",
+  "name": "Psi 7 Aurigae",
+  "rank": 4,
+  "ra": 102.69143033957,
+  "dec": 41.781230547750006,
+  "dist": 116.144,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "psi07",
+  "by_greek": "ψ⁷",
+  "by_con": "Aur",
+  "fl": 58,
+  "fl_con": "Aur"
+}

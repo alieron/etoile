@@ -1,0 +1,13 @@
+{
+  "id": "87_piscium",
+  "name": "87 Piscium",
+  "rank": 5,
+  "ra": 18.53178400763,
+  "dec": 16.13347623738,
+  "dist": 139.47,
+  "otype": "SB*",
+  "spect": "B8III",
+  "cat": 17,
+  "fl": 87,
+  "fl_con": "Psc"
+}

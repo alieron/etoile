@@ -1,0 +1,17 @@
+{
+  "id": "sigma_hydrae",
+  "name": "Sigma Hydrae",
+  "rank": 2,
+  "ra": 129.68932270518832,
+  "dec": 3.3414351882730555,
+  "dist": 114.2857,
+  "otype": "*",
+  "spect": "K1III",
+  "cat": 13,
+  "proper": "Minchir",
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Hya",
+  "fl": 5,
+  "fl_con": "Hya"
+}

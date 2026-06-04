@@ -1,0 +1,13 @@
+{
+  "id": "17_canis_majoris",
+  "name": "17 Canis Majoris",
+  "rank": 5,
+  "ra": 103.76140835122,
+  "dec": -20.4048771756,
+  "dist": 154.5595,
+  "otype": "*",
+  "spect": "A2V",
+  "cat": 7,
+  "fl": 17,
+  "fl_con": "CMa"
+}

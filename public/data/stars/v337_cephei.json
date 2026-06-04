@@ -1,0 +1,15 @@
+{
+  "id": "v337_cephei",
+  "name": "V337 Cephei",
+  "rank": 5,
+  "ra": 324.48010058101,
+  "dec": 62.08194177133,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B2Ib",
+  "cat": 17,
+  "v": "V337",
+  "v_con": "Cep",
+  "fl": 9,
+  "fl_con": "Cep"
+}

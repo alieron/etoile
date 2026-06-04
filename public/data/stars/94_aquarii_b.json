@@ -1,0 +1,14 @@
+{
+  "id": "94_aquarii_b",
+  "name": "94 Aquarii B",
+  "rank": 5,
+  "ra": 349.77733710640996,
+  "dec": -13.455250376181668,
+  "dist": 22.4367,
+  "otype": "PM*",
+  "spect": "K2",
+  "cat": 4,
+  "fl": 94,
+  "fl_con": "Aqr",
+  "fl_comp": "B"
+}

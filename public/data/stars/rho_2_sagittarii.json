@@ -1,0 +1,16 @@
+{
+  "id": "rho_2_sagittarii",
+  "name": "Rho 2 Sagittarii",
+  "rank": 4,
+  "ra": 290.46206439322,
+  "dec": -18.30838925039,
+  "dist": 101.833,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "rho02",
+  "by_greek": "ρ²",
+  "by_con": "Sgr",
+  "fl": 45,
+  "fl_con": "Sgr"
+}

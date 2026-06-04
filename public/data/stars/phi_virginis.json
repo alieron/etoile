@@ -1,0 +1,17 @@
+{
+  "id": "phi_virginis",
+  "name": "Phi Virginis",
+  "rank": 2,
+  "ra": 217.05057875906,
+  "dec": -2.22795805996,
+  "dist": 36.2582,
+  "otype": "RG*",
+  "spect": "G2IV",
+  "cat": 14,
+  "proper": "Elgafar",
+  "by": "phi",
+  "by_greek": "φ",
+  "by_con": "Vir",
+  "fl": 105,
+  "fl_con": "Vir"
+}

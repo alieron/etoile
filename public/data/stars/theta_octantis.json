@@ -1,0 +1,14 @@
+{
+  "id": "theta_octantis",
+  "name": "Theta Octantis",
+  "rank": 4,
+  "ra": 0.39874771198458336,
+  "dec": -77.06572535204721,
+  "dist": 66.5779,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Oct"
+}

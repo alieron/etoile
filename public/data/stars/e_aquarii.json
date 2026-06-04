@@ -1,0 +1,16 @@
+{
+  "id": "e_aquarii",
+  "name": "e Aquarii",
+  "rank": 4,
+  "ra": 332.65617743047704,
+  "dec": -11.564938650259169,
+  "dist": 137.931,
+  "otype": "*",
+  "spect": "B5III",
+  "cat": 17,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Aqr",
+  "fl": 38,
+  "fl_con": "Aqr"
+}

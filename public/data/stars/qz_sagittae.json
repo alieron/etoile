@@ -1,0 +1,15 @@
+{
+  "id": "qz_sagittae",
+  "name": "QZ Sagittae",
+  "rank": 5,
+  "ra": 298.09068719182,
+  "dec": 18.671875366939997,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "O7.5Iabf",
+  "cat": 17,
+  "v": "QZ",
+  "v_con": "Sge",
+  "fl": 9,
+  "fl_con": "Sge"
+}

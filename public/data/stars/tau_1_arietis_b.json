@@ -1,0 +1,15 @@
+{
+  "id": "tau_1_arietis_b",
+  "name": "Tau 1 Arietis B",
+  "rank": 4,
+  "ra": 50.306561191666674,
+  "dec": 21.146897580555553,
+  "dist": 156.0062,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "tau01",
+  "by_greek": "τ¹",
+  "by_con": "Ari",
+  "by_comp": "B"
+}

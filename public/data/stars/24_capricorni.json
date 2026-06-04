@@ -1,0 +1,13 @@
+{
+  "id": "24_capricorni",
+  "name": "24 Capricorni",
+  "rank": 5,
+  "ra": 316.7819506660321,
+  "dec": -25.00585263557027,
+  "dist": 139.8601,
+  "otype": "PM*",
+  "spect": "M1-III",
+  "cat": 14,
+  "fl": 24,
+  "fl_con": "Cap"
+}

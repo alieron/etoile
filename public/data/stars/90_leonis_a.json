@@ -1,0 +1,14 @@
+{
+  "id": "90_leonis_a",
+  "name": "90 Leonis A",
+  "rank": 5,
+  "ra": 173.6770426479156,
+  "dec": 16.79691544083179,
+  "dist": 581.401113953,
+  "otype": "SB*",
+  "spect": "B6.6(IV)+B3.7(V)",
+  "cat": 9,
+  "fl": 90,
+  "fl_con": "Leo",
+  "fl_comp": "A"
+}

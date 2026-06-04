@@ -1,0 +1,15 @@
+{
+  "id": "nu_vulpeculae",
+  "name": "NU Vulpeculae",
+  "rank": 5,
+  "ra": 303.56053972259997,
+  "dec": 28.694817172859995,
+  "dist": 91.1577,
+  "otype": "dS*",
+  "spect": "A7IVn",
+  "cat": 6,
+  "v": "NU",
+  "v_con": "Vul",
+  "fl": 21,
+  "fl_con": "Vul"
+}

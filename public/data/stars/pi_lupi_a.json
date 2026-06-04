@@ -1,0 +1,15 @@
+{
+  "id": "pi_lupi_a",
+  "name": "Pi Lupi A",
+  "rank": 4,
+  "ra": 226.28014567631791,
+  "dec": -47.0510636022725,
+  "dist": 135.870958696,
+  "otype": "*",
+  "spect": "B5",
+  "cat": 8,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Lup",
+  "by_comp": "A"
+}

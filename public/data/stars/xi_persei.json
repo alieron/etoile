@@ -1,0 +1,17 @@
+{
+  "id": "xi_persei",
+  "name": "Xi Persei",
+  "rank": 2,
+  "ra": 59.74126012587458,
+  "dec": 35.79103042103805,
+  "dist": 381.6794,
+  "otype": "**",
+  "spect": "O7.5III(n)((f))",
+  "cat": 17,
+  "proper": "Menkib",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Per",
+  "fl": 46,
+  "fl_con": "Per"
+}

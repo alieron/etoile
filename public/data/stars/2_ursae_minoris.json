@@ -1,0 +1,14 @@
+{
+  "id": "2_ursae_minoris",
+  "name": "2 Ursae Minoris",
+  "rank": 2,
+  "ra": 17.1869943146575,
+  "dec": 86.25709066820444,
+  "dist": 85.9107,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "proper": "Tarandus",
+  "fl": 2,
+  "fl_con": "UMi"
+}

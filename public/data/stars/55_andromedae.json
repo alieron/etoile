@@ -1,0 +1,13 @@
+{
+  "id": "55_andromedae",
+  "name": "55 Andromedae",
+  "rank": 5,
+  "ra": 28.3222680326,
+  "dec": 40.72979042072,
+  "dist": 193.4236,
+  "otype": "*",
+  "spect": "K1III",
+  "cat": 13,
+  "fl": 55,
+  "fl_con": "And"
+}

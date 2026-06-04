@@ -1,0 +1,15 @@
+{
+  "id": "bm_camelopardalis",
+  "name": "BM Camelopardalis",
+  "rank": 5,
+  "ra": 76.55057362911,
+  "dec": 59.02133875745,
+  "dist": 218.8184,
+  "otype": "RS*",
+  "spect": "K0IIIe",
+  "cat": 13,
+  "v": "BM",
+  "v_con": "Cam",
+  "fl": 12,
+  "fl_con": "Cam"
+}

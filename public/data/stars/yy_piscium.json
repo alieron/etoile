@@ -1,0 +1,15 @@
+{
+  "id": "yy_piscium",
+  "name": "YY Piscium",
+  "rank": 5,
+  "ra": 0.49008113222000005,
+  "dec": -6.01407055668,
+  "dist": 132.4503,
+  "otype": "LP?",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "YY",
+  "v_con": "Psc",
+  "fl": 30,
+  "fl_con": "Psc"
+}

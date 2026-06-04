@@ -1,0 +1,15 @@
+{
+  "id": "sx_arietis",
+  "name": "SX Arietis",
+  "rank": 5,
+  "ra": 48.05935880722999,
+  "dec": 27.256968241330004,
+  "dist": 154.0832,
+  "otype": "a2*",
+  "spect": "B6IV-V",
+  "cat": 20,
+  "v": "SX",
+  "v_con": "Ari",
+  "fl": 56,
+  "fl_con": "Ari"
+}

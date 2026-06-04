@@ -1,0 +1,17 @@
+{
+  "id": "zeta_canis_majoris",
+  "name": "Zeta Canis Majoris",
+  "rank": 2,
+  "ra": 95.07830016583333,
+  "dec": -30.063366733888888,
+  "dist": 111.1111,
+  "otype": "Ce*",
+  "spect": "B2.5V",
+  "cat": 16,
+  "proper": "Furud",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "CMa",
+  "fl": 1,
+  "fl_con": "CMa"
+}

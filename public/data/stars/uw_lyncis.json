@@ -1,0 +1,15 @@
+{
+  "id": "uw_lyncis",
+  "name": "UW Lyncis",
+  "rank": 5,
+  "ra": 94.478423530395,
+  "dec": 61.515286595788055,
+  "dist": 195.6947,
+  "otype": "LP?",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "UW",
+  "v_con": "Lyn",
+  "fl": 1,
+  "fl_con": "Lyn"
+}

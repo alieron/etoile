@@ -1,0 +1,17 @@
+{
+  "id": "xi_geminorum",
+  "name": "Xi Geminorum",
+  "rank": 2,
+  "ra": 101.32235202269875,
+  "dec": 12.895594959796389,
+  "dist": 17.9986,
+  "otype": "RG*",
+  "spect": "F5IV-V",
+  "cat": 14,
+  "proper": "Alzirr",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Gem",
+  "fl": 31,
+  "fl_con": "Gem"
+}

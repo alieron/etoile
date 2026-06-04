@@ -1,0 +1,16 @@
+{
+  "id": "omega_2_scorpii",
+  "name": "Omega 2 Scorpii",
+  "rank": 4,
+  "ra": 241.8513625582242,
+  "dec": -20.868764431784726,
+  "dist": 89.1266,
+  "otype": "PM*",
+  "spect": "G4II-III",
+  "cat": 13,
+  "by": "ome02",
+  "by_greek": "ω²",
+  "by_con": "Sco",
+  "fl": 10,
+  "fl_con": "Sco"
+}

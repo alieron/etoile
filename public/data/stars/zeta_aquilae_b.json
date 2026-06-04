@@ -1,0 +1,15 @@
+{
+  "id": "zeta_aquilae_b",
+  "name": "Zeta Aquilae B",
+  "rank": 4,
+  "ra": 286.3540517068725,
+  "dec": 13.864826024441943,
+  "dist": 25.567,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Aql",
+  "by_comp": "B"
+}

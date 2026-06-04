@@ -1,0 +1,14 @@
+{
+  "id": "gamma_1_caeli",
+  "name": "Gamma 1 Caeli",
+  "rank": 3,
+  "ra": 76.10167558273,
+  "dec": -35.48297537488,
+  "dist": 55.5864,
+  "otype": "PM*",
+  "spect": "K2III-IIIb",
+  "cat": 15,
+  "by": "gam01",
+  "by_greek": "γ¹",
+  "by_con": "Cae"
+}

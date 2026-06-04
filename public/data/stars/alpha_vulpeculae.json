@@ -1,0 +1,17 @@
+{
+  "id": "alpha_vulpeculae",
+  "name": "Alpha Vulpeculae",
+  "rank": 2,
+  "ra": 292.176374672262,
+  "dec": 24.664905852074995,
+  "dist": 91.1577,
+  "otype": "PM*",
+  "spect": "M0.5IIIb",
+  "cat": 15,
+  "proper": "Anser",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Vul",
+  "fl": 6,
+  "fl_con": "Vul"
+}

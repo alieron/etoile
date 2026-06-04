@@ -1,0 +1,13 @@
+{
+  "id": "45_geminorum",
+  "name": "45 Geminorum",
+  "rank": 5,
+  "ra": 107.09183131044,
+  "dec": 15.930676617520001,
+  "dist": 98.912,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 45,
+  "fl_con": "Gem"
+}

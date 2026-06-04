@@ -1,0 +1,15 @@
+{
+  "id": "d_lupi_a",
+  "name": "d Lupi A",
+  "rank": 4,
+  "ra": 233.97186690295842,
+  "dec": -44.958388380644955,
+  "dist": 131.234912336,
+  "otype": "*",
+  "spect": "B3V",
+  "cat": 8,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Lup",
+  "by_comp": "A"
+}

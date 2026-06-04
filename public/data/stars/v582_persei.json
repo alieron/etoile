@@ -1,0 +1,15 @@
+{
+  "id": "v582_persei",
+  "name": "V582 Persei",
+  "rank": 5,
+  "ra": 62.15257148892999,
+  "dec": 38.039738557250004,
+  "dist": 20.9952,
+  "otype": "RS*",
+  "spect": "F8V",
+  "cat": 6,
+  "v": "V582",
+  "v_con": "Per",
+  "fl": 50,
+  "fl_con": "Per"
+}

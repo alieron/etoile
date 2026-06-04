@@ -1,0 +1,14 @@
+{
+  "id": "theta_pyxidis",
+  "name": "Theta Pyxidis",
+  "rank": 4,
+  "ra": 140.37329296116,
+  "dec": -25.96544062992,
+  "dist": 154.0832,
+  "otype": "*",
+  "spect": "M0.5IIIBa0.5",
+  "cat": 15,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Pyx"
+}

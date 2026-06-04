@@ -1,87 +1,72 @@
 {
-  "abbreviation": "Aps",
+  "id": "Aps",
   "name": "Apus",
-  "genitive": "Apodis",
-  "meaning": "Bird of Paradise",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 209.1111,
-        "dec_deg": -83.1201,
-        "ra_deg_signed": -150.8889
-      },
-      {
-        "ra_deg": 276.866,
-        "dec_deg": -82.4583,
-        "ra_deg_signed": -83.134
-      },
-      {
-        "ra_deg": 274.1951,
-        "dec_deg": -74.9745,
-        "ra_deg_signed": -85.8049
-      },
-      {
-        "ra_deg": 273.2801,
-        "dec_deg": -67.4801,
-        "ra_deg_signed": -86.7199
-      },
-      {
-        "ra_deg": 265.77570000000003,
-        "dec_deg": -67.5711,
-        "ra_deg_signed": -94.2243
-      },
-      {
-        "ra_deg": 258.2425,
-        "dec_deg": -67.6611,
-        "ra_deg_signed": -101.7575
-      },
-      {
-        "ra_deg": 258.47069999999997,
-        "dec_deg": -70.1597,
-        "ra_deg_signed": -101.5293
-      },
-      {
-        "ra_deg": 224.1664,
-        "dec_deg": -70.5115,
-        "ra_deg_signed": -135.8336
-      },
-      {
-        "ra_deg": 207.4609,
-        "dec_deg": -70.6244,
-        "ra_deg_signed": -152.5391
-      },
-      {
-        "ra_deg": 207.7814,
-        "dec_deg": -75.6236,
-        "ra_deg_signed": -152.2186
-      },
-      {
-        "ra_deg": 209.1111,
-        "dec_deg": -83.1201,
-        "ra_deg_signed": -150.8889
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Apodis",
+  "meaning": "Bird of Paradise",
+  "rank": 2,
+  "focus": [
+    -118,
+    -75,
+    47
+  ],
+  "label": [
+    -120,
+    -74
+  ],
+  "bound": [
     [
-      72370,
-      81065
-    ],
-    [
-      80047,
-      81852,
-      81065
+      [
+        -150.8889,
+        -83.1201
+      ],
+      [
+        -83.134,
+        -82.4583
+      ],
+      [
+        -85.8049,
+        -74.9745
+      ],
+      [
+        -86.7199,
+        -67.4801
+      ],
+      [
+        -94.2243,
+        -67.5711
+      ],
+      [
+        -101.7575,
+        -67.6611
+      ],
+      [
+        -101.5293,
+        -70.1597
+      ],
+      [
+        -135.8336,
+        -70.5115
+      ],
+      [
+        -152.5391,
+        -70.6244
+      ],
+      [
+        -152.2186,
+        -75.6236
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alp Aps",
-    "designation": "Alp Aps",
-    "display_name": "Alpha Apodis",
-    "display_name_greek": "α Apodis",
-    "hip": 72370,
-    "ra_deg": 221.965515,
-    "dec_deg": -79.044751
-  }
+  "lines": [
+    [
+      "alpha_apodis",
+      "gamma_apodis"
+    ],
+    [
+      "delta_1_apodis",
+      "beta_apodis",
+      "gamma_apodis"
+    ]
+  ],
+  "bright": "alpha_apodis"
 }

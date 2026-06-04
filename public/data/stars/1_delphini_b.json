@@ -1,0 +1,14 @@
+{
+  "id": "1_delphini_b",
+  "name": "1 Delphini B",
+  "rank": 5,
+  "ra": 307.5747935306371,
+  "dec": 10.896159068430554,
+  "dist": 227.7904,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 1,
+  "fl_con": "Del",
+  "fl_comp": "B"
+}

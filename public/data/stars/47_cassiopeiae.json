@@ -1,0 +1,13 @@
+{
+  "id": "47_cassiopeiae",
+  "name": "47 Cassiopeiae",
+  "rank": 5,
+  "ra": 31.280934280416663,
+  "dec": 77.281340055,
+  "dist": 33.1565,
+  "otype": "**",
+  "spect": "F0Vn",
+  "cat": 6,
+  "fl": 47,
+  "fl_con": "Cas"
+}

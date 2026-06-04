@@ -1,0 +1,13 @@
+{
+  "id": "45_andromedae",
+  "name": "45 Andromedae",
+  "rank": 5,
+  "ra": 17.792821415540004,
+  "dec": 37.72412445284,
+  "dist": 242.1308,
+  "otype": "**",
+  "spect": "B7III-IV",
+  "cat": 9,
+  "fl": 45,
+  "fl_con": "And"
+}

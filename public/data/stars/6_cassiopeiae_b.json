@@ -1,0 +1,14 @@
+{
+  "id": "6_cassiopeiae_b",
+  "name": "6 Cassiopeiae B",
+  "rank": 5,
+  "ra": 357.2088008476,
+  "dec": 62.21411475286,
+  "dist": 100000.0,
+  "otype": "*",
+  "spect": "O9.5II",
+  "cat": 17,
+  "fl": 6,
+  "fl_con": "Cas",
+  "fl_comp": "B"
+}

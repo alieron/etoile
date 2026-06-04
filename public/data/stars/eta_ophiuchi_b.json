@@ -1,0 +1,15 @@
+{
+  "id": "eta_ophiuchi_b",
+  "name": "Eta Ophiuchi B",
+  "rank": 4,
+  "ra": 257.59432,
+  "dec": -15.725182199999999,
+  "dist": 27.0929,
+  "otype": "*",
+  "spect": "A3(V)",
+  "cat": 7,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Oph",
+  "by_comp": "B"
+}

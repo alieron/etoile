@@ -1,0 +1,17 @@
+{
+  "id": "eta_aurigae",
+  "name": "Eta Aurigae",
+  "rank": 2,
+  "ra": 76.6287255888596,
+  "dec": 41.23447574166194,
+  "dist": 74.6269,
+  "otype": "PM*",
+  "spect": "B3V",
+  "cat": 8,
+  "proper": "Haedus",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Aur",
+  "fl": 10,
+  "fl_con": "Aur"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13,
+  "name": "yellow_giant_bright_giant",
+  "rgb": [
+    255,
+    210,
+    130
+  ],
+  "color": [
+    1.0,
+    0.823529,
+    0.509804
+  ],
+  "radius": 25.0,
+  "point": 1.8,
+  "halo": 2.1,
+  "glow": 0.45
+}

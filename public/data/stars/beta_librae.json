@@ -1,0 +1,17 @@
+{
+  "id": "beta_librae",
+  "name": "Beta Librae",
+  "rank": 2,
+  "ra": 229.25172424914246,
+  "dec": -9.382914410334685,
+  "dist": 56.7537,
+  "otype": "PM*",
+  "spect": "B8Vn",
+  "cat": 8,
+  "proper": "Zubeneschamali",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Lib",
+  "fl": 27,
+  "fl_con": "Lib"
+}

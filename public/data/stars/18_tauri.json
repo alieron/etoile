@@ -1,0 +1,13 @@
+{
+  "id": "18_tauri",
+  "name": "18 Tauri",
+  "rank": 5,
+  "ra": 56.29058389182,
+  "dec": 24.83926199956,
+  "dist": 125.4705,
+  "otype": "PM*",
+  "spect": "B8V",
+  "cat": 8,
+  "fl": 18,
+  "fl_con": "Tau"
+}

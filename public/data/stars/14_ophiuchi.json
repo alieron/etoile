@@ -1,0 +1,13 @@
+{
+  "id": "14_ophiuchi",
+  "name": "14 Ophiuchi",
+  "rank": 5,
+  "ra": 250.42700806057996,
+  "dec": 1.18123089891,
+  "dist": 55.5864,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "fl": 14,
+  "fl_con": "Oph"
+}

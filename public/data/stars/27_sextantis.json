@@ -1,0 +1,13 @@
+{
+  "id": "27_sextantis",
+  "name": "27 Sextantis",
+  "rank": 5,
+  "ra": 156.69530506583334,
+  "dec": -4.388340059722221,
+  "dist": 187.9699,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 27,
+  "fl_con": "Sex"
+}

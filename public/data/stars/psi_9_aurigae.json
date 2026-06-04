@@ -1,0 +1,14 @@
+{
+  "id": "psi_9_aurigae",
+  "name": "Psi 9 Aurigae",
+  "rank": 4,
+  "ra": 104.13357489229,
+  "dec": 46.27399881287,
+  "dist": 386.1004,
+  "otype": "Be*",
+  "spect": "B8IIIe",
+  "cat": 8,
+  "by": "psi09",
+  "by_greek": "ψ⁹",
+  "by_con": "Aur"
+}

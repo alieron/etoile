@@ -1,0 +1,14 @@
+{
+  "id": "theta_hydri",
+  "name": "Theta Hydri",
+  "rank": 4,
+  "ra": 45.564370170770005,
+  "dec": -71.90245529105,
+  "dist": 157.7287,
+  "otype": "**",
+  "spect": "B8III/IV",
+  "cat": 9,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Hyi"
+}

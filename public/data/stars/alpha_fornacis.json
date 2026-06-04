@@ -1,0 +1,17 @@
+{
+  "id": "alpha_fornacis",
+  "name": "Alpha Fornacis",
+  "rank": 2,
+  "ra": 48.018874183263755,
+  "dec": -28.987621986758608,
+  "dist": 14.2369,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "proper": "Dalim",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "For",
+  "fl": 12,
+  "fl_con": "Eri"
+}

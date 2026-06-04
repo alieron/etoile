@@ -1,0 +1,13 @@
+{
+  "id": "10_librae",
+  "name": "10 Librae",
+  "rank": 5,
+  "ra": 222.96377559740998,
+  "dec": -18.35532683924,
+  "dist": 223.7136,
+  "otype": "*",
+  "spect": "K0II/III",
+  "cat": 13,
+  "fl": 10,
+  "fl_con": "Lib"
+}

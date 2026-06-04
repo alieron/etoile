@@ -1,0 +1,14 @@
+{
+  "id": "20_leonis_minoris_b",
+  "name": "20 Leonis Minoris B",
+  "rank": 5,
+  "ra": 150.20927158702625,
+  "dec": 31.929222015462223,
+  "dist": 14.9411,
+  "otype": "PM*",
+  "spect": "M6.0V",
+  "cat": 3,
+  "fl": 20,
+  "fl_con": "LMi",
+  "fl_comp": "B"
+}

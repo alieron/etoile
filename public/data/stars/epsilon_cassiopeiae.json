@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_cassiopeiae",
+  "name": "Epsilon Cassiopeiae",
+  "rank": 2,
+  "ra": 28.5988920257,
+  "dec": 63.670100066329994,
+  "dist": 126.2626,
+  "otype": "Be*",
+  "spect": "B3Vp_sh",
+  "cat": 8,
+  "proper": "Segin",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Cas",
+  "fl": 45,
+  "fl_con": "Cas"
+}

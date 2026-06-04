@@ -1,0 +1,15 @@
+{
+  "id": "iq_ursae_majoris",
+  "name": "IQ Ursae Majoris",
+  "rank": 5,
+  "ra": 205.1844697399329,
+  "dec": 54.6816350097275,
+  "dist": 160.5136,
+  "otype": "LP*",
+  "spect": "M2III",
+  "cat": 14,
+  "v": "IQ",
+  "v_con": "UMa",
+  "fl": 83,
+  "fl_con": "UMa"
+}

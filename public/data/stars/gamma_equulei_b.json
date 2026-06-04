@@ -1,0 +1,15 @@
+{
+  "id": "gamma_equulei_b",
+  "name": "Gamma Equulei B",
+  "rank": 4,
+  "ra": 317.5850625,
+  "dec": 10.131544444444444,
+  "dist": 36.2976,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Equ",
+  "by_comp": "B"
+}

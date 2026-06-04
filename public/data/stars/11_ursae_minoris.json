@@ -1,0 +1,14 @@
+{
+  "id": "11_ursae_minoris",
+  "name": "11 Ursae Minoris",
+  "rank": 2,
+  "ra": 229.27453943029997,
+  "dec": 71.82390203802,
+  "dist": 122.1001,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "proper": "Pherkad Minor",
+  "fl": 11,
+  "fl_con": "UMi"
+}

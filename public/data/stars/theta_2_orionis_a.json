@@ -1,0 +1,17 @@
+{
+  "id": "theta_2_orionis_a",
+  "name": "Theta 2 Orionis A",
+  "rank": 4,
+  "ra": 83.84542183261,
+  "dec": -5.416064620030001,
+  "dist": 473.9336,
+  "otype": "SB*",
+  "spect": "O9.5IVp",
+  "cat": 9,
+  "by": "tet02",
+  "by_greek": "θ²",
+  "by_con": "Ori",
+  "by_comp": "A",
+  "fl": 43,
+  "fl_con": "Ori"
+}

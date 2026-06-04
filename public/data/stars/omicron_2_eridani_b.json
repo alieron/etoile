@@ -1,0 +1,18 @@
+{
+  "id": "omicron_2_eridani_b",
+  "name": "Omicron 2 Eridani B",
+  "rank": 4,
+  "ra": 63.84081549227875,
+  "dec": -7.658112218552501,
+  "dist": 5.0077,
+  "otype": "WD*",
+  "spect": "DA2.9",
+  "cat": 1,
+  "by": "omi02",
+  "by_greek": "ο²",
+  "by_con": "Eri",
+  "by_comp": "B",
+  "fl": 40,
+  "fl_con": "Eri",
+  "fl_comp": "B"
+}

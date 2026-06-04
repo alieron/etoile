@@ -1,0 +1,15 @@
+{
+  "id": "v1119_tauri",
+  "name": "V1119 Tauri",
+  "rank": 5,
+  "ra": 81.10609695912,
+  "dec": 17.38353511554,
+  "dist": 14.3864,
+  "otype": "BY*",
+  "spect": "F8V",
+  "cat": 0,
+  "v": "V1119",
+  "v_con": "Tau",
+  "fl": 111,
+  "fl_con": "Tau"
+}

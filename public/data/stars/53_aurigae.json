@@ -1,0 +1,13 @@
+{
+  "id": "53_aurigae",
+  "name": "53 Aurigae",
+  "rank": 5,
+  "ra": 99.59587721595001,
+  "dec": 28.984337537740004,
+  "dist": 106.2699,
+  "otype": "**",
+  "spect": "B9Mn+F0m",
+  "cat": 8,
+  "fl": 53,
+  "fl_con": "Aur"
+}

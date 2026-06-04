@@ -1,0 +1,19 @@
+{
+  "id": "gamma_ceti_a",
+  "name": "Gamma Ceti A",
+  "rank": 2,
+  "ra": 40.825162898112545,
+  "dec": 3.2358163764959436,
+  "dist": 24.408344081000003,
+  "otype": "PM*",
+  "spect": "A2Vn+F4V",
+  "cat": 7,
+  "proper": "Kaffaljidhma",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cet",
+  "by_comp": "A",
+  "fl": 86,
+  "fl_con": "Cet",
+  "fl_comp": "A"
+}

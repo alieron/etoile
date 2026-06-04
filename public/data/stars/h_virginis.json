@@ -1,0 +1,16 @@
+{
+  "id": "h_virginis",
+  "name": "h Virginis",
+  "rank": 4,
+  "ra": 203.2419649669108,
+  "dec": -10.164998630117777,
+  "dist": 72.0981,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Vir",
+  "fl": 76,
+  "fl_con": "Vir"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_tauri",
+  "name": "Epsilon Tauri",
+  "rank": 2,
+  "ra": 67.15416772966458,
+  "dec": 19.18043420581389,
+  "dist": 44.964,
+  "otype": "**",
+  "spect": "G9.5IIICN0.5",
+  "cat": 13,
+  "proper": "Ain",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Tau",
+  "fl": 74,
+  "fl_con": "Tau"
+}

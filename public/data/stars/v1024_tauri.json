@@ -1,0 +1,15 @@
+{
+  "id": "v1024_tauri",
+  "name": "V1024 Tauri",
+  "rank": 5,
+  "ra": 64.85873995604,
+  "dec": 21.142305268929995,
+  "dist": 82.7815,
+  "otype": "a2*",
+  "spect": "B9Vsp",
+  "cat": 20,
+  "v": "V1024",
+  "v_con": "Tau",
+  "fl": 53,
+  "fl_con": "Tau"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "beta_ursae_minoris",
+  "name": "Beta Ursae Minoris",
+  "rank": 2,
+  "ra": 222.67635749796767,
+  "dec": 74.15550393675127,
+  "dist": 40.1445,
+  "otype": "V*",
+  "spect": "K4-III",
+  "cat": 13,
+  "proper": "Kochab",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "UMi",
+  "fl": 7,
+  "fl_con": "UMi"
+}

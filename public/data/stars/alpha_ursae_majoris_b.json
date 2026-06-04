@@ -1,0 +1,15 @@
+{
+  "id": "alpha_ursae_majoris_b",
+  "name": "Alpha Ursae Majoris B",
+  "rank": 4,
+  "ra": 165.93166186666667,
+  "dec": 61.75087308611111,
+  "dist": 37.679,
+  "otype": "PM*",
+  "spect": "A7.5",
+  "cat": 7,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "UMa",
+  "by_comp": "B"
+}

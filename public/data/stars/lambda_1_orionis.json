@@ -1,0 +1,18 @@
+{
+  "id": "lambda_1_orionis",
+  "name": "Lambda 1 Orionis",
+  "rank": 2,
+  "ra": 83.78449002103218,
+  "dec": 9.934155874166667,
+  "dist": 336.703667003,
+  "otype": "Em*",
+  "spect": "O8IIIf+B0.5V",
+  "cat": 17,
+  "proper": "Meissa",
+  "by": "lam01",
+  "by_greek": "λ¹",
+  "by_con": "Ori",
+  "fl": 39,
+  "fl_con": "Ori",
+  "fl_comp": "A"
+}

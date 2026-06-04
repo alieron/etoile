@@ -1,0 +1,15 @@
+{
+  "id": "os_ursae_majoris",
+  "name": "OS Ursae Majoris",
+  "rank": 5,
+  "ra": 124.82150023566999,
+  "dec": 62.50715622992,
+  "dist": 141.6431,
+  "otype": "SB*",
+  "spect": "G8III",
+  "cat": 13,
+  "v": "OS",
+  "v_con": "UMa",
+  "fl": 57,
+  "fl_con": "Cam"
+}

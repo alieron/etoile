@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_scorpii",
+  "name": "Epsilon Scorpii",
+  "rank": 2,
+  "ra": 252.54087838625,
+  "dec": -34.29323159305555,
+  "dist": 19.5351,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "proper": "Larawag",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Sco",
+  "fl": 26,
+  "fl_con": "Sco"
+}

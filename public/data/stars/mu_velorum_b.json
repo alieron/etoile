@@ -1,0 +1,15 @@
+{
+  "id": "mu_velorum_b",
+  "name": "Mu Velorum B",
+  "rank": 4,
+  "ra": 161.69310456666665,
+  "dec": -49.41989513611111,
+  "dist": 35.9195,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Vel",
+  "by_comp": "B"
+}

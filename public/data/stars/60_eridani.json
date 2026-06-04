@@ -1,0 +1,13 @@
+{
+  "id": "60_eridani",
+  "name": "60 Eridani",
+  "rank": 5,
+  "ra": 72.54840064932,
+  "dec": -16.21715991045,
+  "dist": 72.3066,
+  "otype": "RG*",
+  "spect": "K0III",
+  "cat": 14,
+  "fl": 60,
+  "fl_con": "Eri"
+}

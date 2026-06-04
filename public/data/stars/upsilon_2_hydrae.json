@@ -1,0 +1,16 @@
+{
+  "id": "upsilon_2_hydrae",
+  "name": "Upsilon 2 Hydrae",
+  "rank": 3,
+  "ra": 151.28112337827667,
+  "dec": -13.064626493003058,
+  "dist": 96.1538,
+  "otype": "*",
+  "spect": "B8V",
+  "cat": 8,
+  "by": "ups02",
+  "by_greek": "υ²",
+  "by_con": "Hya",
+  "fl": 40,
+  "fl_con": "Hya"
+}

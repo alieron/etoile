@@ -1,0 +1,16 @@
+{
+  "id": "epsilon_carinae_a",
+  "name": "Epsilon Carinae A",
+  "rank": 2,
+  "ra": 125.62848024272952,
+  "dec": -59.509484191917416,
+  "dist": 185.530655288,
+  "otype": "*",
+  "spect": "K3:III+B2:V",
+  "cat": 13,
+  "proper": "Avior",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Car",
+  "by_comp": "A"
+}

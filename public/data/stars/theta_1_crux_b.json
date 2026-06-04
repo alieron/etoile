@@ -1,0 +1,15 @@
+{
+  "id": "theta_1_crux_b",
+  "name": "Theta 1 Crux B",
+  "rank": 4,
+  "ra": 180.75390475612997,
+  "dec": -63.31164035638001,
+  "dist": 68.995,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "tet01",
+  "by_greek": "θ¹",
+  "by_con": "Cru",
+  "by_comp": "B"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_pyxidis_b",
+  "name": "Epsilon Pyxidis B",
+  "rank": 4,
+  "ra": 137.48805081374,
+  "dec": -30.36973432770001,
+  "dist": 64.9773,
+  "otype": "**",
+  "spect": "",
+  "cat": 19,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Pyx",
+  "by_comp": "B"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_cancri",
+  "name": "Epsilon Cancri",
+  "rank": 2,
+  "ra": 130.11254206308,
+  "dec": 19.544812309289995,
+  "dist": 179.8561,
+  "otype": "SB*",
+  "spect": "A5m",
+  "cat": 7,
+  "proper": "Meleph",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Cnc",
+  "fl": 41,
+  "fl_con": "Cnc"
+}

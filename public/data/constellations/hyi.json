@@ -1,105 +1,86 @@
 {
-  "abbreviation": "Hyi",
+  "id": "Hyi",
   "name": "Hydrus",
-  "genitive": "Hydri",
+  "gen": "Hydri",
   "meaning": "Male Water Snake",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 68.794,
-        "dec_deg": -67.2479,
-        "ra_deg_signed": 68.794
-      },
-      {
-        "ra_deg": 68.5815,
-        "dec_deg": -69.7467,
-        "ra_deg_signed": 68.5815
-      },
-      {
-        "ra_deg": 67.9575,
-        "dec_deg": -74.7432,
-        "ra_deg_signed": 67.9575
-      },
-      {
-        "ra_deg": 52.0758,
-        "dec_deg": -74.5741,
-        "ra_deg_signed": 52.0758
-      },
-      {
-        "ra_deg": 50.0917,
-        "dec_deg": -82.0645,
-        "ra_deg_signed": 50.0917
-      },
-      {
-        "ra_deg": 1.5334,
-        "dec_deg": -81.804,
-        "ra_deg_signed": 1.5334
-      },
-      {
-        "ra_deg": 1.5663,
-        "dec_deg": -74.304,
-        "ra_deg_signed": 1.5663
-      },
-      {
-        "ra_deg": 12.3324,
-        "dec_deg": -74.3186,
-        "ra_deg_signed": 12.3324
-      },
-      {
-        "ra_deg": 12.2954,
-        "dec_deg": -75.3185,
-        "ra_deg_signed": 12.2954
-      },
-      {
-        "ra_deg": 20.6541,
-        "dec_deg": -75.3472,
-        "ra_deg_signed": 20.6541
-      },
-      {
-        "ra_deg": 21.2062,
-        "dec_deg": -57.8484,
-        "ra_deg_signed": 21.2062
-      },
-      {
-        "ra_deg": 33.4894,
-        "dec_deg": -57.9162,
-        "ra_deg_signed": 33.4894
-      },
-      {
-        "ra_deg": 33.2024,
-        "dec_deg": -66.9152,
-        "ra_deg_signed": 33.2024
-      },
-      {
-        "ra_deg": 48.3627,
-        "dec_deg": -67.0358,
-        "ra_deg_signed": 48.3627
-      },
-      {
-        "ra_deg": 68.794,
-        "dec_deg": -67.2479,
-        "ra_deg_signed": 68.794
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    35.1637,
+    -69.9564,
+    102
+  ],
+  "label": [
+    34.5,
+    -72
+  ],
+  "bound": [
     [
-      2021,
-      17678,
-      11001,
-      9236,
-      2021
+      [
+        68.794,
+        -67.2479
+      ],
+      [
+        68.5815,
+        -69.7467
+      ],
+      [
+        67.9575,
+        -74.7432
+      ],
+      [
+        52.0758,
+        -74.5741
+      ],
+      [
+        50.0917,
+        -82.0645
+      ],
+      [
+        1.5334,
+        -81.804
+      ],
+      [
+        1.5663,
+        -74.304
+      ],
+      [
+        12.3324,
+        -74.3186
+      ],
+      [
+        12.2954,
+        -75.3185
+      ],
+      [
+        20.6541,
+        -75.3472
+      ],
+      [
+        21.2062,
+        -57.8484
+      ],
+      [
+        33.4894,
+        -57.9162
+      ],
+      [
+        33.2024,
+        -66.9152
+      ],
+      [
+        48.3627,
+        -67.0358
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Bet Hyi",
-    "designation": "Bet Hyi",
-    "display_name": "Beta Hydri",
-    "display_name_greek": "β Hydri",
-    "hip": 2021,
-    "ra_deg": 6.418740000000001,
-    "dec_deg": -77.254247
-  }
+  "lines": [
+    [
+      "beta_hydri",
+      "gamma_hydri",
+      "delta_hydri",
+      "alpha_hydri",
+      "beta_hydri"
+    ]
+  ],
+  "bright": "beta_hydri"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "s_monocerotis",
+  "name": "S Monocerotis",
+  "rank": 3,
+  "ra": 100.24441512044264,
+  "dec": 9.895756366805493,
+  "dist": 281.6901,
+  "otype": "Be*",
+  "spect": "O7V+B1.5/2V",
+  "cat": 8,
+  "by": "S",
+  "by_greek": "S",
+  "by_con": "Mon",
+  "v": "S",
+  "v_con": "Mon",
+  "fl": 15,
+  "fl_con": "Mon"
+}

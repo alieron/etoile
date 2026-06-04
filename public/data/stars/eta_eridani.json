@@ -1,0 +1,17 @@
+{
+  "id": "eta_eridani",
+  "name": "Eta Eridani",
+  "rank": 2,
+  "ra": 44.10687184660001,
+  "dec": -8.8981434724,
+  "dist": 41.8585,
+  "otype": "PM*",
+  "spect": "K1+IIIb",
+  "cat": 15,
+  "proper": "Azha",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Eri",
+  "fl": 3,
+  "fl_con": "Eri"
+}

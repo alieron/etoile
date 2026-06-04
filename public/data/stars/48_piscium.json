@@ -1,0 +1,13 @@
+{
+  "id": "48_piscium",
+  "name": "48 Piscium",
+  "rank": 5,
+  "ra": 7.052928749459999,
+  "dec": 16.44506825224,
+  "dist": 233.6449,
+  "otype": "SB*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 48,
+  "fl_con": "Psc"
+}

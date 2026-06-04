@@ -1,0 +1,18 @@
+{
+  "id": "alpha_herculis_b",
+  "name": "Alpha Herculis B",
+  "rank": 4,
+  "ra": 258.6632184269552,
+  "dec": 14.3900022327875,
+  "dist": 100.8939,
+  "otype": "SB*",
+  "spect": "G5III+F2V:",
+  "cat": 13,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Her",
+  "by_comp": "B",
+  "fl": 64,
+  "fl_con": "Her",
+  "fl_comp": "B"
+}

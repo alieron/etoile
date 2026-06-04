@@ -1,0 +1,13 @@
+{
+  "id": "35_arietis",
+  "name": "35 Arietis",
+  "rank": 5,
+  "ra": 40.8629761644,
+  "dec": 27.707149409290004,
+  "dist": 105.1525,
+  "otype": "SB*",
+  "spect": "B3V",
+  "cat": 8,
+  "fl": 35,
+  "fl_con": "Ari"
+}

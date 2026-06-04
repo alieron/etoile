@@ -1,0 +1,15 @@
+{
+  "id": "upsilon_gruis_b",
+  "name": "Upsilon Gruis B",
+  "rank": 4,
+  "ra": 346.7232919291667,
+  "dec": -38.892570299999996,
+  "dist": 87.3362,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "ups",
+  "by_greek": "υ",
+  "by_con": "Gru",
+  "by_comp": "B"
+}

@@ -1,107 +1,87 @@
 {
-  "abbreviation": "CMi",
+  "id": "CMi",
   "name": "Canis Minor",
-  "genitive": "Canis Minoris",
-  "meaning": "Lesser Dog",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 122.849,
-        "dec_deg": -0.3694,
-        "ra_deg_signed": 122.849
-      },
-      {
-        "ra_deg": 109.5997,
-        "dec_deg": -0.2243,
-        "ra_deg_signed": 109.5997
-      },
-      {
-        "ra_deg": 109.6169,
-        "dec_deg": 1.2756,
-        "ra_deg_signed": 109.6169
-      },
-      {
-        "ra_deg": 106.8674,
-        "dec_deg": 1.3074,
-        "ra_deg_signed": 106.8674
-      },
-      {
-        "ra_deg": 106.9143,
-        "dec_deg": 5.3072,
-        "ra_deg_signed": 106.9143
-      },
-      {
-        "ra_deg": 106.6643,
-        "dec_deg": 5.3101,
-        "ra_deg_signed": 106.6643
-      },
-      {
-        "ra_deg": 106.7179,
-        "dec_deg": 9.8098,
-        "ra_deg_signed": 106.7179
-      },
-      {
-        "ra_deg": 106.7482,
-        "dec_deg": 12.3096,
-        "ra_deg_signed": 106.7482
-      },
-      {
-        "ra_deg": 114.241,
-        "dec_deg": 12.2239,
-        "ra_deg_signed": 114.241
-      },
-      {
-        "ra_deg": 114.2527,
-        "dec_deg": 13.2238,
-        "ra_deg_signed": 114.2527
-      },
-      {
-        "ra_deg": 118.8716,
-        "dec_deg": 13.1732,
-        "ra_deg_signed": 118.8716
-      },
-      {
-        "ra_deg": 118.8325,
-        "dec_deg": 9.6734,
-        "ra_deg_signed": 118.8325
-      },
-      {
-        "ra_deg": 120.5807,
-        "dec_deg": 9.6548,
-        "ra_deg_signed": 120.5807
-      },
-      {
-        "ra_deg": 120.5483,
-        "dec_deg": 6.655,
-        "ra_deg_signed": 120.5483
-      },
-      {
-        "ra_deg": 122.9214,
-        "dec_deg": 6.6302,
-        "ra_deg_signed": 122.9214
-      },
-      {
-        "ra_deg": 122.849,
-        "dec_deg": -0.3694,
-        "ra_deg_signed": 122.849
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Canis Minoris",
+  "meaning": "Little Dog",
+  "rank": 1,
+  "focus": [
+    114.7929,
+    6.4272,
+    51
+  ],
+  "label": [
+    109.5,
+    5
+  ],
+  "bound": [
     [
-      37279,
-      36188
+      [
+        122.849,
+        -0.3694
+      ],
+      [
+        109.5997,
+        -0.2243
+      ],
+      [
+        109.6169,
+        1.2756
+      ],
+      [
+        106.8674,
+        1.3074
+      ],
+      [
+        106.9143,
+        5.3072
+      ],
+      [
+        106.6643,
+        5.3101
+      ],
+      [
+        106.7179,
+        9.8098
+      ],
+      [
+        106.7482,
+        12.3096
+      ],
+      [
+        114.241,
+        12.2239
+      ],
+      [
+        114.2527,
+        13.2238
+      ],
+      [
+        118.8716,
+        13.1732
+      ],
+      [
+        118.8325,
+        9.6734
+      ],
+      [
+        120.5807,
+        9.6548
+      ],
+      [
+        120.5483,
+        6.655
+      ],
+      [
+        122.9214,
+        6.6302
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Procyon",
-    "designation": "10Alp CMi",
-    "display_name": "10 Alpha Canis Minoris",
-    "display_name_greek": "10 α Canis Minoris",
-    "hip": 37279,
-    "ra_deg": 114.825495,
-    "dec_deg": 5.224993
-  }
+  "lines": [
+    [
+      "alpha_canis_minoris",
+      "beta_canis_minoris"
+    ]
+  ],
+  "bright": "alpha_canis_minoris"
 }

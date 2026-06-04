@@ -1,0 +1,15 @@
+{
+  "id": "iota_librae_b",
+  "name": "Iota Librae B",
+  "rank": 4,
+  "ra": 228.07130507705745,
+  "dec": -19.797380689489724,
+  "dist": 118.16,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Lib",
+  "by_comp": "B"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "z_herculis",
+  "name": "z Herculis",
+  "rank": 4,
+  "ra": 267.51389403032,
+  "dec": 48.394152496009994,
+  "dist": 291.5452,
+  "otype": "Be*",
+  "spect": "B6IIInp_sh",
+  "cat": 8,
+  "by": "z",
+  "by_greek": "z",
+  "by_con": "Her",
+  "v": "V744",
+  "v_con": "Her",
+  "fl": 88,
+  "fl_con": "Her"
+}

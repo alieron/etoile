@@ -1,0 +1,15 @@
+{
+  "id": "iota_microscopii_b",
+  "name": "Iota Microscopii B",
+  "rank": 4,
+  "ra": 312.1195646534599,
+  "dec": -43.988076833,
+  "dist": 37.16,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Mic",
+  "by_comp": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "theta_arietis",
+  "name": "Theta Arietis",
+  "rank": 4,
+  "ra": 34.53137754778,
+  "dec": 19.901157608979997,
+  "dist": 137.1742,
+  "otype": "*",
+  "spect": "A1Vn",
+  "cat": 7,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Ari",
+  "fl": 22,
+  "fl_con": "Ari"
+}

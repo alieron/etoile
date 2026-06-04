@@ -1,0 +1,18 @@
+{
+  "id": "epsilon_draconis_a",
+  "name": "Epsilon Draconis A",
+  "rank": 3,
+  "ra": 297.04312691249,
+  "dec": 70.26793029824,
+  "dist": 45.3721,
+  "otype": "PM*",
+  "spect": "G7IIIbFe-1",
+  "cat": 16,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Dra",
+  "by_comp": "A",
+  "fl": 63,
+  "fl_con": "Dra",
+  "fl_comp": "A"
+}

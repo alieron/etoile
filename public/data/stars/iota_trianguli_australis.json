@@ -1,0 +1,14 @@
+{
+  "id": "iota_trianguli_australis",
+  "name": "Iota Trianguli Australis",
+  "rank": 4,
+  "ra": 246.98893977326998,
+  "dec": -64.0579404215,
+  "dist": 38.8048,
+  "otype": "SB*",
+  "spect": "F0IV",
+  "cat": 11,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "TrA"
+}

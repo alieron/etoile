@@ -1,0 +1,16 @@
+{
+  "id": "iota_2_librae",
+  "name": "Iota 2 Librae",
+  "rank": 4,
+  "ra": 228.32997275016,
+  "dec": -19.64757606981,
+  "dist": 69.8812,
+  "otype": "PM*",
+  "spect": "A2V",
+  "cat": 7,
+  "by": "iot02",
+  "by_greek": "ι²",
+  "by_con": "Lib",
+  "fl": 25,
+  "fl_con": "Lib"
+}

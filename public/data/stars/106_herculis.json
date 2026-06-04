@@ -1,0 +1,13 @@
+{
+  "id": "106_herculis",
+  "name": "106 Herculis",
+  "rank": 5,
+  "ra": 275.07464556921,
+  "dec": 21.961296409390005,
+  "dist": 120.1923,
+  "otype": "PM*",
+  "spect": "M1III",
+  "cat": 14,
+  "fl": 106,
+  "fl_con": "Her"
+}

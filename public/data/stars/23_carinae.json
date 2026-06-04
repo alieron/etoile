@@ -1,0 +1,13 @@
+{
+  "id": "23_carinae",
+  "name": "23 Carinae",
+  "rank": 5,
+  "ra": 105.21452180057001,
+  "dec": -51.40258597081001,
+  "dist": 198.0198,
+  "otype": "*",
+  "spect": "M1III",
+  "cat": 14,
+  "fl": 23,
+  "fl_con": "Car"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "eta_geminorum",
+  "name": "Eta Geminorum",
+  "rank": 2,
+  "ra": 93.71935536055373,
+  "dec": 22.506787327170834,
+  "dist": 117.9245,
+  "otype": "RG*",
+  "spect": "M2IIIa",
+  "cat": 14,
+  "proper": "Propus",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Gem",
+  "fl": 7,
+  "fl_con": "Gem"
+}

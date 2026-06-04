@@ -1,0 +1,13 @@
+{
+  "id": "86_pegasi",
+  "name": "86 Pegasi",
+  "rank": 5,
+  "ra": 1.42484005519,
+  "dec": 13.396268133790002,
+  "dist": 114.2857,
+  "otype": "RG*",
+  "spect": "G5III",
+  "cat": 14,
+  "fl": 86,
+  "fl_con": "Peg"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rho_orionis",
+  "name": "Rho Orionis",
+  "rank": 4,
+  "ra": 78.32283087218,
+  "dec": 2.8612392074300006,
+  "dist": 107.2961,
+  "otype": "SB*",
+  "spect": "K1III",
+  "cat": 13,
+  "by": "rho",
+  "by_greek": "ρ",
+  "by_con": "Ori",
+  "fl": 17,
+  "fl_con": "Ori"
+}

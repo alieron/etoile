@@ -1,0 +1,15 @@
+{
+  "id": "ox_aurigae",
+  "name": "OX Aurigae",
+  "rank": 5,
+  "ra": 103.25587904522,
+  "dec": 38.86914784651,
+  "dist": 150.6024,
+  "otype": "dS*",
+  "spect": "F2V",
+  "cat": 6,
+  "v": "OX",
+  "v_con": "Aur",
+  "fl": 59,
+  "fl_con": "Aur"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "phi_2_cancri_b",
+  "name": "Phi 2 Cancri B",
+  "rank": 4,
+  "ra": 126.69513869933,
+  "dec": 26.93435152544,
+  "dist": 106.72,
+  "otype": "*",
+  "spect": "A2Vp",
+  "cat": 7,
+  "by": "phi02",
+  "by_greek": "φ²",
+  "by_con": "Cnc",
+  "by_comp": "B",
+  "fl": 23,
+  "fl_con": "Cnc",
+  "fl_comp": "B"
+}

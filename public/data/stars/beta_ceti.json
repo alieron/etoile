@@ -1,0 +1,17 @@
+{
+  "id": "beta_ceti",
+  "name": "Beta Ceti",
+  "rank": 2,
+  "ra": 10.897378736003901,
+  "dec": -17.98660631592891,
+  "dist": 29.5334,
+  "otype": "PM*",
+  "spect": "G9.5IIICH-1",
+  "cat": 13,
+  "proper": "Diphda",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cet",
+  "fl": 16,
+  "fl_con": "Cet"
+}

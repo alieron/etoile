@@ -1,0 +1,13 @@
+{
+  "id": "76_leonis",
+  "name": "76 Leonis",
+  "rank": 5,
+  "ra": 169.72899849581,
+  "dec": 1.65039544174,
+  "dist": 90.2527,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 76,
+  "fl_con": "Leo"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "b_sagittarii",
+  "name": "b Sagittarii",
+  "rank": 4,
+  "ra": 299.23680287255206,
+  "dec": -27.169897010698058,
+  "dist": 255.102,
+  "otype": "*",
+  "spect": "K2.5IIb",
+  "cat": 15,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Sgr",
+  "fl": 59,
+  "fl_con": "Sgr"
+}

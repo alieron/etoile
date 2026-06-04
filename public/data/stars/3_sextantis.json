@@ -1,0 +1,13 @@
+{
+  "id": "3_sextantis",
+  "name": "3 Sextantis",
+  "rank": 5,
+  "ra": 147.05293156525,
+  "dec": -7.245737779619998,
+  "dist": 163.6661,
+  "otype": "*",
+  "spect": "ApEuCr(Sr)",
+  "cat": 7,
+  "fl": 3,
+  "fl_con": "Sex"
+}

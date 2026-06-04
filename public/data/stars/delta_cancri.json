@@ -1,0 +1,17 @@
+{
+  "id": "delta_cancri",
+  "name": "Delta Cancri",
+  "rank": 2,
+  "ra": 131.17124658768913,
+  "dec": 18.154308069054167,
+  "dist": 40.032,
+  "otype": "**",
+  "spect": "K0+IIIb",
+  "cat": 15,
+  "proper": "Asellus Australis",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Cnc",
+  "fl": 47,
+  "fl_con": "Cnc"
+}

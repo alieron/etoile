@@ -1,0 +1,13 @@
+{
+  "id": "32_scorpii",
+  "name": "32 Scorpii",
+  "rank": 5,
+  "ra": 260.42317398517,
+  "dec": -24.906104489789996,
+  "dist": 172.7116,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "fl": 32,
+  "fl_con": "Sco"
+}

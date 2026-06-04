@@ -1,0 +1,14 @@
+{
+  "id": "theta_volantis",
+  "name": "Theta Volantis",
+  "rank": 4,
+  "ra": 129.77150606677,
+  "dec": -70.38674387752,
+  "dist": 73.6377,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Vol"
+}

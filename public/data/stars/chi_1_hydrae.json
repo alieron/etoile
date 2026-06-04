@@ -1,0 +1,16 @@
+{
+  "id": "chi_1_hydrae",
+  "name": "Chi 1 Hydrae",
+  "rank": 4,
+  "ra": 166.33292728684,
+  "dec": -27.293624097650003,
+  "dist": 43.2339,
+  "otype": "**",
+  "spect": "F3IV/V",
+  "cat": 11,
+  "by": "chi01",
+  "by_greek": "χ¹",
+  "by_con": "Hya",
+  "fl": 9,
+  "fl_con": "Crt"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "xi_cancri",
+  "name": "Xi Cancri",
+  "rank": 2,
+  "ra": 137.33975478451,
+  "dec": 22.04543836685,
+  "dist": 114.4165,
+  "otype": "SB*",
+  "spect": "G8.5IIIFe-0.5CH-1",
+  "cat": 13,
+  "proper": "Nahn",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Cnc",
+  "fl": 77,
+  "fl_con": "Cnc"
+}

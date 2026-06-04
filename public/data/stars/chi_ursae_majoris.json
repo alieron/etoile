@@ -1,0 +1,17 @@
+{
+  "id": "chi_ursae_majoris",
+  "name": "Chi Ursae Majoris",
+  "rank": 2,
+  "ra": 176.51255861980331,
+  "dec": 47.77940424229889,
+  "dist": 56.3063,
+  "otype": "PM*",
+  "spect": "K0.5IIIb:",
+  "cat": 15,
+  "proper": "Taiyangshou",
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "UMa",
+  "fl": 63,
+  "fl_con": "UMa"
+}

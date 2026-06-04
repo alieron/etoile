@@ -1,0 +1,14 @@
+{
+  "id": "66_ceti_b",
+  "name": "66 Ceti B",
+  "rank": 5,
+  "ra": 33.19433846342333,
+  "dec": -2.396332029371667,
+  "dist": 47.8698,
+  "otype": "PM*",
+  "spect": "G1V",
+  "cat": 5,
+  "fl": 66,
+  "fl_con": "Cet",
+  "fl_comp": "B"
+}

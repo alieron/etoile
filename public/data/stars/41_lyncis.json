@@ -1,0 +1,14 @@
+{
+  "id": "41_lyncis",
+  "name": "41 Lyncis",
+  "rank": 2,
+  "ra": 142.16661946871,
+  "dec": 45.60148086899,
+  "dist": 85.8369,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "proper": "Intercrus",
+  "fl": 41,
+  "fl_con": "Lyn"
+}

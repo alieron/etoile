@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "name": "hot_massive_blue_luminous",
+  "rgb": [
+    155,
+    195,
+    255
+  ],
+  "color": [
+    0.607843,
+    0.764706,
+    1.0
+  ],
+  "radius": 80.0,
+  "point": 2.2,
+  "halo": 2.8,
+  "glow": 0.75
+}

@@ -1,0 +1,15 @@
+{
+  "id": "alpha_muscae_b",
+  "name": "Alpha Muscae B",
+  "rank": 4,
+  "ra": 189.29735810453997,
+  "dec": -69.1393838591,
+  "dist": 100.671,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Mus",
+  "by_comp": "B"
+}

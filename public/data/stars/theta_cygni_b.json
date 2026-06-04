@@ -1,0 +1,15 @@
+{
+  "id": "theta_cygni_b",
+  "name": "Theta Cygni B",
+  "rank": 4,
+  "ra": 294.05996517491,
+  "dec": 50.21947580221,
+  "dist": 18.293,
+  "otype": "PM*",
+  "spect": "K8V",
+  "cat": 4,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cyg",
+  "by_comp": "B"
+}

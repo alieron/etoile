@@ -1,0 +1,16 @@
+{
+  "id": "zeta_2_lyrae",
+  "name": "Zeta 2 Lyrae",
+  "rank": 4,
+  "ra": 281.20082994478,
+  "dec": 37.59459959516,
+  "dist": 47.6872,
+  "otype": "*",
+  "spect": "F1Vnn",
+  "cat": 6,
+  "by": "zet02",
+  "by_greek": "ζ²",
+  "by_con": "Lyr",
+  "fl": 7,
+  "fl_con": "Lyr"
+}

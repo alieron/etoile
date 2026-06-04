@@ -1,0 +1,15 @@
+{
+  "id": "v820_herculis",
+  "name": "V820 Herculis",
+  "rank": 5,
+  "ra": 270.59602969096,
+  "dec": 20.83363521502,
+  "dist": 288.1844,
+  "otype": "SB*",
+  "spect": "B3IV",
+  "cat": 9,
+  "v": "V820",
+  "v_con": "Her",
+  "fl": 96,
+  "fl_con": "Her"
+}

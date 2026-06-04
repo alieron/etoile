@@ -1,0 +1,17 @@
+{
+  "id": "alpha_draconis",
+  "name": "Alpha Draconis",
+  "rank": 2,
+  "ra": 211.09732332021125,
+  "dec": 64.3758696175675,
+  "dist": 92.9368,
+  "otype": "SB*",
+  "spect": "A0III",
+  "cat": 13,
+  "proper": "Thuban",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Dra",
+  "fl": 11,
+  "fl_con": "Dra"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "iota_pegasi",
+  "name": "Iota Pegasi",
+  "rank": 3,
+  "ra": 331.75277295908,
+  "dec": 25.345098996239997,
+  "dist": 11.7261,
+  "otype": "SB*",
+  "spect": "F5V",
+  "cat": 6,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Peg",
+  "fl": 24,
+  "fl_con": "Peg"
+}

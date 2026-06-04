@@ -1,0 +1,13 @@
+{
+  "id": "48_sagittarii",
+  "name": "48 Sagittarii",
+  "rank": 5,
+  "ra": 291.34309444143,
+  "dec": -24.412101435240004,
+  "dist": 543.4783,
+  "otype": "*",
+  "spect": "B7IV",
+  "cat": 9,
+  "fl": 48,
+  "fl_con": "Sgr"
+}

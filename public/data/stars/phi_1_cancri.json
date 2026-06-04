@@ -1,0 +1,16 @@
+{
+  "id": "phi_1_cancri",
+  "name": "Phi 1 Cancri",
+  "rank": 4,
+  "ra": 126.61544183214,
+  "dec": 27.893580644769997,
+  "dist": 114.4165,
+  "otype": "PM*",
+  "spect": "K5III",
+  "cat": 13,
+  "by": "phi01",
+  "by_greek": "φ¹",
+  "by_con": "Cnc",
+  "fl": 22,
+  "fl_con": "Cnc"
+}

@@ -1,94 +1,77 @@
 {
-  "abbreviation": "Ari",
+  "id": "Ari",
   "name": "Aries",
-  "genitive": "Arietis",
+  "gen": "Arietis",
   "meaning": "Ram",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 31.6652,
-        "dec_deg": 10.5144,
-        "ra_deg_signed": 31.6652
-      },
-      {
-        "ra_deg": 26.6557,
-        "dec_deg": 10.5432,
-        "ra_deg_signed": 26.6557
-      },
-      {
-        "ra_deg": 26.7447,
-        "dec_deg": 25.6263,
-        "ra_deg_signed": 26.7447
-      },
-      {
-        "ra_deg": 30.5137,
-        "dec_deg": 25.6051,
-        "ra_deg_signed": 30.5137
-      },
-      {
-        "ra_deg": 30.5306,
-        "dec_deg": 27.855,
-        "ra_deg_signed": 30.5306
-      },
-      {
-        "ra_deg": 38.0701,
-        "dec_deg": 27.8048,
-        "ra_deg_signed": 38.0701
-      },
-      {
-        "ra_deg": 38.1032,
-        "dec_deg": 31.2213,
-        "ra_deg_signed": 38.1032
-      },
-      {
-        "ra_deg": 42.6284,
-        "dec_deg": 31.1865,
-        "ra_deg_signed": 42.6284
-      },
-      {
-        "ra_deg": 52.4267,
-        "dec_deg": 31.1004,
-        "ra_deg_signed": 52.4267
-      },
-      {
-        "ra_deg": 52.2906,
-        "dec_deg": 19.4343,
-        "ra_deg_signed": 52.2906
-      },
-      {
-        "ra_deg": 51.0372,
-        "dec_deg": 19.4461,
-        "ra_deg_signed": 51.0372
-      },
-      {
-        "ra_deg": 50.9464,
-        "dec_deg": 10.3632,
-        "ra_deg_signed": 50.9464
-      },
-      {
-        "ra_deg": 31.6652,
-        "dec_deg": 10.5144,
-        "ra_deg_signed": 31.6652
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    39.5412,
+    20.7923,
+    61
+  ],
+  "label": [
+    42,
+    22
+  ],
+  "bound": [
     [
-      8832,
-      8903,
-      9884,
-      13209
+      [
+        31.6652,
+        10.5144
+      ],
+      [
+        26.6557,
+        10.5432
+      ],
+      [
+        26.7447,
+        25.6263
+      ],
+      [
+        30.5137,
+        25.6051
+      ],
+      [
+        30.5306,
+        27.855
+      ],
+      [
+        38.0701,
+        27.8048
+      ],
+      [
+        38.1032,
+        31.2213
+      ],
+      [
+        42.6284,
+        31.1865
+      ],
+      [
+        52.4267,
+        31.1004
+      ],
+      [
+        52.2906,
+        19.4343
+      ],
+      [
+        51.0372,
+        19.4461
+      ],
+      [
+        50.9464,
+        10.3632
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Hamal",
-    "designation": "13Alp Ari",
-    "display_name": "13 Alpha Arietis",
-    "display_name_greek": "13 α Arietis",
-    "hip": 9884,
-    "ra_deg": 31.793325000000003,
-    "dec_deg": 23.462423
-  }
+  "lines": [
+    [
+      "gamma_arietis",
+      "beta_arietis",
+      "alpha_arietis",
+      "41_arietis"
+    ]
+  ],
+  "bright": "alpha_arietis"
 }

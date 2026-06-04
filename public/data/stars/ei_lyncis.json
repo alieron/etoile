@@ -1,0 +1,15 @@
+{
+  "id": "ei_lyncis",
+  "name": "EI Lyncis",
+  "rank": 5,
+  "ra": 138.45088824213,
+  "dec": 43.21783165359,
+  "dist": 178.2531,
+  "otype": "*",
+  "spect": "B9IVpHgMn",
+  "cat": 9,
+  "v": "EI",
+  "v_con": "Lyn",
+  "fl": 36,
+  "fl_con": "Lyn"
+}

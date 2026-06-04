@@ -1,0 +1,14 @@
+{
+  "id": "18_aurigae_b",
+  "name": "18 Aurigae B",
+  "rank": 5,
+  "ra": 79.84916707496,
+  "dec": 33.9843192954,
+  "dist": 71.025,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 18,
+  "fl_con": "Aur",
+  "fl_comp": "B"
+}

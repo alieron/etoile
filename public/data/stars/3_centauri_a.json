@@ -1,0 +1,14 @@
+{
+  "id": "3_centauri_a",
+  "name": "3 Centauri A",
+  "rank": 5,
+  "ra": 207.95667233624368,
+  "dec": -32.99408520587173,
+  "dist": 105.375153741,
+  "otype": "PM*",
+  "spect": "B5III+B9IV",
+  "cat": 9,
+  "fl": 3,
+  "fl_con": "Cen",
+  "fl_comp": "A"
+}

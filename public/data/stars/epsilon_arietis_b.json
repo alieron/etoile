@@ -1,0 +1,18 @@
+{
+  "id": "epsilon_arietis_b",
+  "name": "Epsilon Arietis B",
+  "rank": 4,
+  "ra": 44.80282615833333,
+  "dec": 21.340072783333333,
+  "dist": 101.9368,
+  "otype": "*",
+  "spect": "A3IVs",
+  "cat": 10,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Ari",
+  "by_comp": "B",
+  "fl": 48,
+  "fl_con": "Ari",
+  "fl_comp": "B"
+}

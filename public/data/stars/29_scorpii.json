@@ -1,0 +1,13 @@
+{
+  "id": "29_scorpii",
+  "name": "29 Scorpii",
+  "rank": 5,
+  "ra": 258.55937400531,
+  "dec": -26.98441939626,
+  "dist": 93.2836,
+  "otype": "PM*",
+  "spect": "F2/3V",
+  "cat": 6,
+  "fl": 29,
+  "fl_con": "Sco"
+}

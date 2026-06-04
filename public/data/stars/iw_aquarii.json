@@ -1,0 +1,15 @@
+{
+  "id": "iw_aquarii",
+  "name": "IW Aquarii",
+  "rank": 5,
+  "ra": 319.07405580855993,
+  "dec": -9.2146651598,
+  "dist": 507.6142,
+  "otype": "LP*",
+  "spect": "M2/3III",
+  "cat": 14,
+  "v": "IW",
+  "v_con": "Aqr",
+  "fl": 14,
+  "fl_con": "Aqr"
+}

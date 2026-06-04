@@ -1,0 +1,14 @@
+{
+  "id": "95_ceti_a",
+  "name": "95 Ceti A",
+  "rank": 5,
+  "ra": 49.59344326459,
+  "dec": -0.93028727684,
+  "dist": 67.159871592,
+  "otype": "PM*",
+  "spect": "G9IV",
+  "cat": 11,
+  "fl": 95,
+  "fl_con": "Cet",
+  "fl_comp": "A"
+}

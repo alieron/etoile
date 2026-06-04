@@ -1,0 +1,17 @@
+{
+  "id": "lambda_herculis",
+  "name": "Lambda Herculis",
+  "rank": 2,
+  "ra": 262.68462425402,
+  "dec": 26.110645612289996,
+  "dist": 113.2503,
+  "otype": "*",
+  "spect": "K3.5III",
+  "cat": 13,
+  "proper": "Maasym",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Her",
+  "fl": 76,
+  "fl_con": "Her"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "eta_geminorum_b",
+  "name": "Eta Geminorum B",
+  "rank": 4,
+  "ra": 93.7190378,
+  "dec": 22.5067525,
+  "dist": 117.9245,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Gem",
+  "by_comp": "B",
+  "fl": 7,
+  "fl_con": "Gem",
+  "fl_comp": "B"
+}

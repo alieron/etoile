@@ -1,0 +1,18 @@
+{
+  "id": "i_2_aquarii_a",
+  "name": "i 2 Aquarii A",
+  "rank": 4,
+  "ra": 356.5038439325,
+  "dec": -18.678342019166667,
+  "dist": 73.207132064,
+  "otype": "PM*",
+  "spect": "A9IV+F2V",
+  "cat": 10,
+  "by": "i02",
+  "by_greek": "i²",
+  "by_con": "Aqr",
+  "by_comp": "A",
+  "fl": 107,
+  "fl_con": "Aqr",
+  "fl_comp": "A"
+}

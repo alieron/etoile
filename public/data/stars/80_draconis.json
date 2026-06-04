@@ -1,0 +1,13 @@
+{
+  "id": "80_draconis",
+  "name": "80 Draconis",
+  "rank": 5,
+  "ra": 332.56374977374,
+  "dec": 72.11126449549,
+  "dist": 157.9779,
+  "otype": "*",
+  "spect": "A0VpHgSrSi",
+  "cat": 7,
+  "fl": 80,
+  "fl_con": "Dra"
+}

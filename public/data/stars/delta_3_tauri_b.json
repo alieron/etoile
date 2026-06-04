@@ -1,0 +1,18 @@
+{
+  "id": "delta_3_tauri_b",
+  "name": "Delta 3 Tauri B",
+  "rank": 4,
+  "ra": 66.3722413625,
+  "dec": 17.928360905555557,
+  "dist": 45.5373,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "del03",
+  "by_greek": "δ³",
+  "by_con": "Tau",
+  "by_comp": "B",
+  "fl": 68,
+  "fl_con": "Tau",
+  "fl_comp": "B"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "omicron_draconis_b",
+  "name": "Omicron Draconis B",
+  "rank": 4,
+  "ra": 282.80039310189,
+  "dec": 59.38835014726,
+  "dist": 104.822848218,
+  "otype": "*",
+  "spect": "K3IIIp",
+  "cat": 13,
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "Dra",
+  "by_comp": "B"
+}

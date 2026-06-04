@@ -1,0 +1,13 @@
+{
+  "id": "18_scorpii",
+  "name": "18 Scorpii",
+  "rank": 5,
+  "ra": 243.90529281485533,
+  "dec": -8.369439479286111,
+  "dist": 13.9005,
+  "otype": "PM*",
+  "spect": "G2Va",
+  "cat": 5,
+  "fl": 18,
+  "fl_con": "Sco"
+}

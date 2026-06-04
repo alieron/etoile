@@ -1,0 +1,15 @@
+{
+  "id": "lambda_ophiuchi_b",
+  "name": "Lambda Ophiuchi B",
+  "rank": 4,
+  "ra": 247.72859166666666,
+  "dec": 1.9842444444444445,
+  "dist": 53.0786,
+  "otype": "PM*",
+  "spect": "A4V",
+  "cat": 7,
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Oph",
+  "by_comp": "B"
+}

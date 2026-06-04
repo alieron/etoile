@@ -1,0 +1,13 @@
+{
+  "id": "7_sagittarii",
+  "name": "7 Sagittarii",
+  "rank": 5,
+  "ra": 270.71291093894,
+  "dec": -24.28246728687,
+  "dist": 331.1258,
+  "otype": "*",
+  "spect": "F2II-III",
+  "cat": 13,
+  "fl": 7,
+  "fl_con": "Sgr"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17_lyrae_b",
+  "name": "17 Lyrae B",
+  "rank": 5,
+  "ra": 286.85545482255,
+  "dec": 32.502078662200006,
+  "dist": 43.781,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 17,
+  "fl_con": "Lyr",
+  "fl_comp": "B"
+}

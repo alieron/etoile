@@ -1,0 +1,17 @@
+{
+  "id": "zeta_pegasi",
+  "name": "Zeta Pegasi",
+  "rank": 2,
+  "ra": 340.36550299,
+  "dec": 10.831363310277778,
+  "dist": 62.6566,
+  "otype": "PM*",
+  "spect": "B8.5IV",
+  "cat": 9,
+  "proper": "Homam",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Peg",
+  "fl": 42,
+  "fl_con": "Peg"
+}

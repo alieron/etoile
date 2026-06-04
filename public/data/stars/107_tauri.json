@@ -1,0 +1,13 @@
+{
+  "id": "107_tauri",
+  "name": "107 Tauri",
+  "rank": 5,
+  "ra": 77.21013813548,
+  "dec": 19.85985933412,
+  "dist": 137.931,
+  "otype": "RG*",
+  "spect": "G5III",
+  "cat": 14,
+  "fl": 107,
+  "fl_con": "Tau"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "41_arae_b",
+  "name": "41 Arae B",
+  "rank": 5,
+  "ra": 259.7623699927408,
+  "dec": -46.636974471290834,
+  "dist": 8.8272,
+  "otype": "PM*",
+  "spect": "M0VpCa-3Cr-1",
+  "cat": 3,
+  "fl": 41,
+  "fl_con": "Ara",
+  "fl_comp": "B"
+}

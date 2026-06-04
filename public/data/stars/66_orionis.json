@@ -1,0 +1,13 @@
+{
+  "id": "66_orionis",
+  "name": "66 Orionis",
+  "rank": 5,
+  "ra": 91.24316213578,
+  "dec": 4.1586624615400005,
+  "dist": 100000.0,
+  "otype": "SB*",
+  "spect": "G6II",
+  "cat": 13,
+  "fl": 66,
+  "fl_con": "Ori"
+}

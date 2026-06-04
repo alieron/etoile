@@ -1,0 +1,16 @@
+{
+  "id": "xi_pegasi",
+  "name": "Xi Pegasi",
+  "rank": 4,
+  "ra": 341.67324939263915,
+  "dec": 12.172885794474443,
+  "dist": 16.2973,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Peg",
+  "fl": 46,
+  "fl_con": "Peg"
+}

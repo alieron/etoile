@@ -1,0 +1,17 @@
+{
+  "id": "gamma_aquilae",
+  "name": "Gamma Aquilae",
+  "rank": 2,
+  "ra": 296.5649123092774,
+  "dec": 10.6132587226325,
+  "dist": 121.0654,
+  "otype": "*",
+  "spect": "K3II",
+  "cat": 13,
+  "proper": "Tarazed",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Aql",
+  "fl": 50,
+  "fl_con": "Aql"
+}

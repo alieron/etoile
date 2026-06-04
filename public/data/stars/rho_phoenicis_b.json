@@ -1,0 +1,15 @@
+{
+  "id": "rho_phoenicis_b",
+  "name": "Rho Phoenicis B",
+  "rank": 4,
+  "ra": 12.675088828472086,
+  "dec": -50.98679937242084,
+  "dist": 75.5418,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "rho",
+  "by_greek": "ρ",
+  "by_con": "Phe",
+  "by_comp": "B"
+}

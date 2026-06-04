@@ -1,0 +1,14 @@
+{
+  "id": "e_lupi",
+  "name": "e Lupi",
+  "rank": 4,
+  "ra": 228.20661466393122,
+  "dec": -44.50041400716694,
+  "dist": 154.5595,
+  "otype": "SB*",
+  "spect": "B3IV/V",
+  "cat": 9,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Lup"
+}

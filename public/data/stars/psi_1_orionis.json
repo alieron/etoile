@@ -1,0 +1,18 @@
+{
+  "id": "psi_1_orionis",
+  "name": "Psi 1 Orionis",
+  "rank": 4,
+  "ra": 81.18678077013,
+  "dec": 1.8464449765800002,
+  "dist": 318.4713,
+  "otype": "Be*",
+  "spect": "B1Vn",
+  "cat": 8,
+  "by": "psi01",
+  "by_greek": "ψ¹",
+  "by_con": "Ori",
+  "v": "V1086",
+  "v_con": "Ori",
+  "fl": 25,
+  "fl_con": "Ori"
+}

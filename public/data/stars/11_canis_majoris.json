@@ -1,0 +1,13 @@
+{
+  "id": "11_canis_majoris",
+  "name": "11 Canis Majoris",
+  "rank": 5,
+  "ra": 101.71288465562,
+  "dec": -14.42597548303,
+  "dist": 243.9024,
+  "otype": "*",
+  "spect": "B8/9III",
+  "cat": 17,
+  "fl": 11,
+  "fl_con": "CMa"
+}

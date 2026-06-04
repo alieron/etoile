@@ -1,0 +1,16 @@
+{
+  "id": "d_sagittarii",
+  "name": "d Sagittarii",
+  "rank": 4,
+  "ra": 289.4086630645,
+  "dec": -18.9529062457,
+  "dist": 147.7105,
+  "otype": "*",
+  "spect": "G8II-III",
+  "cat": 13,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Sgr",
+  "fl": 43,
+  "fl_con": "Sgr"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "64_aurigae",
+  "name": "64 Aurigae",
+  "rank": 5,
+  "ra": 109.50922710317002,
+  "dec": 40.88339365565,
+  "dist": 85.2515,
+  "otype": "*",
+  "spect": "A5Vn",
+  "cat": 7,
+  "fl": 64,
+  "fl_con": "Aur"
+}

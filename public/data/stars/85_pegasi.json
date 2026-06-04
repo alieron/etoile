@@ -1,0 +1,13 @@
+{
+  "id": "85_pegasi",
+  "name": "85 Pegasi",
+  "rank": 5,
+  "ra": 0.5431196641087498,
+  "dec": 27.081833083809446,
+  "dist": 12.1699,
+  "otype": "SB*",
+  "spect": "G5VbFe-2",
+  "cat": 5,
+  "fl": 85,
+  "fl_con": "Peg"
+}

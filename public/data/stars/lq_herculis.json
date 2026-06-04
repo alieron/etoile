@@ -1,0 +1,15 @@
+{
+  "id": "lq_herculis",
+  "name": "LQ Herculis",
+  "rank": 5,
+  "ra": 242.90848081090996,
+  "dec": 23.49480139974,
+  "dist": 209.205,
+  "otype": "LP?",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "LQ",
+  "v_con": "Her",
+  "fl": 10,
+  "fl_con": "Her"
+}

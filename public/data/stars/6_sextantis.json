@@ -1,0 +1,13 @@
+{
+  "id": "6_sextantis",
+  "name": "6 Sextantis",
+  "rank": 5,
+  "ra": 147.80846538783,
+  "dec": -4.24335009179,
+  "dist": 63.5728,
+  "otype": "*",
+  "spect": "A4V",
+  "cat": 7,
+  "fl": 6,
+  "fl_con": "Sex"
+}

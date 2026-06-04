@@ -1,0 +1,17 @@
+{
+  "id": "l_virginis",
+  "name": "l Virginis",
+  "rank": 2,
+  "ra": 202.99118605499538,
+  "dec": -6.255817660835833,
+  "dist": 122.549,
+  "otype": "PM*",
+  "spect": "M2.5III",
+  "cat": 14,
+  "proper": "Apamvatsa",
+  "by": "l",
+  "by_greek": "l",
+  "by_con": "Vir",
+  "fl": 74,
+  "fl_con": "Vir"
+}

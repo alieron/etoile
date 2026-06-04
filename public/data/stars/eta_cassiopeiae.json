@@ -1,0 +1,17 @@
+{
+  "id": "eta_cassiopeiae",
+  "name": "Eta Cassiopeiae",
+  "rank": 2,
+  "ra": 12.276227476217503,
+  "dec": 57.81517728880999,
+  "dist": 5.9531,
+  "otype": "PM*",
+  "spect": "F9V",
+  "cat": 6,
+  "proper": "Achird",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Cas",
+  "fl": 24,
+  "fl_con": "Cas"
+}

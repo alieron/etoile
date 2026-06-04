@@ -1,0 +1,13 @@
+{
+  "id": "42_aurigae",
+  "name": "42 Aurigae",
+  "rank": 5,
+  "ra": 94.39436067712,
+  "dec": 46.42395252132,
+  "dist": 71.1744,
+  "otype": "*",
+  "spect": "F0V",
+  "cat": 6,
+  "fl": 42,
+  "fl_con": "Aur"
+}

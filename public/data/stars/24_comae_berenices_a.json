@@ -1,0 +1,14 @@
+{
+  "id": "24_comae_berenices_a",
+  "name": "24 Comae Berenices A",
+  "rank": 5,
+  "ra": 188.78233560698996,
+  "dec": 18.377058545440004,
+  "dist": 138.1215,
+  "otype": "*",
+  "spect": "K0II-III",
+  "cat": 13,
+  "fl": 24,
+  "fl_con": "Com",
+  "fl_comp": "A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "iota_2_fornacis_b",
+  "name": "Iota 2 Fornacis B",
+  "rank": 4,
+  "ra": 39.58037076984999,
+  "dec": -30.171446879360005,
+  "dist": 34.726,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "iot02",
+  "by_greek": "ι²",
+  "by_con": "For",
+  "by_comp": "B"
+}

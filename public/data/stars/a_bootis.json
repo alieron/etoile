@@ -1,0 +1,14 @@
+{
+  "id": "a_bootis",
+  "name": "A Boötis",
+  "rank": 4,
+  "ra": 214.49923885007,
+  "dec": 35.50951230374999,
+  "dist": 71.582,
+  "otype": "SB*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "A",
+  "by_greek": "A",
+  "by_con": "Boo"
+}

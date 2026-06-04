@@ -1,0 +1,14 @@
+{
+  "id": "mu_pictoris",
+  "name": "Mu Pictoris",
+  "rank": 4,
+  "ra": 97.9929587972,
+  "dec": -58.75383649343001,
+  "dist": 232.0186,
+  "otype": "**",
+  "spect": "B9IVn",
+  "cat": 9,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Pic"
+}

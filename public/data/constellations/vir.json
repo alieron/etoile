@@ -1,146 +1,122 @@
 {
-  "abbreviation": "Vir",
+  "id": "Vir",
   "name": "Virgo",
-  "genitive": "Virginis",
-  "meaning": "Maiden",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 174.3505,
-        "dec_deg": -0.6917,
-        "ra_deg_signed": 174.3505
-      },
-      {
-        "ra_deg": 174.3657,
-        "dec_deg": 10.3083,
-        "ra_deg_signed": 174.3657
-      },
-      {
-        "ra_deg": 179.6037,
-        "dec_deg": 10.304,
-        "ra_deg_signed": 179.6037
-      },
-      {
-        "ra_deg": 179.6045,
-        "dec_deg": 13.304,
-        "ra_deg_signed": 179.6045
-      },
-      {
-        "ra_deg": 194.062,
-        "dec_deg": 13.3225,
-        "ra_deg_signed": -165.938
-      },
-      {
-        "ra_deg": 194.0591,
-        "dec_deg": 14.3225,
-        "ra_deg_signed": -165.9409
-      },
-      {
-        "ra_deg": 204.0289,
-        "dec_deg": 14.3605,
-        "ra_deg_signed": -155.9711
-      },
-      {
-        "ra_deg": 204.0638,
-        "dec_deg": 7.3606,
-        "ra_deg_signed": -155.9362
-      },
-      {
-        "ra_deg": 227.7815,
-        "dec_deg": 7.5254,
-        "ra_deg_signed": -132.2185
-      },
-      {
-        "ra_deg": 227.853,
-        "dec_deg": -0.4743,
-        "ra_deg_signed": -132.147
-      },
-      {
-        "ra_deg": 221.6031,
-        "dec_deg": -0.5269,
-        "ra_deg_signed": -138.3969
-      },
-      {
-        "ra_deg": 221.6671,
-        "dec_deg": -8.5267,
-        "ra_deg_signed": -138.3329
-      },
-      {
-        "ra_deg": 215.4085,
-        "dec_deg": -8.5731,
-        "ra_deg_signed": -144.5915
-      },
-      {
-        "ra_deg": 215.5131,
-        "dec_deg": -22.5728,
-        "ra_deg_signed": -144.4869
-      },
-      {
-        "ra_deg": 194.1669,
-        "dec_deg": -22.6773,
-        "ra_deg_signed": -165.8331
-      },
-      {
-        "ra_deg": 194.1331,
-        "dec_deg": -11.6774,
-        "ra_deg_signed": -165.8669
-      },
-      {
-        "ra_deg": 179.0968,
-        "dec_deg": -11.6958,
-        "ra_deg_signed": 179.0968
-      },
-      {
-        "ra_deg": 179.0986,
-        "dec_deg": -6.6958,
-        "ra_deg_signed": 179.0986
-      },
-      {
-        "ra_deg": 174.3423,
-        "dec_deg": -6.6917,
-        "ra_deg_signed": 174.3423
-      },
-      {
-        "ra_deg": 174.3505,
-        "dec_deg": -0.6917,
-        "ra_deg_signed": 174.3505
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Virginis",
+  "meaning": "Virgin",
+  "rank": 0,
+  "focus": [
+    -158,
+    -4,
+    120
+  ],
+  "label": [
+    -160.5,
+    -4
+  ],
+  "bound": [
     [
-      60129,
-      58948,
-      57380,
-      57757,
-      60129,
-      61941,
-      63090,
-      63608,
-      63090,
-      61941,
-      64238,
-      65474,
-      64238,
-      61941,
-      66249,
-      68520,
-      72220,
-      68520,
-      66249,
-      69701,
-      71957
+      [
+        174.3505,
+        -0.6917
+      ],
+      [
+        174.3657,
+        10.3083
+      ],
+      [
+        179.6037,
+        10.304
+      ],
+      [
+        179.6045,
+        13.304
+      ],
+      [
+        -165.938,
+        13.3225
+      ],
+      [
+        -165.9409,
+        14.3225
+      ],
+      [
+        -155.9711,
+        14.3605
+      ],
+      [
+        -155.9362,
+        7.3606
+      ],
+      [
+        -132.2185,
+        7.5254
+      ],
+      [
+        -132.147,
+        -0.4743
+      ],
+      [
+        -138.3969,
+        -0.5269
+      ],
+      [
+        -138.3329,
+        -8.5267
+      ],
+      [
+        -144.5915,
+        -8.5731
+      ],
+      [
+        -144.4869,
+        -22.5728
+      ],
+      [
+        -165.8331,
+        -22.6773
+      ],
+      [
+        -165.8669,
+        -11.6774
+      ],
+      [
+        179.0968,
+        -11.6958
+      ],
+      [
+        179.0986,
+        -6.6958
+      ],
+      [
+        174.3423,
+        -6.6917
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Spica",
-    "designation": "67Alp Vir",
-    "display_name": "67 Alpha Virginis",
-    "display_name_greek": "67 α Virginis",
-    "hip": 65474,
-    "ra_deg": 201.298245,
-    "dec_deg": -11.161322
-  }
+  "lines": [
+    [
+      "eta_virginis",
+      "omicron_virginis",
+      "nu_virginis",
+      "beta_virginis",
+      "eta_virginis",
+      "gamma_virginis",
+      "delta_virginis",
+      "epsilon_virginis",
+      "delta_virginis",
+      "gamma_virginis",
+      "theta_virginis",
+      "alpha_virginis",
+      "theta_virginis",
+      "gamma_virginis",
+      "zeta_virginis",
+      "tau_virginis",
+      "109_virginis",
+      "tau_virginis",
+      "zeta_virginis",
+      "iota_virginis",
+      "mu_virginis"
+    ]
+  ],
+  "bright": "alpha_virginis"
 }

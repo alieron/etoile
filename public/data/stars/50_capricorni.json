@@ -1,0 +1,13 @@
+{
+  "id": "50_capricorni",
+  "name": "50 Capricorni",
+  "rank": 5,
+  "ra": 326.67538306271,
+  "dec": -11.69784495037,
+  "dist": 62.8931,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "fl": 50,
+  "fl_con": "Cap"
+}

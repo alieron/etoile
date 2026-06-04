@@ -1,0 +1,14 @@
+{
+  "id": "c_herculis",
+  "name": "c Herculis",
+  "rank": 4,
+  "ra": 257.00859037168993,
+  "dec": 35.93518867109999,
+  "dist": 54.2594,
+  "otype": "**",
+  "spect": "kA5hF0VmF2",
+  "cat": 4,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Her"
+}

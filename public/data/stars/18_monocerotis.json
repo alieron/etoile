@@ -1,0 +1,13 @@
+{
+  "id": "18_monocerotis",
+  "name": "18 Monocerotis",
+  "rank": 3,
+  "ra": 101.96519952348,
+  "dec": 2.41217639198,
+  "dist": 112.8668,
+  "otype": "SB*",
+  "spect": "K0+III",
+  "cat": 13,
+  "fl": 18,
+  "fl_con": "Mon"
+}

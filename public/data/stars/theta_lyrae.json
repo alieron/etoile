@@ -1,0 +1,16 @@
+{
+  "id": "theta_lyrae",
+  "name": "Theta Lyrae",
+  "rank": 4,
+  "ra": 289.0920557052191,
+  "dec": 38.1337420450175,
+  "dist": 255.102,
+  "otype": "*",
+  "spect": "K0II",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Lyr",
+  "fl": 21,
+  "fl_con": "Lyr"
+}

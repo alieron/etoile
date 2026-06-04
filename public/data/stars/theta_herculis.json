@@ -1,0 +1,16 @@
+{
+  "id": "theta_herculis",
+  "name": "Theta Herculis",
+  "rank": 3,
+  "ra": 269.06325406138296,
+  "dec": 37.250536666711376,
+  "dist": 230.9469,
+  "otype": "*",
+  "spect": "K1IIaCN2",
+  "cat": 15,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Her",
+  "fl": 91,
+  "fl_con": "Her"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "xi_1_ceti",
+  "name": "Xi 1 Ceti",
+  "rank": 4,
+  "ra": 33.25000132715,
+  "dec": 8.846702350650002,
+  "dist": 117.5088,
+  "otype": "SB*",
+  "spect": "G7IIIBa0.4Fe-1",
+  "cat": 16,
+  "by": "ksi01",
+  "by_greek": "ξ¹",
+  "by_con": "Cet",
+  "fl": 65,
+  "fl_con": "Cet"
+}

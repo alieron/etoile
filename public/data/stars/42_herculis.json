@@ -1,0 +1,13 @@
+{
+  "id": "42_herculis",
+  "name": "42 Herculis",
+  "rank": 5,
+  "ra": 249.68685420526998,
+  "dec": 48.92834232506,
+  "dist": 127.0648,
+  "otype": "PM*",
+  "spect": "M2III",
+  "cat": 14,
+  "fl": 42,
+  "fl_con": "Her"
+}

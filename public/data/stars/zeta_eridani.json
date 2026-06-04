@@ -1,0 +1,17 @@
+{
+  "id": "zeta_eridani",
+  "name": "Zeta Eridani",
+  "rank": 2,
+  "ra": 48.95844035892001,
+  "dec": -8.81973238362,
+  "dist": 33.6474,
+  "otype": "SB*",
+  "spect": "kA4hA9mA9V",
+  "cat": 4,
+  "proper": "Zibal",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Eri",
+  "fl": 13,
+  "fl_con": "Eri"
+}

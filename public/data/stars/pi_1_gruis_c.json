@@ -1,0 +1,15 @@
+{
+  "id": "pi_1_gruis_c",
+  "name": "Pi 1 Gruis C",
+  "rank": 4,
+  "ra": 335.68416666666667,
+  "dec": -45.948055555555555,
+  "dist": 163.1321,
+  "otype": "LM*",
+  "spect": "",
+  "cat": 0,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Gru",
+  "by_comp": "C"
+}

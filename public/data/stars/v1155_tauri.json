@@ -1,0 +1,15 @@
+{
+  "id": "v1155_tauri",
+  "name": "V1155 Tauri",
+  "rank": 5,
+  "ra": 76.98097899049,
+  "dec": 21.70481926894,
+  "dist": 331.1258,
+  "otype": "Be*",
+  "spect": "B2Ve",
+  "cat": 8,
+  "v": "V1155",
+  "v_con": "Tau",
+  "fl": 105,
+  "fl_con": "Tau"
+}

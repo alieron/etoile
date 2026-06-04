@@ -1,0 +1,13 @@
+{
+  "id": "87_herculis",
+  "name": "87 Herculis",
+  "rank": 5,
+  "ra": 267.2047758442,
+  "dec": 25.622868416989995,
+  "dist": 64.9773,
+  "otype": "*",
+  "spect": "K0IIIb",
+  "cat": 15,
+  "fl": 87,
+  "fl_con": "Her"
+}

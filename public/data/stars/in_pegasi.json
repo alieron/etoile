@@ -1,0 +1,15 @@
+{
+  "id": "in_pegasi",
+  "name": "IN Pegasi",
+  "rank": 5,
+  "ra": 335.3794796033334,
+  "dec": 12.205184115277778,
+  "dist": 497.5124,
+  "otype": "Be*",
+  "spect": "B3III",
+  "cat": 8,
+  "v": "IN",
+  "v_con": "Peg",
+  "fl": 31,
+  "fl_con": "Peg"
+}

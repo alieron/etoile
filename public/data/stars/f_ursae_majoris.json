@@ -1,0 +1,16 @@
+{
+  "id": "f_ursae_majoris",
+  "name": "f Ursae Majoris",
+  "rank": 4,
+  "ra": 137.2177373836521,
+  "dec": 51.604647750470555,
+  "dist": 28.8184,
+  "otype": "PM*",
+  "spect": "kA3VmF5IIISr",
+  "cat": 13,
+  "by": "f",
+  "by_greek": "f",
+  "by_con": "UMa",
+  "fl": 15,
+  "fl_con": "UMa"
+}

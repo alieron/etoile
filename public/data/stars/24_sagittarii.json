@@ -1,0 +1,13 @@
+{
+  "id": "24_sagittarii",
+  "name": "24 Sagittarii",
+  "rank": 5,
+  "ra": 278.47285965291,
+  "dec": -24.03228199515,
+  "dist": 632.9114,
+  "otype": "*",
+  "spect": "K3III",
+  "cat": 13,
+  "fl": 24,
+  "fl_con": "Sgr"
+}

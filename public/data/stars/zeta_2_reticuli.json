@@ -1,0 +1,14 @@
+{
+  "id": "zeta_2_reticuli",
+  "name": "Zeta 2 Reticuli",
+  "rank": 4,
+  "ra": 49.55341201004875,
+  "dec": -62.506362419731104,
+  "dist": 12.0322,
+  "otype": "**",
+  "spect": "G1V",
+  "cat": 5,
+  "by": "zet02",
+  "by_greek": "ζ²",
+  "by_con": "Ret"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sigma_1_tauri",
+  "name": "Sigma 1 Tauri",
+  "rank": 4,
+  "ra": 69.78843010869,
+  "dec": 15.799836456019998,
+  "dist": 45.0857,
+  "otype": "SB*",
+  "spect": "kA4hA5mA7",
+  "cat": 4,
+  "by": "sig01",
+  "by_greek": "σ¹",
+  "by_con": "Tau",
+  "fl": 91,
+  "fl_con": "Tau"
+}

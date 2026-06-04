@@ -1,0 +1,14 @@
+{
+  "id": "chi_sagittarii",
+  "name": "Chi Sagittarii",
+  "rank": 4,
+  "ra": 291.3187110569254,
+  "dec": -24.508567106691114,
+  "dist": 77.220872201,
+  "otype": "*",
+  "spect": "A3/5IV/V",
+  "cat": 10,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Sgr"
+}

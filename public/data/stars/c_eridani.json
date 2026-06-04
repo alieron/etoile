@@ -1,0 +1,16 @@
+{
+  "id": "c_eridani",
+  "name": "c Eridani",
+  "rank": 4,
+  "ra": 69.40055253787,
+  "dec": -2.47354881285,
+  "dist": 29.4291,
+  "otype": "PM*",
+  "spect": "F0IV",
+  "cat": 11,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Eri",
+  "fl": 51,
+  "fl_con": "Eri"
+}

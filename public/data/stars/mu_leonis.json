@@ -1,0 +1,17 @@
+{
+  "id": "mu_leonis",
+  "name": "Mu Leonis",
+  "rank": 2,
+  "ra": 148.190904223595,
+  "dec": 26.00695118609,
+  "dist": 38.0518,
+  "otype": "PM*",
+  "spect": "K2IIIbCN1Ca1",
+  "cat": 15,
+  "proper": "Rasalas",
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Leo",
+  "fl": 24,
+  "fl_con": "Leo"
+}

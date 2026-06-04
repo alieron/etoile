@@ -1,292 +1,241 @@
 {
-  "abbreviation": "Eri",
+  "id": "Eri",
   "name": "Eridanus",
-  "genitive": "Eridani",
+  "gen": "Eridani",
   "meaning": "River",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 55.3529,
-        "dec_deg": 0.4037,
-        "ra_deg_signed": 55.3529
-      },
-      {
-        "ra_deg": 70.8524,
-        "dec_deg": 0.2375,
-        "ra_deg_signed": 70.8524
-      },
-      {
-        "ra_deg": 71.6023,
-        "dec_deg": 0.2289,
-        "ra_deg_signed": 71.6023
-      },
-      {
-        "ra_deg": 71.5564,
-        "dec_deg": -3.7708,
-        "ra_deg_signed": 71.5564
-      },
-      {
-        "ra_deg": 77.8044,
-        "dec_deg": -3.8437,
-        "ra_deg_signed": 77.8044
-      },
-      {
-        "ra_deg": 77.72,
-        "dec_deg": -10.8432,
-        "ra_deg_signed": 77.72
-      },
-      {
-        "ra_deg": 75.2218,
-        "dec_deg": -10.8138,
-        "ra_deg_signed": 75.2218
-      },
-      {
-        "ra_deg": 75.1787,
-        "dec_deg": -14.3136,
-        "ra_deg_signed": 75.1787
-      },
-      {
-        "ra_deg": 73.9298,
-        "dec_deg": -14.299,
-        "ra_deg_signed": 73.9298
-      },
-      {
-        "ra_deg": 73.7593,
-        "dec_deg": -27.048,
-        "ra_deg_signed": 73.7593
-      },
-      {
-        "ra_deg": 71.7633,
-        "dec_deg": -27.0249,
-        "ra_deg_signed": 71.7633
-      },
-      {
-        "ra_deg": 71.7224,
-        "dec_deg": -29.7746,
-        "ra_deg_signed": 71.7224
-      },
-      {
-        "ra_deg": 69.9767,
-        "dec_deg": -29.7547,
-        "ra_deg_signed": 69.9767
-      },
-      {
-        "ra_deg": 69.8624,
-        "dec_deg": -36.754,
-        "ra_deg_signed": 69.8624
-      },
-      {
-        "ra_deg": 65.1299,
-        "dec_deg": -36.701,
-        "ra_deg_signed": 65.1299
-      },
-      {
-        "ra_deg": 65.0764,
-        "dec_deg": -39.7007,
-        "ra_deg_signed": 65.0764
-      },
-      {
-        "ra_deg": 59.1059,
-        "dec_deg": -39.6368,
-        "ra_deg_signed": 59.1059
-      },
-      {
-        "ra_deg": 59.0314,
-        "dec_deg": -43.6364,
-        "ra_deg_signed": 59.0314
-      },
-      {
-        "ra_deg": 52.3268,
-        "dec_deg": -43.5694,
-        "ra_deg_signed": 52.3268
-      },
-      {
-        "ra_deg": 52.289,
-        "dec_deg": -45.5692,
-        "ra_deg_signed": 52.289
-      },
-      {
-        "ra_deg": 46.0908,
-        "dec_deg": -45.5125,
-        "ra_deg_signed": 46.0908
-      },
-      {
-        "ra_deg": 46.0345,
-        "dec_deg": -48.5122,
-        "ra_deg_signed": 46.0345
-      },
-      {
-        "ra_deg": 41.0853,
-        "dec_deg": -48.471,
-        "ra_deg_signed": 41.0853
-      },
-      {
-        "ra_deg": 41.0477,
-        "dec_deg": -50.4709,
-        "ra_deg_signed": 41.0477
-      },
-      {
-        "ra_deg": 37.3412,
-        "dec_deg": -50.4426,
-        "ra_deg_signed": 37.3412
-      },
-      {
-        "ra_deg": 37.2833,
-        "dec_deg": -53.4424,
-        "ra_deg_signed": 37.2833
-      },
-      {
-        "ra_deg": 33.5841,
-        "dec_deg": -53.4165,
-        "ra_deg_signed": 33.5841
-      },
-      {
-        "ra_deg": 33.4894,
-        "dec_deg": -57.9162,
-        "ra_deg_signed": 33.4894
-      },
-      {
-        "ra_deg": 21.2062,
-        "dec_deg": -57.8484,
-        "ra_deg_signed": 21.2062
-      },
-      {
-        "ra_deg": 21.2733,
-        "dec_deg": -52.8486,
-        "ra_deg_signed": 21.2733
-      },
-      {
-        "ra_deg": 24.9674,
-        "dec_deg": -52.8659,
-        "ra_deg_signed": 24.9674
-      },
-      {
-        "ra_deg": 24.9938,
-        "dec_deg": -50.8659,
-        "ra_deg_signed": 24.9938
-      },
-      {
-        "ra_deg": 28.6933,
-        "dec_deg": -50.8859,
-        "ra_deg_signed": 28.6933
-      },
-      {
-        "ra_deg": 28.7383,
-        "dec_deg": -47.5527,
-        "ra_deg_signed": 28.7383
-      },
-      {
-        "ra_deg": 36.1529,
-        "dec_deg": -47.6005,
-        "ra_deg_signed": 36.1529
-      },
-      {
-        "ra_deg": 36.264,
-        "dec_deg": -39.4342,
-        "ra_deg_signed": 36.264
-      },
-      {
-        "ra_deg": 46.1873,
-        "dec_deg": -39.5129,
-        "ra_deg_signed": 46.1873
-      },
-      {
-        "ra_deg": 46.1933,
-        "dec_deg": -39.0963,
-        "ra_deg_signed": 46.1933
-      },
-      {
-        "ra_deg": 53.6443,
-        "dec_deg": -39.1651,
-        "ra_deg_signed": 53.6443
-      },
-      {
-        "ra_deg": 53.6996,
-        "dec_deg": -35.582,
-        "ra_deg_signed": 53.6996
-      },
-      {
-        "ra_deg": 57.4305,
-        "dec_deg": -35.6192,
-        "ra_deg_signed": 57.4305
-      },
-      {
-        "ra_deg": 57.5889,
-        "dec_deg": -24.0034,
-        "ra_deg_signed": 57.5889
-      },
-      {
-        "ra_deg": 41.1488,
-        "dec_deg": -23.8536,
-        "ra_deg_signed": 41.1488
-      },
-      {
-        "ra_deg": 41.3392,
-        "dec_deg": -1.221,
-        "ra_deg_signed": 41.3392
-      },
-      {
-        "ra_deg": 50.8367,
-        "dec_deg": -1.303,
-        "ra_deg_signed": 50.8367
-      },
-      {
-        "ra_deg": 55.3356,
-        "dec_deg": -1.3462,
-        "ra_deg_signed": 55.3356
-      },
-      {
-        "ra_deg": 55.3529,
-        "dec_deg": 0.4037,
-        "ra_deg_signed": 55.3529
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    50,
+    -28,
+    129
+  ],
+  "label": [
+    52.5,
+    -18
+  ],
+  "bound": [
     [
-      23875,
-      22109,
-      21444,
-      19587,
-      18543,
-      17593,
-      17378,
-      16537,
-      13701,
-      12770,
-      12770,
-      12843,
-      14146,
-      15474,
-      16611,
-      17651,
-      18216,
-      18673,
-      21248,
-      21393,
-      20535,
-      20042,
-      17874,
-      17874,
-      16870,
-      15510,
-      13847,
-      12486,
-      12413,
-      11407,
-      9007,
-      7588
+      [
+        55.3529,
+        0.4037
+      ],
+      [
+        70.8524,
+        0.2375
+      ],
+      [
+        71.6023,
+        0.2289
+      ],
+      [
+        71.5564,
+        -3.7708
+      ],
+      [
+        77.8044,
+        -3.8437
+      ],
+      [
+        77.72,
+        -10.8432
+      ],
+      [
+        75.2218,
+        -10.8138
+      ],
+      [
+        75.1787,
+        -14.3136
+      ],
+      [
+        73.9298,
+        -14.299
+      ],
+      [
+        73.7593,
+        -27.048
+      ],
+      [
+        71.7633,
+        -27.0249
+      ],
+      [
+        71.7224,
+        -29.7746
+      ],
+      [
+        69.9767,
+        -29.7547
+      ],
+      [
+        69.8624,
+        -36.754
+      ],
+      [
+        65.1299,
+        -36.701
+      ],
+      [
+        65.0764,
+        -39.7007
+      ],
+      [
+        59.1059,
+        -39.6368
+      ],
+      [
+        59.0314,
+        -43.6364
+      ],
+      [
+        52.3268,
+        -43.5694
+      ],
+      [
+        52.289,
+        -45.5692
+      ],
+      [
+        46.0908,
+        -45.5125
+      ],
+      [
+        46.0345,
+        -48.5122
+      ],
+      [
+        41.0853,
+        -48.471
+      ],
+      [
+        41.0477,
+        -50.4709
+      ],
+      [
+        37.3412,
+        -50.4426
+      ],
+      [
+        37.2833,
+        -53.4424
+      ],
+      [
+        33.5841,
+        -53.4165
+      ],
+      [
+        33.4894,
+        -57.9162
+      ],
+      [
+        21.2062,
+        -57.8484
+      ],
+      [
+        21.2733,
+        -52.8486
+      ],
+      [
+        24.9674,
+        -52.8659
+      ],
+      [
+        24.9938,
+        -50.8659
+      ],
+      [
+        28.6933,
+        -50.8859
+      ],
+      [
+        28.7383,
+        -47.5527
+      ],
+      [
+        36.1529,
+        -47.6005
+      ],
+      [
+        36.264,
+        -39.4342
+      ],
+      [
+        46.1873,
+        -39.5129
+      ],
+      [
+        46.1933,
+        -39.0963
+      ],
+      [
+        53.6443,
+        -39.1651
+      ],
+      [
+        53.6996,
+        -35.582
+      ],
+      [
+        57.4305,
+        -35.6192
+      ],
+      [
+        57.5889,
+        -24.0034
+      ],
+      [
+        41.1488,
+        -23.8536
+      ],
+      [
+        41.3392,
+        -1.221
+      ],
+      [
+        50.8367,
+        -1.303
+      ],
+      [
+        55.3356,
+        -1.3462
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Achernar",
-    "designation": "Alp Eri",
-    "display_name": "Alpha Eridani",
-    "display_name_greek": "α Eridani",
-    "hip": 7588,
-    "ra_deg": 24.42834,
-    "dec_deg": -57.236757
-  }
+  "lines": [
+    [
+      "beta_eridani",
+      "mu_eridani",
+      "nu_eridani",
+      "omicron_1_eridani",
+      "gamma_eridani",
+      "pi_eridani",
+      "delta_eridani",
+      "epsilon_eridani",
+      "eta_eridani",
+      "pi_ceti",
+      "pi_ceti",
+      "tau_1_eridani",
+      "tau_3_eridani",
+      "tau_4_eridani",
+      "tau_5_eridani",
+      "tau_6_eridani",
+      "tau_8_eridani",
+      "tau_9_eridani",
+      "upsilon_1_eridani",
+      "upsilon_2_eridani",
+      "upsilon_3_eridani",
+      "upsilon_4_eridani",
+      "g_eridani",
+      "g_eridani",
+      "y_eridani",
+      "e_eridani",
+      "theta_eridani",
+      "iota_eridani",
+      "s_eridani",
+      "kappa_eridani",
+      "chi_eridani",
+      "alpha_eridani"
+    ]
+  ],
+  "bright": "alpha_eridani"
 }

@@ -1,0 +1,17 @@
+{
+  "id": "delta_leonis",
+  "name": "Delta Leonis",
+  "rank": 2,
+  "ra": 168.52708926588556,
+  "dec": 20.523718139047475,
+  "dist": 17.9147,
+  "otype": "PM*",
+  "spect": "A5IV(n)",
+  "cat": 10,
+  "proper": "Zosma",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Leo",
+  "fl": 68,
+  "fl_con": "Leo"
+}

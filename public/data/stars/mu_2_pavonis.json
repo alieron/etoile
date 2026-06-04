@@ -1,0 +1,14 @@
+{
+  "id": "mu_2_pavonis",
+  "name": "Mu 2 Pavonis",
+  "rank": 4,
+  "ra": 300.46859067404,
+  "dec": -66.94396434758,
+  "dist": 72.4638,
+  "otype": "PM*",
+  "spect": "K2IVCNII",
+  "cat": 12,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Pav"
+}

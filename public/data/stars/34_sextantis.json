@@ -1,0 +1,13 @@
+{
+  "id": "34_sextantis",
+  "name": "34 Sextantis",
+  "rank": 5,
+  "ra": 160.6561931541187,
+  "dec": 3.5831058891238,
+  "dist": 71.3776,
+  "otype": "**",
+  "spect": "F6V",
+  "cat": 6,
+  "fl": 34,
+  "fl_con": "Sex"
+}

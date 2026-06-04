@@ -1,0 +1,16 @@
+{
+  "id": "psi_3_piscium",
+  "name": "Psi 3 Piscium",
+  "rank": 4,
+  "ra": 17.455003738519995,
+  "dec": 19.65840690587,
+  "dist": 115.4734,
+  "otype": "*",
+  "spect": "F9IIIa",
+  "cat": 16,
+  "by": "psi03",
+  "by_greek": "ψ³",
+  "by_con": "Psc",
+  "fl": 81,
+  "fl_con": "Psc"
+}

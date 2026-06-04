@@ -1,0 +1,14 @@
+{
+  "id": "zeta_2_scorpii",
+  "name": "Zeta 2 Scorpii",
+  "rank": 3,
+  "ra": 253.645854299862,
+  "dec": -42.36131583630056,
+  "dist": 40.568,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "zet02",
+  "by_greek": "ζ²",
+  "by_con": "Sco"
+}

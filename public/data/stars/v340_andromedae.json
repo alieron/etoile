@@ -1,0 +1,15 @@
+{
+  "id": "v340_andromedae",
+  "name": "V340 Andromedae",
+  "rank": 5,
+  "ra": 353.65640347387,
+  "dec": 40.23643962746,
+  "dist": 80.3213,
+  "otype": "dS*",
+  "spect": "A1Va",
+  "cat": 6,
+  "v": "V340",
+  "v_con": "And",
+  "fl": 15,
+  "fl_con": "And"
+}

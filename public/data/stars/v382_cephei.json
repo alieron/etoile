@@ -1,0 +1,15 @@
+{
+  "id": "v382_cephei",
+  "name": "V382 Cephei",
+  "rank": 5,
+  "ra": 319.84258655844167,
+  "dec": 64.87185701188666,
+  "dist": 609.7561,
+  "otype": "Be*",
+  "spect": "B3IVe",
+  "cat": 8,
+  "v": "V382",
+  "v_con": "Cep",
+  "fl": 6,
+  "fl_con": "Cep"
+}

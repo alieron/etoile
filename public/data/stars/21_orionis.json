@@ -1,0 +1,13 @@
+{
+  "id": "21_orionis",
+  "name": "21 Orionis",
+  "rank": 5,
+  "ra": 79.79675039508,
+  "dec": 2.59579997242,
+  "dist": 61.9579,
+  "otype": "PM*",
+  "spect": "F5III-IV",
+  "cat": 11,
+  "fl": 21,
+  "fl_con": "Ori"
+}

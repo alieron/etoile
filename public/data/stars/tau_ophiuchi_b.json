@@ -1,0 +1,18 @@
+{
+  "id": "tau_ophiuchi_b",
+  "name": "Tau Ophiuchi B",
+  "rank": 4,
+  "ra": 270.77000666361874,
+  "dec": -8.180253701225833,
+  "dist": 53.8019,
+  "otype": "*",
+  "spect": "F5V",
+  "cat": 6,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Oph",
+  "by_comp": "B",
+  "fl": 69,
+  "fl_con": "Oph",
+  "fl_comp": "B"
+}

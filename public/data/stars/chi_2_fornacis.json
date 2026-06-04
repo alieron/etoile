@@ -1,0 +1,14 @@
+{
+  "id": "chi_2_fornacis",
+  "name": "Chi 2 Fornacis",
+  "rank": 4,
+  "ra": 51.88925497043001,
+  "dec": -35.68132576691,
+  "dist": 139.47,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "chi02",
+  "by_greek": "χ²",
+  "by_con": "For"
+}

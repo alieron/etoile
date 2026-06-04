@@ -1,0 +1,16 @@
+{
+  "id": "f_1_orionis",
+  "name": "f 1 Orionis",
+  "rank": 4,
+  "ra": 93.01366640034375,
+  "dec": 16.130403784392783,
+  "dist": 162.0746,
+  "otype": "Be*",
+  "spect": "B5Vn",
+  "cat": 8,
+  "by": "f01",
+  "by_greek": "f¹",
+  "by_con": "Ori",
+  "fl": 69,
+  "fl_con": "Ori"
+}

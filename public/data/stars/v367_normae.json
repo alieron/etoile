@@ -1,0 +1,15 @@
+{
+  "id": "v367_normae",
+  "name": "V367 Normae",
+  "rank": 5,
+  "ra": 243.32070513081993,
+  "dec": -53.67117432759,
+  "dist": 490.1961,
+  "otype": "LP?",
+  "spect": "M0III",
+  "cat": 14,
+  "v": "V367",
+  "v_con": "Nor",
+  "fl": 39,
+  "fl_con": "Nor"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "upsilon_aquarii_b",
+  "name": "Upsilon Aquarii B",
+  "rank": 4,
+  "ra": 338.67485804125,
+  "dec": -20.7092822573,
+  "dist": 23.037,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "ups",
+  "by_greek": "υ",
+  "by_con": "Aqr",
+  "by_comp": "B",
+  "fl": 59,
+  "fl_con": "Aqr",
+  "fl_comp": "B"
+}

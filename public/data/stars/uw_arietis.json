@@ -1,0 +1,15 @@
+{
+  "id": "uw_arietis",
+  "name": "UW Arietis",
+  "rank": 5,
+  "ra": 46.856971462599994,
+  "dec": 17.879991564949997,
+  "dist": 255.102,
+  "otype": "bC*",
+  "spect": "B1.5V",
+  "cat": 8,
+  "v": "UW",
+  "v_con": "Ari",
+  "fl": 53,
+  "fl_con": "Ari"
+}

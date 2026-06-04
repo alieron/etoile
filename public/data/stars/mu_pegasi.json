@@ -1,0 +1,17 @@
+{
+  "id": "mu_pegasi",
+  "name": "Mu Pegasi",
+  "rank": 2,
+  "ra": 342.50080447836956,
+  "dec": 24.601581283481668,
+  "dist": 32.5309,
+  "otype": "PM*",
+  "spect": "G8+III",
+  "cat": 13,
+  "proper": "Sadalbari",
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Peg",
+  "fl": 48,
+  "fl_con": "Peg"
+}

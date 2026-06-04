@@ -1,0 +1,13 @@
+{
+  "id": "82_aquarii",
+  "name": "82 Aquarii",
+  "rank": 5,
+  "ra": 345.63565282162,
+  "dec": -6.574011560050001,
+  "dist": 446.4286,
+  "otype": "*",
+  "spect": "M1III",
+  "cat": 14,
+  "fl": 82,
+  "fl_con": "Aqr"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "12_lyncis_c",
+  "name": "12 Lyncis C",
+  "rank": 5,
+  "ra": 101.55519363394,
+  "dec": 59.44317102411,
+  "dist": 72.339,
+  "otype": "*",
+  "spect": "kA6hF1mF1",
+  "cat": 4,
+  "fl": 12,
+  "fl_con": "Lyn",
+  "fl_comp": "C"
+}

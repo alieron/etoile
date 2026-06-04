@@ -1,0 +1,16 @@
+{
+  "id": "tau_4_eridani",
+  "name": "Tau 4 Eridani",
+  "rank": 3,
+  "ra": 49.87916936539666,
+  "dec": -21.757865396989718,
+  "dist": 93.3707,
+  "otype": "LP*",
+  "spect": "M3III-IIIaCa-1",
+  "cat": 14,
+  "by": "tau04",
+  "by_greek": "τ⁴",
+  "by_con": "Eri",
+  "fl": 16,
+  "fl_con": "Eri"
+}

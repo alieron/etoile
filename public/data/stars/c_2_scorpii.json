@@ -1,0 +1,16 @@
+{
+  "id": "c_2_scorpii",
+  "name": "c 2 Scorpii",
+  "rank": 4,
+  "ra": 243.07585257034168,
+  "dec": -27.926375912667503,
+  "dist": 146.8429,
+  "otype": "SB*",
+  "spect": "B2V",
+  "cat": 8,
+  "by": "c02",
+  "by_greek": "c²",
+  "by_con": "Sco",
+  "fl": 13,
+  "fl_con": "Sco"
+}

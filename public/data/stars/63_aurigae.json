@@ -1,0 +1,13 @@
+{
+  "id": "63_aurigae",
+  "name": "63 Aurigae",
+  "rank": 5,
+  "ra": 107.91386052498,
+  "dec": 39.32055033848,
+  "dist": 148.8095,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "fl": 63,
+  "fl_con": "Aur"
+}

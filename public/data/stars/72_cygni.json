@@ -1,0 +1,13 @@
+{
+  "id": "72_cygni",
+  "name": "72 Cygni",
+  "rank": 5,
+  "ra": 323.69411193909,
+  "dec": 38.53406678887999,
+  "dist": 70.9723,
+  "otype": "PM*",
+  "spect": "K0.5IIIFe0.5",
+  "cat": 13,
+  "fl": 72,
+  "fl_con": "Cyg"
+}

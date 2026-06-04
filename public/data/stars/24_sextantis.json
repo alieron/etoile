@@ -1,0 +1,13 @@
+{
+  "id": "24_sextantis",
+  "name": "24 Sextantis",
+  "rank": 5,
+  "ra": 155.86820753396,
+  "dec": -0.9022479453800001,
+  "dist": 77.4593,
+  "otype": "PM*",
+  "spect": "K0IV",
+  "cat": 12,
+  "fl": 24,
+  "fl_con": "Sex"
+}

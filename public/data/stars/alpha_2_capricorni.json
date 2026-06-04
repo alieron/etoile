@@ -1,0 +1,17 @@
+{
+  "id": "alpha_2_capricorni",
+  "name": "Alpha 2 Capricorni",
+  "rank": 2,
+  "ra": 304.5135649821425,
+  "dec": -12.544852120195275,
+  "dist": 32.4465,
+  "otype": "PM*",
+  "spect": "G9III",
+  "cat": 13,
+  "proper": "Algedi",
+  "by": "alf02",
+  "by_greek": "α²",
+  "by_con": "Cap",
+  "fl": 6,
+  "fl_con": "Cap"
+}

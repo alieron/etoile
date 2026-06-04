@@ -1,0 +1,13 @@
+{
+  "id": "14_sagittarii",
+  "name": "14 Sagittarii",
+  "rank": 5,
+  "ra": 273.56624985929,
+  "dec": -21.713162640799997,
+  "dist": 138.8889,
+  "otype": "*",
+  "spect": "K2III",
+  "cat": 13,
+  "fl": 14,
+  "fl_con": "Sgr"
+}

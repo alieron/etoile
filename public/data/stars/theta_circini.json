@@ -1,0 +1,14 @@
+{
+  "id": "theta_circini",
+  "name": "Theta Circini",
+  "rank": 4,
+  "ra": 224.18327105166122,
+  "dec": -62.78102093483,
+  "dist": 462.963,
+  "otype": "Be*",
+  "spect": "B2III",
+  "cat": 8,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cir"
+}

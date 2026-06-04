@@ -1,0 +1,16 @@
+{
+  "id": "sigma_3_cancri",
+  "name": "Sigma 3 Cancri",
+  "rank": 4,
+  "ra": 134.88606074984,
+  "dec": 32.418559306780004,
+  "dist": 90.6618,
+  "otype": "PM*",
+  "spect": "G9III",
+  "cat": 13,
+  "by": "sig03",
+  "by_greek": "σ³",
+  "by_con": "Cnc",
+  "fl": 64,
+  "fl_con": "Cnc"
+}

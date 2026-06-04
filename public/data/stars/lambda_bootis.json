@@ -1,0 +1,17 @@
+{
+  "id": "lambda_bootis",
+  "name": "Lambda Boötis",
+  "rank": 2,
+  "ra": 214.0959100349329,
+  "dec": 46.08830429435917,
+  "dist": 30.3582,
+  "otype": "dS*",
+  "spect": "A0Va_lB",
+  "cat": 6,
+  "proper": "Xuange",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Boo",
+  "fl": 19,
+  "fl_con": "Boo"
+}

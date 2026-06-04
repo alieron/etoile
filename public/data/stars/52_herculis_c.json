@@ -1,0 +1,14 @@
+{
+  "id": "52_herculis_c",
+  "name": "52 Herculis C",
+  "rank": 5,
+  "ra": 252.30955684999992,
+  "dec": 45.98376726944444,
+  "dist": 55.2486,
+  "otype": "**",
+  "spect": "",
+  "cat": 19,
+  "fl": 52,
+  "fl_con": "Her",
+  "fl_comp": "C"
+}

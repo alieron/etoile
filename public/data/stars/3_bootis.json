@@ -1,0 +1,13 @@
+{
+  "id": "3_bootis",
+  "name": "3 Boötis",
+  "rank": 5,
+  "ra": 206.68051402543998,
+  "dec": 25.702237479890005,
+  "dist": 89.6861,
+  "otype": "SB*",
+  "spect": "A7V:+G5III:",
+  "cat": 13,
+  "fl": 3,
+  "fl_con": "Boo"
+}

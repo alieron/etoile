@@ -1,0 +1,16 @@
+{
+  "id": "u_herculis",
+  "name": "u Herculis",
+  "rank": 4,
+  "ra": 259.33153256206,
+  "dec": 33.10010232779,
+  "dist": 204.0816,
+  "otype": "SB*",
+  "spect": "B2V",
+  "cat": 8,
+  "by": "u",
+  "by_greek": "u",
+  "by_con": "Her",
+  "fl": 68,
+  "fl_con": "Her"
+}

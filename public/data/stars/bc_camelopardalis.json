@@ -1,0 +1,15 @@
+{
+  "id": "bc_camelopardalis",
+  "name": "BC Camelopardalis",
+  "rank": 5,
+  "ra": 116.61422778156998,
+  "dec": 62.83052303072,
+  "dist": 96.7118,
+  "otype": "a2*",
+  "spect": "A7VpSrCrEuSiKsn",
+  "cat": 20,
+  "v": "BC",
+  "v_con": "Cam",
+  "fl": 49,
+  "fl_con": "Cam"
+}

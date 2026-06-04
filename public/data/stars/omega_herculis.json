@@ -1,0 +1,17 @@
+{
+  "id": "omega_herculis",
+  "name": "Omega Herculis",
+  "rank": 2,
+  "ra": 246.35397780919,
+  "dec": 14.033267242409998,
+  "dist": 76.6871,
+  "otype": "a2*",
+  "spect": "A2VpCrSr",
+  "cat": 20,
+  "proper": "Cujam",
+  "by": "ome",
+  "by_greek": "ω",
+  "by_con": "Her",
+  "fl": 24,
+  "fl_con": "Her"
+}

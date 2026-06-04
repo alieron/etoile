@@ -1,0 +1,14 @@
+{
+  "id": "theta_arae",
+  "name": "Theta Arae",
+  "rank": 3,
+  "ra": 271.65778414428,
+  "dec": -50.09147988308306,
+  "dist": 249.3766,
+  "otype": "s*b",
+  "spect": "B0.5Iab",
+  "cat": 17,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Ara"
+}

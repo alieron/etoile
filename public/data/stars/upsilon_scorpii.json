@@ -1,0 +1,17 @@
+{
+  "id": "upsilon_scorpii",
+  "name": "Upsilon Scorpii",
+  "rank": 2,
+  "ra": 262.6909880116666,
+  "dec": -37.295813475277775,
+  "dist": 176.6784,
+  "otype": "*",
+  "spect": "B2IV",
+  "cat": 9,
+  "proper": "Lesath",
+  "by": "ups",
+  "by_greek": "υ",
+  "by_con": "Sco",
+  "fl": 34,
+  "fl_con": "Sco"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "u_tauri",
+  "name": "u Tauri",
+  "rank": 4,
+  "ra": 56.41851402924999,
+  "dec": 6.049995930339444,
+  "dist": 163.6661,
+  "otype": "SB*",
+  "spect": "B3V",
+  "cat": 8,
+  "by": "u",
+  "by_greek": "u",
+  "by_con": "Tau",
+  "fl": 29,
+  "fl_con": "Tau"
+}

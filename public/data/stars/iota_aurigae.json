@@ -1,0 +1,17 @@
+{
+  "id": "iota_aurigae",
+  "name": "Iota Aurigae",
+  "rank": 2,
+  "ra": 74.24841676022209,
+  "dec": 33.166093772077225,
+  "dist": 151.2859,
+  "otype": "*",
+  "spect": "K3II-III",
+  "cat": 13,
+  "proper": "Hassaleh",
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Aur",
+  "fl": 3,
+  "fl_con": "Aur"
+}

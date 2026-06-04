@@ -1,0 +1,17 @@
+{
+  "id": "rho_puppis",
+  "name": "Rho Puppis",
+  "rank": 2,
+  "ra": 121.88603676458334,
+  "dec": -24.304324429444446,
+  "dist": 19.4818,
+  "otype": "dS*",
+  "spect": "F5IIkF2IImF5II",
+  "cat": 6,
+  "proper": "Tureis",
+  "by": "rho",
+  "by_greek": "ρ",
+  "by_con": "Pup",
+  "fl": 15,
+  "fl_con": "Pup"
+}

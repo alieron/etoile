@@ -1,0 +1,16 @@
+{
+  "id": "k_bootis",
+  "name": "k Boötis",
+  "rank": 4,
+  "ra": 226.35764371997996,
+  "dec": 48.15097021154,
+  "dist": 84.1043,
+  "otype": "PM*",
+  "spect": "A0Vs",
+  "cat": 7,
+  "by": "k",
+  "by_greek": "k",
+  "by_con": "Boo",
+  "fl": 47,
+  "fl_con": "Boo"
+}

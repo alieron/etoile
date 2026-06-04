@@ -1,0 +1,16 @@
+{
+  "id": "iota_1_cygni",
+  "name": "Iota 1 Cygni",
+  "rank": 4,
+  "ra": 291.85816376191,
+  "dec": 52.32043826877,
+  "dist": 107.5269,
+  "otype": "*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "iot01",
+  "by_greek": "ι¹",
+  "by_con": "Cyg",
+  "fl": 7,
+  "fl_con": "Cyg"
+}

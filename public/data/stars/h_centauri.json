@@ -1,0 +1,16 @@
+{
+  "id": "h_centauri",
+  "name": "H Centauri",
+  "rank": 4,
+  "ra": 194.26813093588,
+  "dec": -51.198753582100004,
+  "dist": 112.9944,
+  "otype": "Pu*",
+  "spect": "B2IV",
+  "cat": 9,
+  "by": "H",
+  "by_greek": "H",
+  "by_con": "Cen",
+  "v": "V945",
+  "v_con": "Cen"
+}

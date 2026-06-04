@@ -1,0 +1,15 @@
+{
+  "id": "ew_canis_majoris",
+  "name": "EW Canis Majoris",
+  "rank": 5,
+  "ra": 108.56338216558667,
+  "dec": -26.352508045988618,
+  "dist": 531.9149,
+  "otype": "Be*",
+  "spect": "B4Ve_sh",
+  "cat": 8,
+  "v": "EW",
+  "v_con": "CMa",
+  "fl": 27,
+  "fl_con": "CMa"
+}

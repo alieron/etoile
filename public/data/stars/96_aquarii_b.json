@@ -1,0 +1,14 @@
+{
+  "id": "96_aquarii_b",
+  "name": "96 Aquarii B",
+  "rank": 5,
+  "ra": 349.85087078607086,
+  "dec": -5.121435529846388,
+  "dist": 42.7581,
+  "otype": "SB*",
+  "spect": "",
+  "cat": 19,
+  "fl": 96,
+  "fl_con": "Aqr",
+  "fl_comp": "B"
+}

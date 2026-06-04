@@ -1,0 +1,15 @@
+{
+  "id": "v520_persei",
+  "name": "V520 Persei",
+  "rank": 5,
+  "ra": 34.76855215623,
+  "dec": 57.13549863046,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B3Ia",
+  "cat": 17,
+  "v": "V520",
+  "v_con": "Per",
+  "fl": 61,
+  "fl_con": "And"
+}

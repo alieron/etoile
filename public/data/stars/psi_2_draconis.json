@@ -1,0 +1,16 @@
+{
+  "id": "psi_2_draconis",
+  "name": "Psi 2 Draconis",
+  "rank": 4,
+  "ra": 268.79646717097,
+  "dec": 72.00512608293,
+  "dist": 323.6246,
+  "otype": "*",
+  "spect": "F2III",
+  "cat": 13,
+  "by": "psi02",
+  "by_greek": "ψ²",
+  "by_con": "Dra",
+  "fl": 34,
+  "fl_con": "Dra"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "nu_ceti_b",
+  "name": "Nu Ceti B",
+  "rank": 4,
+  "ra": 38.97086562904,
+  "dec": 5.5936205565299995,
+  "dist": 114.989,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "nu.",
+  "by_greek": "ν",
+  "by_con": "Cet",
+  "by_comp": "B"
+}

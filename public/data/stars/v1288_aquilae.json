@@ -1,0 +1,15 @@
+{
+  "id": "v1288_aquilae",
+  "name": "V1288 Aquilae",
+  "rank": 5,
+  "ra": 288.42792164863,
+  "dec": 2.2936973048900002,
+  "dist": 217.8649,
+  "otype": "a2*",
+  "spect": "B8III",
+  "cat": 20,
+  "v": "V1288",
+  "v_con": "Aql",
+  "fl": 21,
+  "fl_con": "Aql"
+}

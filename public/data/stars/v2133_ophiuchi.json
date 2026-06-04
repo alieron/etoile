@@ -1,0 +1,15 @@
+{
+  "id": "v2133_ophiuchi",
+  "name": "V2133 Ophiuchi",
+  "rank": 5,
+  "ra": 249.08937370706997,
+  "dec": -2.3245869511758324,
+  "dist": 9.7513,
+  "otype": "BY*",
+  "spect": "K1V",
+  "cat": 4,
+  "v": "V2133",
+  "v_con": "Oph",
+  "fl": 12,
+  "fl_con": "Oph"
+}

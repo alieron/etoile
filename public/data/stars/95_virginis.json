@@ -1,0 +1,13 @@
+{
+  "id": "95_virginis",
+  "name": "95 Virginis",
+  "rank": 5,
+  "ra": 211.67843038542,
+  "dec": -9.313515237120003,
+  "dist": 58.0383,
+  "otype": "PM*",
+  "spect": "F2III",
+  "cat": 13,
+  "fl": 95,
+  "fl_con": "Vir"
+}

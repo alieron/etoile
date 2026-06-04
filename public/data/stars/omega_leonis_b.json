@@ -1,0 +1,15 @@
+{
+  "id": "omega_leonis_b",
+  "name": "Omega Leonis B",
+  "rank": 4,
+  "ra": 142.11436873333332,
+  "dec": 9.056824383333334,
+  "dist": 33.1675,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "ome",
+  "by_greek": "ω",
+  "by_con": "Leo",
+  "by_comp": "B"
+}

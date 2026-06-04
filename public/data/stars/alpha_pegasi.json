@@ -1,0 +1,17 @@
+{
+  "id": "alpha_pegasi",
+  "name": "Alpha Pegasi",
+  "rank": 2,
+  "ra": 346.19022269142596,
+  "dec": 15.205267147927536,
+  "dist": 40.8831,
+  "otype": "PM*",
+  "spect": "A0IV",
+  "cat": 10,
+  "proper": "Markab",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Peg",
+  "fl": 54,
+  "fl_con": "Peg"
+}

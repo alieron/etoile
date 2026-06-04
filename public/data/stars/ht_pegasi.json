@@ -1,0 +1,15 @@
+{
+  "id": "ht_pegasi",
+  "name": "HT Pegasi",
+  "rank": 5,
+  "ra": 358.15461335202997,
+  "dec": 10.94728678943,
+  "dist": 56.0224,
+  "otype": "dS*",
+  "spect": "A4Vn",
+  "cat": 6,
+  "v": "HT",
+  "v_con": "Peg",
+  "fl": 82,
+  "fl_con": "Peg"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "upsilon_1_hydrae",
+  "name": "Upsilon 1 Hydrae",
+  "rank": 2,
+  "ra": 147.86947907884206,
+  "dec": -14.846628713346947,
+  "dist": 80.9061,
+  "otype": "*",
+  "spect": "G7III",
+  "cat": 13,
+  "proper": "Zhang",
+  "by": "ups01",
+  "by_greek": "υ¹",
+  "by_con": "Hya",
+  "fl": 39,
+  "fl_con": "Hya"
+}

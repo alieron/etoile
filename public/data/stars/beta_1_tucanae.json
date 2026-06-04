@@ -1,0 +1,14 @@
+{
+  "id": "beta_1_tucanae",
+  "name": "Beta 1 Tucanae",
+  "rank": 3,
+  "ra": 7.886116900947914,
+  "dec": -62.95821745653945,
+  "dist": 41.4079,
+  "otype": "**",
+  "spect": "B9.5Va",
+  "cat": 8,
+  "by": "bet01",
+  "by_greek": "β¹",
+  "by_con": "Tuc"
+}

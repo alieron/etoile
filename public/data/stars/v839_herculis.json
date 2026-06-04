@@ -1,0 +1,15 @@
+{
+  "id": "v839_herculis",
+  "name": "V839 Herculis",
+  "rank": 5,
+  "ra": 238.87746643140997,
+  "dec": 42.56619206149,
+  "dist": 164.4737,
+  "otype": "Be*",
+  "spect": "B9pe",
+  "cat": 8,
+  "v": "V839",
+  "v_con": "Her",
+  "fl": 4,
+  "fl_con": "Her"
+}

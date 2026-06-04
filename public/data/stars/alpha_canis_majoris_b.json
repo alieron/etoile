@@ -1,0 +1,15 @@
+{
+  "id": "alpha_canis_majoris_b",
+  "name": "Alpha Canis Majoris B",
+  "rank": 4,
+  "ra": 101.28876746876543,
+  "dec": -16.716867983351943,
+  "dist": 2.6703,
+  "otype": "WD*",
+  "spect": "DA1.9",
+  "cat": 1,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "CMa",
+  "by_comp": "B"
+}

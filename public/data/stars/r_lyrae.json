@@ -1,0 +1,15 @@
+{
+  "id": "r_lyrae",
+  "name": "R Lyrae",
+  "rank": 5,
+  "ra": 283.8337597401192,
+  "dec": 43.946089580494444,
+  "dist": 91.4077,
+  "otype": "LP*",
+  "spect": "M4.5III",
+  "cat": 14,
+  "v": "R",
+  "v_con": "Lyr",
+  "fl": 13,
+  "fl_con": "Lyr"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "omicron_2_eridani",
+  "name": "Omicron 2 Eridani",
+  "rank": 2,
+  "ra": 63.817998412477074,
+  "dec": -7.652869660838334,
+  "dist": 4.9845,
+  "otype": "PM*",
+  "spect": "K0V",
+  "cat": 4,
+  "proper": "Keid",
+  "by": "omi02",
+  "by_greek": "ο²",
+  "by_con": "Eri",
+  "fl": 40,
+  "fl_con": "Eri"
+}

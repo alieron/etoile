@@ -1,0 +1,14 @@
+{
+  "id": "theta_2_eridani",
+  "name": "Theta 2 Eridani",
+  "rank": 4,
+  "ra": 44.56834883087999,
+  "dec": -40.30469619625,
+  "dist": 51.211,
+  "otype": "PM*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "tet02",
+  "by_greek": "θ²",
+  "by_con": "Eri"
+}

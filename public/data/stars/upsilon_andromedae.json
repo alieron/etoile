@@ -1,0 +1,17 @@
+{
+  "id": "upsilon_andromedae",
+  "name": "Upsilon Andromedae",
+  "rank": 2,
+  "ra": 24.199339768294585,
+  "dec": 41.40545871334139,
+  "dist": 13.4916,
+  "otype": "PM*",
+  "spect": "F9V",
+  "cat": 6,
+  "proper": "Titawin",
+  "by": "ups",
+  "by_greek": "υ",
+  "by_con": "And",
+  "fl": 50,
+  "fl_con": "And"
+}

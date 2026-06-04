@@ -1,0 +1,13 @@
+{
+  "id": "128_carinae",
+  "name": "128 Carinae",
+  "rank": 5,
+  "ra": 139.32184357674,
+  "dec": -68.6895931281,
+  "dist": 32.6371,
+  "otype": "**",
+  "spect": "F5VFe-0.7CH-0.5",
+  "cat": 6,
+  "fl": 128,
+  "fl_con": "Car"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "36_doradus",
+  "name": "36 Doradus",
+  "rank": 3,
+  "ra": 88.52522743824083,
+  "dec": -63.08978028735111,
+  "dist": 26.2467,
+  "otype": "PM*",
+  "spect": "K2III-IV",
+  "cat": 12,
+  "fl": 36,
+  "fl_con": "Dor"
+}

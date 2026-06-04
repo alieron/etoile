@@ -1,0 +1,17 @@
+{
+  "id": "rho_1_cancri",
+  "name": "Rho 1 Cancri",
+  "rank": 2,
+  "ra": 133.14921293501794,
+  "dec": 28.330820831797222,
+  "dist": 12.3411,
+  "otype": "PM*",
+  "spect": "K0IV-V",
+  "cat": 12,
+  "proper": "Copernicus",
+  "by": "rho01",
+  "by_greek": "ρ¹",
+  "by_con": "Cnc",
+  "fl": 55,
+  "fl_con": "Cnc"
+}

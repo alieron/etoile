@@ -1,0 +1,13 @@
+{
+  "id": "34_pegasi",
+  "name": "34 Pegasi",
+  "rank": 5,
+  "ra": 336.6557107853308,
+  "dec": 4.393779330436666,
+  "dist": 38.1534,
+  "otype": "SB*",
+  "spect": "F7V",
+  "cat": 6,
+  "fl": 34,
+  "fl_con": "Peg"
+}

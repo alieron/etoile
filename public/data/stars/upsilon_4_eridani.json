@@ -1,0 +1,16 @@
+{
+  "id": "upsilon_4_eridani",
+  "name": "Upsilon 4 Eridani",
+  "rank": 3,
+  "ra": 64.47359333520666,
+  "dec": -33.79834789118277,
+  "dist": 54.5554,
+  "otype": "SB*",
+  "spect": "B8V+B9.5V?",
+  "cat": 8,
+  "by": "ups04",
+  "by_greek": "υ⁴",
+  "by_con": "Eri",
+  "fl": 41,
+  "fl_con": "Eri"
+}

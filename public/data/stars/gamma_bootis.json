@@ -1,0 +1,17 @@
+{
+  "id": "gamma_bootis",
+  "name": "Gamma Boötis",
+  "rank": 2,
+  "ra": 218.0194653313254,
+  "dec": 38.3082480800211,
+  "dist": 26.6099,
+  "otype": "dS*",
+  "spect": "A7IV+(n)",
+  "cat": 6,
+  "proper": "Seginus",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Boo",
+  "fl": 27,
+  "fl_con": "Boo"
+}

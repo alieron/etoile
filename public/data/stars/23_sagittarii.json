@@ -1,0 +1,13 @@
+{
+  "id": "23_sagittarii",
+  "name": "23 Sagittarii",
+  "rank": 5,
+  "ra": 277.62149773473,
+  "dec": -23.25064550363,
+  "dist": 377.3585,
+  "otype": "*",
+  "spect": "G8Ib/II",
+  "cat": 16,
+  "fl": 23,
+  "fl_con": "Sgr"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16_tauri",
+  "name": "16 Tauri",
+  "rank": 2,
+  "ra": 56.20089556751999,
+  "dec": 24.28946759207,
+  "dist": 115.6069,
+  "otype": "*",
+  "spect": "B7V",
+  "cat": 8,
+  "proper": "Celaeno",
+  "fl": 16,
+  "fl_con": "Tau"
+}

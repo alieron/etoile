@@ -1,0 +1,17 @@
+{
+  "id": "q_tauri",
+  "name": "q Tauri",
+  "rank": 2,
+  "ra": 56.302083304839165,
+  "dec": 24.46727376214722,
+  "dist": 125.4705,
+  "otype": "SB*",
+  "spect": "B6IV",
+  "cat": 9,
+  "proper": "Taygeta",
+  "by": "q",
+  "by_greek": "q",
+  "by_con": "Tau",
+  "fl": 19,
+  "fl_con": "Tau"
+}

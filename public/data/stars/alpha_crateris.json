@@ -1,0 +1,17 @@
+{
+  "id": "alpha_crateris",
+  "name": "Alpha Crateris",
+  "rank": 2,
+  "ra": 164.94360481576166,
+  "dec": -18.298786220615558,
+  "dist": 48.8043,
+  "otype": "PM*",
+  "spect": "K0IIIb",
+  "cat": 15,
+  "proper": "Alkes",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Crt",
+  "fl": 7,
+  "fl_con": "Crt"
+}

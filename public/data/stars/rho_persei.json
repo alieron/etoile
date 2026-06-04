@@ -1,0 +1,16 @@
+{
+  "id": "rho_persei",
+  "name": "Rho Persei",
+  "rank": 3,
+  "ra": 46.29414106098047,
+  "dec": 38.84027619029382,
+  "dist": 94.3396,
+  "otype": "LP*",
+  "spect": "M4+IIIa",
+  "cat": 14,
+  "by": "rho",
+  "by_greek": "ρ",
+  "by_con": "Per",
+  "fl": 25,
+  "fl_con": "Per"
+}

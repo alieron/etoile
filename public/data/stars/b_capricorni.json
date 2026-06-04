@@ -1,0 +1,16 @@
+{
+  "id": "b_capricorni",
+  "name": "b Capricorni",
+  "rank": 4,
+  "ra": 322.18083626173666,
+  "dec": -21.807179760148607,
+  "dist": 52.4659,
+  "otype": "PM*",
+  "spect": "G7IIIbFe-1",
+  "cat": 16,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Cap",
+  "fl": 36,
+  "fl_con": "Cap"
+}

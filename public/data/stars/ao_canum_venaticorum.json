@@ -1,0 +1,15 @@
+{
+  "id": "ao_canum_venaticorum",
+  "name": "AO Canum Venaticorum",
+  "rank": 5,
+  "ra": 199.38558813253832,
+  "dec": 40.572606772960285,
+  "dist": 81.0373,
+  "otype": "dS*",
+  "spect": "A9IImF2",
+  "cat": 6,
+  "v": "AO",
+  "v_con": "CVn",
+  "fl": 20,
+  "fl_con": "CVn"
+}

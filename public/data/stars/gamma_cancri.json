@@ -1,0 +1,17 @@
+{
+  "id": "gamma_cancri",
+  "name": "Gamma Cancri",
+  "rank": 2,
+  "ra": 130.82144642293792,
+  "dec": 21.468498799990275,
+  "dist": 55.5556,
+  "otype": "PM*",
+  "spect": "A1Va",
+  "cat": 7,
+  "proper": "Asellus Borealis",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cnc",
+  "fl": 43,
+  "fl_con": "Cnc"
+}

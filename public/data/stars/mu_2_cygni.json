@@ -1,0 +1,17 @@
+{
+  "id": "mu_2_cygni",
+  "name": "Mu 2 Cygni",
+  "rank": 4,
+  "ra": 326.0352573041667,
+  "dec": 28.742903919444444,
+  "dist": 22.237,
+  "otype": "PM*",
+  "spect": "F3V",
+  "cat": 6,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Cyg",
+  "fl": 78,
+  "fl_con": "Cyg",
+  "fl_comp": "B"
+}

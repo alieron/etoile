@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_ursae_majoris",
+  "name": "Epsilon Ursae Majoris",
+  "rank": 2,
+  "ra": 193.5072899675,
+  "dec": 55.95982295694445,
+  "dist": 25.31,
+  "otype": "a2*",
+  "spect": "A1III-IVpkB9",
+  "cat": 20,
+  "proper": "Alioth",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "UMa",
+  "fl": 77,
+  "fl_con": "UMa"
+}

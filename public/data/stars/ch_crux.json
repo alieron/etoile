@@ -1,0 +1,16 @@
+{
+  "id": "ch_crux",
+  "name": "CH Crux",
+  "rank": 2,
+  "ra": 190.48570492647,
+  "dec": -59.68582067903,
+  "dist": 293.2551,
+  "otype": "Be*",
+  "spect": "B5III",
+  "cat": 8,
+  "proper": "Lumbung",
+  "v": "CH",
+  "v_con": "Cru",
+  "fl": 39,
+  "fl_con": "Cru"
+}

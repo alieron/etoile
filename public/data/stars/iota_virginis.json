@@ -1,0 +1,17 @@
+{
+  "id": "iota_virginis",
+  "name": "Iota Virginis",
+  "rank": 2,
+  "ra": 214.0036178170021,
+  "dec": -6.000547078703056,
+  "dist": 22.237,
+  "otype": "PM*",
+  "spect": "F7III",
+  "cat": 13,
+  "proper": "Syrma",
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Vir",
+  "fl": 99,
+  "fl_con": "Vir"
+}

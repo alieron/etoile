@@ -1,0 +1,17 @@
+{
+  "id": "beta_capricorni",
+  "name": "Beta Capricorni",
+  "rank": 2,
+  "ra": 305.25277749238,
+  "dec": -14.78140760208,
+  "dist": 100.2004,
+  "otype": "SB*",
+  "spect": "G9II:+B8p:Si:",
+  "cat": 13,
+  "proper": "Dabih",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cap",
+  "fl": 9,
+  "fl_con": "Cap"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gamma_andromedae",
+  "name": "Gamma Andromedae",
+  "rank": 2,
+  "ra": 30.97480120653972,
+  "dec": 42.32972842352701,
+  "dist": 120.4819,
+  "otype": "*",
+  "spect": "K2+IIb",
+  "cat": 15,
+  "proper": "Almach",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "And",
+  "fl": 57,
+  "fl_con": "And",
+  "fl_comp": "A"
+}

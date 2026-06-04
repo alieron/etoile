@@ -1,0 +1,15 @@
+{
+  "id": "zeta_1_cancri",
+  "name": "Zeta 1 Cancri",
+  "rank": 2,
+  "ra": 123.05302654166667,
+  "dec": 17.647767083333335,
+  "dist": 25.0815,
+  "otype": "**",
+  "spect": "",
+  "cat": 19,
+  "proper": "Tegmine",
+  "by": "zet01",
+  "by_greek": "ζ¹",
+  "by_con": "Cnc"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "19_ursae_majoris",
+  "name": "19 Ursae Majoris",
+  "rank": 5,
+  "ra": 138.80935797808,
+  "dec": 34.63351639379,
+  "dist": 130.039,
+  "otype": "HB*",
+  "spect": "G6III",
+  "cat": 13,
+  "fl": 19,
+  "fl_con": "UMa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "35_leonis_minoris",
+  "name": "35 Leonis Minoris",
+  "rank": 5,
+  "ra": 159.08925397928,
+  "dec": 36.32692779726,
+  "dist": 47.9616,
+  "otype": "*",
+  "spect": "F3V",
+  "cat": 6,
+  "fl": 35,
+  "fl_con": "LMi"
+}

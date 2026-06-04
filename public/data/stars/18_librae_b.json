@@ -1,0 +1,14 @@
+{
+  "id": "18_librae_b",
+  "name": "18 Librae B",
+  "rank": 5,
+  "ra": 224.72671989406,
+  "dec": -11.139731452740001,
+  "dist": 108.271,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 18,
+  "fl_con": "Lib",
+  "fl_comp": "B"
+}

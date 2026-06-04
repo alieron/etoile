@@ -1,0 +1,15 @@
+{
+  "id": "v645_monocerotis",
+  "name": "V645 Monocerotis",
+  "rank": 5,
+  "ra": 120.30556233273833,
+  "dec": -1.3926069037644446,
+  "dist": 137.931,
+  "otype": "PM*",
+  "spect": "K4III",
+  "cat": 13,
+  "v": "V645",
+  "v_con": "Mon",
+  "fl": 28,
+  "fl_con": "Mon"
+}

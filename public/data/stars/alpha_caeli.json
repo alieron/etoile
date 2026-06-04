@@ -1,0 +1,14 @@
+{
+  "id": "alpha_caeli",
+  "name": "Alpha Caeli",
+  "rank": 3,
+  "ra": 70.14046880567959,
+  "dec": -41.863751263843064,
+  "dist": 20.1654,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cae"
+}

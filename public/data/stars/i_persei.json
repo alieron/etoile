@@ -1,0 +1,18 @@
+{
+  "id": "i_persei",
+  "name": "i Persei",
+  "rank": 4,
+  "ra": 35.58930962793999,
+  "dec": 55.84565287591,
+  "dist": 100000.0,
+  "otype": "sg*",
+  "spect": "A1Ia",
+  "cat": 17,
+  "by": "i",
+  "by_greek": "i",
+  "by_con": "Per",
+  "v": "V474",
+  "v_con": "Per",
+  "fl": 9,
+  "fl_con": "Per"
+}

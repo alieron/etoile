@@ -1,0 +1,14 @@
+{
+  "id": "52_cygni_b",
+  "name": "52 Cygni B",
+  "rank": 5,
+  "ra": 311.4175096461,
+  "dec": 30.72030144398,
+  "dist": 62.219,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 52,
+  "fl_con": "Cyg",
+  "fl_comp": "B"
+}

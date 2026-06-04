@@ -1,0 +1,15 @@
+{
+  "id": "v1004_orionis",
+  "name": "V1004 Orionis",
+  "rank": 5,
+  "ra": 89.60184591329,
+  "dec": 1.8371083815899998,
+  "dist": 111.7318,
+  "otype": "SB*",
+  "spect": "A8V",
+  "cat": 7,
+  "v": "V1004",
+  "v_con": "Ori",
+  "fl": 59,
+  "fl_con": "Ori"
+}

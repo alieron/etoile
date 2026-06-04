@@ -1,0 +1,14 @@
+{
+  "id": "kappa_2_lupi",
+  "name": "Kappa 2 Lupi",
+  "rank": 4,
+  "ra": 227.99031402228997,
+  "dec": -48.74368566297,
+  "dist": 77.7605,
+  "otype": "PM*",
+  "spect": "A3/5V",
+  "cat": 7,
+  "by": "kap02",
+  "by_greek": "κ²",
+  "by_con": "Lup"
+}

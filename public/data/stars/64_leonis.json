@@ -1,0 +1,13 @@
+{
+  "id": "64_leonis",
+  "name": "64 Leonis",
+  "rank": 5,
+  "ra": 166.91544167381,
+  "dec": 23.323763298799996,
+  "dist": 77.4593,
+  "otype": "SB*",
+  "spect": "A5m",
+  "cat": 7,
+  "fl": 64,
+  "fl_con": "Leo"
+}

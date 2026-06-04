@@ -1,0 +1,15 @@
+{
+  "id": "omicron_cephei_b",
+  "name": "Omicron Cephei B",
+  "rank": 4,
+  "ra": 349.6546242992599,
+  "dec": 68.11073344748,
+  "dist": 61.215,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "Cep",
+  "by_comp": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "e_piscium",
+  "name": "e Piscium",
+  "rank": 4,
+  "ra": 17.09255597528,
+  "dec": 5.649850695019445,
+  "dist": 35.2113,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Psc",
+  "fl": 80,
+  "fl_con": "Psc"
+}

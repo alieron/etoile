@@ -1,0 +1,16 @@
+{
+  "id": "upsilon_1_eridani",
+  "name": "Upsilon 1 Eridani",
+  "rank": 3,
+  "ra": 68.37730105433,
+  "dec": -29.76649184907,
+  "dist": 38.956,
+  "otype": "PM*",
+  "spect": "K0+IIIbFe-0.5",
+  "cat": 15,
+  "by": "ups01",
+  "by_greek": "υ¹",
+  "by_con": "Eri",
+  "fl": 50,
+  "fl_con": "Eri"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "b_lupi",
+  "name": "b Lupi",
+  "rank": 4,
+  "ra": 221.75539025388997,
+  "dec": -52.383517263369995,
+  "dist": 79.6813,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Lup"
+}

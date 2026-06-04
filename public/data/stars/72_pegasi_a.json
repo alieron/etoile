@@ -1,0 +1,14 @@
+{
+  "id": "72_pegasi_a",
+  "name": "72 Pegasi A",
+  "rank": 5,
+  "ra": 353.4882829708507,
+  "dec": 31.325279392363257,
+  "dist": 168.35188350200002,
+  "otype": "PM*",
+  "spect": "K4IIIb",
+  "cat": 15,
+  "fl": 72,
+  "fl_con": "Peg",
+  "fl_comp": "A"
+}

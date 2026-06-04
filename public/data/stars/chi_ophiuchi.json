@@ -1,0 +1,16 @@
+{
+  "id": "chi_ophiuchi",
+  "name": "Chi Ophiuchi",
+  "rank": 3,
+  "ra": 246.75598154079785,
+  "dec": -18.456249989236664,
+  "dist": 161.0306,
+  "otype": "Be*",
+  "spect": "B2Vne",
+  "cat": 8,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Oph",
+  "fl": 7,
+  "fl_con": "Oph"
+}

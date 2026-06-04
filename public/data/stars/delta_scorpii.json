@@ -1,0 +1,17 @@
+{
+  "id": "delta_scorpii",
+  "name": "Delta Scorpii",
+  "rank": 2,
+  "ra": 240.08335534565887,
+  "dec": -22.621706426005783,
+  "dist": 150.6024,
+  "otype": "SB*",
+  "spect": "B0.3IV",
+  "cat": 9,
+  "proper": "Dschubba",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Sco",
+  "fl": 7,
+  "fl_con": "Sco"
+}

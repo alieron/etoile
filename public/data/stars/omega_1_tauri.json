@@ -1,0 +1,16 @@
+{
+  "id": "omega_1_tauri",
+  "name": "Omega 1 Tauri",
+  "rank": 4,
+  "ra": 62.291525084090004,
+  "dec": 19.609217126980003,
+  "dist": 87.0322,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "ome01",
+  "by_greek": "ω¹",
+  "by_con": "Tau",
+  "fl": 43,
+  "fl_con": "Tau"
+}

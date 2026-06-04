@@ -1,0 +1,17 @@
+{
+  "id": "beta_orionis",
+  "name": "Beta Orionis",
+  "rank": 2,
+  "ra": 78.63446706693006,
+  "dec": -8.201638364722209,
+  "dist": 264.5503,
+  "otype": "s*b",
+  "spect": "B8Ia",
+  "cat": 17,
+  "proper": "Rigel",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Ori",
+  "fl": 19,
+  "fl_con": "Ori"
+}

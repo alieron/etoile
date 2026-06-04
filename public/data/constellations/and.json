@@ -1,244 +1,202 @@
 {
-  "abbreviation": "And",
+  "id": "And",
   "name": "Andromeda",
-  "genitive": "Andromedae",
+  "gen": "Andromedae",
   "meaning": "Chained Maiden",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 344.4653,
-        "dec_deg": 35.1682,
-        "ra_deg_signed": -15.5347
-      },
-      {
-        "ra_deg": 344.3429,
-        "dec_deg": 53.168,
-        "ra_deg_signed": -15.6571
-      },
-      {
-        "ra_deg": 351.4529,
-        "dec_deg": 53.187,
-        "ra_deg_signed": -8.5471
-      },
-      {
-        "ra_deg": 351.4657,
-        "dec_deg": 50.687,
-        "ra_deg_signed": -8.5343
-      },
-      {
-        "ra_deg": 355.2706,
-        "dec_deg": 50.6929,
-        "ra_deg_signed": -4.7294
-      },
-      {
-        "ra_deg": 355.2761,
-        "dec_deg": 48.6929,
-        "ra_deg_signed": -4.7239
-      },
-      {
-        "ra_deg": 4.1464,
-        "dec_deg": 48.6949,
-        "ra_deg_signed": 4.1464
-      },
-      {
-        "ra_deg": 4.1433,
-        "dec_deg": 46.6949,
-        "ra_deg_signed": 4.1433
-      },
-      {
-        "ra_deg": 14.7761,
-        "dec_deg": 46.6758,
-        "ra_deg_signed": 14.7761
-      },
-      {
-        "ra_deg": 14.7889,
-        "dec_deg": 48.6757,
-        "ra_deg_signed": 14.7889
-      },
-      {
-        "ra_deg": 18.5884,
-        "dec_deg": 48.6633,
-        "ra_deg_signed": 18.5884
-      },
-      {
-        "ra_deg": 18.6059,
-        "dec_deg": 50.6632,
-        "ra_deg_signed": 18.6059
-      },
-      {
-        "ra_deg": 22.4079,
-        "dec_deg": 50.6479,
-        "ra_deg_signed": 22.4079
-      },
-      {
-        "ra_deg": 26.9685,
-        "dec_deg": 50.6257,
-        "ra_deg_signed": 26.9685
-      },
-      {
-        "ra_deg": 26.9314,
-        "dec_deg": 47.6258,
-        "ra_deg_signed": 26.9314
-      },
-      {
-        "ra_deg": 32.6215,
-        "dec_deg": 47.5928,
-        "ra_deg_signed": 32.6215
-      },
-      {
-        "ra_deg": 32.6738,
-        "dec_deg": 51.0926,
-        "ra_deg_signed": 32.6738
-      },
-      {
-        "ra_deg": 39.8855,
-        "dec_deg": 51.0424,
-        "ra_deg_signed": 39.8855
-      },
-      {
-        "ra_deg": 39.6793,
-        "dec_deg": 37.2932,
-        "ra_deg_signed": 39.6793
-      },
-      {
-        "ra_deg": 31.8711,
-        "dec_deg": 37.3471,
-        "ra_deg_signed": 31.8711
-      },
-      {
-        "ra_deg": 31.8543,
-        "dec_deg": 35.5971,
-        "ra_deg_signed": 31.8543
-      },
-      {
-        "ra_deg": 22.9108,
-        "dec_deg": 35.6453,
-        "ra_deg_signed": 22.9108
-      },
-      {
-        "ra_deg": 22.8974,
-        "dec_deg": 33.6454,
-        "ra_deg_signed": 22.8974
-      },
-      {
-        "ra_deg": 12.4431,
-        "dec_deg": 33.6819,
-        "ra_deg_signed": 12.4431
-      },
-      {
-        "ra_deg": 12.4135,
-        "dec_deg": 24.4319,
-        "ra_deg_signed": 12.4135
-      },
-      {
-        "ra_deg": 14.4241,
-        "dec_deg": 24.4266,
-        "ra_deg_signed": 14.4241
-      },
-      {
-        "ra_deg": 14.4148,
-        "dec_deg": 21.6766,
-        "ra_deg_signed": 14.4148
-      },
-      {
-        "ra_deg": 3.7399,
-        "dec_deg": 21.6952,
-        "ra_deg_signed": 3.7399
-      },
-      {
-        "ra_deg": 3.7406,
-        "dec_deg": 22.6952,
-        "ra_deg_signed": 3.7406
-      },
-      {
-        "ra_deg": 2.61,
-        "dec_deg": 22.6958,
-        "ra_deg_signed": 2.61
-      },
-      {
-        "ra_deg": 2.6128,
-        "dec_deg": 28.6958,
-        "ra_deg_signed": 2.6128
-      },
-      {
-        "ra_deg": 1.6062,
-        "dec_deg": 28.696,
-        "ra_deg_signed": 1.6062
-      },
-      {
-        "ra_deg": 1.607,
-        "dec_deg": 32.0294,
-        "ra_deg_signed": 1.607
-      },
-      {
-        "ra_deg": 357.8287,
-        "dec_deg": 32.0285,
-        "ra_deg_signed": -2.1713
-      },
-      {
-        "ra_deg": 357.8281,
-        "dec_deg": 32.7785,
-        "ra_deg_signed": -2.1719
-      },
-      {
-        "ra_deg": 354.0492,
-        "dec_deg": 32.7746,
-        "ra_deg_signed": -5.9508
-      },
-      {
-        "ra_deg": 354.0442,
-        "dec_deg": 35.1913,
-        "ra_deg_signed": -5.9558
-      },
-      {
-        "ra_deg": 344.4653,
-        "dec_deg": 35.1682,
-        "ra_deg_signed": -15.5347
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    -350,
+    37,
+    115
+  ],
+  "label": [
+    0.75,
+    43
+  ],
+  "bound": [
     [
-      677,
-      3092,
-      5447,
-      9640
-    ],
-    [
-      113726,
-      116631,
-      116805,
-      116584
-    ],
-    [
-      116631,
-      2912,
-      3092
-    ],
-    [
-      2912,
-      5447,
-      4436,
-      3881,
-      5434,
-      7607
-    ],
-    [
-      3092,
-      3031,
-      3693,
-      4463
+      [
+        -15.5347,
+        35.1682
+      ],
+      [
+        -15.6571,
+        53.168
+      ],
+      [
+        -8.5471,
+        53.187
+      ],
+      [
+        -8.5343,
+        50.687
+      ],
+      [
+        -4.7294,
+        50.6929
+      ],
+      [
+        -4.7239,
+        48.6929
+      ],
+      [
+        4.1464,
+        48.6949
+      ],
+      [
+        4.1433,
+        46.6949
+      ],
+      [
+        14.7761,
+        46.6758
+      ],
+      [
+        14.7889,
+        48.6757
+      ],
+      [
+        18.5884,
+        48.6633
+      ],
+      [
+        18.6059,
+        50.6632
+      ],
+      [
+        22.4079,
+        50.6479
+      ],
+      [
+        26.9685,
+        50.6257
+      ],
+      [
+        26.9314,
+        47.6258
+      ],
+      [
+        32.6215,
+        47.5928
+      ],
+      [
+        32.6738,
+        51.0926
+      ],
+      [
+        39.8855,
+        51.0424
+      ],
+      [
+        39.6793,
+        37.2932
+      ],
+      [
+        31.8711,
+        37.3471
+      ],
+      [
+        31.8543,
+        35.5971
+      ],
+      [
+        22.9108,
+        35.6453
+      ],
+      [
+        22.8974,
+        33.6454
+      ],
+      [
+        12.4431,
+        33.6819
+      ],
+      [
+        12.4135,
+        24.4319
+      ],
+      [
+        14.4241,
+        24.4266
+      ],
+      [
+        14.4148,
+        21.6766
+      ],
+      [
+        3.7399,
+        21.6952
+      ],
+      [
+        3.7406,
+        22.6952
+      ],
+      [
+        2.61,
+        22.6958
+      ],
+      [
+        2.6128,
+        28.6958
+      ],
+      [
+        1.6062,
+        28.696
+      ],
+      [
+        1.607,
+        32.0294
+      ],
+      [
+        -2.1713,
+        32.0285
+      ],
+      [
+        -2.1719,
+        32.7785
+      ],
+      [
+        -5.9508,
+        32.7746
+      ],
+      [
+        -5.9558,
+        35.1913
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Mirach",
-    "designation": "43Bet And",
-    "display_name": "43 Beta Andromedae",
-    "display_name_greek": "43 β Andromedae",
-    "hip": 5447,
-    "ra_deg": 17.43291,
-    "dec_deg": 35.620558
-  }
+  "lines": [
+    [
+      "alpha_andromedae",
+      "delta_andromedae",
+      "beta_andromedae",
+      "gamma_andromedae"
+    ],
+    [
+      "omicron_andromedae",
+      "iota_andromedae",
+      "kappa_andromedae",
+      "lambda_andromedae"
+    ],
+    [
+      "iota_andromedae",
+      "pi_andromedae",
+      "delta_andromedae"
+    ],
+    [
+      "pi_andromedae",
+      "beta_andromedae",
+      "mu_andromedae",
+      "nu_andromedae",
+      "phi_andromedae_a",
+      "upsilon_persei"
+    ],
+    [
+      "delta_andromedae",
+      "epsilon_andromedae",
+      "zeta_andromedae",
+      "eta_andromedae"
+    ]
+  ],
+  "bright": "beta_andromedae"
 }

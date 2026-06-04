@@ -1,0 +1,15 @@
+{
+  "id": "nu_2_scorpii_b",
+  "name": "Nu 2 Scorpii B",
+  "rank": 4,
+  "ra": 242.99448451175994,
+  "dec": -19.449809836420002,
+  "dist": 139.408,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "nu.02",
+  "by_greek": "ν²",
+  "by_con": "Sco",
+  "by_comp": "B"
+}

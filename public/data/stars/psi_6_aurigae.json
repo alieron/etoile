@@ -1,0 +1,16 @@
+{
+  "id": "psi_6_aurigae",
+  "name": "Psi 6 Aurigae",
+  "rank": 4,
+  "ra": 101.91489954439,
+  "dec": 48.78948437617001,
+  "dist": 110.4972,
+  "otype": "SB*",
+  "spect": "K0.5III",
+  "cat": 13,
+  "by": "psi06",
+  "by_greek": "ψ⁶",
+  "by_con": "Aur",
+  "fl": 57,
+  "fl_con": "Aur"
+}

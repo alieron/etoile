@@ -1,0 +1,17 @@
+{
+  "id": "beta_canis_majoris",
+  "name": "Beta Canis Majoris",
+  "rank": 2,
+  "ra": 95.67493896958332,
+  "dec": -17.955918708888888,
+  "dist": 151.0574,
+  "otype": "bC*",
+  "spect": "B1II-III",
+  "cat": 8,
+  "proper": "Mirzam",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "CMa",
+  "fl": 2,
+  "fl_con": "CMa"
+}

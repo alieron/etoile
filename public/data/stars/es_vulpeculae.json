@@ -1,0 +1,15 @@
+{
+  "id": "es_vulpeculae",
+  "name": "ES Vulpeculae",
+  "rank": 5,
+  "ra": 289.4318141273,
+  "dec": 23.02553938953,
+  "dist": 373.1343,
+  "otype": "Pu*",
+  "spect": "B1IIIn",
+  "cat": 17,
+  "v": "ES",
+  "v_con": "Vul",
+  "fl": 2,
+  "fl_con": "Vul"
+}

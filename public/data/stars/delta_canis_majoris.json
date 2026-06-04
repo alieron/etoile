@@ -1,0 +1,17 @@
+{
+  "id": "delta_canis_majoris",
+  "name": "Delta Canis Majoris",
+  "rank": 2,
+  "ra": 107.09785021416667,
+  "dec": -26.39319957888889,
+  "dist": 492.6108,
+  "otype": "s*y",
+  "spect": "F8Ia",
+  "cat": 16,
+  "proper": "Wezen",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "CMa",
+  "fl": 25,
+  "fl_con": "CMa"
+}

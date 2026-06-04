@@ -1,0 +1,17 @@
+{
+  "id": "gamma_1_delphini",
+  "name": "Gamma 1 Delphini",
+  "rank": 4,
+  "ra": 311.66192102518,
+  "dec": 16.124128271850005,
+  "dist": 37.9507,
+  "otype": "PM*",
+  "spect": "F8V",
+  "cat": 6,
+  "by": "gam01",
+  "by_greek": "γ¹",
+  "by_con": "Del",
+  "fl": 12,
+  "fl_con": "Del",
+  "fl_comp": "B"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "18_crateris",
+  "name": "18 Crateris",
+  "rank": 5,
+  "ra": 173.22553625177,
+  "dec": -31.08722539965,
+  "dist": 119.1895,
+  "otype": "*",
+  "spect": "M1/2III",
+  "cat": 14,
+  "fl": 18,
+  "fl_con": "Crt"
+}

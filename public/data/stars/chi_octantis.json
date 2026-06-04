@@ -1,0 +1,14 @@
+{
+  "id": "chi_octantis",
+  "name": "Chi Octantis",
+  "rank": 4,
+  "ra": 283.69641925078,
+  "dec": -87.60584331391,
+  "dist": 78.7402,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Oct"
+}

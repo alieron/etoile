@@ -1,0 +1,15 @@
+{
+  "id": "rho_capricorni_b",
+  "name": "Rho Capricorni B",
+  "rank": 4,
+  "ra": 307.21495868109,
+  "dec": -17.81403349241,
+  "dist": 30.463,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "rho",
+  "by_greek": "ρ",
+  "by_con": "Cap",
+  "by_comp": "B"
+}

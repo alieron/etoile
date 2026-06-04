@@ -1,0 +1,17 @@
+{
+  "id": "pi_2_bootis",
+  "name": "Pi 2 Boötis",
+  "rank": 4,
+  "ra": 220.18302382702,
+  "dec": 16.417797635270002,
+  "dist": 95.221,
+  "otype": "*",
+  "spect": "A6V",
+  "cat": 7,
+  "by": "pi.02",
+  "by_greek": "π²",
+  "by_con": "Boo",
+  "fl": 29,
+  "fl_con": "Boo",
+  "fl_comp": "B"
+}

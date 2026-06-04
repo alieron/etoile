@@ -1,0 +1,13 @@
+{
+  "id": "20_virginis",
+  "name": "20 Virginis",
+  "rank": 5,
+  "ra": 188.26199478136996,
+  "dec": 10.295670384039997,
+  "dist": 144.9275,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 20,
+  "fl_con": "Vir"
+}

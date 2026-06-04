@@ -1,0 +1,14 @@
+{
+  "id": "w_centauri",
+  "name": "w Centauri",
+  "rank": 4,
+  "ra": 190.64771378314288,
+  "dec": -48.813110316239715,
+  "dist": 58.4454,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "w",
+  "by_greek": "w",
+  "by_con": "Cen"
+}

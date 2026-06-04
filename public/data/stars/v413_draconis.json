@@ -1,0 +1,15 @@
+{
+  "id": "v413_draconis",
+  "name": "V413 Draconis",
+  "rank": 5,
+  "ra": 281.87324854138,
+  "dec": 49.4320256798,
+  "dist": 229.3578,
+  "otype": "SB*",
+  "spect": "A9V+F4III",
+  "cat": 13,
+  "v": "V413",
+  "v_con": "Dra",
+  "fl": 205,
+  "fl_con": "Dra"
+}

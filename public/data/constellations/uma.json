@@ -1,223 +1,186 @@
 {
-  "abbreviation": "UMa",
+  "id": "UMa",
   "name": "Ursa Major",
-  "genitive": "Ursae Majoris",
-  "meaning": "Great Bear",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 145.7092,
-        "dec_deg": 41.4317,
-        "ra_deg_signed": 145.7092
-      },
-      {
-        "ra_deg": 139.5125,
-        "dec_deg": 41.4786,
-        "ra_deg_signed": 139.5125
-      },
-      {
-        "ra_deg": 139.5907,
-        "dec_deg": 46.4783,
-        "ra_deg_signed": 139.5907
-      },
-      {
-        "ra_deg": 128.4401,
-        "dec_deg": 46.5777,
-        "ra_deg_signed": 128.4401
-      },
-      {
-        "ra_deg": 128.7991,
-        "dec_deg": 59.576,
-        "ra_deg_signed": 128.7991
-      },
-      {
-        "ra_deg": 122.1291,
-        "dec_deg": 59.6434,
-        "ra_deg_signed": 122.1291
-      },
-      {
-        "ra_deg": 123.0862,
-        "dec_deg": 73.1384,
-        "ra_deg_signed": 123.0862
-      },
-      {
-        "ra_deg": 140.6155,
-        "dec_deg": 72.9741,
-        "ra_deg_signed": 140.6155
-      },
-      {
-        "ra_deg": 171.9614,
-        "dec_deg": 72.8125,
-        "ra_deg_signed": 171.9614
-      },
-      {
-        "ra_deg": 171.8493,
-        "dec_deg": 65.8126,
-        "ra_deg_signed": 171.8493
-      },
-      {
-        "ra_deg": 181.5793,
-        "dec_deg": 65.804,
-        "ra_deg_signed": -178.4207
-      },
-      {
-        "ra_deg": 181.5816,
-        "dec_deg": 63.304,
-        "ra_deg_signed": -178.4184
-      },
-      {
-        "ra_deg": 203.5505,
-        "dec_deg": 63.3593,
-        "ra_deg_signed": -156.4495
-      },
-      {
-        "ra_deg": 203.5736,
-        "dec_deg": 62.3594,
-        "ra_deg_signed": -156.4264
-      },
-      {
-        "ra_deg": 217.0453,
-        "dec_deg": 62.4415,
-        "ra_deg_signed": -142.9547
-      },
-      {
-        "ra_deg": 217.2512,
-        "dec_deg": 54.9422,
-        "ra_deg_signed": -142.7488
-      },
-      {
-        "ra_deg": 211.5844,
-        "dec_deg": 54.9036,
-        "ra_deg_signed": -148.4156
-      },
-      {
-        "ra_deg": 211.6987,
-        "dec_deg": 47.9039,
-        "ra_deg_signed": -148.3013
-      },
-      {
-        "ra_deg": 203.7951,
-        "dec_deg": 47.8599,
-        "ra_deg_signed": -156.2049
-      },
-      {
-        "ra_deg": 203.7424,
-        "dec_deg": 52.3598,
-        "ra_deg_signed": -156.2576
-      },
-      {
-        "ra_deg": 182.8185,
-        "dec_deg": 52.3043,
-        "ra_deg_signed": -177.1815
-      },
-      {
-        "ra_deg": 182.8264,
-        "dec_deg": 44.3043,
-        "ra_deg_signed": -177.1736
-      },
-      {
-        "ra_deg": 181.5914,
-        "dec_deg": 44.304,
-        "ra_deg_signed": -178.4086
-      },
-      {
-        "ra_deg": 181.5945,
-        "dec_deg": 33.304,
-        "ra_deg_signed": -178.4055
-      },
-      {
-        "ra_deg": 181.5957,
-        "dec_deg": 28.304,
-        "ra_deg_signed": -178.4043
-      },
-      {
-        "ra_deg": 179.6089,
-        "dec_deg": 28.304,
-        "ra_deg_signed": 179.6089
-      },
-      {
-        "ra_deg": 166.694,
-        "dec_deg": 28.325,
-        "ra_deg_signed": 166.694
-      },
-      {
-        "ra_deg": 166.7142,
-        "dec_deg": 33.325,
-        "ra_deg_signed": 166.7142
-      },
-      {
-        "ra_deg": 163.4894,
-        "dec_deg": 33.3357,
-        "ra_deg_signed": 163.4894
-      },
-      {
-        "ra_deg": 163.5232,
-        "dec_deg": 39.3356,
-        "ra_deg_signed": 163.5232
-      },
-      {
-        "ra_deg": 154.3594,
-        "dec_deg": 39.3774,
-        "ra_deg_signed": 154.3594
-      },
-      {
-        "ra_deg": 154.3782,
-        "dec_deg": 41.3774,
-        "ra_deg_signed": 154.3782
-      },
-      {
-        "ra_deg": 145.7092,
-        "dec_deg": 41.4317,
-        "ra_deg_signed": 145.7092
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Ursae Majoris",
+  "meaning": "Big Dipper",
+  "rank": 0,
+  "focus": [
+    169.6902,
+    50.7212,
+    130
+  ],
+  "label": [
+    165,
+    48
+  ],
+  "bound": [
     [
-      58001,
-      57399,
-      54539,
-      50801,
-      50372,
-      50801,
-      54539,
-      57399,
-      55219,
-      55203
-    ],
-    [
-      59774,
-      54061,
-      53910,
-      58001,
-      59774,
-      62956,
-      65378,
-      67301
-    ],
-    [
-      54061,
-      46733,
-      48319,
-      46733,
-      41704,
-      48319,
-      53910,
-      48319,
-      46853,
-      44471,
-      44127
+      [
+        145.7092,
+        41.4317
+      ],
+      [
+        139.5125,
+        41.4786
+      ],
+      [
+        139.5907,
+        46.4783
+      ],
+      [
+        128.4401,
+        46.5777
+      ],
+      [
+        128.7991,
+        59.576
+      ],
+      [
+        122.1291,
+        59.6434
+      ],
+      [
+        123.0862,
+        73.1384
+      ],
+      [
+        140.6155,
+        72.9741
+      ],
+      [
+        171.9614,
+        72.8125
+      ],
+      [
+        171.8493,
+        65.8126
+      ],
+      [
+        -178.4207,
+        65.804
+      ],
+      [
+        -178.4184,
+        63.304
+      ],
+      [
+        -156.4495,
+        63.3593
+      ],
+      [
+        -156.4264,
+        62.3594
+      ],
+      [
+        -142.9547,
+        62.4415
+      ],
+      [
+        -142.7488,
+        54.9422
+      ],
+      [
+        -148.4156,
+        54.9036
+      ],
+      [
+        -148.3013,
+        47.9039
+      ],
+      [
+        -156.2049,
+        47.8599
+      ],
+      [
+        -156.2576,
+        52.3598
+      ],
+      [
+        -177.1815,
+        52.3043
+      ],
+      [
+        -177.1736,
+        44.3043
+      ],
+      [
+        -178.4086,
+        44.304
+      ],
+      [
+        -178.4055,
+        33.304
+      ],
+      [
+        -178.4043,
+        28.304
+      ],
+      [
+        179.6089,
+        28.304
+      ],
+      [
+        166.694,
+        28.325
+      ],
+      [
+        166.7142,
+        33.325
+      ],
+      [
+        163.4894,
+        33.3357
+      ],
+      [
+        163.5232,
+        39.3356
+      ],
+      [
+        154.3594,
+        39.3774
+      ],
+      [
+        154.3782,
+        41.3774
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alioth",
-    "designation": "77Eps UMa",
-    "display_name": "77 Epsilon Ursae Majoris",
-    "display_name_greek": "77 ε Ursae Majoris",
-    "hip": 62956,
-    "ra_deg": 193.50708,
-    "dec_deg": 55.959821
-  }
+  "lines": [
+    [
+      "gamma_ursae_majoris",
+      "chi_ursae_majoris",
+      "psi_ursae_majoris",
+      "mu_ursae_majoris",
+      "lambda_ursae_majoris",
+      "mu_ursae_majoris",
+      "psi_ursae_majoris",
+      "chi_ursae_majoris",
+      "nu_ursae_majoris",
+      "xi_ursae_majoris_a"
+    ],
+    [
+      "delta_ursae_majoris",
+      "alpha_ursae_majoris_a",
+      "beta_ursae_majoris",
+      "gamma_ursae_majoris",
+      "delta_ursae_majoris",
+      "epsilon_ursae_majoris",
+      "zeta_ursae_majoris_a",
+      "eta_ursae_majoris"
+    ],
+    [
+      "alpha_ursae_majoris_a",
+      "h_ursae_majoris",
+      "upsilon_ursae_majoris",
+      "h_ursae_majoris",
+      "omicron_ursae_majoris",
+      "upsilon_ursae_majoris",
+      "beta_ursae_majoris",
+      "upsilon_ursae_majoris",
+      "theta_ursae_majoris",
+      "kappa_ursae_majoris",
+      "iota_ursae_majoris_a"
+    ]
+  ],
+  "bright": "epsilon_ursae_majoris"
 }

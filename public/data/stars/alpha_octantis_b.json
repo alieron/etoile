@@ -1,0 +1,15 @@
+{
+  "id": "alpha_octantis_b",
+  "name": "Alpha Octantis B",
+  "rank": 4,
+  "ra": 316.1802271217992,
+  "dec": -77.02173770992638,
+  "dist": 44.6225,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Oct",
+  "by_comp": "B"
+}

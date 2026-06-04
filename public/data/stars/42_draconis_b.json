@@ -1,0 +1,14 @@
+{
+  "id": "42_draconis_b",
+  "name": "42 Draconis B",
+  "rank": 5,
+  "ra": 276.4885992155246,
+  "dec": 65.55750807964915,
+  "dist": 89.9798,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 42,
+  "fl_con": "Dra",
+  "fl_comp": "B"
+}

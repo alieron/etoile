@@ -1,0 +1,14 @@
+{
+  "id": "18_puppis_b",
+  "name": "18 Puppis B",
+  "rank": 5,
+  "ra": 122.6428917547489,
+  "dec": -13.8142031503211,
+  "dist": 20.9166,
+  "otype": "**",
+  "spect": "M2.5V",
+  "cat": 3,
+  "fl": 18,
+  "fl_con": "Pup",
+  "fl_comp": "B"
+}

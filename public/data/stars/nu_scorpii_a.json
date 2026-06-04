@@ -1,0 +1,15 @@
+{
+  "id": "nu_scorpii_a",
+  "name": "Nu Scorpii A",
+  "rank": 4,
+  "ra": 242.99889102838998,
+  "dec": -19.46069060489,
+  "dist": 141.707,
+  "otype": "SB*",
+  "spect": "",
+  "cat": 19,
+  "by": "nu.",
+  "by_greek": "ν",
+  "by_con": "Sco",
+  "by_comp": "A"
+}

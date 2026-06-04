@@ -1,0 +1,13 @@
+{
+  "id": "7_aquilae",
+  "name": "7 Aquilae",
+  "rank": 5,
+  "ra": 282.77253535764,
+  "dec": -3.2611124920600005,
+  "dist": 112.7396,
+  "otype": "dS*",
+  "spect": "A9IV",
+  "cat": 6,
+  "fl": 7,
+  "fl_con": "Aql"
+}

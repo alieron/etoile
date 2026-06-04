@@ -1,0 +1,17 @@
+{
+  "id": "zeta_1_coronae_borealis",
+  "name": "Zeta 1 Coronae Borealis",
+  "rank": 4,
+  "ra": 234.84268390835,
+  "dec": 36.63682976616,
+  "dist": 156.099,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "zet01",
+  "by_greek": "ζ¹",
+  "by_con": "CrB",
+  "fl": 7,
+  "fl_con": "CrB",
+  "fl_comp": "B"
+}

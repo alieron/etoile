@@ -1,0 +1,13 @@
+{
+  "id": "37_eridani",
+  "name": "37 Eridani",
+  "rank": 5,
+  "ra": 62.59383275646001,
+  "dec": -6.923851932760001,
+  "dist": 107.7586,
+  "otype": "RG*",
+  "spect": "G8III",
+  "cat": 14,
+  "fl": 37,
+  "fl_con": "Eri"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "theta_crateris",
+  "name": "Theta Crateris",
+  "rank": 3,
+  "ra": 174.17045502168125,
+  "dec": -9.802222701550557,
+  "dist": 85.9845,
+  "otype": "PM*",
+  "spect": "B9.5V",
+  "cat": 8,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Crt",
+  "fl": 21,
+  "fl_con": "Crt"
+}

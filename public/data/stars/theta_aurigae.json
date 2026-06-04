@@ -1,0 +1,17 @@
+{
+  "id": "theta_aurigae",
+  "name": "Theta Aurigae",
+  "rank": 2,
+  "ra": 89.93029217610834,
+  "dec": 37.21258462923103,
+  "dist": 50.7614,
+  "otype": "a2*",
+  "spect": "A0VpSi",
+  "cat": 20,
+  "proper": "Mahasim",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Aur",
+  "fl": 37,
+  "fl_con": "Aur"
+}

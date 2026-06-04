@@ -1,0 +1,13 @@
+{
+  "id": "17_virginis",
+  "name": "17 Virginis",
+  "rank": 5,
+  "ra": 185.63349152349,
+  "dec": 5.30544663087,
+  "dist": 29.9222,
+  "otype": "PM*",
+  "spect": "F8V",
+  "cat": 6,
+  "fl": 17,
+  "fl_con": "Vir"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tv_piscium",
+  "name": "TV Piscium",
+  "rank": 5,
+  "ra": 7.012144838729999,
+  "dec": 17.89312704868,
+  "dist": 162.0746,
+  "otype": "LP*",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "TV",
+  "v_con": "Psc",
+  "fl": 47,
+  "fl_con": "Psc"
+}

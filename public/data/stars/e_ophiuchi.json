@@ -1,0 +1,16 @@
+{
+  "id": "e_ophiuchi",
+  "name": "e Ophiuchi",
+  "rank": 4,
+  "ra": 259.65412594865995,
+  "dec": 10.864475344959999,
+  "dist": 151.0574,
+  "otype": "PM*",
+  "spect": "K4II-III",
+  "cat": 13,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Oph",
+  "fl": 66,
+  "fl_con": "Her"
+}

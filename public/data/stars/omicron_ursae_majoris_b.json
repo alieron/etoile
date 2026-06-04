@@ -1,0 +1,18 @@
+{
+  "id": "omicron_ursae_majoris_b",
+  "name": "Omicron Ursae Majoris B",
+  "rank": 4,
+  "ra": 127.56505179245917,
+  "dec": 60.71634072631639,
+  "dist": 56.5579,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "UMa",
+  "by_comp": "B",
+  "fl": 1,
+  "fl_con": "UMa",
+  "fl_comp": "B"
+}

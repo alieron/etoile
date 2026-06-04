@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_canis_majoris",
+  "name": "Epsilon Canis Majoris",
+  "rank": 2,
+  "ra": 104.65645315148348,
+  "dec": -28.972086157360806,
+  "dist": 124.2236,
+  "otype": "*",
+  "spect": "B1.5II",
+  "cat": 17,
+  "proper": "Adhara",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "CMa",
+  "fl": 21,
+  "fl_con": "CMa"
+}

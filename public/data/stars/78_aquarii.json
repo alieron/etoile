@@ -1,0 +1,13 @@
+{
+  "id": "78_aquarii",
+  "name": "78 Aquarii",
+  "rank": 5,
+  "ra": 343.64217410069,
+  "dec": -7.20462473249,
+  "dist": 206.1856,
+  "otype": "*",
+  "spect": "K2III",
+  "cat": 13,
+  "fl": 78,
+  "fl_con": "Aqr"
+}

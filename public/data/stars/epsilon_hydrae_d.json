@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_hydrae_d",
+  "name": "Epsilon Hydrae D",
+  "rank": 4,
+  "ra": 131.69217293993,
+  "dec": 6.41398989922,
+  "dist": 38.157,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Hya",
+  "by_comp": "D"
+}

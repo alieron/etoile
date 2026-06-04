@@ -1,0 +1,16 @@
+{
+  "id": "bu_tauri",
+  "name": "BU Tauri",
+  "rank": 2,
+  "ra": 57.29673582413,
+  "dec": 24.13671019778,
+  "dist": 117.096,
+  "otype": "Be*",
+  "spect": "B8Vne",
+  "cat": 8,
+  "proper": "Pleione",
+  "v": "BU",
+  "v_con": "Tau",
+  "fl": 28,
+  "fl_con": "Tau"
+}

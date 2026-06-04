@@ -1,0 +1,15 @@
+{
+  "id": "cq_draconis",
+  "name": "CQ Draconis",
+  "rank": 5,
+  "ra": 187.52775831911,
+  "dec": 69.2011039547,
+  "dist": 190.4762,
+  "otype": "SB*",
+  "spect": "M3+IIIa",
+  "cat": 15,
+  "v": "CQ",
+  "v_con": "Dra",
+  "fl": 4,
+  "fl_con": "Dra"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16_cygni_c",
+  "name": "16 Cygni C",
+  "rank": 5,
+  "ra": 295.453336105155,
+  "dec": 50.52417196087971,
+  "dist": 21.1286,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 16,
+  "fl_con": "Cyg",
+  "fl_comp": "C"
+}

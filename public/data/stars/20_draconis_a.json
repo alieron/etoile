@@ -1,0 +1,14 @@
+{
+  "id": "20_draconis_a",
+  "name": "20 Draconis A",
+  "rank": 5,
+  "ra": 254.10527822858285,
+  "dec": 65.03912503014031,
+  "dist": 69.93079930100001,
+  "otype": "*",
+  "spect": "F2.2V",
+  "cat": 6,
+  "fl": 20,
+  "fl_con": "Dra",
+  "fl_comp": "A"
+}

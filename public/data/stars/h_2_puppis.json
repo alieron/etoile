@@ -1,0 +1,14 @@
+{
+  "id": "h_2_puppis",
+  "name": "h 2 Puppis",
+  "rank": 4,
+  "ra": 123.51220570344002,
+  "dec": -40.34786713897,
+  "dist": 91.4913,
+  "otype": "SB*",
+  "spect": "K1II/III",
+  "cat": 13,
+  "by": "h02",
+  "by_greek": "h²",
+  "by_con": "Pup"
+}

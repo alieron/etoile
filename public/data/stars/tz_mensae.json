@@ -1,0 +1,15 @@
+{
+  "id": "tz_mensae",
+  "name": "TZ Mensae",
+  "rank": 5,
+  "ra": 82.55784478174,
+  "dec": -84.78510160115,
+  "dist": 112.2334,
+  "otype": "SB*",
+  "spect": "B9.5IV/V",
+  "cat": 9,
+  "v": "TZ",
+  "v_con": "Men",
+  "fl": 31,
+  "fl_con": "Men"
+}

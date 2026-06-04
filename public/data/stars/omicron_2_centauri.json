@@ -1,0 +1,14 @@
+{
+  "id": "omicron_2_centauri",
+  "name": "Omicron 2 Centauri",
+  "rank": 4,
+  "ra": 172.9533314481,
+  "dec": -59.51564711643001,
+  "dist": 100000.0,
+  "otype": "sg*",
+  "spect": "A2Ia",
+  "cat": 17,
+  "by": "omi02",
+  "by_greek": "ο²",
+  "by_con": "Cen"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bu_ceti",
+  "name": "BU Ceti",
+  "rank": 5,
+  "ra": 8.811998673643325,
+  "dec": -3.592843523288128,
+  "dist": 21.254,
+  "otype": "RS*",
+  "spect": "F7V+G4V",
+  "cat": 6,
+  "v": "BU",
+  "v_con": "Cet",
+  "fl": 13,
+  "fl_con": "Cet"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "theta_aquarii",
+  "name": "Theta Aquarii",
+  "rank": 2,
+  "ra": 334.20848618584,
+  "dec": -7.783288742531944,
+  "dist": 57.4713,
+  "otype": "PM*",
+  "spect": "G9II",
+  "cat": 13,
+  "proper": "Ancha",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Aqr",
+  "fl": 43,
+  "fl_con": "Aqr"
+}

@@ -1,95 +1,78 @@
 {
-  "abbreviation": "Nor",
+  "id": "Nor",
   "name": "Norma",
-  "genitive": "Normae",
-  "meaning": "Carpenter's Square",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 232.54989999999998,
-        "dec_deg": -60.4355,
-        "ra_deg_signed": -127.4501
-      },
-      {
-        "ra_deg": 249.0347,
-        "dec_deg": -60.2645,
-        "ra_deg_signed": -110.9653
-      },
-      {
-        "ra_deg": 248.5706,
-        "dec_deg": -45.7671,
-        "ra_deg_signed": -111.4294
-      },
-      {
-        "ra_deg": 248.4948,
-        "dec_deg": -42.2675,
-        "ra_deg_signed": -111.5052
-      },
-      {
-        "ra_deg": 242.1528,
-        "dec_deg": -42.3367,
-        "ra_deg_signed": -117.8472
-      },
-      {
-        "ra_deg": 237.1246,
-        "dec_deg": -42.3886,
-        "ra_deg_signed": -122.8754
-      },
-      {
-        "ra_deg": 237.2473,
-        "dec_deg": -48.388,
-        "ra_deg_signed": -122.7527
-      },
-      {
-        "ra_deg": 232.2072,
-        "dec_deg": -48.4371,
-        "ra_deg_signed": -127.7928
-      },
-      {
-        "ra_deg": 232.3534,
-        "dec_deg": -54.4364,
-        "ra_deg_signed": -127.6466
-      },
-      {
-        "ra_deg": 228.0567,
-        "dec_deg": -54.4756,
-        "ra_deg_signed": -131.9433
-      },
-      {
-        "ra_deg": 228.0835,
-        "dec_deg": -55.4755,
-        "ra_deg_signed": -131.9165
-      },
-      {
-        "ra_deg": 232.3819,
-        "dec_deg": -55.4363,
-        "ra_deg_signed": -127.6181
-      },
-      {
-        "ra_deg": 232.54989999999998,
-        "dec_deg": -60.4355,
-        "ra_deg_signed": -127.4501
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Normae",
+  "meaning": "Level",
+  "rank": 2,
+  "focus": [
+    -121.4543,
+    -51.3515,
+    56
+  ],
+  "label": [
+    -117,
+    -52
+  ],
+  "bound": [
     [
-      78639,
-      80000,
-      80582,
-      78914,
-      78639
+      [
+        -127.4501,
+        -60.4355
+      ],
+      [
+        -110.9653,
+        -60.2645
+      ],
+      [
+        -111.4294,
+        -45.7671
+      ],
+      [
+        -111.5052,
+        -42.2675
+      ],
+      [
+        -117.8472,
+        -42.3367
+      ],
+      [
+        -122.8754,
+        -42.3886
+      ],
+      [
+        -122.7527,
+        -48.388
+      ],
+      [
+        -127.7928,
+        -48.4371
+      ],
+      [
+        -127.6466,
+        -54.4364
+      ],
+      [
+        -131.9433,
+        -54.4756
+      ],
+      [
+        -131.9165,
+        -55.4755
+      ],
+      [
+        -127.6181,
+        -55.4363
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Gam2Nor",
-    "designation": "Gam2Nor",
-    "display_name": "Gamma2Nor Normae",
-    "display_name_greek": "γ2Nor Normae",
-    "hip": 80000,
-    "ra_deg": 244.960305,
-    "dec_deg": -50.155508
-  }
+  "lines": [
+    [
+      "eta_normae",
+      "gamma_2_normae",
+      "epsilon_normae",
+      "delta_normae",
+      "eta_normae"
+    ]
+  ],
+  "bright": "gamma_2_normae"
 }

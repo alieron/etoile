@@ -1,0 +1,16 @@
+{
+  "id": "psi_1_aquarii",
+  "name": "Psi 1 Aquarii",
+  "rank": 4,
+  "ra": 348.97289187323753,
+  "dec": -9.087734712236944,
+  "dist": 45.9348,
+  "otype": "PM*",
+  "spect": "K1-IIIFe-0.5",
+  "cat": 13,
+  "by": "psi01",
+  "by_greek": "ψ¹",
+  "by_con": "Aqr",
+  "fl": 91,
+  "fl_con": "Aqr"
+}

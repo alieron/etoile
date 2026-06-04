@@ -1,0 +1,19 @@
+{
+  "id": "zeta_piscium_a",
+  "name": "Zeta Piscium A",
+  "rank": 2,
+  "ra": 18.4425,
+  "dec": 7.579444444444444,
+  "dist": 53.30543304900001,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "proper": "Revati",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Psc",
+  "by_comp": "A",
+  "fl": 86,
+  "fl_con": "Psc",
+  "fl_comp": "A"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "16_serpentis",
+  "name": "16 Serpentis",
+  "rank": 5,
+  "ra": 234.12322455623,
+  "dec": 10.010147053150002,
+  "dist": 70.8717,
+  "otype": "SB*",
+  "spect": "K0III:CN1Ba0.7Sr2",
+  "cat": 13,
+  "fl": 16,
+  "fl_con": "Ser"
+}

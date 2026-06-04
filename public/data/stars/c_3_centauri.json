@@ -1,0 +1,14 @@
+{
+  "id": "c_3_centauri",
+  "name": "C 3 Centauri",
+  "rank": 4,
+  "ra": 174.39165521197,
+  "dec": -47.74729808688,
+  "dist": 108.3424,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "C03",
+  "by_greek": "C³",
+  "by_con": "Cen"
+}

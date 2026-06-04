@@ -1,0 +1,16 @@
+{
+  "id": "upsilon_1_cassiopeiae",
+  "name": "Upsilon 1 Cassiopeiae",
+  "rank": 4,
+  "ra": 13.750648761579999,
+  "dec": 58.97269920721,
+  "dist": 100.7049,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "ups01",
+  "by_greek": "υ¹",
+  "by_con": "Cas",
+  "fl": 26,
+  "fl_con": "Cas"
+}

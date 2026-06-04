@@ -1,0 +1,17 @@
+{
+  "id": "delta_cassiopeiae",
+  "name": "Delta Cassiopeiae",
+  "rank": 2,
+  "ra": 21.453964462083334,
+  "dec": 60.23528402972222,
+  "dist": 30.4785,
+  "otype": "EB*",
+  "spect": "A5IV",
+  "cat": 10,
+  "proper": "Ruchbah",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Cas",
+  "fl": 37,
+  "fl_con": "Cas"
+}

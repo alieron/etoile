@@ -1,0 +1,16 @@
+{
+  "id": "alpha_1_librae",
+  "name": "Alpha 1 Librae",
+  "rank": 4,
+  "ra": 222.67154950236997,
+  "dec": -15.997210427819997,
+  "dist": 22.9779,
+  "otype": "SB*",
+  "spect": "F3V",
+  "cat": 6,
+  "by": "alf01",
+  "by_greek": "α¹",
+  "by_con": "Lib",
+  "fl": 8,
+  "fl_con": "Lib"
+}

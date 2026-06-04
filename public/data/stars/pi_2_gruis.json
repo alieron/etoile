@@ -1,0 +1,14 @@
+{
+  "id": "pi_2_gruis",
+  "name": "Pi 2 Gruis",
+  "rank": 4,
+  "ra": 335.78327926116,
+  "dec": -45.928488349,
+  "dist": 40.0,
+  "otype": "PM*",
+  "spect": "F0V",
+  "cat": 6,
+  "by": "pi.02",
+  "by_greek": "π²",
+  "by_con": "Gru"
+}

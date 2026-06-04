@@ -1,0 +1,14 @@
+{
+  "id": "20_lyncis_b",
+  "name": "20 Lyncis B",
+  "rank": 5,
+  "ra": 110.55671455389,
+  "dec": 50.147703617560005,
+  "dist": 100000.0,
+  "otype": "*",
+  "spect": "A6V",
+  "cat": 7,
+  "fl": 20,
+  "fl_con": "Lyn",
+  "fl_comp": "B"
+}

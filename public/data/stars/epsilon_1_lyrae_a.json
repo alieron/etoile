@@ -1,0 +1,18 @@
+{
+  "id": "epsilon_1_lyrae_a",
+  "name": "Epsilon 1 Lyrae A",
+  "rank": 3,
+  "ra": 281.0847745484784,
+  "dec": 39.67012591180029,
+  "dist": 49.776497760000005,
+  "otype": "PM*",
+  "spect": "A3V+F0V",
+  "cat": 7,
+  "by": "eps01",
+  "by_greek": "ε¹",
+  "by_con": "Lyr",
+  "by_comp": "A",
+  "fl": 4,
+  "fl_con": "Lyr",
+  "fl_comp": "A"
+}

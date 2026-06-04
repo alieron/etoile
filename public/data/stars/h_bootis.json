@@ -1,0 +1,17 @@
+{
+  "id": "h_bootis",
+  "name": "h Boötis",
+  "rank": 2,
+  "ra": 222.32779307616997,
+  "dec": 46.11620400292,
+  "dist": 48.9956,
+  "otype": "PM*",
+  "spect": "F6IVs",
+  "cat": 11,
+  "proper": "Merga",
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Boo",
+  "fl": 38,
+  "fl_con": "Boo"
+}

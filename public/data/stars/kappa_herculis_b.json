@@ -1,0 +1,18 @@
+{
+  "id": "kappa_herculis_b",
+  "name": "Kappa Herculis B",
+  "rank": 4,
+  "ra": 242.02060621598997,
+  "dec": 17.054359695949998,
+  "dist": 645.1613,
+  "otype": "*",
+  "spect": "K0IV",
+  "cat": 12,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Her",
+  "by_comp": "B",
+  "fl": 7,
+  "fl_con": "Her",
+  "fl_comp": "B"
+}

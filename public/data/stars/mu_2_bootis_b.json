@@ -1,0 +1,15 @@
+{
+  "id": "mu_2_bootis_b",
+  "name": "Mu 2 Boötis B",
+  "rank": 4,
+  "ra": 231.12873768723003,
+  "dec": 37.3479319446,
+  "dist": 36.748,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Boo",
+  "by_comp": "B"
+}

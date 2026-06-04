@@ -1,0 +1,16 @@
+{
+  "id": "l_2_puppis",
+  "name": "L 2 Puppis",
+  "rank": 4,
+  "ra": 108.38466059843168,
+  "dec": -44.63970885887889,
+  "dist": 64.0615,
+  "otype": "AB*",
+  "spect": "M5IIIe",
+  "cat": 14,
+  "by": "L02",
+  "by_greek": "L²",
+  "by_con": "Pup",
+  "v": "L02",
+  "v_con": "Pup"
+}

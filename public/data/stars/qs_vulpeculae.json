@@ -1,0 +1,15 @@
+{
+  "id": "qs_vulpeculae",
+  "name": "QS Vulpeculae",
+  "rank": 5,
+  "ra": 303.87599432779996,
+  "dec": 23.508903074919996,
+  "dist": 588.2353,
+  "otype": "SB*",
+  "spect": "G3Ib-II",
+  "cat": 16,
+  "v": "QS",
+  "v_con": "Vul",
+  "fl": 22,
+  "fl_con": "Vul"
+}

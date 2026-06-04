@@ -1,0 +1,15 @@
+{
+  "id": "px_geminorum",
+  "name": "PX Geminorum",
+  "rank": 5,
+  "ra": 94.2446077632,
+  "dec": 23.74091224176,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B3Iab",
+  "cat": 17,
+  "v": "PX",
+  "v_con": "Gem",
+  "fl": 9,
+  "fl_con": "Gem"
+}

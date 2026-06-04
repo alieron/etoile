@@ -1,0 +1,16 @@
+{
+  "id": "m_leonis",
+  "name": "m Leonis",
+  "rank": 4,
+  "ra": 161.6022753581,
+  "dec": 18.891522300610003,
+  "dist": 57.2082,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "m",
+  "by_greek": "m",
+  "by_con": "Leo",
+  "fl": 51,
+  "fl_con": "Leo"
+}

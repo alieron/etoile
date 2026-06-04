@@ -1,0 +1,14 @@
+{
+  "id": "zeta_2_muscae",
+  "name": "Zeta 2 Muscae",
+  "rank": 4,
+  "ra": 185.53057938607998,
+  "dec": -67.52210359001,
+  "dist": 101.1122,
+  "otype": "**",
+  "spect": "A5V",
+  "cat": 7,
+  "by": "zet02",
+  "by_greek": "ζ²",
+  "by_con": "Mus"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "omega_aurigae_b",
+  "name": "Omega Aurigae B",
+  "rank": 4,
+  "ra": 74.81429151533,
+  "dec": 37.8916046859,
+  "dist": 48.925,
+  "otype": "PM*",
+  "spect": "F9",
+  "cat": 6,
+  "by": "ome",
+  "by_greek": "ω",
+  "by_con": "Aur",
+  "by_comp": "B"
+}

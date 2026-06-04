@@ -1,0 +1,13 @@
+{
+  "id": "42_librae",
+  "name": "42 Librae",
+  "rank": 5,
+  "ra": 235.0704055109,
+  "dec": -23.81808364893,
+  "dist": 117.2333,
+  "otype": "*",
+  "spect": "K3-IIICN2",
+  "cat": 13,
+  "fl": 42,
+  "fl_con": "Lib"
+}

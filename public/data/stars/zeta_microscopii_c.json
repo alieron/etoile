@@ -1,0 +1,15 @@
+{
+  "id": "zeta_microscopii_c",
+  "name": "Zeta Microscopii C",
+  "rank": 4,
+  "ra": 315.7235759274488,
+  "dec": -38.65614582513917,
+  "dist": 35.2581,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Mic",
+  "by_comp": "C"
+}

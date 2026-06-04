@@ -1,0 +1,13 @@
+{
+  "id": "45_orionis",
+  "name": "45 Orionis",
+  "rank": 5,
+  "ra": 83.91451731516,
+  "dec": -4.8560665491,
+  "dist": 110.2536,
+  "otype": "*",
+  "spect": "A9IV/V",
+  "cat": 10,
+  "fl": 45,
+  "fl_con": "Ori"
+}

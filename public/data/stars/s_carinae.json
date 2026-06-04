@@ -1,0 +1,14 @@
+{
+  "id": "s_carinae",
+  "name": "s Carinae",
+  "rank": 4,
+  "ra": 156.96970738780956,
+  "dec": -58.73940617500779,
+  "dist": 411.5226,
+  "otype": "*",
+  "spect": "F2II",
+  "cat": 13,
+  "by": "s",
+  "by_greek": "s",
+  "by_con": "Car"
+}

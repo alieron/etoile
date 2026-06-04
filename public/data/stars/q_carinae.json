@@ -1,0 +1,16 @@
+{
+  "id": "q_carinae",
+  "name": "q Carinae",
+  "rank": 3,
+  "ra": 154.27073140194167,
+  "dec": -61.33230464139612,
+  "dist": 201.6129,
+  "otype": "LP*",
+  "spect": "K2.5II",
+  "cat": 14,
+  "by": "q",
+  "by_greek": "q",
+  "by_con": "Car",
+  "v": "V337",
+  "v_con": "Car"
+}

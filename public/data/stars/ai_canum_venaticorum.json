@@ -1,0 +1,15 @@
+{
+  "id": "ai_canum_venaticorum",
+  "name": "AI Canum Venaticorum",
+  "rank": 5,
+  "ra": 185.94588365987997,
+  "dec": 42.54273950785001,
+  "dist": 95.1475,
+  "otype": "dS*",
+  "spect": "F3III-IV",
+  "cat": 6,
+  "v": "AI",
+  "v_con": "CVn",
+  "fl": 4,
+  "fl_con": "CVn"
+}

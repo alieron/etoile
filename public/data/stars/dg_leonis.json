@@ -1,0 +1,15 @@
+{
+  "id": "dg_leonis",
+  "name": "DG Leonis",
+  "rank": 5,
+  "ra": 147.45872610125,
+  "dec": 21.17942200138889,
+  "dist": 191.5709,
+  "otype": "dS*",
+  "spect": "A7IVn",
+  "cat": 6,
+  "v": "DG",
+  "v_con": "Leo",
+  "fl": 20,
+  "fl_con": "Leo"
+}

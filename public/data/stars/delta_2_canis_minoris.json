@@ -1,0 +1,16 @@
+{
+  "id": "delta_2_canis_minoris",
+  "name": "Delta 2 Canis Minoris",
+  "rank": 4,
+  "ra": 113.29860726374,
+  "dec": 3.29037918403,
+  "dist": 41.7537,
+  "otype": "*",
+  "spect": "F1III-IV",
+  "cat": 11,
+  "by": "del02",
+  "by_greek": "δ²",
+  "by_con": "CMi",
+  "fl": 8,
+  "fl_con": "CMi"
+}

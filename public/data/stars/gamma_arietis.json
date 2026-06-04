@@ -1,0 +1,16 @@
+{
+  "id": "gamma_arietis",
+  "name": "Gamma Arietis",
+  "rank": 3,
+  "ra": 28.382561614839574,
+  "dec": 19.293855274747905,
+  "dist": 50.3018,
+  "otype": "a2*",
+  "spect": "kA0hA3(IV)SiSr+B9.5IV",
+  "cat": 20,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Ari",
+  "fl": 5,
+  "fl_con": "Ari"
+}

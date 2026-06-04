@@ -1,0 +1,15 @@
+{
+  "id": "v436_persei",
+  "name": "V436 Persei",
+  "rank": 5,
+  "ra": 27.99716701692,
+  "dec": 55.14738435937,
+  "dist": 396.8254,
+  "otype": "SB*",
+  "spect": "B1.5V",
+  "cat": 8,
+  "v": "V436",
+  "v_con": "Per",
+  "fl": 1,
+  "fl_con": "Per"
+}

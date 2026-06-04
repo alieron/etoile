@@ -1,0 +1,15 @@
+{
+  "id": "gz_pegasi",
+  "name": "GZ Pegasi",
+  "rank": 5,
+  "ra": 347.3810724270833,
+  "dec": 8.677156565,
+  "dist": 239.8082,
+  "otype": "S*",
+  "spect": "M4S",
+  "cat": 18,
+  "v": "GZ",
+  "v_con": "Peg",
+  "fl": 57,
+  "fl_con": "Peg"
+}

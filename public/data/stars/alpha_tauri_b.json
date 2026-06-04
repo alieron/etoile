@@ -1,0 +1,15 @@
+{
+  "id": "alpha_tauri_b",
+  "name": "Alpha Tauri B",
+  "rank": 4,
+  "ra": 68.9885280962,
+  "dec": 16.50592869001,
+  "dist": 21.163,
+  "otype": "PM*",
+  "spect": "M2.5",
+  "cat": 3,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Tau",
+  "by_comp": "B"
+}

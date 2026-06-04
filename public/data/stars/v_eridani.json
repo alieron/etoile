@@ -1,0 +1,16 @@
+{
+  "id": "v_eridani",
+  "name": "v Eridani",
+  "rank": 4,
+  "ra": 52.65440965782083,
+  "dec": -5.075147980387778,
+  "dist": 123.9157,
+  "otype": "*",
+  "spect": "B9III",
+  "cat": 17,
+  "by": "v",
+  "by_greek": "v",
+  "by_con": "Eri",
+  "fl": 17,
+  "fl_con": "Eri"
+}

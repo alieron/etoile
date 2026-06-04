@@ -1,0 +1,13 @@
+{
+  "id": "64_orionis",
+  "name": "64 Orionis",
+  "rank": 5,
+  "ra": 90.86401642466,
+  "dec": 19.69056282255,
+  "dist": 220.2643,
+  "otype": "SB*",
+  "spect": "B8V",
+  "cat": 8,
+  "fl": 64,
+  "fl_con": "Ori"
+}

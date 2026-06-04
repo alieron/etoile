@@ -1,0 +1,13 @@
+{
+  "id": "145_canis_majoris",
+  "name": "145 Canis Majoris",
+  "rank": 5,
+  "ra": 109.15347732104,
+  "dec": -23.315593963849995,
+  "dist": 434.7826,
+  "otype": "s*r",
+  "spect": "K3Ib-",
+  "cat": 15,
+  "fl": 145,
+  "fl_con": "CMa"
+}

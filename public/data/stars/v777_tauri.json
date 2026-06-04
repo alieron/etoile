@@ -1,0 +1,15 @@
+{
+  "id": "v777_tauri",
+  "name": "V777 Tauri",
+  "rank": 5,
+  "ra": 66.58654508539,
+  "dec": 15.61830113545,
+  "dist": 49.0918,
+  "otype": "dS*",
+  "spect": "F0V",
+  "cat": 6,
+  "v": "V777",
+  "v_con": "Tau",
+  "fl": 71,
+  "fl_con": "Tau"
+}

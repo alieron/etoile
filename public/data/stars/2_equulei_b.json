@@ -1,0 +1,14 @@
+{
+  "id": "2_equulei_b",
+  "name": "2 Equulei B",
+  "rank": 5,
+  "ra": 315.55163987764,
+  "dec": 7.179109910990002,
+  "dist": 116.854,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 2,
+  "fl_con": "Equ",
+  "fl_comp": "B"
+}

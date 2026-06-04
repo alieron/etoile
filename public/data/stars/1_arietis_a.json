@@ -1,0 +1,14 @@
+{
+  "id": "1_arietis_a",
+  "name": "1 Arietis A",
+  "rank": 5,
+  "ra": 27.535707669087547,
+  "dec": 22.275336097910902,
+  "dist": 179.534995332,
+  "otype": "*",
+  "spect": "G3III+A3IV",
+  "cat": 11,
+  "fl": 1,
+  "fl_con": "Ari",
+  "fl_comp": "A"
+}

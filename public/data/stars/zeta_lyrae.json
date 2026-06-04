@@ -1,0 +1,14 @@
+{
+  "id": "zeta_lyrae",
+  "name": "Zeta Lyrae",
+  "rank": 4,
+  "ra": 281.19315450619,
+  "dec": 37.60512165338167,
+  "dist": 47.870278698,
+  "otype": "**",
+  "spect": "kA5hF0VmF3",
+  "cat": 4,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Lyr"
+}

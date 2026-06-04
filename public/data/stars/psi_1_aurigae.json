@@ -1,0 +1,16 @@
+{
+  "id": "psi_1_aurigae",
+  "name": "Psi 1 Aurigae",
+  "rank": 4,
+  "ra": 96.22458979254,
+  "dec": 49.2878920061,
+  "dist": 100000.0,
+  "otype": "s*r",
+  "spect": "K5-M1Iab-Ib",
+  "cat": 15,
+  "by": "psi01",
+  "by_greek": "ψ¹",
+  "by_con": "Aur",
+  "fl": 46,
+  "fl_con": "Aur"
+}

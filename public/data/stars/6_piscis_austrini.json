@@ -1,0 +1,13 @@
+{
+  "id": "6_piscis_austrini",
+  "name": "6 Piscis Austrini",
+  "rank": 5,
+  "ra": 323.06070734584995,
+  "dec": -33.94462598285,
+  "dist": 154.321,
+  "otype": "*",
+  "spect": "A2V",
+  "cat": 7,
+  "fl": 6,
+  "fl_con": "PsA"
+}

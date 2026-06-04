@@ -1,0 +1,18 @@
+{
+  "id": "alpha_canis_majoris_a",
+  "name": "Alpha Canis Majoris A",
+  "rank": 2,
+  "ra": 101.28715533333335,
+  "dec": -16.71611586111111,
+  "dist": 2.6371,
+  "otype": "SB*",
+  "spect": "A0mA1Va",
+  "cat": 7,
+  "proper": "Sirius",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "CMa",
+  "by_comp": "A",
+  "fl": 9,
+  "fl_con": "CMa"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "theta_ursae_minoris",
+  "name": "Theta Ursae Minoris",
+  "rank": 4,
+  "ra": 232.85380670972,
+  "dec": 77.34935996109,
+  "dist": 262.4672,
+  "otype": "*",
+  "spect": "K5-IIICN0.5",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "UMi",
+  "fl": 15,
+  "fl_con": "UMi"
+}

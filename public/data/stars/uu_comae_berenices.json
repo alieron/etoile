@@ -1,0 +1,15 @@
+{
+  "id": "uu_comae_berenices",
+  "name": "UU Comae Berenices",
+  "rank": 5,
+  "ra": 187.75233541761,
+  "dec": 24.56716590148,
+  "dist": 82.713,
+  "otype": "a2*",
+  "spect": "A2pv",
+  "cat": 20,
+  "v": "UU",
+  "v_con": "Com",
+  "fl": 21,
+  "fl_con": "Com"
+}

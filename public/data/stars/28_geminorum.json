@@ -1,0 +1,13 @@
+{
+  "id": "28_geminorum",
+  "name": "28 Geminorum",
+  "rank": 5,
+  "ra": 101.18941579111001,
+  "dec": 28.97093898152,
+  "dist": 145.9854,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "fl": 28,
+  "fl_con": "Gem"
+}

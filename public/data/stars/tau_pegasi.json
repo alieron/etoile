@@ -1,0 +1,17 @@
+{
+  "id": "tau_pegasi",
+  "name": "Tau Pegasi",
+  "rank": 2,
+  "ra": 350.15935928822,
+  "dec": 23.740355064460005,
+  "dist": 49.5786,
+  "otype": "dS*",
+  "spect": "A5Vp_lB",
+  "cat": 6,
+  "proper": "Salm",
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Peg",
+  "fl": 62,
+  "fl_con": "Peg"
+}

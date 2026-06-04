@@ -1,0 +1,14 @@
+{
+  "id": "mu_2_chamaeleontis",
+  "name": "Mu 2 Chamaeleontis",
+  "rank": 4,
+  "ra": 151.02987549908,
+  "dec": -81.56549200751,
+  "dist": 159.7444,
+  "otype": "PM*",
+  "spect": "G6/8III",
+  "cat": 13,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Cha"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "39_andromedae",
+  "name": "39 Andromedae",
+  "rank": 5,
+  "ra": 15.726061275980001,
+  "dec": 41.34521355015,
+  "dist": 107.2961,
+  "otype": "*",
+  "spect": "kA3hA7VmA9",
+  "cat": 4,
+  "fl": 39,
+  "fl_con": "And"
+}

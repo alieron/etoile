@@ -1,0 +1,16 @@
+{
+  "id": "chi_herculis",
+  "name": "Chi Herculis",
+  "rank": 3,
+  "ra": 238.16892103821044,
+  "dec": 42.45151746635472,
+  "dist": 15.8932,
+  "otype": "PM*",
+  "spect": "F8VFe-2Hdel-1",
+  "cat": 6,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Her",
+  "fl": 1,
+  "fl_con": "Her"
+}

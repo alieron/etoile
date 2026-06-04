@@ -1,0 +1,14 @@
+{
+  "id": "kappa_2_indi",
+  "name": "Kappa 2 Indi",
+  "rank": 4,
+  "ra": 331.46256670958996,
+  "dec": -59.636072140980005,
+  "dist": 150.6024,
+  "otype": "PM*",
+  "spect": "K4III",
+  "cat": 13,
+  "by": "kap02",
+  "by_greek": "κ²",
+  "by_con": "Ind"
+}

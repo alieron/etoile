@@ -1,0 +1,17 @@
+{
+  "id": "lambda_virginis",
+  "name": "Lambda Virginis",
+  "rank": 2,
+  "ra": 214.77746945512624,
+  "dec": -13.371091295024444,
+  "dist": 57.1755,
+  "otype": "SB*",
+  "spect": "A1V",
+  "cat": 7,
+  "proper": "Khambalia",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Vir",
+  "fl": 100,
+  "fl_con": "Vir"
+}

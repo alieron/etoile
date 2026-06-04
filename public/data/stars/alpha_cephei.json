@@ -1,0 +1,17 @@
+{
+  "id": "alpha_cephei",
+  "name": "Alpha Cephei",
+  "rank": 2,
+  "ra": 319.6448846972256,
+  "dec": 62.5855744637194,
+  "dist": 15.0376,
+  "otype": "PM*",
+  "spect": "A8Vn",
+  "cat": 7,
+  "proper": "Alderamin",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cep",
+  "fl": 5,
+  "fl_con": "Cep"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "h_aquilae",
+  "name": "h Aquilae",
+  "rank": 4,
+  "ra": 286.24030228311995,
+  "dec": -4.031422543679999,
+  "dist": 88.7311,
+  "otype": "*",
+  "spect": "K0/1III",
+  "cat": 13,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Aql",
+  "fl": 15,
+  "fl_con": "Aql"
+}

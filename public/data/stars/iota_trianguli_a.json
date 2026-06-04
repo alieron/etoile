@@ -1,0 +1,21 @@
+{
+  "id": "iota_trianguli_a",
+  "name": "Iota Trianguli A",
+  "rank": 2,
+  "ra": 33.09283344086611,
+  "dec": 30.30306751098826,
+  "dist": 89.127491266,
+  "otype": "SB*",
+  "spect": "G0III+G5III",
+  "cat": 13,
+  "proper": "Triminus",
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Tri",
+  "by_comp": "A",
+  "v": "TZ",
+  "v_con": "Tri",
+  "fl": 6,
+  "fl_con": "Tri",
+  "fl_comp": "A"
+}

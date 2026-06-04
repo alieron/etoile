@@ -1,0 +1,17 @@
+{
+  "id": "eta_canis_majoris",
+  "name": "Eta Canis Majoris",
+  "rank": 2,
+  "ra": 111.02375950100142,
+  "dec": -29.303105508471724,
+  "dist": 609.7561,
+  "otype": "s*b",
+  "spect": "B5Ia",
+  "cat": 17,
+  "proper": "Aludra",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "CMa",
+  "fl": 31,
+  "fl_con": "CMa"
+}

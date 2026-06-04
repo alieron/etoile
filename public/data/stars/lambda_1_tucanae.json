@@ -1,0 +1,14 @@
+{
+  "id": "lambda_1_tucanae",
+  "name": "Lambda 1 Tucanae",
+  "rank": 4,
+  "ra": 13.102164159069998,
+  "dec": -69.50376128404,
+  "dist": 63.2911,
+  "otype": "PM*",
+  "spect": "F7IV/V",
+  "cat": 11,
+  "by": "lam01",
+  "by_greek": "λ¹",
+  "by_con": "Tuc"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sigma_1_gruis",
+  "name": "Sigma 1 Gruis",
+  "rank": 4,
+  "ra": 339.12209275583996,
+  "dec": -40.58270466637,
+  "dist": 68.306,
+  "otype": "PM*",
+  "spect": "A3V",
+  "cat": 7,
+  "by": "sig01",
+  "by_greek": "σ¹",
+  "by_con": "Gru"
+}

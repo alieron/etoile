@@ -1,0 +1,15 @@
+{
+  "id": "uv_arietis",
+  "name": "UV Arietis",
+  "rank": 5,
+  "ra": 41.23992263824,
+  "dec": 12.44575607307,
+  "dist": 36.3372,
+  "otype": "dS*",
+  "spect": "A7III",
+  "cat": 6,
+  "v": "UV",
+  "v_con": "Ari",
+  "fl": 38,
+  "fl_con": "Ari"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "beta_cassiopeiae",
+  "name": "Beta Cassiopeiae",
+  "rank": 2,
+  "ra": 2.2945215777878776,
+  "dec": 59.14978109800713,
+  "dist": 16.7842,
+  "otype": "dS*",
+  "spect": "F2III",
+  "cat": 6,
+  "proper": "Caph",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cas",
+  "fl": 11,
+  "fl_con": "Cas"
+}

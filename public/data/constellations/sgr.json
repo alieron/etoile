@@ -1,122 +1,104 @@
 {
-  "abbreviation": "Sgr",
+  "id": "Sgr",
   "name": "Sagittarius",
-  "genitive": "Sagittarii",
+  "gen": "Sagittarii",
   "meaning": "Archer",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 284.7441,
-        "dec_deg": -11.8664,
-        "ra_deg_signed": -75.2559
-      },
-      {
-        "ra_deg": 284.7937,
-        "dec_deg": -15.8328,
-        "ra_deg_signed": -75.2063
-      },
-      {
-        "ra_deg": 275.54949999999997,
-        "dec_deg": -15.9436,
-        "ra_deg_signed": -84.4505
-      },
-      {
-        "ra_deg": 265.8002,
-        "dec_deg": -16.0619,
-        "ra_deg_signed": -94.1998
-      },
-      {
-        "ra_deg": 266.0018,
-        "dec_deg": -30.0607,
-        "ra_deg_signed": -93.9982
-      },
-      {
-        "ra_deg": 269.5028,
-        "dec_deg": -30.0182,
-        "ra_deg_signed": -90.4972
-      },
-      {
-        "ra_deg": 269.6255,
-        "dec_deg": -37.0175,
-        "ra_deg_signed": -90.3745
-      },
-      {
-        "ra_deg": 289.5963,
-        "dec_deg": -36.7786,
-        "ra_deg_signed": -70.4037
-      },
-      {
-        "ra_deg": 289.76959999999997,
-        "dec_deg": -45.2776,
-        "ra_deg_signed": -70.2304
-      },
-      {
-        "ra_deg": 307.1693,
-        "dec_deg": -45.09,
-        "ra_deg_signed": -52.8307
-      },
-      {
-        "ra_deg": 306.898,
-        "dec_deg": -27.5913,
-        "ra_deg_signed": -53.102
-      },
-      {
-        "ra_deg": 301.916,
-        "dec_deg": -27.6419,
-        "ra_deg_signed": -58.084
-      },
-      {
-        "ra_deg": 301.7264,
-        "dec_deg": -11.6762,
-        "ra_deg_signed": -58.2736
-      },
-      {
-        "ra_deg": 284.7441,
-        "dec_deg": -11.8664,
-        "ra_deg_signed": -75.2559
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    -73.5153,
+    -28.4769,
+    76
+  ],
+  "label": [
+    -67.5,
+    -34
+  ],
+  "bound": [
     [
-      90185,
-      88635,
-      89931,
-      90185,
-      89931,
-      90496,
-      92041,
-      89931,
-      92041,
-      92855,
-      93864,
-      93506,
-      92041,
-      93506,
-      90185,
-      89642
-    ],
-    [
-      90496,
-      89341
-    ],
-    [
-      95168,
-      94141,
-      93683,
-      93085,
-      94141
+      [
+        -75.2559,
+        -11.8664
+      ],
+      [
+        -75.2063,
+        -15.8328
+      ],
+      [
+        -84.4505,
+        -15.9436
+      ],
+      [
+        -94.1998,
+        -16.0619
+      ],
+      [
+        -93.9982,
+        -30.0607
+      ],
+      [
+        -90.4972,
+        -30.0182
+      ],
+      [
+        -90.3745,
+        -37.0175
+      ],
+      [
+        -70.4037,
+        -36.7786
+      ],
+      [
+        -70.2304,
+        -45.2776
+      ],
+      [
+        -52.8307,
+        -45.09
+      ],
+      [
+        -53.102,
+        -27.5913
+      ],
+      [
+        -58.084,
+        -27.6419
+      ],
+      [
+        -58.2736,
+        -11.6762
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Kaus Australis",
-    "designation": "20Eps Sgr",
-    "display_name": "20 Epsilon Sagittarii",
-    "display_name_greek": "20 ε Sagittarii",
-    "hip": 90185,
-    "ra_deg": 276.04302,
-    "dec_deg": -34.384616
-  }
+  "lines": [
+    [
+      "epsilon_sagittarii",
+      "gamma_2_sagittarii",
+      "delta_sagittarii",
+      "epsilon_sagittarii",
+      "delta_sagittarii",
+      "lambda_sagittarii",
+      "phi_sagittarii",
+      "delta_sagittarii",
+      "phi_sagittarii",
+      "sigma_sagittarii",
+      "tau_sagittarii",
+      "zeta_sagittarii",
+      "phi_sagittarii",
+      "zeta_sagittarii",
+      "epsilon_sagittarii",
+      "eta_sagittarii"
+    ],
+    [
+      "lambda_sagittarii",
+      "mu_sagittarii"
+    ],
+    [
+      "rho_1_sagittarii",
+      "pi_sagittarii",
+      "omicron_sagittarii",
+      "xi_2_sagittarii",
+      "pi_sagittarii"
+    ]
+  ],
+  "bright": "epsilon_sagittarii"
 }

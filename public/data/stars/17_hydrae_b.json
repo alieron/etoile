@@ -1,0 +1,14 @@
+{
+  "id": "17_hydrae_b",
+  "name": "17 Hydrae B",
+  "rank": 5,
+  "ra": 133.87343532061,
+  "dec": -7.97002030548,
+  "dist": 90.636,
+  "otype": "*",
+  "spect": "kA1hF2mF3",
+  "cat": 4,
+  "fl": 17,
+  "fl_con": "Hya",
+  "fl_comp": "B"
+}

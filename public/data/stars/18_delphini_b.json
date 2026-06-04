@@ -1,0 +1,14 @@
+{
+  "id": "18_delphini_b",
+  "name": "18 Delphini B",
+  "rank": 5,
+  "ra": 314.6060915319782,
+  "dec": 10.831390447532224,
+  "dist": 75.1891,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 18,
+  "fl_con": "Del",
+  "fl_comp": "B"
+}

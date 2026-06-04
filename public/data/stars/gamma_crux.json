@@ -1,0 +1,15 @@
+{
+  "id": "gamma_crux",
+  "name": "Gamma Crux",
+  "rank": 2,
+  "ra": 187.79149837560794,
+  "dec": -57.11321345705891,
+  "dist": 27.1518,
+  "otype": "PM*",
+  "spect": "M3.5III",
+  "cat": 14,
+  "proper": "Gacrux",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cru"
+}

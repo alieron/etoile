@@ -1,0 +1,15 @@
+{
+  "id": "v960_tauri",
+  "name": "V960 Tauri",
+  "rank": 5,
+  "ra": 83.38179342795,
+  "dec": 18.54022984218,
+  "dist": 476.1905,
+  "otype": "Be*",
+  "spect": "B2IV-Ve",
+  "cat": 8,
+  "v": "V960",
+  "v_con": "Tau",
+  "fl": 120,
+  "fl_con": "Tau"
+}

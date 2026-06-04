@@ -1,0 +1,14 @@
+{
+  "id": "h_scorpii",
+  "name": "H Scorpii",
+  "rank": 4,
+  "ra": 249.09363126313713,
+  "dec": -35.25533141158,
+  "dist": 105.042,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "by": "H",
+  "by_greek": "H",
+  "by_con": "Sco"
+}

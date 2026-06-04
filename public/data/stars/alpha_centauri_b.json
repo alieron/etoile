@@ -1,0 +1,16 @@
+{
+  "id": "alpha_centauri_b",
+  "name": "Alpha Centauri B",
+  "rank": 2,
+  "ra": 219.89609628987276,
+  "dec": -60.83752756558407,
+  "dist": 1.3248,
+  "otype": "PM*",
+  "spect": "K1V",
+  "cat": 4,
+  "proper": "Toliman",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cen",
+  "by_comp": "B"
+}

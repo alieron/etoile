@@ -1,0 +1,16 @@
+{
+  "id": "tau_4_serpentis",
+  "name": "Tau 4 Serpentis",
+  "rank": 4,
+  "ra": 234.11742771605,
+  "dec": 15.101455549290002,
+  "dist": 205.7613,
+  "otype": "AB*",
+  "spect": "M5IIIa",
+  "cat": 14,
+  "by": "tau04",
+  "by_greek": "τ⁴",
+  "by_con": "Ser",
+  "fl": 17,
+  "fl_con": "Ser"
+}

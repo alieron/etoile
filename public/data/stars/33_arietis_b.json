@@ -1,0 +1,14 @@
+{
+  "id": "33_arietis_b",
+  "name": "33 Arietis B",
+  "rank": 5,
+  "ra": 40.17127042174,
+  "dec": 27.068927650430002,
+  "dist": 79.498,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 33,
+  "fl_con": "Ari",
+  "fl_comp": "B"
+}

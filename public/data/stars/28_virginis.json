@@ -1,0 +1,13 @@
+{
+  "id": "28_virginis",
+  "name": "28 Virginis",
+  "rank": 5,
+  "ra": 190.49036707771998,
+  "dec": -7.500299159660002,
+  "dist": 249.3766,
+  "otype": "*",
+  "spect": "K5/M0III",
+  "cat": 13,
+  "fl": 28,
+  "fl_con": "Vir"
+}

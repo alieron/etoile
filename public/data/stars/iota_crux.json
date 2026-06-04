@@ -1,0 +1,14 @@
+{
+  "id": "iota_crux",
+  "name": "Iota Crux",
+  "rank": 4,
+  "ra": 191.40854861858,
+  "dec": -60.98132118807,
+  "dist": 36.8053,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Cru"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "10_andromedae",
+  "name": "10 Andromedae",
+  "rank": 5,
+  "ra": 349.96843909617,
+  "dec": 42.07806989614,
+  "dist": 147.4926,
+  "otype": "*",
+  "spect": "M0III",
+  "cat": 14,
+  "fl": 10,
+  "fl_con": "And"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "33_velorum_b",
+  "name": "33 Velorum B",
+  "rank": 5,
+  "ra": 127.2684848414,
+  "dec": -47.92933286113,
+  "dist": 512.899,
+  "otype": "*",
+  "spect": "B4V",
+  "cat": 8,
+  "fl": 33,
+  "fl_con": "Vel",
+  "fl_comp": "B"
+}

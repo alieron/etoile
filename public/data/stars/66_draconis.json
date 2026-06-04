@@ -1,0 +1,13 @@
+{
+  "id": "66_draconis",
+  "name": "66 Draconis",
+  "rank": 5,
+  "ra": 301.38699146914996,
+  "dec": 61.99542030332,
+  "dist": 52.687,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "fl": 66,
+  "fl_con": "Dra"
+}

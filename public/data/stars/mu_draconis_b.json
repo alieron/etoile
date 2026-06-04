@@ -1,0 +1,18 @@
+{
+  "id": "mu_draconis_b",
+  "name": "Mu Draconis B",
+  "rank": 4,
+  "ra": 256.3342110487,
+  "dec": 54.47063197171,
+  "dist": 27.181,
+  "otype": "SB*",
+  "spect": "F6V",
+  "cat": 6,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Dra",
+  "by_comp": "B",
+  "fl": 21,
+  "fl_con": "Dra",
+  "fl_comp": "B"
+}

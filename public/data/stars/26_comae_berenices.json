@@ -1,0 +1,13 @@
+{
+  "id": "26_comae_berenices",
+  "name": "26 Comae Berenices",
+  "rank": 5,
+  "ra": 189.78042744490998,
+  "dec": 21.062583383160003,
+  "dist": 83.8223,
+  "otype": "SB*",
+  "spect": "G9IIIb",
+  "cat": 16,
+  "fl": 26,
+  "fl_con": "Com"
+}

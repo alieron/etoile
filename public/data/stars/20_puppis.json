@@ -1,0 +1,13 @@
+{
+  "id": "20_puppis",
+  "name": "20 Puppis",
+  "rank": 5,
+  "ra": 123.33319648832,
+  "dec": -15.78822467489,
+  "dist": 266.6667,
+  "otype": "*",
+  "spect": "G4Ib-II",
+  "cat": 16,
+  "fl": 20,
+  "fl_con": "Pup"
+}

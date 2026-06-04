@@ -1,0 +1,16 @@
+{
+  "id": "iota_leonis",
+  "name": "Iota Leonis",
+  "rank": 3,
+  "ra": 170.98105513292123,
+  "dec": 10.52950625196611,
+  "dist": 23.6742,
+  "otype": "SB*",
+  "spect": "F1IV",
+  "cat": 11,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Leo",
+  "fl": 78,
+  "fl_con": "Leo"
+}

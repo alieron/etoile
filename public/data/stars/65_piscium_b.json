@@ -1,0 +1,14 @@
+{
+  "id": "65_piscium_b",
+  "name": "65 Piscium B",
+  "rank": 5,
+  "ra": 12.470307510850002,
+  "dec": 27.710808611280004,
+  "dist": 88.418,
+  "otype": "PM*",
+  "spect": "F4III",
+  "cat": 13,
+  "fl": 65,
+  "fl_con": "Psc",
+  "fl_comp": "B"
+}

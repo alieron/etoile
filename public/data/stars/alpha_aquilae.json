@@ -1,0 +1,17 @@
+{
+  "id": "alpha_aquilae",
+  "name": "Alpha Aquilae",
+  "rank": 2,
+  "ra": 297.69582729638694,
+  "dec": 8.868321196436963,
+  "dist": 5.1295,
+  "otype": "dS*",
+  "spect": "A7Vn",
+  "cat": 6,
+  "proper": "Altair",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Aql",
+  "fl": 53,
+  "fl_con": "Aql"
+}

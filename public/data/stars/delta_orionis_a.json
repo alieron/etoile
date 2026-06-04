@@ -1,0 +1,19 @@
+{
+  "id": "delta_orionis_a",
+  "name": "Delta Orionis A",
+  "rank": 2,
+  "ra": 83.00166705557675,
+  "dec": -0.29909510708333326,
+  "dist": 212.31632314200002,
+  "otype": "SB*",
+  "spect": "O9.5IINwk",
+  "cat": 17,
+  "proper": "Mintaka",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Ori",
+  "by_comp": "A",
+  "fl": 34,
+  "fl_con": "Ori",
+  "fl_comp": "A"
+}

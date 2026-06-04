@@ -1,0 +1,16 @@
+{
+  "id": "k_carinae",
+  "name": "K Carinae",
+  "rank": 4,
+  "ra": 157.58386570032584,
+  "dec": -71.99279386325306,
+  "dist": 79.8722,
+  "otype": "*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "K",
+  "by_greek": "K",
+  "by_con": "Car",
+  "fl": 202,
+  "fl_con": "Car"
+}

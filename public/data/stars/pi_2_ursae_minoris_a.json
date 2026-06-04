@@ -1,0 +1,18 @@
+{
+  "id": "pi_2_ursae_minoris_a",
+  "name": "Pi 2 Ursae Minoris A",
+  "rank": 4,
+  "ra": 234.91082057006003,
+  "dec": 79.98321624833,
+  "dist": 120.04920048000001,
+  "otype": "PM*",
+  "spect": "F2",
+  "cat": 6,
+  "by": "pi.02",
+  "by_greek": "π²",
+  "by_con": "UMi",
+  "by_comp": "A",
+  "fl": 18,
+  "fl_con": "UMi",
+  "fl_comp": "A"
+}

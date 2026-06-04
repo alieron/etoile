@@ -1,0 +1,14 @@
+{
+  "id": "37_pegasi_a",
+  "name": "37 Pegasi A",
+  "rank": 5,
+  "ra": 337.49140370741,
+  "dec": 4.43168938816,
+  "dist": 51.867718672,
+  "otype": "PM*",
+  "spect": "kA7hF3mF5(III)",
+  "cat": 13,
+  "fl": 37,
+  "fl_con": "Peg",
+  "fl_comp": "A"
+}

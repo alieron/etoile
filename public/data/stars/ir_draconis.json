@@ -1,0 +1,16 @@
+{
+  "id": "ir_draconis",
+  "name": "IR Draconis",
+  "rank": 2,
+  "ra": 193.86895235071998,
+  "dec": 65.43847420237,
+  "dist": 29.2912,
+  "otype": "gD*",
+  "spect": "F3IV",
+  "cat": 6,
+  "proper": "Taiyi",
+  "v": "IR",
+  "v_con": "Dra",
+  "fl": 8,
+  "fl_con": "Dra"
+}

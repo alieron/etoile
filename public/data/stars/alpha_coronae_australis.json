@@ -1,0 +1,15 @@
+{
+  "id": "alpha_coronae_australis",
+  "name": "Alpha Coronae Australis",
+  "rank": 2,
+  "ra": 287.3680896456666,
+  "dec": -37.90447440014084,
+  "dist": 38.432,
+  "otype": "PM*",
+  "spect": "A2Va",
+  "cat": 7,
+  "proper": "Meridiana",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "CrA"
+}

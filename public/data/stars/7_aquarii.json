@@ -1,0 +1,13 @@
+{
+  "id": "7_aquarii",
+  "name": "7 Aquarii",
+  "rank": 5,
+  "ra": 314.22511066351996,
+  "dec": -9.697541798980001,
+  "dist": 167.5042,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "fl": 7,
+  "fl_con": "Aqr"
+}

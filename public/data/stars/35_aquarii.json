@@ -1,0 +1,13 @@
+{
+  "id": "35_aquarii",
+  "name": "35 Aquarii",
+  "rank": 5,
+  "ra": 332.24579301299,
+  "dec": -18.519593397010002,
+  "dist": 714.2857,
+  "otype": "*",
+  "spect": "B2III",
+  "cat": 17,
+  "fl": 35,
+  "fl_con": "Aqr"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "theta_delphini",
+  "name": "Theta Delphini",
+  "rank": 4,
+  "ra": 309.68327716413,
+  "dec": 13.31512651698,
+  "dist": 617.284,
+  "otype": "s*r",
+  "spect": "K3Ib",
+  "cat": 15,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Del",
+  "fl": 8,
+  "fl_con": "Del"
+}

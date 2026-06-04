@@ -1,0 +1,15 @@
+{
+  "id": "tau_sculptoris_a",
+  "name": "Tau Sculptoris A",
+  "rank": 4,
+  "ra": 24.03539801194,
+  "dec": -29.907303834642498,
+  "dist": 69.348793481,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Scl",
+  "by_comp": "A"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "g_centauri",
+  "name": "g Centauri",
+  "rank": 4,
+  "ra": 207.3613413833062,
+  "dec": -34.45077353097945,
+  "dist": 56.1167,
+  "otype": "LP*",
+  "spect": "M5-III:",
+  "cat": 14,
+  "by": "g",
+  "by_greek": "g",
+  "by_con": "Cen",
+  "v": "V806",
+  "v_con": "Cen",
+  "fl": 2,
+  "fl_con": "Cen"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36_ursae_majoris_b",
+  "name": "36 Ursae Majoris B",
+  "rank": 5,
+  "ra": 157.60545366878,
+  "dec": 55.99912650252,
+  "dist": 12.919,
+  "otype": "PM*",
+  "spect": "K7Ve",
+  "cat": 4,
+  "fl": 36,
+  "fl_con": "UMa",
+  "fl_comp": "B"
+}

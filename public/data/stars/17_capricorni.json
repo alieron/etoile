@@ -1,0 +1,13 @@
+{
+  "id": "17_capricorni",
+  "name": "17 Capricorni",
+  "rank": 5,
+  "ra": 311.54161670263,
+  "dec": -21.514036022269995,
+  "dist": 80.8407,
+  "otype": "*",
+  "spect": "A1V",
+  "cat": 7,
+  "fl": 17,
+  "fl_con": "Cap"
+}

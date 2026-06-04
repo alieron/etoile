@@ -1,0 +1,15 @@
+{
+  "id": "psi_crateris_b",
+  "name": "Psi Crateris B",
+  "rank": 4,
+  "ra": 168.12646535833332,
+  "dec": -18.499792497222224,
+  "dist": 153.8462,
+  "otype": "*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "psi",
+  "by_greek": "ψ",
+  "by_con": "Crt",
+  "by_comp": "B"
+}

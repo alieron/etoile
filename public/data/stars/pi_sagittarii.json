@@ -1,0 +1,17 @@
+{
+  "id": "pi_sagittarii",
+  "name": "Pi Sagittarii",
+  "rank": 2,
+  "ra": 287.440970525,
+  "dec": -21.023613981944443,
+  "dist": 156.25,
+  "otype": "**",
+  "spect": "F2II-III",
+  "cat": 13,
+  "proper": "Albaldah",
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Sgr",
+  "fl": 41,
+  "fl_con": "Sgr"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tau_2_lupi",
+  "name": "Tau 2 Lupi",
+  "rank": 4,
+  "ra": 216.54505741968393,
+  "dec": -45.379278405963014,
+  "dist": 97.8474,
+  "otype": "**",
+  "spect": "F7",
+  "cat": 6,
+  "by": "tau02",
+  "by_greek": "τ²",
+  "by_con": "Lup"
+}

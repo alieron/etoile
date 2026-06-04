@@ -1,0 +1,14 @@
+{
+  "id": "t_1_carinae",
+  "name": "t 1 Carinae",
+  "rank": 4,
+  "ra": 159.08549755222,
+  "dec": -59.56439383739,
+  "dist": 80.5153,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "by": "t01",
+  "by_greek": "t¹",
+  "by_con": "Car"
+}

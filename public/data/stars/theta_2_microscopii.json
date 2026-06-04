@@ -1,0 +1,14 @@
+{
+  "id": "theta_2_microscopii",
+  "name": "Theta 2 Microscopii",
+  "rank": 4,
+  "ra": 321.1034081629167,
+  "dec": -41.006695371944446,
+  "dist": 119.7605,
+  "otype": "**",
+  "spect": "ApSi",
+  "cat": 7,
+  "by": "tet02",
+  "by_greek": "θ²",
+  "by_con": "Mic"
+}

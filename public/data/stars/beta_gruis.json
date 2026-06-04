@@ -1,0 +1,15 @@
+{
+  "id": "beta_gruis",
+  "name": "Beta Gruis",
+  "rank": 2,
+  "ra": 340.66687612556166,
+  "dec": -46.884576444824646,
+  "dist": 54.2594,
+  "otype": "LP?",
+  "spect": "M4.5III",
+  "cat": 14,
+  "proper": "Tiaki",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Gru"
+}

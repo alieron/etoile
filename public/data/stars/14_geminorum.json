@@ -1,0 +1,13 @@
+{
+  "id": "14_geminorum",
+  "name": "14 Geminorum",
+  "rank": 5,
+  "ra": 96.42802841806001,
+  "dec": 21.64503079538,
+  "dist": 116.9591,
+  "otype": "*",
+  "spect": "G5",
+  "cat": 5,
+  "fl": 14,
+  "fl_con": "Gem"
+}

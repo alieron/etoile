@@ -1,0 +1,15 @@
+{
+  "id": "pi_aquilae_a",
+  "name": "Pi Aquilae A",
+  "rank": 4,
+  "ra": 297.17524022125,
+  "dec": 11.815893797777779,
+  "dist": 157.730277287,
+  "otype": "*",
+  "spect": "G8III+A3V",
+  "cat": 13,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Aql",
+  "by_comp": "A"
+}

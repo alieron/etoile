@@ -1,0 +1,14 @@
+{
+  "id": "47_librae_a",
+  "name": "47 Librae A",
+  "rank": 5,
+  "ra": 238.75150634924,
+  "dec": -19.38293184545,
+  "dist": 236.408964066,
+  "otype": "*",
+  "spect": "B2/3V",
+  "cat": 8,
+  "fl": 47,
+  "fl_con": "Lib",
+  "fl_comp": "A"
+}

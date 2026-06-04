@@ -1,0 +1,17 @@
+{
+  "id": "theta_pegasi",
+  "name": "Theta Pegasi",
+  "rank": 2,
+  "ra": 332.5499525505046,
+  "dec": 6.1979215882049985,
+  "dist": 28.2965,
+  "otype": "PM*",
+  "spect": "A1Va",
+  "cat": 7,
+  "proper": "Biham",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Peg",
+  "fl": 26,
+  "fl_con": "Peg"
+}

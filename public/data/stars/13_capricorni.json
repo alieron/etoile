@@ -1,0 +1,13 @@
+{
+  "id": "13_capricorni",
+  "name": "13 Capricorni",
+  "rank": 5,
+  "ra": 309.33832471837,
+  "dec": -15.14733846459,
+  "dist": 259.0674,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "fl": 13,
+  "fl_con": "Cap"
+}

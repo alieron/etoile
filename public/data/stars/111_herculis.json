@@ -1,0 +1,13 @@
+{
+  "id": "111_herculis",
+  "name": "111 Herculis",
+  "rank": 5,
+  "ra": 281.75514297006,
+  "dec": 18.18151606222,
+  "dist": 28.8934,
+  "otype": "PM*",
+  "spect": "AVa+",
+  "cat": 7,
+  "fl": 111,
+  "fl_con": "Her"
+}

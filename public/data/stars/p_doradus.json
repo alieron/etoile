@@ -1,0 +1,16 @@
+{
+  "id": "p_doradus",
+  "name": "P Doradus",
+  "rank": 4,
+  "ra": 69.18996363611527,
+  "dec": -62.077165937032035,
+  "dist": 54.615,
+  "otype": "AB*",
+  "spect": "M8III:e",
+  "cat": 14,
+  "by": "P",
+  "by_greek": "P",
+  "by_con": "Dor",
+  "v": "R",
+  "v_con": "Dor"
+}

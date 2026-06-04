@@ -1,0 +1,13 @@
+{
+  "id": "71_ophiuchi",
+  "name": "71 Ophiuchi",
+  "rank": 5,
+  "ra": 271.82649749233,
+  "dec": 8.73386723942,
+  "dist": 83.612,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 71,
+  "fl_con": "Oph"
+}

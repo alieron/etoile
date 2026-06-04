@@ -1,0 +1,18 @@
+{
+  "id": "h_1_sagittarii",
+  "name": "h 1 Sagittarii",
+  "rank": 4,
+  "ra": 294.00688955334,
+  "dec": -24.71908064485,
+  "dist": 90.2527,
+  "otype": "dS*",
+  "spect": "A1mA2-F0",
+  "cat": 6,
+  "by": "h01",
+  "by_greek": "h¹",
+  "by_con": "Sgr",
+  "v": "V5548",
+  "v_con": "Sgr",
+  "fl": 51,
+  "fl_con": "Sgr"
+}

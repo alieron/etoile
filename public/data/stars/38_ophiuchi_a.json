@@ -1,0 +1,14 @@
+{
+  "id": "38_ophiuchi_a",
+  "name": "38 Ophiuchi A",
+  "rank": 5,
+  "ra": 259.41470934330107,
+  "dec": -26.629021890277446,
+  "dist": 156.00776006200002,
+  "otype": "*",
+  "spect": "B9.5V",
+  "cat": 8,
+  "fl": 38,
+  "fl_con": "Oph",
+  "fl_comp": "A"
+}

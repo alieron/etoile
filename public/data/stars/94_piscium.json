@@ -1,0 +1,13 @@
+{
+  "id": "94_piscium",
+  "name": "94 Piscium",
+  "rank": 5,
+  "ra": 21.67366314053,
+  "dec": 19.24042391307,
+  "dist": 85.5432,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "fl": 94,
+  "fl_con": "Psc"
+}

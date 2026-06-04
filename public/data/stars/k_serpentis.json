@@ -1,0 +1,14 @@
+{
+  "id": "k_serpentis",
+  "name": "K Serpentis",
+  "rank": 4,
+  "ra": 237.91730745767,
+  "dec": -25.63187634106,
+  "dist": 109.517,
+  "otype": "PM*",
+  "spect": "F5V",
+  "cat": 6,
+  "by": "K",
+  "by_greek": "K",
+  "by_con": "Ser"
+}

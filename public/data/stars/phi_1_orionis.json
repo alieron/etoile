@@ -1,0 +1,16 @@
+{
+  "id": "phi_1_orionis",
+  "name": "Phi 1 Orionis",
+  "rank": 4,
+  "ra": 83.70515678066583,
+  "dec": 9.489586216834999,
+  "dist": 333.3333,
+  "otype": "Y*O",
+  "spect": "B0.2IV",
+  "cat": 21,
+  "by": "phi01",
+  "by_greek": "φ¹",
+  "by_con": "Ori",
+  "fl": 37,
+  "fl_con": "Ori"
+}

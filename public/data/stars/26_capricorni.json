@@ -1,0 +1,13 @@
+{
+  "id": "26_capricorni",
+  "name": "26 Capricorni",
+  "rank": 5,
+  "ra": 317.3143015492199,
+  "dec": -20.19317176601,
+  "dist": 174.8252,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 26,
+  "fl_con": "Cap"
+}

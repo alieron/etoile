@@ -1,0 +1,13 @@
+{
+  "id": "26_bootis",
+  "name": "26 Boötis",
+  "rank": 5,
+  "ra": 218.13559227970998,
+  "dec": 22.26005659522,
+  "dist": 54.0249,
+  "otype": "PM*",
+  "spect": "F2IV",
+  "cat": 11,
+  "fl": 26,
+  "fl_con": "Boo"
+}

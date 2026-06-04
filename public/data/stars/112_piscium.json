@@ -1,0 +1,13 @@
+{
+  "id": "112_piscium",
+  "name": "112 Piscium",
+  "rank": 5,
+  "ra": 30.038164797925415,
+  "dec": 3.0970140111241666,
+  "dist": 33.5008,
+  "otype": "PM*",
+  "spect": "G2IV",
+  "cat": 11,
+  "fl": 112,
+  "fl_con": "Psc"
+}

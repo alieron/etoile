@@ -1,0 +1,14 @@
+{
+  "id": "111_herculis_b",
+  "name": "111 Herculis B",
+  "rank": 5,
+  "ra": 281.7517607722913,
+  "dec": 18.185414839905278,
+  "dist": 28.9939,
+  "otype": "WD*",
+  "spect": "DA",
+  "cat": 1,
+  "fl": 111,
+  "fl_con": "Her",
+  "fl_comp": "B"
+}

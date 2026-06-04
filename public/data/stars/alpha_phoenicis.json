@@ -1,0 +1,15 @@
+{
+  "id": "alpha_phoenicis",
+  "name": "Alpha Phoenicis",
+  "rank": 2,
+  "ra": 6.5710475153919266,
+  "dec": -42.305987194396046,
+  "dist": 25.974,
+  "otype": "SB*",
+  "spect": "K0.5IIIb",
+  "cat": 15,
+  "proper": "Ankaa",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Phe"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "42_ursae_majoris",
+  "name": "42 Ursae Majoris",
+  "rank": 5,
+  "ra": 162.84883931901,
+  "dec": 59.32011985082001,
+  "dist": 83.5422,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "fl": 42,
+  "fl_con": "UMa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "63_ophiuchi",
+  "name": "63 Ophiuchi",
+  "rank": 5,
+  "ra": 268.72518000495995,
+  "dec": -24.88709559456,
+  "dist": 100000.0,
+  "otype": "*",
+  "spect": "O8II((f))",
+  "cat": 17,
+  "fl": 63,
+  "fl_con": "Oph"
+}

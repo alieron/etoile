@@ -1,0 +1,16 @@
+{
+  "id": "pi_1_ursae_majoris",
+  "name": "Pi 1 Ursae Majoris",
+  "rank": 4,
+  "ra": 129.7987692137,
+  "dec": 65.02090642292,
+  "dist": 14.3554,
+  "otype": "BY*",
+  "spect": "G0.5V",
+  "cat": 0,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "UMa",
+  "fl": 3,
+  "fl_con": "UMa"
+}

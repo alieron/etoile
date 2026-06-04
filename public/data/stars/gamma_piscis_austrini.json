@@ -1,0 +1,16 @@
+{
+  "id": "gamma_piscis_austrini",
+  "name": "Gamma Piscis Austrini",
+  "rank": 3,
+  "ra": 343.13137565518,
+  "dec": -32.87546048931001,
+  "dist": 66.0502,
+  "otype": "*",
+  "spect": "A0VpSrCrEu",
+  "cat": 7,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "PsA",
+  "fl": 22,
+  "fl_con": "PsA"
+}

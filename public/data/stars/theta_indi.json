@@ -1,0 +1,14 @@
+{
+  "id": "theta_indi",
+  "name": "Theta Indi",
+  "rank": 3,
+  "ra": 319.96662273615,
+  "dec": -53.44942607516,
+  "dist": 30.2847,
+  "otype": "**",
+  "spect": "A5IV-V",
+  "cat": 10,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Ind"
+}

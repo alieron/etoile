@@ -1,0 +1,15 @@
+{
+  "id": "v388_andromedae",
+  "name": "V388 Andromedae",
+  "rank": 5,
+  "ra": 351.78083381974,
+  "dec": 42.91200990904001,
+  "dist": 91.9963,
+  "otype": "a2*",
+  "spect": "B9III",
+  "cat": 20,
+  "v": "V388",
+  "v_con": "And",
+  "fl": 13,
+  "fl_con": "And"
+}

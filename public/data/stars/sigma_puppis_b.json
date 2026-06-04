@@ -1,0 +1,15 @@
+{
+  "id": "sigma_puppis_b",
+  "name": "Sigma Puppis B",
+  "rank": 4,
+  "ra": 112.31573917908001,
+  "dec": -43.29973385502,
+  "dist": 56.663,
+  "otype": "PM*",
+  "spect": "G5",
+  "cat": 5,
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Pup",
+  "by_comp": "B"
+}

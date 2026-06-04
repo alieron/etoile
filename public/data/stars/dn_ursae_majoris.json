@@ -1,0 +1,15 @@
+{
+  "id": "dn_ursae_majoris",
+  "name": "DN Ursae Majoris",
+  "rank": 5,
+  "ra": 178.77394206462,
+  "dec": 46.47683252575,
+  "dist": 211.8644,
+  "otype": "SB*",
+  "spect": "hA5VkA2mA3",
+  "cat": 7,
+  "v": "DN",
+  "v_con": "UMa",
+  "fl": 65,
+  "fl_con": "UMa"
+}

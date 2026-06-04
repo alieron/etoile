@@ -1,0 +1,16 @@
+{
+  "id": "rho_3_eridani",
+  "name": "Rho 3 Eridani",
+  "rank": 4,
+  "ra": 46.06882035123,
+  "dec": -7.600855117179998,
+  "dist": 41.5628,
+  "otype": "PM*",
+  "spect": "A5V",
+  "cat": 7,
+  "by": "rho03",
+  "by_greek": "ρ³",
+  "by_con": "Eri",
+  "fl": 10,
+  "fl_con": "Eri"
+}

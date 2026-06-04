@@ -1,0 +1,14 @@
+{
+  "id": "u_velorum",
+  "name": "u Velorum",
+  "rank": 4,
+  "ra": 147.48808582139,
+  "dec": -45.73273690546,
+  "dist": 258.3979,
+  "otype": "*",
+  "spect": "B7III",
+  "cat": 17,
+  "by": "u",
+  "by_greek": "u",
+  "by_con": "Vel"
+}

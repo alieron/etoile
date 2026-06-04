@@ -1,0 +1,15 @@
+{
+  "id": "zeta_microscopii_b",
+  "name": "Zeta Microscopii B",
+  "rank": 4,
+  "ra": 315.72515492934,
+  "dec": -38.65604624225999,
+  "dist": 35.251,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Mic",
+  "by_comp": "B"
+}

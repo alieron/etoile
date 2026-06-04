@@ -1,0 +1,15 @@
+{
+  "id": "alpha_fornacis_b",
+  "name": "Alpha Fornacis B",
+  "rank": 4,
+  "ra": 48.0174961244575,
+  "dec": -28.98694736457639,
+  "dist": 14.0827,
+  "otype": "PM*",
+  "spect": "G7V",
+  "cat": 5,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "For",
+  "by_comp": "B"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mu_orionis_b",
+  "name": "Mu Orionis B",
+  "rank": 4,
+  "ra": 90.5958688,
+  "dec": 9.647366605555556,
+  "dist": 46.1,
+  "otype": "SB*",
+  "spect": "F2V",
+  "cat": 6,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Ori",
+  "by_comp": "B"
+}

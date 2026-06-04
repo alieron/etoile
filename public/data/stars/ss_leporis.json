@@ -1,0 +1,15 @@
+{
+  "id": "ss_leporis",
+  "name": "SS Leporis",
+  "rank": 5,
+  "ra": 91.24637271722,
+  "dec": -16.48443589962,
+  "dist": 278.5515,
+  "otype": "Sy*",
+  "spect": "A3+K/M",
+  "cat": 7,
+  "v": "SS",
+  "v_con": "Lep",
+  "fl": 17,
+  "fl_con": "Lep"
+}

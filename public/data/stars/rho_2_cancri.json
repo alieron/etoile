@@ -1,0 +1,16 @@
+{
+  "id": "rho_2_cancri",
+  "name": "Rho 2 Cancri",
+  "rank": 4,
+  "ra": 133.91533538552,
+  "dec": 27.927482181129996,
+  "dist": 149.2537,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "rho02",
+  "by_greek": "ρ²",
+  "by_con": "Cnc",
+  "fl": 58,
+  "fl_con": "Cnc"
+}

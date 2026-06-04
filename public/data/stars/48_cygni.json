@@ -1,0 +1,13 @@
+{
+  "id": "48_cygni",
+  "name": "48 Cygni",
+  "rank": 5,
+  "ra": 309.38240703831,
+  "dec": 31.5725396896,
+  "dist": 261.7801,
+  "otype": "*",
+  "spect": "B8IIIn",
+  "cat": 17,
+  "fl": 48,
+  "fl_con": "Cyg"
+}

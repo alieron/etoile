@@ -1,0 +1,16 @@
+{
+  "id": "theta_librae",
+  "name": "Theta Librae",
+  "rank": 4,
+  "ra": 238.4564080092892,
+  "dec": -16.729297046860832,
+  "dist": 51.6529,
+  "otype": "PM*",
+  "spect": "G9IIIb",
+  "cat": 16,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Lib",
+  "fl": 46,
+  "fl_con": "Lib"
+}

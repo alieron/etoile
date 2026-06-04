@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_geminorum",
+  "name": "Epsilon Geminorum",
+  "rank": 2,
+  "ra": 100.98302979662667,
+  "dec": 25.131127192367778,
+  "dist": 259.0674,
+  "otype": "*",
+  "spect": "G8Ib",
+  "cat": 16,
+  "proper": "Mebsuta",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Gem",
+  "fl": 27,
+  "fl_con": "Gem"
+}

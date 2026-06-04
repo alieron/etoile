@@ -1,0 +1,17 @@
+{
+  "id": "chi_draconis_a",
+  "name": "Chi Draconis A",
+  "rank": 3,
+  "ra": 275.2640939542736,
+  "dec": 72.73284772361531,
+  "dist": 8.0574,
+  "otype": "SB*",
+  "spect": "F7V",
+  "cat": 6,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Dra",
+  "by_comp": "A",
+  "fl": 44,
+  "fl_con": "Dra"
+}

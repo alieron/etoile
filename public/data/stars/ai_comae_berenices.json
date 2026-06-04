@@ -1,0 +1,15 @@
+{
+  "id": "ai_comae_berenices",
+  "name": "AI Comae Berenices",
+  "rank": 5,
+  "ra": 187.22792600276998,
+  "dec": 25.912851614759997,
+  "dist": 72.8863,
+  "otype": "a2*",
+  "spect": "B9VCrEu",
+  "cat": 20,
+  "v": "AI",
+  "v_con": "Com",
+  "fl": 17,
+  "fl_con": "Com"
+}

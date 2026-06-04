@@ -1,0 +1,14 @@
+{
+  "id": "theta_apodis",
+  "name": "Theta Apodis",
+  "rank": 4,
+  "ra": 211.33283724970335,
+  "dec": -76.79676185989,
+  "dist": 113.1222,
+  "otype": "AB*",
+  "spect": "M6.5III:",
+  "cat": 14,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Aps"
+}

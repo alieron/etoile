@@ -1,0 +1,15 @@
+{
+  "id": "hv_velorum",
+  "name": "HV Velorum",
+  "rank": 5,
+  "ra": 128.96678081401,
+  "dec": -50.969646836109995,
+  "dist": 136.7989,
+  "otype": "a2*",
+  "spect": "ApSi",
+  "cat": 20,
+  "v": "HV",
+  "v_con": "Vel",
+  "fl": 47,
+  "fl_con": "Vel"
+}

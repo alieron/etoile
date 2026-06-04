@@ -1,0 +1,14 @@
+{
+  "id": "eta_2_coronae_australis",
+  "name": "Eta 2 Coronae Australis",
+  "rank": 4,
+  "ra": 282.3958186932,
+  "dec": -43.4340978241,
+  "dist": 147.7105,
+  "otype": "*",
+  "spect": "B9IV",
+  "cat": 9,
+  "by": "eta02",
+  "by_greek": "η²",
+  "by_con": "CrA"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5_librae_b",
+  "name": "5 Librae B",
+  "rank": 5,
+  "ra": 221.48981635602416,
+  "dec": -15.459844846812222,
+  "dist": 164.074,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 5,
+  "fl_con": "Lib",
+  "fl_comp": "B"
+}

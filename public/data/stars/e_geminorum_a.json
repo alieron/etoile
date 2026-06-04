@@ -1,0 +1,17 @@
+{
+  "id": "e_geminorum_a",
+  "name": "e Geminorum A",
+  "rank": 4,
+  "ra": 103.66099228198793,
+  "dec": 13.177845317954445,
+  "dist": 25.6279,
+  "otype": "PM*",
+  "spect": "kA8mF0Vp",
+  "cat": 4,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Gem",
+  "by_comp": "A",
+  "fl": 38,
+  "fl_con": "Gem"
+}

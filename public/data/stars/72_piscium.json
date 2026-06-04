@@ -1,0 +1,13 @@
+{
+  "id": "72_piscium",
+  "name": "72 Piscium",
+  "rank": 5,
+  "ra": 16.272316397170002,
+  "dec": 14.946134961339997,
+  "dist": 54.5852,
+  "otype": "SB*",
+  "spect": "F4V((Sr))",
+  "cat": 6,
+  "fl": 72,
+  "fl_con": "Psc"
+}

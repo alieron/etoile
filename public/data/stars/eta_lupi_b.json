@@ -1,0 +1,15 @@
+{
+  "id": "eta_lupi_b",
+  "name": "Eta Lupi B",
+  "rank": 4,
+  "ra": 240.03228261803997,
+  "dec": -38.39280479889,
+  "dist": 141.082,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Lup",
+  "by_comp": "B"
+}

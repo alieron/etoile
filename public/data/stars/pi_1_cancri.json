@@ -1,0 +1,16 @@
+{
+  "id": "pi_1_cancri",
+  "name": "Pi 1 Cancri",
+  "rank": 4,
+  "ra": 138.073114188476,
+  "dec": 14.9960489455841,
+  "dist": 20.3625,
+  "otype": "SB*",
+  "spect": "G9V",
+  "cat": 5,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Cnc",
+  "fl": 81,
+  "fl_con": "Cnc"
+}

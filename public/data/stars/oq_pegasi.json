@@ -1,0 +1,15 @@
+{
+  "id": "oq_pegasi",
+  "name": "OQ Pegasi",
+  "rank": 5,
+  "ra": 328.26570259197166,
+  "dec": 25.92513583939028,
+  "dist": 193.7984,
+  "otype": "Be*",
+  "spect": "B6IIIe",
+  "cat": 8,
+  "v": "OQ",
+  "v_con": "Peg",
+  "fl": 16,
+  "fl_con": "Peg"
+}

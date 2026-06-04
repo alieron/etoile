@@ -1,0 +1,15 @@
+{
+  "id": "iota_carinae",
+  "name": "Iota Carinae",
+  "rank": 2,
+  "ra": 139.27252857166667,
+  "dec": -59.275232029166666,
+  "dist": 234.7418,
+  "otype": "*",
+  "spect": "A7Ib",
+  "cat": 17,
+  "proper": "Aspidiske",
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Car"
+}

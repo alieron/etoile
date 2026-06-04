@@ -1,0 +1,14 @@
+{
+  "id": "41_aquarii_b",
+  "name": "41 Aquarii B",
+  "rank": 5,
+  "ra": 333.57655680476995,
+  "dec": -21.07511697101,
+  "dist": 73.316,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "fl": 41,
+  "fl_con": "Aqr",
+  "fl_comp": "B"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "eta_lyrae",
+  "name": "Eta Lyrae",
+  "rank": 2,
+  "ra": 288.4395350838295,
+  "dec": 39.14596601124306,
+  "dist": 425.5319,
+  "otype": "SB*",
+  "spect": "B6",
+  "cat": 8,
+  "proper": "Aladfar",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Lyr",
+  "fl": 20,
+  "fl_con": "Lyr"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "j_centauri",
+  "name": "J Centauri",
+  "rank": 4,
+  "ra": 200.65805458993415,
+  "dec": -60.988380600585835,
+  "dist": 108.6957,
+  "otype": "**",
+  "spect": "B3V",
+  "cat": 8,
+  "by": "J",
+  "by_greek": "J",
+  "by_con": "Cen"
+}

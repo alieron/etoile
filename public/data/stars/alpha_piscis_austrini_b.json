@@ -1,0 +1,17 @@
+{
+  "id": "alpha_piscis_austrini_b",
+  "name": "Alpha Piscis Austrini B",
+  "rank": 4,
+  "ra": 344.1002189853825,
+  "dec": -31.565564051324166,
+  "dist": 7.6092,
+  "otype": "BY*",
+  "spect": "K4Ve",
+  "cat": 4,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "PsA",
+  "by_comp": "B",
+  "v": "TW",
+  "v_con": "PsA"
+}

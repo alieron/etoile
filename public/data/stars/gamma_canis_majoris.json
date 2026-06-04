@@ -1,0 +1,17 @@
+{
+  "id": "gamma_canis_majoris",
+  "name": "Gamma Canis Majoris",
+  "rank": 2,
+  "ra": 105.93955612216459,
+  "dec": -15.633287003608888,
+  "dist": 135.5014,
+  "otype": "*",
+  "spect": "B8II",
+  "cat": 17,
+  "proper": "Muliphein",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "CMa",
+  "fl": 23,
+  "fl_con": "CMa"
+}

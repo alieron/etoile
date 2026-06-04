@@ -1,0 +1,17 @@
+{
+  "id": "alpha_trianguli",
+  "name": "Alpha Trianguli",
+  "rank": 2,
+  "ra": 28.2704392446475,
+  "dec": 29.578818669729724,
+  "dist": 19.4175,
+  "otype": "SB*",
+  "spect": "F5III",
+  "cat": 13,
+  "proper": "Mothallah",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Tri",
+  "fl": 2,
+  "fl_con": "Tri"
+}

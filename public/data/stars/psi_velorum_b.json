@@ -1,0 +1,15 @@
+{
+  "id": "psi_velorum_b",
+  "name": "Psi Velorum B",
+  "rank": 4,
+  "ra": 142.67515748460875,
+  "dec": -40.466757672305,
+  "dist": 18.4144,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "psi",
+  "by_greek": "ψ",
+  "by_con": "Vel",
+  "by_comp": "B"
+}

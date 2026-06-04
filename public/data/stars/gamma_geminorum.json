@@ -1,0 +1,17 @@
+{
+  "id": "gamma_geminorum",
+  "name": "Gamma Geminorum",
+  "rank": 2,
+  "ra": 99.42796042942895,
+  "dec": 16.399280426663772,
+  "dist": 33.5121,
+  "otype": "SB*",
+  "spect": "A1.5IV+",
+  "cat": 10,
+  "proper": "Alhena",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Gem",
+  "fl": 24,
+  "fl_con": "Gem"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "109_virginis",
+  "name": "109 Virginis",
+  "rank": 2,
+  "ra": 221.5621810306004,
+  "dec": 1.8928838280086113,
+  "dist": 41.2371,
+  "otype": "PM*",
+  "spect": "A0IIInn",
+  "cat": 13,
+  "proper": "Maenalus",
+  "fl": 109,
+  "fl_con": "Vir"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "c_2_aquarii",
+  "name": "c 2 Aquarii",
+  "rank": 2,
+  "ra": 347.36165018724955,
+  "dec": -21.172415205008054,
+  "dist": 82.9876,
+  "otype": "PM*",
+  "spect": "K1.5III",
+  "cat": 13,
+  "proper": "Safina",
+  "by": "c02",
+  "by_greek": "c²",
+  "by_con": "Aqr",
+  "fl": 88,
+  "fl_con": "Aqr"
+}

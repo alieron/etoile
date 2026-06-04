@@ -1,0 +1,14 @@
+{
+  "id": "33_bootis_b",
+  "name": "33 Boötis B",
+  "rank": 5,
+  "ra": 219.70908333333333,
+  "dec": 44.404555555555554,
+  "dist": 57.0125,
+  "otype": "LM*",
+  "spect": "M5-8",
+  "cat": 3,
+  "fl": 33,
+  "fl_con": "Boo",
+  "fl_comp": "B"
+}

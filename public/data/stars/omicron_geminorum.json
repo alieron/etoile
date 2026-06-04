@@ -1,0 +1,17 @@
+{
+  "id": "omicron_geminorum",
+  "name": "Omicron Geminorum",
+  "rank": 2,
+  "ra": 114.79139442639,
+  "dec": 34.58430633086,
+  "dist": 50.9944,
+  "otype": "PM*",
+  "spect": "F5-6IV",
+  "cat": 11,
+  "proper": "Jishui",
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "Gem",
+  "fl": 71,
+  "fl_con": "Gem"
+}

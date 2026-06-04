@@ -1,0 +1,16 @@
+{
+  "id": "chi_leonis",
+  "name": "Chi Leonis",
+  "rank": 4,
+  "ra": 166.25428253551706,
+  "dec": 7.336006702587223,
+  "dist": 28.9939,
+  "otype": "PM*",
+  "spect": "F2III",
+  "cat": 13,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Leo",
+  "fl": 63,
+  "fl_con": "Leo"
+}

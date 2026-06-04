@@ -1,0 +1,15 @@
+{
+  "id": "ov_geminorum",
+  "name": "OV Geminorum",
+  "rank": 5,
+  "ra": 102.45765099086,
+  "dec": 16.202884085560004,
+  "dist": 263.1579,
+  "otype": "Pe*",
+  "spect": "B9III",
+  "cat": 17,
+  "v": "OV",
+  "v_con": "Gem",
+  "fl": 33,
+  "fl_con": "Gem"
+}

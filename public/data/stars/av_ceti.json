@@ -1,0 +1,15 @@
+{
+  "id": "av_ceti",
+  "name": "AV Ceti",
+  "rank": 5,
+  "ra": 21.01057835047,
+  "dec": -8.007414643529998,
+  "dist": 67.5219,
+  "otype": "dS*",
+  "spect": "A9V",
+  "cat": 6,
+  "v": "AV",
+  "v_con": "Cet",
+  "fl": 44,
+  "fl_con": "Cet"
+}

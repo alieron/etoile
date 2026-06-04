@@ -1,0 +1,16 @@
+{
+  "id": "delta_1_lyrae",
+  "name": "Delta 1 Lyrae",
+  "rank": 4,
+  "ra": 283.43149643696995,
+  "dec": 36.97171878988,
+  "dist": 303.9514,
+  "otype": "SB*",
+  "spect": "B2V",
+  "cat": 8,
+  "by": "del01",
+  "by_greek": "δ¹",
+  "by_con": "Lyr",
+  "fl": 11,
+  "fl_con": "Lyr"
+}

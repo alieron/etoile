@@ -1,0 +1,14 @@
+{
+  "id": "65_ursae_majoris_d",
+  "name": "65 Ursae Majoris D",
+  "rank": 5,
+  "ra": 178.79721005017,
+  "dec": 46.46976845727999,
+  "dist": 296.7359,
+  "otype": "*",
+  "spect": "F0IVspCrSrEu",
+  "cat": 11,
+  "fl": 65,
+  "fl_con": "UMa",
+  "fl_comp": "D"
+}

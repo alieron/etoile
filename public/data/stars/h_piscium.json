@@ -1,0 +1,16 @@
+{
+  "id": "h_piscium",
+  "name": "h Piscium",
+  "rank": 4,
+  "ra": 14.458967387010002,
+  "dec": 28.992213990840007,
+  "dist": 198.8072,
+  "otype": "*",
+  "spect": "G6III",
+  "cat": 13,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Psc",
+  "fl": 68,
+  "fl_con": "Psc"
+}

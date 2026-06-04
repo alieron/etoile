@@ -1,0 +1,18 @@
+{
+  "id": "y_3_puppis",
+  "name": "y 3 Puppis",
+  "rank": 4,
+  "ra": 114.57586847574,
+  "dec": -48.60143459937999,
+  "dist": 961.5385,
+  "otype": "cC*",
+  "spect": "F7Ib/II",
+  "cat": 18,
+  "by": "y03",
+  "by_greek": "y³",
+  "by_con": "Pup",
+  "v": "MY",
+  "v_con": "Pup",
+  "fl": 142,
+  "fl_con": "Pup"
+}

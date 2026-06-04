@@ -1,0 +1,14 @@
+{
+  "id": "phi_2_lupi",
+  "name": "Phi 2 Lupi",
+  "rank": 4,
+  "ra": 230.7889609843454,
+  "dec": -36.85848830557861,
+  "dist": 159.2357,
+  "otype": "*",
+  "spect": "B4V",
+  "cat": 8,
+  "by": "phi02",
+  "by_greek": "φ²",
+  "by_con": "Lup"
+}

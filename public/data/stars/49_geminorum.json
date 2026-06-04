@@ -1,0 +1,13 @@
+{
+  "id": "49_geminorum",
+  "name": "49 Geminorum",
+  "rank": 5,
+  "ra": 108.20572716028,
+  "dec": 25.748698095299996,
+  "dist": 302.1148,
+  "otype": "*",
+  "spect": "A0",
+  "cat": 7,
+  "fl": 49,
+  "fl_con": "Gem"
+}

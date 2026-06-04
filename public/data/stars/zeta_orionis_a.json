@@ -1,0 +1,19 @@
+{
+  "id": "zeta_orionis_a",
+  "name": "Zeta Orionis A",
+  "rank": 2,
+  "ra": 85.18969442793068,
+  "dec": -1.9425735859722049,
+  "dist": 225.735857336,
+  "otype": "SB*",
+  "spect": "O9.7Ib+B0III",
+  "cat": 17,
+  "proper": "Alnitak",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Ori",
+  "by_comp": "A",
+  "fl": 50,
+  "fl_con": "Ori",
+  "fl_comp": "A"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36_andromedae_a",
+  "name": "36 Andromedae A",
+  "rank": 5,
+  "ra": 13.742108691523887,
+  "dec": 23.628327740257397,
+  "dist": 37.979879795,
+  "otype": "PM*",
+  "spect": "K0IV(e)",
+  "cat": 12,
+  "fl": 36,
+  "fl_con": "And",
+  "fl_comp": "A"
+}

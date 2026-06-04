@@ -1,0 +1,13 @@
+{
+  "id": "10_cassiopeiae",
+  "name": "10 Cassiopeiae",
+  "rank": 5,
+  "ra": 1.6105721928199996,
+  "dec": 64.19615796995,
+  "dist": 265.9574,
+  "otype": "Be*",
+  "spect": "B9IIIe",
+  "cat": 8,
+  "fl": 10,
+  "fl_con": "Cas"
+}

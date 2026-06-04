@@ -1,0 +1,16 @@
+{
+  "id": "chi_andromedae",
+  "name": "Chi Andromedae",
+  "rank": 4,
+  "ra": 24.837452388370004,
+  "dec": 44.38617497652,
+  "dist": 76.746,
+  "otype": "SB*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "And",
+  "fl": 52,
+  "fl_con": "And"
+}

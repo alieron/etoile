@@ -1,0 +1,15 @@
+{
+  "id": "v927_scorpii",
+  "name": "V927 Scorpii",
+  "rank": 5,
+  "ra": 238.66470688852996,
+  "dec": -25.24373887948,
+  "dist": 157.9779,
+  "otype": "*",
+  "spect": "B8III/IV",
+  "cat": 9,
+  "v": "V927",
+  "v_con": "Sco",
+  "fl": 3,
+  "fl_con": "Sco"
+}

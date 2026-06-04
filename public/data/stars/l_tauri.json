@@ -1,0 +1,16 @@
+{
+  "id": "l_tauri",
+  "name": "l Tauri",
+  "rank": 4,
+  "ra": 76.9516651361,
+  "dec": 20.41837644628,
+  "dist": 58.1058,
+  "otype": "PM*",
+  "spect": "A5IV",
+  "cat": 10,
+  "by": "l",
+  "by_greek": "l",
+  "by_con": "Tau",
+  "fl": 106,
+  "fl_con": "Tau"
+}

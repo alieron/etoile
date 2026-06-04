@@ -1,0 +1,13 @@
+{
+  "id": "41_comae_berenices",
+  "name": "41 Comae Berenices",
+  "rank": 5,
+  "ra": 196.79470800944625,
+  "dec": 27.62473762183611,
+  "dist": 101.626,
+  "otype": "PM*",
+  "spect": "K5-III",
+  "cat": 13,
+  "fl": 41,
+  "fl_con": "Com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "21_tauri",
+  "name": "21 Tauri",
+  "rank": 2,
+  "ra": 56.47698521152,
+  "dec": 24.55450991618,
+  "dist": 114.0251,
+  "otype": "PM*",
+  "spect": "B8V",
+  "cat": 8,
+  "proper": "Asterope",
+  "fl": 21,
+  "fl_con": "Tau"
+}

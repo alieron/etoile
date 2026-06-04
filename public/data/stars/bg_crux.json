@@ -1,0 +1,15 @@
+{
+  "id": "bg_crux",
+  "name": "BG Crux",
+  "rank": 5,
+  "ra": 187.91804315106,
+  "dec": -59.42392352509,
+  "dist": 429.1845,
+  "otype": "cC*",
+  "spect": "F7Ib/II",
+  "cat": 18,
+  "v": "BG",
+  "v_con": "Cru",
+  "fl": 35,
+  "fl_con": "Cru"
+}

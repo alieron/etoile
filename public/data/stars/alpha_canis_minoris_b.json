@@ -1,0 +1,15 @@
+{
+  "id": "alpha_canis_minoris_b",
+  "name": "Alpha Canis Minoris B",
+  "rank": 4,
+  "ra": 114.8245,
+  "dec": 5.2241111,
+  "dist": 3.5,
+  "otype": "WD*",
+  "spect": "DQZ",
+  "cat": 1,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "CMi",
+  "by_comp": "B"
+}

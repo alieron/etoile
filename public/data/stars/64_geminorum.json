@@ -1,0 +1,13 @@
+{
+  "id": "64_geminorum",
+  "name": "64 Geminorum",
+  "rank": 5,
+  "ra": 112.33517017362,
+  "dec": 28.11827629951,
+  "dist": 54.0249,
+  "otype": "PM*",
+  "spect": "A4V",
+  "cat": 7,
+  "fl": 64,
+  "fl_con": "Gem"
+}

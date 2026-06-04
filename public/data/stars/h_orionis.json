@@ -1,0 +1,16 @@
+{
+  "id": "h_orionis",
+  "name": "h Orionis",
+  "rank": 4,
+  "ra": 77.33184697113,
+  "dec": 9.82958407609,
+  "dist": 54.7046,
+  "otype": "SB*",
+  "spect": "A2m",
+  "cat": 7,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Ori",
+  "fl": 16,
+  "fl_con": "Ori"
+}

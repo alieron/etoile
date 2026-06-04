@@ -1,0 +1,18 @@
+{
+  "id": "theta_sagittae_a",
+  "name": "Theta Sagittae A",
+  "rank": 4,
+  "ra": 302.48602850738,
+  "dec": 20.915027043259997,
+  "dist": 45.2489,
+  "otype": "PM*",
+  "spect": "F3V",
+  "cat": 6,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Sge",
+  "by_comp": "A",
+  "fl": 17,
+  "fl_con": "Sge",
+  "fl_comp": "A"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "phi_1_lupi",
+  "name": "Phi 1 Lupi",
+  "rank": 3,
+  "ra": 230.45153998804454,
+  "dec": -36.26137329029805,
+  "dist": 84.317,
+  "otype": "PM*",
+  "spect": "K4III",
+  "cat": 13,
+  "by": "phi01",
+  "by_greek": "φ¹",
+  "by_con": "Lup"
+}

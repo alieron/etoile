@@ -1,0 +1,14 @@
+{
+  "id": "21_ursae_majoris_b",
+  "name": "21 Ursae Majoris B",
+  "rank": 5,
+  "ra": 141.40573612429,
+  "dec": 54.01702126954,
+  "dist": 184.237,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 21,
+  "fl_con": "UMa",
+  "fl_comp": "B"
+}

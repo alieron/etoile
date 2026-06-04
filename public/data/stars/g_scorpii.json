@@ -1,0 +1,15 @@
+{
+  "id": "g_scorpii",
+  "name": "G Scorpii",
+  "rank": 2,
+  "ra": 267.4645037403808,
+  "dec": -37.04327637830389,
+  "dist": 38.5802,
+  "otype": "*",
+  "spect": "K2III",
+  "cat": 13,
+  "proper": "Fuyue",
+  "by": "G",
+  "by_greek": "G",
+  "by_con": "Sco"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "g_ursae_majoris",
+  "name": "g Ursae Majoris",
+  "rank": 2,
+  "ra": 201.30640763875,
+  "dec": 54.98795966138889,
+  "dist": 25.0564,
+  "otype": "**",
+  "spect": "A5V+M3-4V",
+  "cat": 7,
+  "proper": "Alcor",
+  "by": "g",
+  "by_greek": "g",
+  "by_con": "UMa",
+  "fl": 80,
+  "fl_con": "UMa"
+}

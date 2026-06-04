@@ -1,0 +1,15 @@
+{
+  "id": "gamma_draconis_b",
+  "name": "Gamma Draconis B",
+  "rank": 4,
+  "ra": 269.15597234765454,
+  "dec": 51.48376295369833,
+  "dist": 46.2719,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Dra",
+  "by_comp": "B"
+}

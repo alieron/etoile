@@ -1,0 +1,15 @@
+{
+  "id": "alpha_carinae",
+  "name": "Alpha Carinae",
+  "rank": 2,
+  "ra": 95.98795782918306,
+  "dec": -52.69566138386201,
+  "dist": 94.7867,
+  "otype": "*",
+  "spect": "A9II",
+  "cat": 13,
+  "proper": "Canopus",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Car"
+}

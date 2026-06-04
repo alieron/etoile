@@ -2,186 +2,113 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Star",
   "type": "object",
-  "additionalProperties": false,
   "required": [
-    "display_name",
+    "id",
+    "name",
+    "rank",
     "ra",
     "dec",
-    "parallax",
     "dist",
-    "sp_type",
-    "spectral_class",
-    "luminosity_class",
-    "star_type"
+    "otype",
+    "spect",
+    "cat"
   ],
   "properties": {
-    "display_name": {
+    "id": {
       "type": "string"
     },
-    "common_name": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "name": {
+      "type": "string"
     },
-    "bayer_name": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "proper": {
+      "type": "string"
     },
-    "bayer_name_ascii": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "rank": {
+      "type": "integer",
+      "minimum": 2,
+      "maximum": 5
     },
-    "gaia_dr3_id": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "by": {
+      "type": "string"
     },
-    "gaia_dr2_id": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "by_greek": {
+      "type": "string"
     },
-    "HD_id": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "by_con": {
+      "type": "string"
     },
-    "HIP_id": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "by_comp": {
+      "type": "string"
     },
-    "gliese_id": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "v": {
+      "type": "string"
     },
-    "2mass_id": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "v_con": {
+      "type": "string"
     },
-    "WR_id": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "v_comp": {
+      "type": "string"
+    },
+    "fl": {
+      "type": "integer"
+    },
+    "fl_con": {
+      "type": "string"
+    },
+    "fl_comp": {
+      "type": "string"
     },
     "ra": {
-      "type": "number",
-      "description": "degrees"
-    },
-    "ra_source": {
-      "type": [
-        "string",
-        "null"
-      ]
+      "type": "number"
     },
     "dec": {
-      "type": "number",
-      "description": "degrees"
-    },
-    "dec_source": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "parallax": {
-      "type": "number",
-      "description": "mas"
-    },
-    "parallax_source": {
-      "type": [
-        "string",
-        "null"
-      ]
+      "type": "number"
     },
     "dist": {
-      "type": "number",
-      "description": "parsecs"
+      "type": "number"
     },
-    "sp_type": {
-      "type": "string"
-    },
-    "sp_type_source": {
+    "otype": {
       "type": [
         "string",
         "null"
       ]
     },
-    "spectral_class": {
+    "spect": {
       "type": [
         "string",
         "null"
       ]
     },
-    "luminosity_class": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "star_type": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "spectral_peculiarities": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "radius": {
-      "type": [
-        "number",
-        "null"
-      ],
-      "description": "solar radii"
-    },
-    "radius_source": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "luminosity": {
-      "type": [
-        "number",
-        "null"
-      ],
-      "description": "solar luminosities"
-    },
-    "luminosity_source": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "BV_color_index": {
-      "type": [
-        "number",
-        "null"
-      ]
-    },
-    "BV_color_index_source": {
-      "type": [
-        "string",
-        "null"
-      ]
+    "cat": {
+      "type": "integer",
+      "minimum": 0
     }
-  }
+  },
+  "dependentRequired": {
+    "by": [
+      "by_greek",
+      "by_con"
+    ],
+    "by_greek": [
+      "by",
+      "by_con"
+    ],
+    "by_con": [
+      "by",
+      "by_greek"
+    ],
+    "v": [
+      "v_con"
+    ],
+    "v_con": [
+      "v"
+    ],
+    "fl": [
+      "fl_con"
+    ],
+    "fl_con": [
+      "fl"
+    ]
+  },
+  "additionalProperties": false
 }

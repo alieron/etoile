@@ -1,0 +1,15 @@
+{
+  "id": "x_sagittarii",
+  "name": "X Sagittarii",
+  "rank": 5,
+  "ra": 266.89009978762,
+  "dec": -27.830787716359996,
+  "dist": 302.1148,
+  "otype": "cC*",
+  "spect": "F7II",
+  "cat": 18,
+  "v": "X",
+  "v_con": "Sgr",
+  "fl": 3,
+  "fl_con": "Sgr"
+}

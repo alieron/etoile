@@ -1,0 +1,15 @@
+{
+  "id": "mu_sagittarii_c",
+  "name": "Mu Sagittarii C",
+  "rank": 4,
+  "ra": 273.4352416666666,
+  "dec": -21.060672222222223,
+  "dist": 100000.0,
+  "otype": "*",
+  "spect": "A3V",
+  "cat": 7,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Sgr",
+  "by_comp": "C"
+}

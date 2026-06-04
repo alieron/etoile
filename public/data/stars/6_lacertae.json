@@ -1,0 +1,13 @@
+{
+  "id": "6_lacertae",
+  "name": "6 Lacertae",
+  "rank": 3,
+  "ra": 337.62191955812244,
+  "dec": 43.12337646048139,
+  "dist": 526.3158,
+  "otype": "SB*",
+  "spect": "B2IV",
+  "cat": 9,
+  "fl": 6,
+  "fl_con": "Lac"
+}

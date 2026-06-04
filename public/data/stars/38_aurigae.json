@@ -1,0 +1,13 @@
+{
+  "id": "38_aurigae",
+  "name": "38 Aurigae",
+  "rank": 5,
+  "ra": 90.82480384363,
+  "dec": 42.91149763071999,
+  "dist": 65.2316,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 38,
+  "fl_con": "Aur"
+}

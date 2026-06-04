@@ -1,0 +1,14 @@
+{
+  "id": "theta_lupi",
+  "name": "Theta Lupi",
+  "rank": 4,
+  "ra": 241.64809992840003,
+  "dec": -36.80227052962,
+  "dist": 127.0648,
+  "otype": "Pu*",
+  "spect": "B2.5Vn",
+  "cat": 8,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Lup"
+}

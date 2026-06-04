@@ -1,0 +1,14 @@
+{
+  "id": "2_ceti",
+  "name": "2 Ceti",
+  "rank": 2,
+  "ra": 0.9349492958375001,
+  "dec": -17.335991442864444,
+  "dist": 83.4725,
+  "otype": "*",
+  "spect": "B9IVn",
+  "cat": 9,
+  "proper": "Hydor",
+  "fl": 2,
+  "fl_con": "Cet"
+}

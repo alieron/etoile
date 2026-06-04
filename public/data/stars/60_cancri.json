@@ -1,0 +1,13 @@
+{
+  "id": "60_cancri",
+  "name": "60 Cancri",
+  "rank": 5,
+  "ra": 133.9814460193,
+  "dec": 11.626024724329998,
+  "dist": 213.2196,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 60,
+  "fl_con": "Cnc"
+}

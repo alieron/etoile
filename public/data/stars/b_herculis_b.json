@@ -1,0 +1,15 @@
+{
+  "id": "b_herculis_b",
+  "name": "b Herculis B",
+  "rank": 4,
+  "ra": 271.7562672069888,
+  "dec": 30.562211809770837,
+  "dist": 18.5264,
+  "otype": "PM*",
+  "spect": "K4V",
+  "cat": 4,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Her",
+  "by_comp": "B"
+}

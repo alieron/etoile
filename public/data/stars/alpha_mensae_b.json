@@ -1,0 +1,15 @@
+{
+  "id": "alpha_mensae_b",
+  "name": "Alpha Mensae B",
+  "rank": 4,
+  "ra": 92.55735040883,
+  "dec": -74.75333413662,
+  "dist": 10.218,
+  "otype": "PM*",
+  "spect": "M3.5",
+  "cat": 3,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Men",
+  "by_comp": "B"
+}

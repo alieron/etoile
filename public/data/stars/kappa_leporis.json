@@ -1,0 +1,16 @@
+{
+  "id": "kappa_leporis",
+  "name": "Kappa Leporis",
+  "rank": 3,
+  "ra": 78.30782095595,
+  "dec": -12.94129245532,
+  "dist": 223.2143,
+  "otype": "Pu*",
+  "spect": "B7V",
+  "cat": 8,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Lep",
+  "fl": 4,
+  "fl_con": "Lep"
+}

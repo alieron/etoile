@@ -1,0 +1,16 @@
+{
+  "id": "phi_2_ceti",
+  "name": "Phi 2 Ceti",
+  "rank": 4,
+  "ra": 12.5316206769625,
+  "dec": -10.644328847899445,
+  "dist": 15.753,
+  "otype": "PM*",
+  "spect": "F7V",
+  "cat": 6,
+  "by": "phi02",
+  "by_greek": "φ²",
+  "by_con": "Cet",
+  "fl": 19,
+  "fl_con": "Cet"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "u_carinae",
+  "name": "u Carinae",
+  "rank": 3,
+  "ra": 163.37356713128625,
+  "dec": -58.85317036981778,
+  "dist": 29.129,
+  "otype": "PM*",
+  "spect": "K0IV",
+  "cat": 12,
+  "by": "u",
+  "by_greek": "u",
+  "by_con": "Car"
+}

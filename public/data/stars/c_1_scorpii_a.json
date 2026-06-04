@@ -1,0 +1,18 @@
+{
+  "id": "c_1_scorpii_a",
+  "name": "c 1 Scorpii A",
+  "rank": 4,
+  "ra": 243.06682962911884,
+  "dec": -28.417308952791906,
+  "dist": 93.02423023300001,
+  "otype": "**",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "c01",
+  "by_greek": "c¹",
+  "by_con": "Sco",
+  "by_comp": "A",
+  "fl": 12,
+  "fl_con": "Sco",
+  "fl_comp": "A"
+}

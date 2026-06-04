@@ -1,0 +1,13 @@
+{
+  "id": "34_virginis",
+  "name": "34 Virginis",
+  "rank": 5,
+  "ra": 191.80682846156,
+  "dec": 11.9580871752,
+  "dist": 83.2639,
+  "otype": "PM*",
+  "spect": "A4V(n)",
+  "cat": 7,
+  "fl": 34,
+  "fl_con": "Vir"
+}

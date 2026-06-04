@@ -1,0 +1,16 @@
+{
+  "id": "psi_2_piscium",
+  "name": "Psi 2 Piscium",
+  "rank": 4,
+  "ra": 16.988183246159995,
+  "dec": 20.739069550719996,
+  "dist": 47.3037,
+  "otype": "**",
+  "spect": "A3V",
+  "cat": 7,
+  "by": "psi02",
+  "by_greek": "ψ²",
+  "by_con": "Psc",
+  "fl": 79,
+  "fl_con": "Psc"
+}

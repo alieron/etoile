@@ -1,0 +1,17 @@
+{
+  "id": "delta_sagittarii",
+  "name": "Delta Sagittarii",
+  "rank": 2,
+  "ra": 275.24851205687213,
+  "dec": -29.828102262591386,
+  "dist": 106.6098,
+  "otype": "*",
+  "spect": "K2.5IIIaCN0.5",
+  "cat": 15,
+  "proper": "Kaus Media",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Sgr",
+  "fl": 19,
+  "fl_con": "Sgr"
+}

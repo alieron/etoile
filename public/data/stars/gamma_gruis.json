@@ -1,0 +1,15 @@
+{
+  "id": "gamma_gruis",
+  "name": "Gamma Gruis",
+  "rank": 2,
+  "ra": 328.48215125261004,
+  "dec": -37.36487221701779,
+  "dist": 64.7249,
+  "otype": "PM*",
+  "spect": "B8IV-Vs",
+  "cat": 9,
+  "proper": "Aldhanab",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Gru"
+}

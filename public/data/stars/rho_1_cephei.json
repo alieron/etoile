@@ -1,0 +1,16 @@
+{
+  "id": "rho_1_cephei",
+  "name": "Rho 1 Cephei",
+  "rank": 4,
+  "ra": 336.67680972016,
+  "dec": 78.78587325725,
+  "dist": 63.1712,
+  "otype": "**",
+  "spect": "A2Vm",
+  "cat": 7,
+  "by": "rho01",
+  "by_greek": "ρ¹",
+  "by_con": "Cep",
+  "fl": 28,
+  "fl_con": "Cep"
+}

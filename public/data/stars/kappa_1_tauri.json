@@ -1,0 +1,16 @@
+{
+  "id": "kappa_1_tauri",
+  "name": "Kappa 1 Tauri",
+  "rank": 4,
+  "ra": 66.34235197098376,
+  "dec": 22.29387108502889,
+  "dist": 47.1921,
+  "otype": "PM*",
+  "spect": "A7IV-V",
+  "cat": 10,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "Tau",
+  "fl": 65,
+  "fl_con": "Tau"
+}

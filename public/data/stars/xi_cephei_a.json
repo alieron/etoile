@@ -1,0 +1,16 @@
+{
+  "id": "xi_cephei_a",
+  "name": "Xi Cephei A",
+  "rank": 2,
+  "ra": 330.9477291109317,
+  "dec": 64.62797577182414,
+  "dist": 29.594895946,
+  "otype": "SB*",
+  "spect": "Am+F7/8V",
+  "cat": 7,
+  "proper": "Kurhah",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Cep",
+  "by_comp": "A"
+}

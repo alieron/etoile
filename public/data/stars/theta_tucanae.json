@@ -1,0 +1,14 @@
+{
+  "id": "theta_tucanae",
+  "name": "Theta Tucanae",
+  "rank": 4,
+  "ra": 8.34733013073,
+  "dec": -71.26624456366,
+  "dist": 130.039,
+  "otype": "dS*",
+  "spect": "A7IV",
+  "cat": 6,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Tuc"
+}

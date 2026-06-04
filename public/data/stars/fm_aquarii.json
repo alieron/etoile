@@ -1,0 +1,15 @@
+{
+  "id": "fm_aquarii",
+  "name": "FM Aquarii",
+  "rank": 5,
+  "ra": 342.12587610682,
+  "dec": -10.555477163270002,
+  "dist": 111.6071,
+  "otype": "dS*",
+  "spect": "F0V",
+  "cat": 6,
+  "v": "FM",
+  "v_con": "Aqr",
+  "fl": 70,
+  "fl_con": "Aqr"
+}

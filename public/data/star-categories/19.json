@@ -1,0 +1,18 @@
+{
+  "id": 19,
+  "name": "binary_multiple_unresolved",
+  "rgb": [
+    255,
+    255,
+    220
+  ],
+  "color": [
+    1.0,
+    1.0,
+    0.862745
+  ],
+  "radius": 1.5,
+  "point": 1.15,
+  "halo": 1.4,
+  "glow": 0.32
+}

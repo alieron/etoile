@@ -1,0 +1,13 @@
+{
+  "id": "83_herculis",
+  "name": "83 Herculis",
+  "rank": 5,
+  "ra": 265.6181762672,
+  "dec": 24.56405730442,
+  "dist": 124.3781,
+  "otype": "PM*",
+  "spect": "K4III",
+  "cat": 13,
+  "fl": 83,
+  "fl_con": "Her"
+}

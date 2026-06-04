@@ -1,0 +1,16 @@
+{
+  "id": "theta_cassiopeiae",
+  "name": "Theta Cassiopeiae",
+  "rank": 4,
+  "ra": 17.77567538716791,
+  "dec": 55.14989971999472,
+  "dist": 40.95,
+  "otype": "PM*",
+  "spect": "A7V",
+  "cat": 7,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cas",
+  "fl": 33,
+  "fl_con": "Cas"
+}

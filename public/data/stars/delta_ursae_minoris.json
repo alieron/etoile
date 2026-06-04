@@ -1,0 +1,17 @@
+{
+  "id": "delta_ursae_minoris",
+  "name": "Delta Ursae Minoris",
+  "rank": 2,
+  "ra": 263.0541592214034,
+  "dec": 86.58645960557529,
+  "dist": 52.7704,
+  "otype": "PM*",
+  "spect": "A1Van",
+  "cat": 7,
+  "proper": "Yildun",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "UMi",
+  "fl": 23,
+  "fl_con": "UMi"
+}

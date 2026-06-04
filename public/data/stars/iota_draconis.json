@@ -1,0 +1,17 @@
+{
+  "id": "iota_draconis",
+  "name": "Iota Draconis",
+  "rank": 2,
+  "ra": 231.23239085120377,
+  "dec": 58.966065864404726,
+  "dist": 31.027,
+  "otype": "V*",
+  "spect": "K2III",
+  "cat": 13,
+  "proper": "Edasich",
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Dra",
+  "fl": 12,
+  "fl_con": "Dra"
+}

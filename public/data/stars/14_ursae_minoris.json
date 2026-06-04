@@ -1,0 +1,13 @@
+{
+  "id": "14_ursae_minoris",
+  "name": "14 Ursae Minoris",
+  "rank": 5,
+  "ra": 230.37624671017002,
+  "dec": 73.47668782209,
+  "dist": 62.2278,
+  "otype": "SB*",
+  "spect": "F5",
+  "cat": 6,
+  "fl": 14,
+  "fl_con": "UMi"
+}

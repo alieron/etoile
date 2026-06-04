@@ -1,0 +1,19 @@
+{
+  "id": "i_bootis_a",
+  "name": "i Boötis A",
+  "rank": 2,
+  "ra": 225.94706519512025,
+  "dec": 47.65406187958964,
+  "dist": 12.508050155999998,
+  "otype": "PM*",
+  "spect": "G0Vn",
+  "cat": 5,
+  "proper": "Quadrans",
+  "by": "i",
+  "by_greek": "i",
+  "by_con": "Boo",
+  "by_comp": "A",
+  "fl": 44,
+  "fl_con": "Boo",
+  "fl_comp": "A"
+}

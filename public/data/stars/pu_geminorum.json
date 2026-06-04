@@ -1,0 +1,15 @@
+{
+  "id": "pu_geminorum",
+  "name": "PU Geminorum",
+  "rank": 5,
+  "ra": 92.43327206226,
+  "dec": 23.113464505680003,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B2.5Ib",
+  "cat": 17,
+  "v": "PU",
+  "v_con": "Gem",
+  "fl": 3,
+  "fl_con": "Gem"
+}

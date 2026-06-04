@@ -1,0 +1,19 @@
+{
+  "id": "gamma_leonis_a",
+  "name": "Gamma Leonis A",
+  "rank": 2,
+  "ra": 154.9931435916667,
+  "dec": 19.841488666666663,
+  "dist": 39.8883,
+  "otype": "PM*",
+  "spect": "K1-IIIFe-1",
+  "cat": 13,
+  "proper": "Algieba",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Leo",
+  "by_comp": "A",
+  "fl": 41,
+  "fl_con": "Leo",
+  "fl_comp": "A"
+}

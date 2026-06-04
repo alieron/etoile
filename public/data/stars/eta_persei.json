@@ -1,0 +1,17 @@
+{
+  "id": "eta_persei",
+  "name": "Eta Persei",
+  "rank": 2,
+  "ra": 42.67420822277708,
+  "dec": 55.895494367171665,
+  "dist": 269.5418,
+  "otype": "*",
+  "spect": "K3-Ib-IIa",
+  "cat": 15,
+  "proper": "Miram",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Per",
+  "fl": 15,
+  "fl_con": "Per"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gamma_1_volantis",
+  "name": "Gamma 1 Volantis",
+  "rank": 4,
+  "ra": 107.17654279512,
+  "dec": -70.49709075274,
+  "dist": 49.6524,
+  "otype": "PM*",
+  "spect": "F0/3",
+  "cat": 6,
+  "by": "gam01",
+  "by_greek": "γ¹",
+  "by_con": "Vol"
+}

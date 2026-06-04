@@ -1,0 +1,15 @@
+{
+  "id": "pi_tucanae_b",
+  "name": "Pi Tucanae B",
+  "rank": 4,
+  "ra": 5.161632765520001,
+  "dec": -69.62543539238,
+  "dist": 95.752,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Tuc",
+  "by_comp": "B"
+}

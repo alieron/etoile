@@ -1,0 +1,15 @@
+{
+  "id": "v815_centauri",
+  "name": "V815 Centauri",
+  "rank": 5,
+  "ra": 166.81954127333,
+  "dec": -42.63867989248,
+  "dist": 84.1043,
+  "otype": "a2*",
+  "spect": "ApSrCrEu",
+  "cat": 20,
+  "v": "V815",
+  "v_con": "Cen",
+  "fl": 46,
+  "fl_con": "Cen"
+}

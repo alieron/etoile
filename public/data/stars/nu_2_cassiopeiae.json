@@ -1,0 +1,14 @@
+{
+  "id": "nu_2_cassiopeiae",
+  "name": "Nu 2 Cassiopeiae",
+  "rank": 4,
+  "ra": 12.208422895640002,
+  "dec": 50.96816512721001,
+  "dist": 126.26386262600002,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "nu.02",
+  "by_greek": "ν²",
+  "by_con": "Cas"
+}

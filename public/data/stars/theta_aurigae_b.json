@@ -1,0 +1,15 @@
+{
+  "id": "theta_aurigae_b",
+  "name": "Theta Aurigae B",
+  "rank": 4,
+  "ra": 89.92917675478792,
+  "dec": 37.21324926804778,
+  "dist": 58.1967,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Aur",
+  "by_comp": "B"
+}

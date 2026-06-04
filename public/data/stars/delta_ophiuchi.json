@@ -1,0 +1,17 @@
+{
+  "id": "delta_ophiuchi",
+  "name": "Delta Ophiuchi",
+  "rank": 2,
+  "ra": 243.58641259114916,
+  "dec": -3.6943257851008338,
+  "dist": 52.4659,
+  "otype": "PM*",
+  "spect": "M0.5III",
+  "cat": 14,
+  "proper": "Yed Prior",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Oph",
+  "fl": 1,
+  "fl_con": "Oph"
+}

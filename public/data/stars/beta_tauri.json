@@ -1,0 +1,17 @@
+{
+  "id": "beta_tauri",
+  "name": "Beta Tauri",
+  "rank": 2,
+  "ra": 81.57297133176498,
+  "dec": 28.607451724998228,
+  "dist": 41.0509,
+  "otype": "PM*",
+  "spect": "B7III",
+  "cat": 17,
+  "proper": "Elnath",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Tau",
+  "fl": 112,
+  "fl_con": "Tau"
+}

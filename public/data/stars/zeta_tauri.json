@@ -1,0 +1,17 @@
+{
+  "id": "zeta_tauri",
+  "name": "Zeta Tauri",
+  "rank": 2,
+  "ra": 84.41118926291666,
+  "dec": 21.14254411222222,
+  "dist": 136.4256,
+  "otype": "Be*",
+  "spect": "B1IVe_shell",
+  "cat": 8,
+  "proper": "Tianguan",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Tau",
+  "fl": 123,
+  "fl_con": "Tau"
+}

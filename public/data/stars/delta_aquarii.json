@@ -1,0 +1,17 @@
+{
+  "id": "delta_aquarii",
+  "name": "Delta Aquarii",
+  "rank": 2,
+  "ra": 343.66252607413,
+  "dec": -15.820819565200004,
+  "dist": 49.2368,
+  "otype": "PM*",
+  "spect": "A3Vp",
+  "cat": 7,
+  "proper": "Skat",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Aqr",
+  "fl": 76,
+  "fl_con": "Aqr"
+}

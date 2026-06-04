@@ -1,0 +1,16 @@
+{
+  "id": "c_virginis",
+  "name": "c Virginis",
+  "rank": 4,
+  "ra": 185.0874224675821,
+  "dec": 3.312570893611389,
+  "dist": 94.4287,
+  "otype": "RG*",
+  "spect": "K0.5IIIbFe-0.5",
+  "cat": 14,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Vir",
+  "fl": 16,
+  "fl_con": "Vir"
+}

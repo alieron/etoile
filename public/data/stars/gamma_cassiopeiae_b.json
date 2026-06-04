@@ -1,0 +1,15 @@
+{
+  "id": "gamma_cassiopeiae_b",
+  "name": "Gamma Cassiopeiae B",
+  "rank": 4,
+  "ra": 14.176415255887918,
+  "dec": 60.71645122627361,
+  "dist": 168.3502,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cas",
+  "by_comp": "B"
+}

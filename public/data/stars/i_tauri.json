@@ -1,0 +1,19 @@
+{
+  "id": "i_tauri",
+  "name": "i Tauri",
+  "rank": 2,
+  "ra": 72.84359804648,
+  "dec": 18.839857185120003,
+  "dist": 51.2558,
+  "otype": "dS*",
+  "spect": "A7IV-V",
+  "cat": 6,
+  "proper": "Lembu",
+  "by": "i",
+  "by_greek": "i",
+  "by_con": "Tau",
+  "v": "V480",
+  "v_con": "Tau",
+  "fl": 97,
+  "fl_con": "Tau"
+}

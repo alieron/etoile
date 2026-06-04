@@ -1,0 +1,14 @@
+{
+  "id": "39_eridani_b",
+  "name": "39 Eridani B",
+  "rank": 5,
+  "ra": 63.59975997137,
+  "dec": -10.25772590196,
+  "dist": 69.806,
+  "otype": "PM*",
+  "spect": "G2V",
+  "cat": 5,
+  "fl": 39,
+  "fl_con": "Eri",
+  "fl_comp": "B"
+}

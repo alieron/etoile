@@ -1,0 +1,15 @@
+{
+  "id": "lm_hydrae",
+  "name": "LM Hydrae",
+  "rank": 5,
+  "ra": 126.61335804596419,
+  "dec": -3.9874303180216666,
+  "dist": 50.025,
+  "otype": "EB*",
+  "spect": "F0VmA6",
+  "cat": 6,
+  "v": "LM",
+  "v_con": "Hya",
+  "fl": 2,
+  "fl_con": "Hya"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pi_centauri_a",
+  "name": "Pi Centauri A",
+  "rank": 3,
+  "ra": 170.25173783632124,
+  "dec": -54.49110111167056,
+  "dist": 109.65019649100002,
+  "otype": "*",
+  "spect": "B5Vn",
+  "cat": 8,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Cen",
+  "by_comp": "A"
+}

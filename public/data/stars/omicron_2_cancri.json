@@ -1,0 +1,16 @@
+{
+  "id": "omicron_2_cancri",
+  "name": "Omicron 2 Cancri",
+  "rank": 4,
+  "ra": 134.39666532058,
+  "dec": 15.581284925840002,
+  "dist": 46.1255,
+  "otype": "PM*",
+  "spect": "F0IV",
+  "cat": 11,
+  "by": "omi02",
+  "by_greek": "ο²",
+  "by_con": "Cnc",
+  "fl": 63,
+  "fl_con": "Cnc"
+}

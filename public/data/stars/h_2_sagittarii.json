@@ -1,0 +1,16 @@
+{
+  "id": "h_2_sagittarii",
+  "name": "h 2 Sagittarii",
+  "rank": 4,
+  "ra": 294.1768056753442,
+  "dec": -24.883620868674445,
+  "dist": 58.1395,
+  "otype": "PM*",
+  "spect": "B8/9V",
+  "cat": 8,
+  "by": "h02",
+  "by_greek": "h²",
+  "by_con": "Sgr",
+  "fl": 52,
+  "fl_con": "Sgr"
+}

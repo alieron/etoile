@@ -1,0 +1,14 @@
+{
+  "id": "gamma_2_fornacis",
+  "name": "Gamma 2 Fornacis",
+  "rank": 4,
+  "ra": 42.47576098675,
+  "dec": -27.941983186010003,
+  "dist": 140.647,
+  "otype": "PM*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "gam02",
+  "by_greek": "γ²",
+  "by_con": "For"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "o_velorum",
+  "name": "O Velorum",
+  "rank": 4,
+  "ra": 145.92597708829,
+  "dec": -53.89128179928999,
+  "dist": 105.1525,
+  "otype": "PM*",
+  "spect": "A0IV",
+  "cat": 10,
+  "by": "O",
+  "by_greek": "O",
+  "by_con": "Vel",
+  "fl": 154,
+  "fl_con": "Vel"
+}

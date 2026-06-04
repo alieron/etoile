@@ -1,0 +1,15 @@
+{
+  "id": "v412_lacertae",
+  "name": "V412 Lacertae",
+  "rank": 3,
+  "ra": 337.3826173137183,
+  "dec": 47.706905899615,
+  "dist": 505.0505,
+  "otype": "s*r",
+  "spect": "K9Ia+B2V",
+  "cat": 15,
+  "v": "V412",
+  "v_con": "Lac",
+  "fl": 5,
+  "fl_con": "Lac"
+}

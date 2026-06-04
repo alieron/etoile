@@ -1,0 +1,18 @@
+{
+  "id": "c_sagittarii",
+  "name": "c Sagittarii",
+  "rank": 4,
+  "ra": 300.6645021138671,
+  "dec": -27.709844346463058,
+  "dist": 137.5516,
+  "otype": "LP*",
+  "spect": "M4.5III",
+  "cat": 14,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Sgr",
+  "v": "V3872",
+  "v_con": "Sgr",
+  "fl": 62,
+  "fl_con": "Sgr"
+}

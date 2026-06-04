@@ -1,0 +1,13 @@
+{
+  "id": "55_virginis",
+  "name": "55 Virginis",
+  "rank": 5,
+  "ra": 198.5453964623,
+  "dec": -19.93094566955,
+  "dist": 38.9712,
+  "otype": "PM*",
+  "spect": "G7IV",
+  "cat": 11,
+  "fl": 55,
+  "fl_con": "Vir"
+}

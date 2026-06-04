@@ -1,0 +1,16 @@
+{
+  "id": "sigma_orionis",
+  "name": "Sigma Orionis",
+  "rank": 4,
+  "ra": 84.68652242855,
+  "dec": -2.60007866108,
+  "dist": 328.9474,
+  "otype": "Y*O",
+  "spect": "O9.5V+B0.2V(n)",
+  "cat": 21,
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Ori",
+  "fl": 48,
+  "fl_con": "Ori"
+}

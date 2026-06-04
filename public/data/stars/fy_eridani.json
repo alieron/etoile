@@ -1,0 +1,15 @@
+{
+  "id": "fy_eridani",
+  "name": "FY Eridani",
+  "rank": 5,
+  "ra": 55.1597213081,
+  "dec": -5.21070992533,
+  "dist": 152.207,
+  "otype": "a2*",
+  "spect": "B9IIIpSi4200",
+  "cat": 20,
+  "v": "FY",
+  "v_con": "Eri",
+  "fl": 22,
+  "fl_con": "Eri"
+}

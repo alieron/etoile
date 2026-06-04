@@ -1,0 +1,13 @@
+{
+  "id": "18_sagittarii",
+  "name": "18 Sagittarii",
+  "rank": 5,
+  "ra": 276.25594695995,
+  "dec": -30.756560207819998,
+  "dist": 196.0784,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 18,
+  "fl_con": "Sgr"
+}

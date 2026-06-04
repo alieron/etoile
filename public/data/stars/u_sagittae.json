@@ -1,0 +1,16 @@
+{
+  "id": "u_sagittae",
+  "name": "U Sagittae",
+  "rank": 4,
+  "ra": 289.70170113474,
+  "dec": 19.610478605150004,
+  "dist": 239.8082,
+  "otype": "SB*",
+  "spect": "B7III+K1III",
+  "cat": 17,
+  "by": "U",
+  "by_greek": "U",
+  "by_con": "Sge",
+  "v": "U",
+  "v_con": "Sge"
+}

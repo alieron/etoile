@@ -1,0 +1,15 @@
+{
+  "id": "beta_1_sagittarii",
+  "name": "Beta 1 Sagittarii",
+  "rank": 2,
+  "ra": 290.65958004976,
+  "dec": -44.45895838469,
+  "dist": 96.1538,
+  "otype": "Pu*",
+  "spect": "B9V",
+  "cat": 8,
+  "proper": "Arkab Prior",
+  "by": "bet01",
+  "by_greek": "β¹",
+  "by_con": "Sgr"
+}

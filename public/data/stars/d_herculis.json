@@ -1,0 +1,16 @@
+{
+  "id": "d_herculis",
+  "name": "d Herculis",
+  "rank": 4,
+  "ra": 255.40150540406995,
+  "dec": 33.56826846532,
+  "dist": 98.8142,
+  "otype": "*",
+  "spect": "A3IV",
+  "cat": 10,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Her",
+  "fl": 59,
+  "fl_con": "Her"
+}

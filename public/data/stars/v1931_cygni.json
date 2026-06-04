@@ -1,0 +1,15 @@
+{
+  "id": "v1931_cygni",
+  "name": "V1931 Cygni",
+  "rank": 5,
+  "ra": 315.29553227228,
+  "dec": 46.15577644186,
+  "dist": 467.2897,
+  "otype": "Be*",
+  "spect": "B1Ve",
+  "cat": 8,
+  "v": "V1931",
+  "v_con": "Cyg",
+  "fl": 60,
+  "fl_con": "Cyg"
+}

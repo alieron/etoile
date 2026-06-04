@@ -1,0 +1,14 @@
+{
+  "id": "p_1_leonis",
+  "name": "p 1 Leonis",
+  "rank": 4,
+  "ra": 163.43213460152,
+  "dec": -2.1292055521799997,
+  "dist": 95.8773,
+  "otype": "**",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "p01",
+  "by_greek": "p¹",
+  "by_con": "Leo"
+}

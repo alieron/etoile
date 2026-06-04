@@ -1,0 +1,16 @@
+{
+  "id": "lambda_geminorum",
+  "name": "Lambda Geminorum",
+  "rank": 3,
+  "ra": 109.52324549807,
+  "dec": 16.54038599479,
+  "dist": 30.931,
+  "otype": "PM*",
+  "spect": "A4IV",
+  "cat": 10,
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Gem",
+  "fl": 54,
+  "fl_con": "Gem"
+}

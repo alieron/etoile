@@ -1,0 +1,17 @@
+{
+  "id": "beta_delphini",
+  "name": "Beta Delphini",
+  "rank": 2,
+  "ra": 309.3872554152033,
+  "dec": 14.5950887473128,
+  "dist": 30.931,
+  "otype": "**",
+  "spect": "F5IV",
+  "cat": 11,
+  "proper": "Rotanev",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Del",
+  "fl": 6,
+  "fl_con": "Del"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "theta_2_tauri",
+  "name": "Theta 2 Tauri",
+  "rank": 2,
+  "ra": 67.16559004644,
+  "dec": 15.870874649550002,
+  "dist": 46.1042,
+  "otype": "dS*",
+  "spect": "A7III",
+  "cat": 6,
+  "proper": "Chamukuy",
+  "by": "tet02",
+  "by_greek": "θ²",
+  "by_con": "Tau",
+  "fl": 78,
+  "fl_con": "Tau"
+}

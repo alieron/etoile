@@ -1,0 +1,16 @@
+{
+  "id": "psi_1_lupi",
+  "name": "Psi 1 Lupi",
+  "rank": 4,
+  "ra": 234.94158044832997,
+  "dec": -34.41192079899001,
+  "dist": 67.3401,
+  "otype": "*",
+  "spect": "G8/K0III",
+  "cat": 13,
+  "by": "psi01",
+  "by_greek": "ψ¹",
+  "by_con": "Lup",
+  "fl": 3,
+  "fl_con": "Lup"
+}

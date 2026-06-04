@@ -1,0 +1,13 @@
+{
+  "id": "27_arietis",
+  "name": "27 Arietis",
+  "rank": 5,
+  "ra": 37.72665801303,
+  "dec": 17.703858558400004,
+  "dist": 88.4956,
+  "otype": "SB*",
+  "spect": "G8III-IVFe-2",
+  "cat": 11,
+  "fl": 27,
+  "fl_con": "Ari"
+}

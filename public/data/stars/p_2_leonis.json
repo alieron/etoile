@@ -1,0 +1,16 @@
+{
+  "id": "p_2_leonis",
+  "name": "p 2 Leonis",
+  "rank": 4,
+  "ra": 165.45698452281042,
+  "dec": -2.4845904574794444,
+  "dist": 179.2115,
+  "otype": "*",
+  "spect": "M0III",
+  "cat": 14,
+  "by": "p02",
+  "by_greek": "p²",
+  "by_con": "Leo",
+  "fl": 61,
+  "fl_con": "Leo"
+}

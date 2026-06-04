@@ -1,0 +1,16 @@
+{
+  "id": "l_orionis",
+  "name": "l Orionis",
+  "rank": 4,
+  "ra": 94.27758283363,
+  "dec": 9.942393052579998,
+  "dist": 69.1085,
+  "otype": "**",
+  "spect": "A2V",
+  "cat": 7,
+  "by": "l",
+  "by_greek": "l",
+  "by_con": "Ori",
+  "fl": 75,
+  "fl_con": "Ori"
+}

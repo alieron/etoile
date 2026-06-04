@@ -1,0 +1,14 @@
+{
+  "id": "mu_2_lupi",
+  "name": "Mu 2 Lupi",
+  "rank": 4,
+  "ra": 229.63310473750002,
+  "dec": -47.875088069444445,
+  "dist": 102.8807,
+  "otype": "*",
+  "spect": "B7V",
+  "cat": 8,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Lup"
+}

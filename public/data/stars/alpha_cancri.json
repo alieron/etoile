@@ -1,0 +1,17 @@
+{
+  "id": "alpha_cancri",
+  "name": "Alpha Cancri",
+  "rank": 2,
+  "ra": 134.62168421127,
+  "dec": 11.8576804028,
+  "dist": 57.7367,
+  "otype": "PM*",
+  "spect": "kA7VmF0/2III/IVSr",
+  "cat": 12,
+  "proper": "Acubens",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cnc",
+  "fl": 65,
+  "fl_con": "Cnc"
+}

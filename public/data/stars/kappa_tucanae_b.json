@@ -1,0 +1,15 @@
+{
+  "id": "kappa_tucanae_b",
+  "name": "Kappa Tucanae B",
+  "rank": 4,
+  "ra": 18.939891572207497,
+  "dec": -68.87486564351028,
+  "dist": 20.9864,
+  "otype": "PM*",
+  "spect": "K1V",
+  "cat": 4,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Tuc",
+  "by_comp": "B"
+}

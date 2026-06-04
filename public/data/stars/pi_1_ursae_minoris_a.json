@@ -1,0 +1,15 @@
+{
+  "id": "pi_1_ursae_minoris_a",
+  "name": "Pi 1 Ursae Minoris A",
+  "rank": 4,
+  "ra": 232.32250000000002,
+  "dec": 80.44944444444445,
+  "dist": 21.848618484000003,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "UMi",
+  "by_comp": "A"
+}

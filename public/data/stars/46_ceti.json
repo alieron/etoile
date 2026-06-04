@@ -1,0 +1,13 @@
+{
+  "id": "46_ceti",
+  "name": "46 Ceti",
+  "rank": 5,
+  "ra": 21.4051643485,
+  "dec": -14.598785158179998,
+  "dist": 88.1834,
+  "otype": "*",
+  "spect": "K2+III-IIIbCN0.5",
+  "cat": 15,
+  "fl": 46,
+  "fl_con": "Cet"
+}

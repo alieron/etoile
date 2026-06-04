@@ -1,0 +1,13 @@
+{
+  "id": "34_herculis",
+  "name": "34 Herculis",
+  "rank": 5,
+  "ra": 247.52516327308996,
+  "dec": 48.961085619630005,
+  "dist": 101.4199,
+  "otype": "PM*",
+  "spect": "A1V",
+  "cat": 7,
+  "fl": 34,
+  "fl_con": "Her"
+}

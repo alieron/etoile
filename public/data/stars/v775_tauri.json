@@ -1,0 +1,15 @@
+{
+  "id": "v775_tauri",
+  "name": "V775 Tauri",
+  "rank": 5,
+  "ra": 65.51465891589,
+  "dec": 14.077198034739999,
+  "dist": 44.3853,
+  "otype": "dS*",
+  "spect": "kA3hF2mF2(III)",
+  "cat": 6,
+  "v": "V775",
+  "v_con": "Tau",
+  "fl": 60,
+  "fl_con": "Tau"
+}

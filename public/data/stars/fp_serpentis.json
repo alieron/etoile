@@ -1,0 +1,15 @@
+{
+  "id": "fp_serpentis",
+  "name": "FP Serpentis",
+  "rank": 5,
+  "ra": 238.66781089059998,
+  "dec": 8.58033759148,
+  "dist": 78.8644,
+  "otype": "dS*",
+  "spect": "A7Vn",
+  "cat": 6,
+  "v": "FP",
+  "v_con": "Ser",
+  "fl": 40,
+  "fl_con": "Ser"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kappa_2_sculptoris",
+  "name": "Kappa 2 Sculptoris",
+  "rank": 4,
+  "ra": 2.8934196613399994,
+  "dec": -27.79971967199,
+  "dist": 243.309,
+  "otype": "*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "kap02",
+  "by_greek": "κ²",
+  "by_con": "Scl"
+}

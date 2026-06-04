@@ -1,0 +1,15 @@
+{
+  "id": "av_arietis",
+  "name": "AV Arietis",
+  "rank": 5,
+  "ra": 32.65665370235,
+  "dec": 19.5003367021,
+  "dist": 171.2329,
+  "otype": "LP*",
+  "spect": "M3-IIIab",
+  "cat": 14,
+  "v": "AV",
+  "v_con": "Ari",
+  "fl": 15,
+  "fl_con": "Ari"
+}

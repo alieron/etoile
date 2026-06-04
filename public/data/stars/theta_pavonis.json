@@ -1,0 +1,14 @@
+{
+  "id": "theta_pavonis",
+  "name": "Theta Pavonis",
+  "rank": 4,
+  "ra": 282.15793684554,
+  "dec": -65.07768004034,
+  "dist": 67.7048,
+  "otype": "PM*",
+  "spect": "A8V",
+  "cat": 7,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Pav"
+}

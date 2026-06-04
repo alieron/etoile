@@ -1,0 +1,15 @@
+{
+  "id": "lp_virginis",
+  "name": "LP Virginis",
+  "rank": 5,
+  "ra": 199.36385694553,
+  "dec": -10.54628963976,
+  "dist": 81.0373,
+  "otype": "gD*",
+  "spect": "F1IV/V",
+  "cat": 6,
+  "v": "LP",
+  "v_con": "Vir",
+  "fl": 58,
+  "fl_con": "Vir"
+}

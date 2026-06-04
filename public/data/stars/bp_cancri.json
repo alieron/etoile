@@ -1,0 +1,15 @@
+{
+  "id": "bp_cancri",
+  "name": "BP Cancri",
+  "rank": 5,
+  "ra": 126.68307990811,
+  "dec": 12.65460913442,
+  "dist": 276.2431,
+  "otype": "LP*",
+  "spect": "M3IIIa",
+  "cat": 14,
+  "v": "BP",
+  "v_con": "Cnc",
+  "fl": 27,
+  "fl_con": "Cnc"
+}

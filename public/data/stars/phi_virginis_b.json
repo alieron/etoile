@@ -1,0 +1,18 @@
+{
+  "id": "phi_virginis_b",
+  "name": "Phi Virginis B",
+  "rank": 4,
+  "ra": 217.05193294483996,
+  "dec": -2.22846445492,
+  "dist": 37.059,
+  "otype": "PM*",
+  "spect": "K0V",
+  "cat": 4,
+  "by": "phi",
+  "by_greek": "φ",
+  "by_con": "Vir",
+  "by_comp": "B",
+  "fl": 105,
+  "fl_con": "Vir",
+  "fl_comp": "B"
+}

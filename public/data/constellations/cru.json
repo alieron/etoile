@@ -1,60 +1,51 @@
 {
-  "abbreviation": "Cru",
+  "id": "Cru",
   "name": "Crux",
-  "genitive": "Crux",
-  "meaning": "Southern Cross",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 179.0708,
-        "dec_deg": -55.6958,
-        "ra_deg_signed": 179.0708
-      },
-      {
-        "ra_deg": 179.0574,
-        "dec_deg": -64.6958,
-        "ra_deg_signed": 179.0574
-      },
-      {
-        "ra_deg": 194.4384,
-        "dec_deg": -64.677,
-        "ra_deg_signed": -165.5616
-      },
-      {
-        "ra_deg": 194.3345,
-        "dec_deg": -55.6771,
-        "ra_deg_signed": -165.6655
-      },
-      {
-        "ra_deg": 179.0708,
-        "dec_deg": -55.6958,
-        "ra_deg_signed": 179.0708
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Crux",
+  "meaning": "Cross",
+  "rank": 1,
+  "focus": [
+    -173.2521,
+    -60.1864,
+    50
+  ],
+  "label": [
+    -166.5,
+    -62
+  ],
+  "bound": [
     [
-      60718,
-      61084
-    ],
-    [
-      62434,
-      59747
-    ],
-    [
-      62434,
-      59747
+      [
+        179.0708,
+        -55.6958
+      ],
+      [
+        179.0574,
+        -64.6958
+      ],
+      [
+        -165.5616,
+        -64.677
+      ],
+      [
+        -165.6655,
+        -55.6771
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Acrux",
-    "designation": "Alp1Cru",
-    "display_name": "Alpha1Cru Crux",
-    "display_name_greek": "α1Cru Crux",
-    "hip": 60718,
-    "ra_deg": 186.649665,
-    "dec_deg": -63.099092
-  }
+  "lines": [
+    [
+      "alpha_crux",
+      "gamma_crux"
+    ],
+    [
+      "beta_crux",
+      "delta_crux"
+    ],
+    [
+      "beta_crux",
+      "delta_crux"
+    ]
+  ],
+  "bright": "alpha_crux"
 }

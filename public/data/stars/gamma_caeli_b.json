@@ -1,0 +1,15 @@
+{
+  "id": "gamma_caeli_b",
+  "name": "Gamma Caeli B",
+  "rank": 4,
+  "ra": 76.10079583392,
+  "dec": -35.48245978952,
+  "dist": 57.035,
+  "otype": "PM*",
+  "spect": "G8IV",
+  "cat": 11,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cae",
+  "by_comp": "B"
+}

@@ -1,104 +1,85 @@
 {
-  "abbreviation": "Cae",
+  "id": "Cae",
   "name": "Caelum",
-  "genitive": "Caeli",
-  "meaning": "Engraving Tool",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 65.0764,
-        "dec_deg": -39.7007,
-        "ra_deg_signed": 65.0764
-      },
-      {
-        "ra_deg": 64.8824,
-        "dec_deg": -48.6997,
-        "ra_deg_signed": 64.8824
-      },
-      {
-        "ra_deg": 68.3622,
-        "dec_deg": -48.7384,
-        "ra_deg_signed": 68.3622
-      },
-      {
-        "ra_deg": 68.4241,
-        "dec_deg": -46.2388,
-        "ra_deg_signed": 68.4241
-      },
-      {
-        "ra_deg": 73.4021,
-        "dec_deg": -46.2959,
-        "ra_deg_signed": 73.4021
-      },
-      {
-        "ra_deg": 73.4824,
-        "dec_deg": -42.7964,
-        "ra_deg_signed": 73.4824
-      },
-      {
-        "ra_deg": 75.9744,
-        "dec_deg": -42.8256,
-        "ra_deg_signed": 75.9744
-      },
-      {
-        "ra_deg": 76.2549,
-        "dec_deg": -27.0772,
-        "ra_deg_signed": 76.2549
-      },
-      {
-        "ra_deg": 73.7593,
-        "dec_deg": -27.048,
-        "ra_deg_signed": 73.7593
-      },
-      {
-        "ra_deg": 71.7633,
-        "dec_deg": -27.0249,
-        "ra_deg_signed": 71.7633
-      },
-      {
-        "ra_deg": 71.7224,
-        "dec_deg": -29.7746,
-        "ra_deg_signed": 71.7224
-      },
-      {
-        "ra_deg": 69.9767,
-        "dec_deg": -29.7547,
-        "ra_deg_signed": 69.9767
-      },
-      {
-        "ra_deg": 69.8624,
-        "dec_deg": -36.754,
-        "ra_deg_signed": 69.8624
-      },
-      {
-        "ra_deg": 65.1299,
-        "dec_deg": -36.701,
-        "ra_deg_signed": 65.1299
-      },
-      {
-        "ra_deg": 65.0764,
-        "dec_deg": -39.7007,
-        "ra_deg_signed": 65.0764
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Caeli",
+  "meaning": "Graving tool",
+  "rank": 2,
+  "focus": [
+    70.5687,
+    -37.8817,
+    46
+  ],
+  "label": [
+    73.5,
+    -42
+  ],
+  "bound": [
     [
-      23595,
-      21861,
-      21770,
-      21060
+      [
+        65.0764,
+        -39.7007
+      ],
+      [
+        64.8824,
+        -48.6997
+      ],
+      [
+        68.3622,
+        -48.7384
+      ],
+      [
+        68.4241,
+        -46.2388
+      ],
+      [
+        73.4021,
+        -46.2959
+      ],
+      [
+        73.4824,
+        -42.7964
+      ],
+      [
+        75.9744,
+        -42.8256
+      ],
+      [
+        76.2549,
+        -27.0772
+      ],
+      [
+        73.7593,
+        -27.048
+      ],
+      [
+        71.7633,
+        -27.0249
+      ],
+      [
+        71.7224,
+        -29.7746
+      ],
+      [
+        69.9767,
+        -29.7547
+      ],
+      [
+        69.8624,
+        -36.754
+      ],
+      [
+        65.1299,
+        -36.701
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alp Cae",
-    "designation": "Alp Cae",
-    "display_name": "Alpha Caeli",
-    "display_name_greek": "α Caeli",
-    "hip": 21770,
-    "ra_deg": 70.140585,
-    "dec_deg": -41.863752
-  }
+  "lines": [
+    [
+      "gamma_1_caeli",
+      "beta_caeli",
+      "alpha_caeli",
+      "delta_caeli"
+    ]
+  ],
+  "bright": "alpha_caeli"
 }

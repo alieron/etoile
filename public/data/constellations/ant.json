@@ -1,98 +1,80 @@
 {
-  "abbreviation": "Ant",
+  "id": "Ant",
   "name": "Antlia",
-  "genitive": "Antliae",
-  "meaning": "Air Pump",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 141.9043,
-        "dec_deg": -24.5425,
-        "ra_deg_signed": 141.9043
-      },
-      {
-        "ra_deg": 141.7716,
-        "dec_deg": -37.292,
-        "ra_deg_signed": 141.7716
-      },
-      {
-        "ra_deg": 141.7341,
-        "dec_deg": -40.2919,
-        "ra_deg_signed": 141.7341
-      },
-      {
-        "ra_deg": 166.4565,
-        "dec_deg": -40.4246,
-        "ra_deg_signed": 166.4565
-      },
-      {
-        "ra_deg": 166.4794,
-        "dec_deg": -35.6747,
-        "ra_deg_signed": 166.4794
-      },
-      {
-        "ra_deg": 163.9585,
-        "dec_deg": -35.6665,
-        "ra_deg_signed": 163.9585
-      },
-      {
-        "ra_deg": 163.9779,
-        "dec_deg": -31.8332,
-        "ra_deg_signed": 163.9779
-      },
-      {
-        "ra_deg": 160.2014,
-        "dec_deg": -31.8186,
-        "ra_deg_signed": 160.2014
-      },
-      {
-        "ra_deg": 160.2129,
-        "dec_deg": -29.8186,
-        "ra_deg_signed": 160.2129
-      },
-      {
-        "ra_deg": 155.1813,
-        "dec_deg": -29.7948,
-        "ra_deg_signed": 155.1813
-      },
-      {
-        "ra_deg": 155.1993,
-        "dec_deg": -27.1282,
-        "ra_deg_signed": 155.1993
-      },
-      {
-        "ra_deg": 147.6593,
-        "dec_deg": -27.0835,
-        "ra_deg_signed": 147.6593
-      },
-      {
-        "ra_deg": 147.6797,
-        "dec_deg": -24.5836,
-        "ra_deg_signed": 147.6797
-      },
-      {
-        "ra_deg": 141.9043,
-        "dec_deg": -24.5425,
-        "ra_deg_signed": 141.9043
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Antliae",
+  "meaning": "Air Pump",
+  "rank": 2,
+  "focus": [
+    154.1067,
+    -32.4836,
+    60
+  ],
+  "label": [
+    156,
+    -36
+  ],
+  "bound": [
     [
-      53502,
-      51172,
-      46515
+      [
+        141.9043,
+        -24.5425
+      ],
+      [
+        141.7716,
+        -37.292
+      ],
+      [
+        141.7341,
+        -40.2919
+      ],
+      [
+        166.4565,
+        -40.4246
+      ],
+      [
+        166.4794,
+        -35.6747
+      ],
+      [
+        163.9585,
+        -35.6665
+      ],
+      [
+        163.9779,
+        -31.8332
+      ],
+      [
+        160.2014,
+        -31.8186
+      ],
+      [
+        160.2129,
+        -29.8186
+      ],
+      [
+        155.1813,
+        -29.7948
+      ],
+      [
+        155.1993,
+        -27.1282
+      ],
+      [
+        147.6593,
+        -27.0835
+      ],
+      [
+        147.6797,
+        -24.5836
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alp Ant",
-    "designation": "Alp Ant",
-    "display_name": "Alpha Antliae",
-    "display_name_greek": "α Antliae",
-    "hip": 51172,
-    "ra_deg": 156.78795,
-    "dec_deg": -31.067779
-  }
+  "lines": [
+    [
+      "iota_antliae",
+      "alpha_antliae",
+      "epsilon_antliae"
+    ]
+  ],
+  "bright": "alpha_antliae"
 }

@@ -1,0 +1,17 @@
+{
+  "id": "alpha_equulei",
+  "name": "Alpha Equulei",
+  "rank": 2,
+  "ra": 318.95598819687746,
+  "dec": 5.247891952405833,
+  "dist": 58.3431,
+  "otype": "SB*",
+  "spect": "G6IV+B9.5V",
+  "cat": 11,
+  "proper": "Kitalpha",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Equ",
+  "fl": 8,
+  "fl_con": "Equ"
+}

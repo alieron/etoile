@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_crux",
+  "name": "Epsilon Crux",
+  "rank": 2,
+  "ra": 185.3400338906829,
+  "dec": -60.40114813057249,
+  "dist": 70.4722,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "proper": "Ginan",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Cru"
+}

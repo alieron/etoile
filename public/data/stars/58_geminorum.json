@@ -1,0 +1,13 @@
+{
+  "id": "58_geminorum",
+  "name": "58 Geminorum",
+  "rank": 5,
+  "ra": 110.86723735938,
+  "dec": 22.94534812946,
+  "dist": 87.6424,
+  "otype": "*",
+  "spect": "A1V",
+  "cat": 7,
+  "fl": 58,
+  "fl_con": "Gem"
+}

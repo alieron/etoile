@@ -1,0 +1,14 @@
+{
+  "id": "s_herculis",
+  "name": "s Herculis",
+  "rank": 4,
+  "ra": 247.63978533201998,
+  "dec": 20.47918736431,
+  "dist": 192.6782,
+  "otype": "RG*",
+  "spect": "G8.5IIICN-2CH-1Fe-1",
+  "cat": 14,
+  "by": "s",
+  "by_greek": "s",
+  "by_con": "Her"
+}

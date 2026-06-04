@@ -1,0 +1,16 @@
+{
+  "id": "zeta_herculis_a",
+  "name": "Zeta Herculis A",
+  "rank": 2,
+  "ra": 250.32150433146228,
+  "dec": 31.602718703799262,
+  "dist": 10.715907158,
+  "otype": "*",
+  "spect": "G0IV",
+  "cat": 11,
+  "proper": "Tianji",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Her",
+  "by_comp": "A"
+}

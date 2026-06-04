@@ -1,0 +1,14 @@
+{
+  "id": "83_leonis_a",
+  "name": "83 Leonis A",
+  "rank": 5,
+  "ra": 171.69083333333333,
+  "dec": 3.009722222222222,
+  "dist": 17.746377462,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 83,
+  "fl_con": "Leo",
+  "fl_comp": "A"
+}

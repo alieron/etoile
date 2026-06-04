@@ -1,0 +1,13 @@
+{
+  "id": "5_trianguli",
+  "name": "5 Trianguli",
+  "rank": 5,
+  "ra": 32.85426233719,
+  "dec": 31.526394940110002,
+  "dist": 108.2251,
+  "otype": "*",
+  "spect": "A1m",
+  "cat": 7,
+  "fl": 5,
+  "fl_con": "Tri"
+}

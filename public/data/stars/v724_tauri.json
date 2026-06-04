@@ -1,0 +1,15 @@
+{
+  "id": "v724_tauri",
+  "name": "V724 Tauri",
+  "rank": 5,
+  "ra": 64.90293703909,
+  "dec": 21.77349078551,
+  "dist": 100.0,
+  "otype": "a2*",
+  "spect": "A0VpSi",
+  "cat": 20,
+  "v": "V724",
+  "v_con": "Tau",
+  "fl": 56,
+  "fl_con": "Tau"
+}

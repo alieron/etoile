@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_aurigae",
+  "name": "Epsilon Aurigae",
+  "rank": 2,
+  "ra": 75.49222653615,
+  "dec": 43.82331030981,
+  "dist": 653.5948,
+  "otype": "SB*",
+  "spect": "A9Ia",
+  "cat": 17,
+  "proper": "Almaaz",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Aur",
+  "fl": 7,
+  "fl_con": "Aur"
+}

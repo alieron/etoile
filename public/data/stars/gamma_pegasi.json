@@ -1,0 +1,17 @@
+{
+  "id": "gamma_pegasi",
+  "name": "Gamma Pegasi",
+  "rank": 2,
+  "ra": 3.3089681209050004,
+  "dec": 15.18359842959389,
+  "dist": 120.048,
+  "otype": "bC*",
+  "spect": "B2IV",
+  "cat": 8,
+  "proper": "Algenib",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Peg",
+  "fl": 88,
+  "fl_con": "Peg"
+}

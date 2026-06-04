@@ -1,0 +1,16 @@
+{
+  "id": "gamma_equulei",
+  "name": "Gamma Equulei",
+  "rank": 3,
+  "ra": 317.58541696715,
+  "dec": 10.13158110216,
+  "dist": 36.2976,
+  "otype": "a2*",
+  "spect": "A9VpSrCrEu",
+  "cat": 20,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Equ",
+  "fl": 5,
+  "fl_con": "Equ"
+}

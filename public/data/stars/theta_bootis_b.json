@@ -1,0 +1,15 @@
+{
+  "id": "theta_bootis_b",
+  "name": "Theta Boötis B",
+  "rank": 4,
+  "ra": 216.29825148741622,
+  "dec": 51.83141730815472,
+  "dist": 14.5323,
+  "otype": "PM*",
+  "spect": "M2.5V",
+  "cat": 3,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Boo",
+  "by_comp": "B"
+}

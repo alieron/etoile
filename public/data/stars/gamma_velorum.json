@@ -1,0 +1,14 @@
+{
+  "id": "gamma_velorum",
+  "name": "Gamma Velorum",
+  "rank": 3,
+  "ra": 122.38312555977059,
+  "dec": -47.336586329303486,
+  "dist": 342.4658,
+  "otype": "WR*",
+  "spect": "WC8+O7.5III-V",
+  "cat": 17,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Vel"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "e_leonis",
+  "name": "e Leonis",
+  "rank": 4,
+  "ra": 172.57872230205,
+  "dec": -3.00349970129,
+  "dist": 185.1852,
+  "otype": "*",
+  "spect": "K3+IIIFe-0.5",
+  "cat": 13,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Leo",
+  "fl": 87,
+  "fl_con": "Leo"
+}

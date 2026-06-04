@@ -1,0 +1,16 @@
+{
+  "id": "chi_1_orionis",
+  "name": "Chi 1 Orionis",
+  "rank": 3,
+  "ra": 88.59576245541668,
+  "dec": 20.276172788333334,
+  "dist": 8.6633,
+  "otype": "SB*",
+  "spect": "G0V",
+  "cat": 5,
+  "by": "chi01",
+  "by_greek": "χ¹",
+  "by_con": "Ori",
+  "fl": 54,
+  "fl_con": "Ori"
+}

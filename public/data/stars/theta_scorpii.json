@@ -1,0 +1,15 @@
+{
+  "id": "theta_scorpii",
+  "name": "Theta Scorpii",
+  "rank": 2,
+  "ra": 264.3297077207907,
+  "dec": -42.99782799333082,
+  "dist": 92.081,
+  "otype": "*",
+  "spect": "F1III",
+  "cat": 13,
+  "proper": "Sargas",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Sco"
+}

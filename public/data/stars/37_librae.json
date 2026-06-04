@@ -1,0 +1,13 @@
+{
+  "id": "37_librae",
+  "name": "37 Librae",
+  "rank": 5,
+  "ra": 233.54459368393248,
+  "dec": -10.06453270847,
+  "dist": 28.9268,
+  "otype": "PM*",
+  "spect": "K1III-IV",
+  "cat": 12,
+  "fl": 37,
+  "fl_con": "Lib"
+}

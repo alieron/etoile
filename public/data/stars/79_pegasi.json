@@ -1,0 +1,13 @@
+{
+  "id": "79_pegasi",
+  "name": "79 Pegasi",
+  "rank": 5,
+  "ra": 357.4141450324199,
+  "dec": 28.84238948361,
+  "dist": 88.3392,
+  "otype": "PM*",
+  "spect": "A2m",
+  "cat": 7,
+  "fl": 79,
+  "fl_con": "Peg"
+}

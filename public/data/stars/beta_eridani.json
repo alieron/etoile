@@ -1,0 +1,17 @@
+{
+  "id": "beta_eridani",
+  "name": "Beta Eridani",
+  "rank": 2,
+  "ra": 76.96239535462041,
+  "dec": -5.086496983969999,
+  "dist": 27.3973,
+  "otype": "PM*",
+  "spect": "A3IV",
+  "cat": 10,
+  "proper": "Cursa",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Eri",
+  "fl": 67,
+  "fl_con": "Eri"
+}

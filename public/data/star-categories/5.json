@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "name": "yellow_main_sequence",
+  "rgb": [
+    255,
+    230,
+    140
+  ],
+  "color": [
+    1.0,
+    0.901961,
+    0.54902
+  ],
+  "radius": 1.0,
+  "point": 1.0,
+  "halo": 1.15,
+  "glow": 0.3
+}

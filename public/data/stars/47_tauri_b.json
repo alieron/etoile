@@ -1,0 +1,14 @@
+{
+  "id": "47_tauri_b",
+  "name": "47 Tauri B",
+  "rank": 5,
+  "ra": 63.48482448749999,
+  "dec": 9.264154925,
+  "dist": 101.7294,
+  "otype": "*",
+  "spect": "A7V:",
+  "cat": 7,
+  "fl": 47,
+  "fl_con": "Tau",
+  "fl_comp": "B"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "beta_leporis_b",
+  "name": "Beta Leporis B",
+  "rank": 4,
+  "ra": 82.06133510987792,
+  "dec": -20.75871022096528,
+  "dist": 47.6077,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Lep",
+  "by_comp": "B",
+  "fl": 9,
+  "fl_con": "Lep",
+  "fl_comp": "B"
+}

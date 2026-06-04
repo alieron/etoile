@@ -1,0 +1,14 @@
+{
+  "id": "99_tauri_a",
+  "name": "99 Tauri A",
+  "rank": 5,
+  "ra": 74.45269019554,
+  "dec": 23.94856851931,
+  "dist": 139.6648,
+  "otype": "SB*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 99,
+  "fl_con": "Tau",
+  "fl_comp": "A"
+}

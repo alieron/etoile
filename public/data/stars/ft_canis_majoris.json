@@ -1,0 +1,15 @@
+{
+  "id": "ft_canis_majoris",
+  "name": "FT Canis Majoris",
+  "rank": 5,
+  "ra": 101.11861293479,
+  "dec": -31.07052565495,
+  "dist": 100000.0,
+  "otype": "Be*",
+  "spect": "B2V",
+  "cat": 8,
+  "v": "FT",
+  "v_con": "CMa",
+  "fl": 10,
+  "fl_con": "CMa"
+}

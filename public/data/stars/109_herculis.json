@@ -1,0 +1,14 @@
+{
+  "id": "109_herculis",
+  "name": "109 Herculis",
+  "rank": 2,
+  "ra": 275.924540442535,
+  "dec": 21.769752669179447,
+  "dist": 36.4697,
+  "otype": "**",
+  "spect": "K2IIIab",
+  "cat": 15,
+  "proper": "Tusizuo",
+  "fl": 109,
+  "fl_con": "Her"
+}

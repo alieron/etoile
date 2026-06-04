@@ -1,0 +1,14 @@
+{
+  "id": "q_scorpii",
+  "name": "Q Scorpii",
+  "rank": 4,
+  "ra": 264.13689643142993,
+  "dec": -38.63524773571,
+  "dist": 50.8388,
+  "otype": "PM*",
+  "spect": "G8/K0III/IV",
+  "cat": 11,
+  "by": "Q",
+  "by_greek": "Q",
+  "by_con": "Sco"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "104_virginis",
+  "name": "104 Virginis",
+  "rank": 5,
+  "ra": 216.85160262446,
+  "dec": -6.120344486799999,
+  "dist": 78.8644,
+  "otype": "PM*",
+  "spect": "A1V",
+  "cat": 7,
+  "fl": 104,
+  "fl_con": "Vir"
+}

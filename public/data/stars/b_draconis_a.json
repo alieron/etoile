@@ -1,0 +1,15 @@
+{
+  "id": "b_draconis_a",
+  "name": "b Draconis A",
+  "rank": 4,
+  "ra": 275.9775267067869,
+  "dec": 58.80073462210045,
+  "dist": 56.465864653000004,
+  "otype": "PM*",
+  "spect": "A1V+F5V",
+  "cat": 7,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Dra",
+  "by_comp": "A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sigma_2_ursae_majoris_b",
+  "name": "Sigma 2 Ursae Majoris B",
+  "rank": 4,
+  "ra": 137.59779277613,
+  "dec": 67.13510437054,
+  "dist": 20.562,
+  "otype": "PM*",
+  "spect": "K2V",
+  "cat": 4,
+  "by": "sig02",
+  "by_greek": "σ²",
+  "by_con": "UMa",
+  "by_comp": "B"
+}

@@ -1,174 +1,145 @@
 {
-  "abbreviation": "Aql",
+  "id": "Aql",
   "name": "Aquila",
-  "genitive": "Aquilae",
+  "gen": "Aquilae",
   "meaning": "Eagle",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 280.3502,
-        "dec_deg": 0.1155,
-        "ra_deg_signed": -79.6498
-      },
-      {
-        "ra_deg": 280.3262,
-        "dec_deg": 2.1153,
-        "ra_deg_signed": -79.6738
-      },
-      {
-        "ra_deg": 284.57640000000004,
-        "dec_deg": 2.1659,
-        "ra_deg_signed": -75.4236
-      },
-      {
-        "ra_deg": 284.526,
-        "dec_deg": 6.4156,
-        "ra_deg_signed": -75.474
-      },
-      {
-        "ra_deg": 281.4586,
-        "dec_deg": 6.3792,
-        "ra_deg_signed": -78.5414
-      },
-      {
-        "ra_deg": 281.38800000000003,
-        "dec_deg": 12.1288,
-        "ra_deg_signed": -78.612
-      },
-      {
-        "ra_deg": 284.4563,
-        "dec_deg": 12.1652,
-        "ra_deg_signed": -75.5437
-      },
-      {
-        "ra_deg": 284.3736,
-        "dec_deg": 18.6647,
-        "ra_deg_signed": -75.6264
-      },
-      {
-        "ra_deg": 286.3755,
-        "dec_deg": 18.6882,
-        "ra_deg_signed": -73.6245
-      },
-      {
-        "ra_deg": 286.4055,
-        "dec_deg": 16.3551,
-        "ra_deg_signed": -73.5945
-      },
-      {
-        "ra_deg": 298.9212,
-        "dec_deg": 16.4957,
-        "ra_deg_signed": -61.0788
-      },
-      {
-        "ra_deg": 298.926,
-        "dec_deg": 16.0791,
-        "ra_deg_signed": -61.074
-      },
-      {
-        "ra_deg": 303.55899999999997,
-        "dec_deg": 16.1275,
-        "ra_deg_signed": -56.441
-      },
-      {
-        "ra_deg": 303.6367,
-        "dec_deg": 8.8779,
-        "ra_deg_signed": -56.3633
-      },
-      {
-        "ra_deg": 306.014,
-        "dec_deg": 8.9018,
-        "ra_deg_signed": -53.986
-      },
-      {
-        "ra_deg": 306.0791,
-        "dec_deg": 2.4021,
-        "ra_deg_signed": -53.9209
-      },
-      {
-        "ra_deg": 309.5799,
-        "dec_deg": 2.4361,
-        "ra_deg_signed": -50.4201
-      },
-      {
-        "ra_deg": 309.5988,
-        "dec_deg": 0.4362,
-        "ra_deg_signed": -50.4012
-      },
-      {
-        "ra_deg": 309.6846,
-        "dec_deg": -8.5634,
-        "ra_deg_signed": -50.3154
-      },
-      {
-        "ra_deg": 301.6937,
-        "dec_deg": -8.6431,
-        "ra_deg_signed": -58.3063
-      },
-      {
-        "ra_deg": 301.7264,
-        "dec_deg": -11.6762,
-        "ra_deg_signed": -58.2736
-      },
-      {
-        "ra_deg": 284.7441,
-        "dec_deg": -11.8664,
-        "ra_deg_signed": -75.2559
-      },
-      {
-        "ra_deg": 284.6473,
-        "dec_deg": -3.8337,
-        "ra_deg_signed": -75.3527
-      },
-      {
-        "ra_deg": 280.3982,
-        "dec_deg": -3.8842,
-        "ra_deg_signed": -79.6018
-      },
-      {
-        "ra_deg": 280.3502,
-        "dec_deg": 0.1155,
-        "ra_deg_signed": -79.6498
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    -64.9946,
+    3.4109,
+    64
+  ],
+  "label": [
+    -69,
+    8
+  ],
+  "bound": [
     [
-      98036,
-      97649,
-      97278,
-      95501,
-      93805,
-      95501,
-      93747,
-      95501,
-      97804,
-      99473
-    ],
-    [
-      93244,
-      93747
-    ],
-    [
-      93805,
-      93429
-    ],
-    [
-      99473,
-      96468,
-      93805,
-      93747
+      [
+        -79.6498,
+        0.1155
+      ],
+      [
+        -79.6738,
+        2.1153
+      ],
+      [
+        -75.4236,
+        2.1659
+      ],
+      [
+        -75.474,
+        6.4156
+      ],
+      [
+        -78.5414,
+        6.3792
+      ],
+      [
+        -78.612,
+        12.1288
+      ],
+      [
+        -75.5437,
+        12.1652
+      ],
+      [
+        -75.6264,
+        18.6647
+      ],
+      [
+        -73.6245,
+        18.6882
+      ],
+      [
+        -73.5945,
+        16.3551
+      ],
+      [
+        -61.0788,
+        16.4957
+      ],
+      [
+        -61.074,
+        16.0791
+      ],
+      [
+        -56.441,
+        16.1275
+      ],
+      [
+        -56.3633,
+        8.8779
+      ],
+      [
+        -53.986,
+        8.9018
+      ],
+      [
+        -53.9209,
+        2.4021
+      ],
+      [
+        -50.4201,
+        2.4361
+      ],
+      [
+        -50.4012,
+        0.4362
+      ],
+      [
+        -50.3154,
+        -8.5634
+      ],
+      [
+        -58.3063,
+        -8.6431
+      ],
+      [
+        -58.2736,
+        -11.6762
+      ],
+      [
+        -75.2559,
+        -11.8664
+      ],
+      [
+        -75.3527,
+        -3.8337
+      ],
+      [
+        -79.6018,
+        -3.8842
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Altair",
-    "designation": "53Alp Aql",
-    "display_name": "53 Alpha Aquilae",
-    "display_name_greek": "53 α Aquilae",
-    "hip": 97649,
-    "ra_deg": 297.69582,
-    "dec_deg": 8.868322
-  }
+  "lines": [
+    [
+      "beta_aquilae_a",
+      "alpha_aquilae",
+      "gamma_aquilae",
+      "delta_aquilae",
+      "lambda_aquilae",
+      "delta_aquilae",
+      "zeta_aquilae_a",
+      "delta_aquilae",
+      "eta_aquilae",
+      "theta_aquilae"
+    ],
+    [
+      "epsilon_aquilae",
+      "zeta_aquilae_a"
+    ],
+    [
+      "lambda_aquilae",
+      "i_aquilae"
+    ],
+    [
+      "theta_aquilae",
+      "iota_aquilae",
+      "lambda_aquilae",
+      "zeta_aquilae_a"
+    ]
+  ],
+  "bright": "alpha_aquilae"
 }

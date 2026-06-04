@@ -1,0 +1,18 @@
+{
+  "id": "zeta_delphini_b",
+  "name": "Zeta Delphini B",
+  "rank": 4,
+  "ra": 308.829375,
+  "dec": 14.671,
+  "dist": 67.4764,
+  "otype": "BD*",
+  "spect": "L5",
+  "cat": 2,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Del",
+  "by_comp": "B",
+  "fl": 4,
+  "fl_con": "Del",
+  "fl_comp": "B"
+}

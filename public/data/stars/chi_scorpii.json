@@ -1,0 +1,16 @@
+{
+  "id": "chi_scorpii",
+  "name": "Chi Scorpii",
+  "rank": 4,
+  "ra": 243.46210941047,
+  "dec": -11.83774786154,
+  "dist": 116.0093,
+  "otype": "*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Sco",
+  "fl": 17,
+  "fl_con": "Sco"
+}

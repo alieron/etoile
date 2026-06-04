@@ -1,0 +1,13 @@
+{
+  "id": "16_draconis",
+  "name": "16 Draconis",
+  "rank": 5,
+  "ra": 249.04758475962,
+  "dec": 52.90005241522,
+  "dist": 130.8901,
+  "otype": "SB*",
+  "spect": "B9.5V+DA:",
+  "cat": 8,
+  "fl": 16,
+  "fl_con": "Dra"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e_serpentis",
+  "name": "e Serpentis",
+  "rank": 4,
+  "ra": 279.3998442538,
+  "dec": -0.30947503996,
+  "dist": 160.5136,
+  "otype": "SB*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Ser"
+}

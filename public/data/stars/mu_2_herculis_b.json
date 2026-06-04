@@ -1,0 +1,15 @@
+{
+  "id": "mu_2_herculis_b",
+  "name": "Mu 2 Herculis B",
+  "rank": 4,
+  "ra": 266.60399587714414,
+  "dec": 27.71680285946722,
+  "dist": 8.3057,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Her",
+  "by_comp": "B"
+}

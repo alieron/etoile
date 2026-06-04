@@ -1,0 +1,16 @@
+{
+  "id": "m_carinae",
+  "name": "M Carinae",
+  "rank": 4,
+  "ra": 153.37763462048,
+  "dec": -66.37281118159,
+  "dist": 94.3396,
+  "otype": "*",
+  "spect": "A4mA6-F0",
+  "cat": 7,
+  "by": "M",
+  "by_greek": "M",
+  "by_con": "Car",
+  "fl": 184,
+  "fl_con": "Car"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "31_sagittarii",
+  "name": "31 Sagittarii",
+  "rank": 5,
+  "ra": 283.03489471074994,
+  "dec": -21.921528300120002,
+  "dist": 85.7633,
+  "otype": "PM*",
+  "spect": "A3V",
+  "cat": 7,
+  "fl": 31,
+  "fl_con": "Sgr"
+}

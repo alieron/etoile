@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_aquarii",
+  "name": "Epsilon Aquarii",
+  "rank": 2,
+  "ra": 311.9189565534167,
+  "dec": -9.495776926900833,
+  "dist": 63.6943,
+  "otype": "*",
+  "spect": "B9.5V",
+  "cat": 8,
+  "proper": "Albali",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Aqr",
+  "fl": 2,
+  "fl_con": "Aqr"
+}

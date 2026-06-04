@@ -1,0 +1,15 @@
+{
+  "id": "ag_piscium",
+  "name": "AG Piscium",
+  "rank": 5,
+  "ra": 9.19712916829,
+  "dec": 15.23171953693,
+  "dist": 318.4713,
+  "otype": "**",
+  "spect": "B2.5V",
+  "cat": 8,
+  "v": "AG",
+  "v_con": "Psc",
+  "fl": 53,
+  "fl_con": "Psc"
+}

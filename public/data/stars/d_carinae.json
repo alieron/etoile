@@ -1,0 +1,16 @@
+{
+  "id": "d_carinae",
+  "name": "d Carinae",
+  "rank": 4,
+  "ra": 130.15428340004624,
+  "dec": -59.76100474516722,
+  "dist": 442.4779,
+  "otype": "Pu*",
+  "spect": "B2III",
+  "cat": 17,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Car",
+  "v": "V343",
+  "v_con": "Car"
+}

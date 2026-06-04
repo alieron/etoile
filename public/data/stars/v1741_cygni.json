@@ -1,0 +1,15 @@
+{
+  "id": "v1741_cygni",
+  "name": "V1741 Cygni",
+  "rank": 5,
+  "ra": 291.53802886452,
+  "dec": 36.31789781871,
+  "dist": 216.9197,
+  "otype": "a2*",
+  "spect": "B8pSi(FeII)",
+  "cat": 20,
+  "v": "V1741",
+  "v_con": "Cyg",
+  "fl": 4,
+  "fl_con": "Cyg"
+}

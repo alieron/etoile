@@ -1,0 +1,13 @@
+{
+  "id": "13_orionis",
+  "name": "13 Orionis",
+  "rank": 5,
+  "ra": 76.90963883975667,
+  "dec": 9.471780448949168,
+  "dist": 27.6702,
+  "otype": "PM*",
+  "spect": "G3",
+  "cat": 5,
+  "fl": 13,
+  "fl_con": "Ori"
+}

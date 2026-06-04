@@ -1,0 +1,13 @@
+{
+  "id": "51_arietis",
+  "name": "51 Arietis",
+  "rank": 5,
+  "ra": 45.60844307087999,
+  "dec": 26.60923900509,
+  "dist": 20.6398,
+  "otype": "PM*",
+  "spect": "G8V",
+  "cat": 5,
+  "fl": 51,
+  "fl_con": "Ari"
+}

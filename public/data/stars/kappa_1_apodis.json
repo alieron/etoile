@@ -1,0 +1,14 @@
+{
+  "id": "kappa_1_apodis",
+  "name": "Kappa 1 Apodis",
+  "rank": 4,
+  "ra": 232.87842553883,
+  "dec": -73.38959153989,
+  "dist": 380.2281,
+  "otype": "Be*",
+  "spect": "B2Vnpe",
+  "cat": 8,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "Aps"
+}

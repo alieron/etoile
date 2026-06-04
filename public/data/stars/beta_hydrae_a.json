@@ -1,0 +1,15 @@
+{
+  "id": "beta_hydrae_a",
+  "name": "Beta Hydrae A",
+  "rank": 3,
+  "ra": 178.22717286745728,
+  "dec": -33.90812977808355,
+  "dist": 94.96774966800001,
+  "otype": "PM*",
+  "spect": "kB8hB8HeA0VSi",
+  "cat": 4,
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Hya",
+  "by_comp": "A"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lambda_ursae_majoris",
+  "name": "Lambda Ursae Majoris",
+  "rank": 2,
+  "ra": 154.27408023573,
+  "dec": 42.91441380519,
+  "dist": 42.1585,
+  "otype": "PM*",
+  "spect": "A1IV",
+  "cat": 10,
+  "proper": "Tania Borealis",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "UMa",
+  "fl": 33,
+  "fl_con": "UMa"
+}

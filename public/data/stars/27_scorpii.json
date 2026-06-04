@@ -1,0 +1,13 @@
+{
+  "id": "27_scorpii",
+  "name": "27 Scorpii",
+  "rank": 5,
+  "ra": 254.29656171654,
+  "dec": -33.25949228849,
+  "dist": 290.6977,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 27,
+  "fl_con": "Sco"
+}

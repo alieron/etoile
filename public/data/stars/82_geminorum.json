@@ -1,0 +1,13 @@
+{
+  "id": "82_geminorum",
+  "name": "82 Geminorum",
+  "rank": 5,
+  "ra": 117.14016268249999,
+  "dec": 23.14097898888889,
+  "dist": 241.5459,
+  "otype": "**",
+  "spect": "K0III+A0IV:",
+  "cat": 12,
+  "fl": 82,
+  "fl_con": "Gem"
+}

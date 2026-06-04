@@ -1,0 +1,17 @@
+{
+  "id": "omicron_piscium",
+  "name": "Omicron Piscium",
+  "rank": 2,
+  "ra": 26.348438396549998,
+  "dec": 9.15775073342,
+  "dist": 85.6898,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "proper": "Torcular",
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "Psc",
+  "fl": 110,
+  "fl_con": "Psc"
+}

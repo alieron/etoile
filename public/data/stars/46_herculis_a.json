@@ -1,0 +1,14 @@
+{
+  "id": "46_herculis_a",
+  "name": "46 Herculis A",
+  "rank": 5,
+  "ra": 251.27180323173062,
+  "dec": 28.357928628329642,
+  "dist": 215.984859827,
+  "otype": "*",
+  "spect": "F8II",
+  "cat": 13,
+  "fl": 46,
+  "fl_con": "Her",
+  "fl_comp": "A"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "78_pegasi_b",
+  "name": "78 Pegasi B",
+  "rank": 5,
+  "ra": 355.9975783916667,
+  "dec": 29.361416986111113,
+  "dist": 68.7758,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 78,
+  "fl_con": "Peg",
+  "fl_comp": "B"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "alpha_corvi_b",
+  "name": "Alpha Corvi B",
+  "rank": 4,
+  "ra": 182.10285345992745,
+  "dec": -24.72899927539833,
+  "dist": 15.0999,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Crv",
+  "by_comp": "B"
+}

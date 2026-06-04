@@ -1,0 +1,16 @@
+{
+  "id": "l_persei",
+  "name": "l Persei",
+  "rank": 4,
+  "ra": 50.36066150050001,
+  "dec": 43.32965086794,
+  "dist": 46.1681,
+  "otype": "PM*",
+  "spect": "A3V",
+  "cat": 7,
+  "by": "l",
+  "by_greek": "l",
+  "by_con": "Per",
+  "fl": 32,
+  "fl_con": "Per"
+}

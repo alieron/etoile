@@ -1,0 +1,14 @@
+{
+  "id": "iota_2_fornacis",
+  "name": "Iota 2 Fornacis",
+  "rank": 4,
+  "ra": 39.5777557365,
+  "dec": -30.194064071630002,
+  "dist": 33.9443,
+  "otype": "PM*",
+  "spect": "F6VFe-0.7CH-0.4",
+  "cat": 6,
+  "by": "iot02",
+  "by_greek": "ι²",
+  "by_con": "For"
+}

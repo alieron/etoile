@@ -1,0 +1,13 @@
+{
+  "id": "51_draconis",
+  "name": "51 Draconis",
+  "rank": 5,
+  "ra": 286.22985600081,
+  "dec": 53.39665579878,
+  "dist": 111.1111,
+  "otype": "*",
+  "spect": "A0Vn",
+  "cat": 7,
+  "fl": 51,
+  "fl_con": "Dra"
+}

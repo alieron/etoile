@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_equulei_a",
+  "name": "Epsilon Equulei A",
+  "rank": 4,
+  "ra": 314.76864744227726,
+  "dec": 4.293478095756319,
+  "dist": 54.083840833000004,
+  "otype": "SB*",
+  "spect": "F5(V)+F6(V)",
+  "cat": 6,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Equ",
+  "by_comp": "A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "v2125_ophiuchi",
+  "name": "V2125 Ophiuchi",
+  "rank": 5,
+  "ra": 263.8270838513499,
+  "dec": -22.043826660049998,
+  "dist": 258.3979,
+  "otype": "a2*",
+  "spect": "ApSi",
+  "cat": 20,
+  "v": "V2125",
+  "v_con": "Oph",
+  "fl": 52,
+  "fl_con": "Oph"
+}

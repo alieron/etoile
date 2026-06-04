@@ -1,0 +1,15 @@
+{
+  "id": "theta_phoenicis_a",
+  "name": "Theta Phoenicis A",
+  "rank": 4,
+  "ra": 354.8664340086003,
+  "dec": -46.63779988983379,
+  "dist": 78.86518864400001,
+  "otype": "PM*",
+  "spect": "A7III+A/F",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Phe",
+  "by_comp": "A"
+}

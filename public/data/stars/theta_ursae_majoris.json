@@ -1,0 +1,16 @@
+{
+  "id": "theta_ursae_majoris",
+  "name": "Theta Ursae Majoris",
+  "rank": 3,
+  "ra": 143.21429555749293,
+  "dec": 51.67731480847444,
+  "dist": 13.4789,
+  "otype": "PM*",
+  "spect": "F7V",
+  "cat": 6,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "UMa",
+  "fl": 25,
+  "fl_con": "UMa"
+}

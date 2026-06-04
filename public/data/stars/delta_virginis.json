@@ -1,0 +1,17 @@
+{
+  "id": "delta_virginis",
+  "name": "Delta Virginis",
+  "rank": 2,
+  "ra": 193.9008692670183,
+  "dec": 3.3974689038383334,
+  "dist": 60.8273,
+  "otype": "RG*",
+  "spect": "M3+III",
+  "cat": 14,
+  "proper": "Minelauva",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Vir",
+  "fl": 43,
+  "fl_con": "Vir"
+}

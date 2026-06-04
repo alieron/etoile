@@ -1,0 +1,15 @@
+{
+  "id": "theta_gruis_a",
+  "name": "Theta Gruis A",
+  "rank": 4,
+  "ra": 346.71971026132354,
+  "dec": -43.52035714808552,
+  "dist": 40.437104367,
+  "otype": "PM*",
+  "spect": "kF3VhF5mF5(II-III)",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Gru",
+  "by_comp": "A"
+}

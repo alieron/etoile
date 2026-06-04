@@ -1,0 +1,14 @@
+{
+  "id": "iota_1_fornacis",
+  "name": "Iota 1 Fornacis",
+  "rank": 4,
+  "ra": 39.03860331011,
+  "dec": -30.04497832598,
+  "dist": 178.5714,
+  "otype": "*",
+  "spect": "G8/K0III",
+  "cat": 13,
+  "by": "iot01",
+  "by_greek": "ι¹",
+  "by_con": "For"
+}

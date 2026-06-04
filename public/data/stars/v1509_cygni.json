@@ -1,0 +1,15 @@
+{
+  "id": "v1509_cygni",
+  "name": "V1509 Cygni",
+  "rank": 5,
+  "ra": 297.64164771248,
+  "dec": 38.72241809232,
+  "dist": 212.3142,
+  "otype": "LP*",
+  "spect": "M2III",
+  "cat": 14,
+  "v": "V1509",
+  "v_con": "Cyg",
+  "fl": 19,
+  "fl_con": "Cyg"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "i_puppis",
+  "name": "I Puppis",
+  "rank": 4,
+  "ra": 108.14010473493543,
+  "dec": -46.75930460719945,
+  "dist": 21.427,
+  "otype": "a2*",
+  "spect": "F3VFe-1.0",
+  "cat": 20,
+  "by": "I",
+  "by_greek": "I",
+  "by_con": "Pup",
+  "v": "QW",
+  "v_con": "Pup",
+  "fl": 71,
+  "fl_con": "Pup"
+}

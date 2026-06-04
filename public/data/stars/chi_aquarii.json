@@ -1,0 +1,16 @@
+{
+  "id": "chi_aquarii",
+  "name": "Chi Aquarii",
+  "rank": 4,
+  "ra": 349.2122461168096,
+  "dec": -7.7264993337691665,
+  "dist": 187.9699,
+  "otype": "LP*",
+  "spect": "M3III",
+  "cat": 14,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Aqr",
+  "fl": 92,
+  "fl_con": "Aqr"
+}

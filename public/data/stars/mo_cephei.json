@@ -1,0 +1,15 @@
+{
+  "id": "mo_cephei",
+  "name": "MO Cephei",
+  "rank": 5,
+  "ra": 330.97073768443,
+  "dec": 63.11992084872999,
+  "dist": 130.039,
+  "otype": "LP?",
+  "spect": "M5III",
+  "cat": 14,
+  "v": "MO",
+  "v_con": "Cep",
+  "fl": 18,
+  "fl_con": "Cep"
+}

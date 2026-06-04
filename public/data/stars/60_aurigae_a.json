@@ -1,0 +1,14 @@
+{
+  "id": "60_aurigae_a",
+  "name": "60 Aurigae A",
+  "rank": 5,
+  "ra": 103.30585087184457,
+  "dec": 38.43802061430805,
+  "dist": 69.54169541,
+  "otype": "PM*",
+  "spect": "F5V:",
+  "cat": 6,
+  "fl": 60,
+  "fl_con": "Aur",
+  "fl_comp": "A"
+}

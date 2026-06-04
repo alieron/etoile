@@ -1,0 +1,13 @@
+{
+  "id": "21_ceti",
+  "name": "21 Ceti",
+  "rank": 5,
+  "ra": 13.57330329993,
+  "dec": -8.74066389867,
+  "dist": 131.406,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 21,
+  "fl_con": "Cet"
+}

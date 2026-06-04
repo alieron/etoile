@@ -1,0 +1,17 @@
+{
+  "id": "theta_leonis",
+  "name": "Theta Leonis",
+  "rank": 2,
+  "ra": 168.56002362722833,
+  "dec": 15.429571086424442,
+  "dist": 50.6073,
+  "otype": "PM*",
+  "spect": "A2IV",
+  "cat": 10,
+  "proper": "Chertan",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Leo",
+  "fl": 70,
+  "fl_con": "Leo"
+}

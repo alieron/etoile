@@ -1,0 +1,16 @@
+{
+  "id": "dx_aquarii",
+  "name": "DX Aquarii",
+  "rank": 5,
+  "ra": 330.60936839902706,
+  "dec": -16.964830845116392,
+  "dist": 175.125,
+  "otype": "SB*",
+  "spect": "G0II",
+  "cat": 13,
+  "v": "DX",
+  "v_con": "Aqr",
+  "fl": 29,
+  "fl_con": "Aqr",
+  "fl_comp": "B"
+}

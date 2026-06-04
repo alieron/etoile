@@ -1,0 +1,14 @@
+{
+  "id": "g_virginis",
+  "name": "g Virginis",
+  "rank": 4,
+  "ra": 197.13527545847998,
+  "dec": -8.98438240938,
+  "dist": 97.0874,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "by": "g",
+  "by_greek": "g",
+  "by_con": "Vir"
+}

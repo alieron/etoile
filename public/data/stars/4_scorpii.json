@@ -1,0 +1,13 @@
+{
+  "id": "4_scorpii",
+  "name": "4 Scorpii",
+  "rank": 5,
+  "ra": 238.87530651602998,
+  "dec": -26.26598259947,
+  "dist": 125.1564,
+  "otype": "*",
+  "spect": "A3V",
+  "cat": 7,
+  "fl": 4,
+  "fl_con": "Sco"
+}

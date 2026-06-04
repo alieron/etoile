@@ -1,0 +1,13 @@
+{
+  "id": "42_cygni",
+  "name": "42 Cygni",
+  "rank": 5,
+  "ra": 307.3349589398699,
+  "dec": 36.45472714614,
+  "dist": 793.6508,
+  "otype": "pA*",
+  "spect": "A2Iab-Ib",
+  "cat": 17,
+  "fl": 42,
+  "fl_con": "Cyg"
+}

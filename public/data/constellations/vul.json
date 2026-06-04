@@ -1,137 +1,111 @@
 {
-  "abbreviation": "Vul",
+  "id": "Vul",
   "name": "Vulpecula",
-  "genitive": "Vulpeculae",
-  "meaning": "Fox",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 284.33910000000003,
-        "dec_deg": 21.2478,
-        "ra_deg_signed": -75.6609
-      },
-      {
-        "ra_deg": 284.2772,
-        "dec_deg": 25.6641,
-        "ra_deg_signed": -75.7228
-      },
-      {
-        "ra_deg": 290.1613,
-        "dec_deg": 25.7326,
-        "ra_deg_signed": -69.8387
-      },
-      {
-        "ra_deg": 290.1326,
-        "dec_deg": 27.7324,
-        "ra_deg_signed": -69.8674
-      },
-      {
-        "ra_deg": 296.2722,
-        "dec_deg": 27.8012,
-        "ra_deg_signed": -63.7278
-      },
-      {
-        "ra_deg": 296.2509,
-        "dec_deg": 29.3011,
-        "ra_deg_signed": -63.7491
-      },
-      {
-        "ra_deg": 315.0726,
-        "dec_deg": 29.4871,
-        "ra_deg_signed": -44.9274
-      },
-      {
-        "ra_deg": 315.08389999999997,
-        "dec_deg": 28.4872,
-        "ra_deg_signed": -44.9161
-      },
-      {
-        "ra_deg": 322.6202,
-        "dec_deg": 28.5481,
-        "ra_deg_signed": -37.3798
-      },
-      {
-        "ra_deg": 322.662,
-        "dec_deg": 24.0482,
-        "ra_deg_signed": -37.338
-      },
-      {
-        "ra_deg": 320.1517,
-        "dec_deg": 24.0289,
-        "ra_deg_signed": -39.8483
-      },
-      {
-        "ra_deg": 320.1884,
-        "dec_deg": 20.0291,
-        "ra_deg_signed": -39.8116
-      },
-      {
-        "ra_deg": 317.1788,
-        "dec_deg": 20.0046,
-        "ra_deg_signed": -42.8212
-      },
-      {
-        "ra_deg": 309.9077,
-        "dec_deg": 19.94,
-        "ra_deg_signed": -50.0923
-      },
-      {
-        "ra_deg": 309.8969,
-        "dec_deg": 20.9399,
-        "ra_deg_signed": -50.1031
-      },
-      {
-        "ra_deg": 305.134,
-        "dec_deg": 20.8937,
-        "ra_deg_signed": -54.866
-      },
-      {
-        "ra_deg": 305.1254,
-        "dec_deg": 21.6437,
-        "ra_deg_signed": -54.8746
-      },
-      {
-        "ra_deg": 298.8603,
-        "dec_deg": 21.5787,
-        "ra_deg_signed": -61.1397
-      },
-      {
-        "ra_deg": 298.8857,
-        "dec_deg": 19.4955,
-        "ra_deg_signed": -61.1143
-      },
-      {
-        "ra_deg": 290.1213,
-        "dec_deg": 19.3983,
-        "ra_deg_signed": -69.8787
-      },
-      {
-        "ra_deg": 290.0963,
-        "dec_deg": 21.3148,
-        "ra_deg_signed": -69.9037
-      },
-      {
-        "ra_deg": 284.33910000000003,
-        "dec_deg": 21.2478,
-        "ra_deg_signed": -75.6609
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Vulpeculae",
+  "meaning": "Little Fox",
+  "rank": 2,
+  "focus": [
+    -56.5304,
+    24.4427,
+    73
+  ],
+  "label": [
+    -64.5,
+    21
+  ],
+  "bound": [
     [
-      95771,
-      97886
+      [
+        -75.6609,
+        21.2478
+      ],
+      [
+        -75.7228,
+        25.6641
+      ],
+      [
+        -69.8387,
+        25.7326
+      ],
+      [
+        -69.8674,
+        27.7324
+      ],
+      [
+        -63.7278,
+        27.8012
+      ],
+      [
+        -63.7491,
+        29.3011
+      ],
+      [
+        -44.9274,
+        29.4871
+      ],
+      [
+        -44.9161,
+        28.4872
+      ],
+      [
+        -37.3798,
+        28.5481
+      ],
+      [
+        -37.338,
+        24.0482
+      ],
+      [
+        -39.8483,
+        24.0289
+      ],
+      [
+        -39.8116,
+        20.0291
+      ],
+      [
+        -42.8212,
+        20.0046
+      ],
+      [
+        -50.0923,
+        19.94
+      ],
+      [
+        -50.1031,
+        20.9399
+      ],
+      [
+        -54.866,
+        20.8937
+      ],
+      [
+        -54.8746,
+        21.6437
+      ],
+      [
+        -61.1397,
+        21.5787
+      ],
+      [
+        -61.1143,
+        19.4955
+      ],
+      [
+        -69.8787,
+        19.3983
+      ],
+      [
+        -69.9037,
+        21.3148
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Anser",
-    "designation": "6Alp Vul",
-    "display_name": "6 Alpha Vulpeculae",
-    "display_name_greek": "6 α Vulpeculae",
-    "hip": 95771,
-    "ra_deg": 292.176405,
-    "dec_deg": 24.664905
-  }
+  "lines": [
+    [
+      "alpha_vulpeculae",
+      "13_vulpeculae"
+    ]
+  ],
+  "bright": "alpha_vulpeculae"
 }

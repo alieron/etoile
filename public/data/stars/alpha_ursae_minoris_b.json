@@ -1,0 +1,15 @@
+{
+  "id": "alpha_ursae_minoris_b",
+  "name": "Alpha Ursae Minoris B",
+  "rank": 4,
+  "ra": 37.65035851025,
+  "dec": 89.26088976275,
+  "dist": 137.233,
+  "otype": "V*",
+  "spect": "F3V",
+  "cat": 6,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "UMi",
+  "by_comp": "B"
+}

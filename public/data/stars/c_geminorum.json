@@ -1,0 +1,16 @@
+{
+  "id": "c_geminorum",
+  "name": "c Geminorum",
+  "rank": 4,
+  "ra": 116.02881237863998,
+  "dec": 25.784160123099998,
+  "dist": 194.5525,
+  "otype": "*",
+  "spect": "K4.5III",
+  "cat": 13,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Gem",
+  "fl": 76,
+  "fl_con": "Gem"
+}

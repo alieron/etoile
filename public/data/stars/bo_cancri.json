@@ -1,0 +1,15 @@
+{
+  "id": "bo_cancri",
+  "name": "BO Cancri",
+  "rank": 5,
+  "ra": 133.11912463596,
+  "dec": 28.259157858629997,
+  "dist": 271.7391,
+  "otype": "LP?",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "BO",
+  "v_con": "Cnc",
+  "fl": 53,
+  "fl_con": "Cnc"
+}

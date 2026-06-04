@@ -1,0 +1,15 @@
+{
+  "id": "mq_serpentis",
+  "name": "MQ Serpentis",
+  "rank": 5,
+  "ra": 229.82832267080124,
+  "dec": 1.7654073283511111,
+  "dist": 25.3807,
+  "otype": "PM*",
+  "spect": "F8IV",
+  "cat": 11,
+  "v": "MQ",
+  "v_con": "Ser",
+  "fl": 5,
+  "fl_con": "Ser"
+}

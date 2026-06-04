@@ -1,0 +1,15 @@
+{
+  "id": "mu_persei_b",
+  "name": "Mu Persei B",
+  "rank": 4,
+  "ra": 63.72335274252,
+  "dec": 48.41340443454,
+  "dist": 212.089,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Per",
+  "by_comp": "B"
+}

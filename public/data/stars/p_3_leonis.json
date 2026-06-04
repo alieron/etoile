@@ -1,0 +1,16 @@
+{
+  "id": "p_3_leonis",
+  "name": "p 3 Leonis",
+  "rank": 4,
+  "ra": 165.90246615186,
+  "dec": -0.0008306925399999999,
+  "dist": 185.8736,
+  "otype": "PM*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "p03",
+  "by_greek": "p³",
+  "by_con": "Leo",
+  "fl": 62,
+  "fl_con": "Leo"
+}

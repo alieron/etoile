@@ -1,0 +1,15 @@
+{
+  "id": "pi_1_cancri_c",
+  "name": "Pi 1 Cancri C",
+  "rank": 4,
+  "ra": 138.061213,
+  "dec": 14.99434,
+  "dist": 20.5,
+  "otype": "BD*",
+  "spect": "L8.5+L7.5",
+  "cat": 2,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Cnc",
+  "by_comp": "C"
+}

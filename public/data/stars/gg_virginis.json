@@ -1,0 +1,15 @@
+{
+  "id": "gg_virginis",
+  "name": "GG Virginis",
+  "rank": 5,
+  "ra": 190.39329974326,
+  "dec": 10.4262690289,
+  "dist": 62.8931,
+  "otype": "dS*",
+  "spect": "A6Vp",
+  "cat": 6,
+  "v": "GG",
+  "v_con": "Vir",
+  "fl": 27,
+  "fl_con": "Vir"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "alpha_eridani",
+  "name": "Alpha Eridani",
+  "rank": 2,
+  "ra": 24.428522833333336,
+  "dec": -57.236752805555554,
+  "dist": 42.7533,
+  "otype": "Be*",
+  "spect": "B6Vpe",
+  "cat": 8,
+  "proper": "Achernar",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Eri"
+}

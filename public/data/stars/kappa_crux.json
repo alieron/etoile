@@ -1,0 +1,14 @@
+{
+  "id": "kappa_crux",
+  "name": "Kappa Crux",
+  "rank": 4,
+  "ra": 193.45383256528,
+  "dec": -60.37624162151,
+  "dist": 100000.0,
+  "otype": "SB*",
+  "spect": "B5I",
+  "cat": 8,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Cru"
+}

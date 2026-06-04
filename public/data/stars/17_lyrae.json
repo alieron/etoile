@@ -1,0 +1,13 @@
+{
+  "id": "17_lyrae",
+  "name": "17 Lyrae",
+  "rank": 5,
+  "ra": 286.85659139964,
+  "dec": 32.50176020348,
+  "dist": 41.58,
+  "otype": "SB*",
+  "spect": "F0V",
+  "cat": 6,
+  "fl": 17,
+  "fl_con": "Lyr"
+}

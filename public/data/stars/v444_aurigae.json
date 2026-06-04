@@ -1,0 +1,15 @@
+{
+  "id": "v444_aurigae",
+  "name": "V444 Aurigae",
+  "rank": 5,
+  "ra": 90.24400904882,
+  "dec": 47.90192487379,
+  "dist": 354.6099,
+  "otype": "a2*",
+  "spect": "A1VpSi",
+  "cat": 20,
+  "v": "V444",
+  "v_con": "Aur",
+  "fl": 36,
+  "fl_con": "Aur"
+}

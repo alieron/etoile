@@ -1,0 +1,16 @@
+{
+  "id": "e_virginis",
+  "name": "e Virginis",
+  "rank": 4,
+  "ra": 199.19381191438,
+  "dec": 9.424155594346109,
+  "dist": 17.5593,
+  "otype": "PM*",
+  "spect": "G0IV",
+  "cat": 11,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Vir",
+  "fl": 59,
+  "fl_con": "Vir"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pi_canis_majoris_b",
+  "name": "Pi Canis Majoris B",
+  "rank": 4,
+  "ra": 103.90674301821001,
+  "dec": -20.13334718152,
+  "dist": 29.708,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "CMa",
+  "by_comp": "B",
+  "fl": 19,
+  "fl_con": "CMa",
+  "fl_comp": "B"
+}

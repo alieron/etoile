@@ -1,0 +1,17 @@
+{
+  "id": "iota_orionis_b",
+  "name": "Iota Orionis B",
+  "rank": 4,
+  "ra": 83.86023411136,
+  "dec": -5.91234641283,
+  "dist": 358.809,
+  "otype": "Or*",
+  "spect": "B8III",
+  "cat": 21,
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Ori",
+  "by_comp": "B",
+  "v": "V2451",
+  "v_con": "Ori"
+}

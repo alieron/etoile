@@ -1,0 +1,14 @@
+{
+  "id": "gamma_2_volantis",
+  "name": "Gamma 2 Volantis",
+  "rank": 3,
+  "ra": 107.18694039829,
+  "dec": -70.4989304021,
+  "dist": 42.8633,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "gam02",
+  "by_greek": "γ²",
+  "by_con": "Vol"
+}

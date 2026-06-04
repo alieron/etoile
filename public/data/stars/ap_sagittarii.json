@@ -1,0 +1,15 @@
+{
+  "id": "ap_sagittarii",
+  "name": "AP Sagittarii",
+  "rank": 5,
+  "ra": 273.26039903627,
+  "dec": -23.117278161379996,
+  "dist": 100000.0,
+  "otype": "cC*",
+  "spect": "F7/8Ib/II",
+  "cat": 18,
+  "v": "AP",
+  "v_con": "Sgr",
+  "fl": 12,
+  "fl_con": "Sgr"
+}

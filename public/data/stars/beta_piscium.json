@@ -1,0 +1,17 @@
+{
+  "id": "beta_piscium",
+  "name": "Beta Piscium",
+  "rank": 2,
+  "ra": 345.96922173068,
+  "dec": 3.8200456395047224,
+  "dist": 125.1564,
+  "otype": "Be*",
+  "spect": "B6Ve",
+  "cat": 8,
+  "proper": "Fumalsamakah",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Psc",
+  "fl": 4,
+  "fl_con": "Psc"
+}

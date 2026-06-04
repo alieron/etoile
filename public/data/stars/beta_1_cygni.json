@@ -1,0 +1,18 @@
+{
+  "id": "beta_1_cygni",
+  "name": "Beta 1 Cygni",
+  "rank": 2,
+  "ra": 292.68031501400833,
+  "dec": 27.959673631221666,
+  "dist": 133.1558,
+  "otype": "**",
+  "spect": "K3II+B9.5V",
+  "cat": 13,
+  "proper": "Albireo",
+  "by": "bet01",
+  "by_greek": "β¹",
+  "by_con": "Cyg",
+  "fl": 6,
+  "fl_con": "Cyg",
+  "fl_comp": "A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "v398_aurigae",
+  "name": "V398 Aurigae",
+  "rank": 5,
+  "ra": 76.66929418037,
+  "dec": 51.59772194409,
+  "dist": 26.2881,
+  "otype": "gD*",
+  "spect": "F2V",
+  "cat": 6,
+  "v": "V398",
+  "v_con": "Aur",
+  "fl": 9,
+  "fl_con": "Aur"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "73_herculis",
+  "name": "73 Herculis",
+  "rank": 5,
+  "ra": 261.02744624947,
+  "dec": 22.96028225747,
+  "dist": 42.6985,
+  "otype": "PM*",
+  "spect": "A7V",
+  "cat": 7,
+  "fl": 73,
+  "fl_con": "Her"
+}

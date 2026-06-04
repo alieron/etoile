@@ -1,0 +1,16 @@
+{
+  "id": "omega_2_cancri",
+  "name": "Omega 2 Cancri",
+  "rank": 4,
+  "ra": 120.43232011652,
+  "dec": 25.08946629905,
+  "dist": 145.9854,
+  "otype": "*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "ome02",
+  "by_greek": "ω²",
+  "by_con": "Cnc",
+  "fl": 4,
+  "fl_con": "Cnc"
+}

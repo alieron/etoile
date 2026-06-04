@@ -1,0 +1,14 @@
+{
+  "id": "17_crateris_a",
+  "name": "17 Crateris A",
+  "rank": 5,
+  "ra": 173.06835030497044,
+  "dec": -29.2610213405447,
+  "dist": 26.295262950000005,
+  "otype": "PM*",
+  "spect": "F8V+F8V",
+  "cat": 6,
+  "fl": 17,
+  "fl_con": "Crt",
+  "fl_comp": "A"
+}

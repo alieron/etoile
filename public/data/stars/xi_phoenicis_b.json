@@ -1,0 +1,15 @@
+{
+  "id": "xi_phoenicis_b",
+  "name": "Xi Phoenicis B",
+  "rank": 4,
+  "ra": 10.437017377657916,
+  "dec": -56.5024020843575,
+  "dist": 67.838,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Phe",
+  "by_comp": "B"
+}

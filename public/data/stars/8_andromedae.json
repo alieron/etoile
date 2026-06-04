@@ -1,0 +1,13 @@
+{
+  "id": "8_andromedae",
+  "name": "8 Andromedae",
+  "rank": 5,
+  "ra": 349.43603027376,
+  "dec": 49.01530081413999,
+  "dist": 172.7116,
+  "otype": "*",
+  "spect": "M2.5IIIBa0.5",
+  "cat": 15,
+  "fl": 8,
+  "fl_con": "And"
+}

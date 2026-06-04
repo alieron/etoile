@@ -1,0 +1,16 @@
+{
+  "id": "chi_pegasi",
+  "name": "Chi Pegasi",
+  "rank": 4,
+  "ra": 3.650684510418749,
+  "dec": 20.206702882684446,
+  "dist": 112.8668,
+  "otype": "PM*",
+  "spect": "M2+III",
+  "cat": 14,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Peg",
+  "fl": 89,
+  "fl_con": "Peg"
+}

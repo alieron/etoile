@@ -1,0 +1,16 @@
+{
+  "id": "tau_1_aquarii",
+  "name": "Tau 1 Aquarii",
+  "rank": 4,
+  "ra": 341.92820610903,
+  "dec": -14.05642813664,
+  "dist": 97.371,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "tau01",
+  "by_greek": "τ¹",
+  "by_con": "Aqr",
+  "fl": 69,
+  "fl_con": "Aqr"
+}

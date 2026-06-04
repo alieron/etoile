@@ -1,0 +1,18 @@
+{
+  "id": "i_draconis",
+  "name": "i Draconis",
+  "rank": 4,
+  "ra": 207.85796514593542,
+  "dec": 64.72328127628585,
+  "dist": 113.8952,
+  "otype": "LP?",
+  "spect": "M3.5III",
+  "cat": 14,
+  "by": "i",
+  "by_greek": "i",
+  "by_con": "Dra",
+  "v": "CU",
+  "v_con": "Dra",
+  "fl": 10,
+  "fl_con": "Dra"
+}

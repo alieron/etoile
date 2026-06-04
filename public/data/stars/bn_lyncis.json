@@ -1,0 +1,16 @@
+{
+  "id": "bn_lyncis",
+  "name": "BN Lyncis",
+  "rank": 2,
+  "ra": 125.70878932057252,
+  "dec": 43.18813060422277,
+  "dist": 117.2333,
+  "otype": "LP*",
+  "spect": "K4+III",
+  "cat": 14,
+  "proper": "Alsciaukat",
+  "v": "BN",
+  "v_con": "Lyn",
+  "fl": 31,
+  "fl_con": "Lyn"
+}

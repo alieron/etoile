@@ -1,0 +1,14 @@
+{
+  "id": "118_tauri_b",
+  "name": "118 Tauri B",
+  "rank": 5,
+  "ra": 82.31807628952,
+  "dec": 25.149074816149998,
+  "dist": 104.598,
+  "otype": "**",
+  "spect": "A0Vn",
+  "cat": 7,
+  "fl": 118,
+  "fl_con": "Tau",
+  "fl_comp": "B"
+}

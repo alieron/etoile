@@ -1,0 +1,16 @@
+{
+  "id": "pi_2_orionis",
+  "name": "Pi 2 Orionis",
+  "rank": 3,
+  "ra": 72.65301036721706,
+  "dec": 8.900181169455834,
+  "dist": 68.8231,
+  "otype": "*",
+  "spect": "A1Vn",
+  "cat": 7,
+  "by": "pi.02",
+  "by_greek": "π²",
+  "by_con": "Ori",
+  "fl": 2,
+  "fl_con": "Ori"
+}

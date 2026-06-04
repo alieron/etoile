@@ -1,0 +1,14 @@
+{
+  "id": "50_camelopardalis_b",
+  "name": "50 Camelopardalis B",
+  "rank": 5,
+  "ra": 116.01766416666666,
+  "dec": 50.43352317777777,
+  "dist": 226.7574,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 50,
+  "fl_con": "Cam",
+  "fl_comp": "B"
+}

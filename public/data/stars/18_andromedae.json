@@ -1,0 +1,13 @@
+{
+  "id": "18_andromedae",
+  "name": "18 Andromedae",
+  "rank": 5,
+  "ra": 354.78471522488,
+  "dec": 50.47173264877999,
+  "dist": 129.199,
+  "otype": "*",
+  "spect": "B9Ve",
+  "cat": 8,
+  "fl": 18,
+  "fl_con": "And"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "n_tauri",
+  "name": "n Tauri",
+  "rank": 4,
+  "ra": 79.81919240385,
+  "dec": 22.096505949550007,
+  "dist": 75.815,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "n",
+  "by_greek": "n",
+  "by_con": "Tau",
+  "fl": 109,
+  "fl_con": "Tau"
+}

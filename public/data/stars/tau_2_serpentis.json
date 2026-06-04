@@ -1,0 +1,16 @@
+{
+  "id": "tau_2_serpentis",
+  "name": "Tau 2 Serpentis",
+  "rank": 4,
+  "ra": 233.04031252601004,
+  "dec": 16.05616918269,
+  "dist": 143.8849,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "tau02",
+  "by_greek": "τ²",
+  "by_con": "Ser",
+  "fl": 12,
+  "fl_con": "Ser"
+}

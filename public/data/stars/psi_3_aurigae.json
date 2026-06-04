@@ -1,0 +1,16 @@
+{
+  "id": "psi_3_aurigae",
+  "name": "Psi 3 Aurigae",
+  "rank": 4,
+  "ra": 99.70491833077,
+  "dec": 39.90255952769,
+  "dist": 420.1681,
+  "otype": "*",
+  "spect": "B8III",
+  "cat": 17,
+  "by": "psi03",
+  "by_greek": "ψ³",
+  "by_con": "Aur",
+  "fl": 52,
+  "fl_con": "Aur"
+}

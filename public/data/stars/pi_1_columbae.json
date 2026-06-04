@@ -1,0 +1,14 @@
+{
+  "id": "pi_1_columbae",
+  "name": "Pi 1 Columbae",
+  "rank": 4,
+  "ra": 91.67101629307,
+  "dec": -42.298800166339994,
+  "dist": 83.4028,
+  "otype": "SB*",
+  "spect": "A2mA5-A9",
+  "cat": 7,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Col"
+}

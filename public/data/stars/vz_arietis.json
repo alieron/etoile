@@ -1,0 +1,15 @@
+{
+  "id": "vz_arietis",
+  "name": "VZ Arietis",
+  "rank": 5,
+  "ra": 42.19126357122,
+  "dec": 25.1880522341,
+  "dist": 121.8027,
+  "otype": "a2*",
+  "spect": "A0V",
+  "cat": 20,
+  "v": "VZ",
+  "v_con": "Ari",
+  "fl": 16,
+  "fl_con": "Tri"
+}

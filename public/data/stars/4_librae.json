@@ -1,0 +1,13 @@
+{
+  "id": "4_librae",
+  "name": "4 Librae",
+  "rank": 5,
+  "ra": 220.80646373258,
+  "dec": -24.99775323138,
+  "dist": 152.439,
+  "otype": "Be*",
+  "spect": "A0IVe",
+  "cat": 8,
+  "fl": 4,
+  "fl_con": "Lib"
+}

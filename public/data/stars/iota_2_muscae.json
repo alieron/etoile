@@ -1,0 +1,14 @@
+{
+  "id": "iota_2_muscae",
+  "name": "Iota 2 Muscae",
+  "rank": 4,
+  "ra": 201.8270714803,
+  "dec": -74.69175564974,
+  "dist": 159.4896,
+  "otype": "*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "iot02",
+  "by_greek": "ι²",
+  "by_con": "Mus"
+}

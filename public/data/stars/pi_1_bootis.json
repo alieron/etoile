@@ -1,0 +1,17 @@
+{
+  "id": "pi_1_bootis",
+  "name": "Pi 1 Boötis",
+  "rank": 4,
+  "ra": 220.18149546561997,
+  "dec": 16.41832665586,
+  "dist": 93.7207,
+  "otype": "*",
+  "spect": "B9IIIpHgMnSi",
+  "cat": 17,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Boo",
+  "fl": 29,
+  "fl_con": "Boo",
+  "fl_comp": "A"
+}

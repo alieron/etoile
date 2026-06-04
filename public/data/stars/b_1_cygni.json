@@ -1,0 +1,18 @@
+{
+  "id": "b_1_cygni",
+  "name": "b 1 Cygni",
+  "rank": 4,
+  "ra": 301.5906970720503,
+  "dec": 35.97246919934528,
+  "dist": 23.9464,
+  "otype": "RS*",
+  "spect": "G8.5IVa",
+  "cat": 11,
+  "by": "b01",
+  "by_greek": "b¹",
+  "by_con": "Cyg",
+  "v": "V2008",
+  "v_con": "Cyg",
+  "fl": 27,
+  "fl_con": "Cyg"
+}

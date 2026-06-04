@@ -1,0 +1,16 @@
+{
+  "id": "omicron_2_orionis",
+  "name": "Omicron 2 Orionis",
+  "rank": 3,
+  "ra": 74.09281653025542,
+  "dec": 13.514468784302222,
+  "dist": 57.0125,
+  "otype": "PM*",
+  "spect": "K2-IIIb",
+  "cat": 15,
+  "by": "omi02",
+  "by_greek": "ο²",
+  "by_con": "Ori",
+  "fl": 9,
+  "fl_con": "Ori"
+}

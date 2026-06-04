@@ -1,0 +1,17 @@
+{
+  "id": "zeta_leonis",
+  "name": "Zeta Leonis",
+  "rank": 2,
+  "ra": 154.17256318434792,
+  "dec": 23.417316988991107,
+  "dist": 84.0336,
+  "otype": "*",
+  "spect": "F0IIIa",
+  "cat": 16,
+  "proper": "Adhafera",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Leo",
+  "fl": 36,
+  "fl_con": "Leo"
+}

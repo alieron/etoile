@@ -1,0 +1,15 @@
+{
+  "id": "ty_corvi",
+  "name": "TY Corvi",
+  "rank": 5,
+  "ra": 180.21316317341999,
+  "dec": -19.658981176430004,
+  "dist": 970.8738,
+  "otype": "SB*",
+  "spect": "B2IV",
+  "cat": 9,
+  "v": "TY",
+  "v_con": "Crv",
+  "fl": 31,
+  "fl_con": "Crt"
+}

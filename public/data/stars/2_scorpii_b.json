@@ -1,0 +1,14 @@
+{
+  "id": "2_scorpii_b",
+  "name": "2 Scorpii B",
+  "rank": 5,
+  "ra": 238.40234671270002,
+  "dec": -25.327151627689997,
+  "dist": 133.035,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 2,
+  "fl_con": "Sco",
+  "fl_comp": "B"
+}

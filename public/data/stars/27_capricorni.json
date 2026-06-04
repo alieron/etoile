@@ -1,0 +1,13 @@
+{
+  "id": "27_capricorni",
+  "name": "27 Capricorni",
+  "rank": 5,
+  "ra": 317.38749691176,
+  "dec": -20.55666082856,
+  "dist": 51.5996,
+  "otype": "PM*",
+  "spect": "F2IV/V",
+  "cat": 11,
+  "fl": 27,
+  "fl_con": "Cap"
+}

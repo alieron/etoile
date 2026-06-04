@@ -1,0 +1,16 @@
+{
+  "id": "i_centauri",
+  "name": "i Centauri",
+  "rank": 4,
+  "ra": 206.42184974420917,
+  "dec": -33.04371697217305,
+  "dist": 19.4024,
+  "otype": "SB*",
+  "spect": "F2V",
+  "cat": 6,
+  "by": "i",
+  "by_greek": "i",
+  "by_con": "Cen",
+  "fl": 1,
+  "fl_con": "Cen"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ks_pegasi",
+  "name": "KS Pegasi",
+  "rank": 5,
+  "ra": 354.4866762186,
+  "dec": 18.400666136050003,
+  "dist": 71.3776,
+  "otype": "SB*",
+  "spect": "A0Vn",
+  "cat": 7,
+  "v": "KS",
+  "v_con": "Peg",
+  "fl": 75,
+  "fl_con": "Peg"
+}

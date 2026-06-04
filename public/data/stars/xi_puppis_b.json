@@ -1,0 +1,15 @@
+{
+  "id": "xi_puppis_b",
+  "name": "Xi Puppis B",
+  "rank": 4,
+  "ra": 117.32330448783,
+  "dec": -24.86111272108,
+  "dist": 385.06,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Pup",
+  "by_comp": "B"
+}

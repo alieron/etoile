@@ -1,0 +1,14 @@
+{
+  "id": "28_ursae_majoris_a",
+  "name": "28 Ursae Majoris A",
+  "rank": 5,
+  "ra": 146.48067938766,
+  "dec": 63.65331338223001,
+  "dist": 77.4593,
+  "otype": "*",
+  "spect": "F2V",
+  "cat": 6,
+  "fl": 28,
+  "fl_con": "UMa",
+  "fl_comp": "A"
+}

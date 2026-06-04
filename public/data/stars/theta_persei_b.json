@@ -1,0 +1,15 @@
+{
+  "id": "theta_persei_b",
+  "name": "Theta Persei B",
+  "rank": 4,
+  "ra": 41.04278027405792,
+  "dec": 49.23166538440306,
+  "dist": 11.1889,
+  "otype": "PM*",
+  "spect": "M1.5V",
+  "cat": 3,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Per",
+  "by_comp": "B"
+}

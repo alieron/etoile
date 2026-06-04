@@ -1,0 +1,15 @@
+{
+  "id": "fr_ceti",
+  "name": "FR Ceti",
+  "rank": 5,
+  "ra": 36.24328692181,
+  "dec": -2.7800282404900005,
+  "dist": 273.9726,
+  "otype": "*",
+  "spect": "B9.5III/IV",
+  "cat": 9,
+  "v": "FR",
+  "v_con": "Cet",
+  "fl": 71,
+  "fl_con": "Cet"
+}

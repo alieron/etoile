@@ -1,0 +1,15 @@
+{
+  "id": "fs_comae_berenices",
+  "name": "FS Comae Berenices",
+  "rank": 5,
+  "ra": 196.59417511078996,
+  "dec": 22.61618697203,
+  "dist": 225.7336,
+  "otype": "LP*",
+  "spect": "M5III:",
+  "cat": 14,
+  "v": "FS",
+  "v_con": "Com",
+  "fl": 40,
+  "fl_con": "Com"
+}

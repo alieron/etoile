@@ -1,0 +1,15 @@
+{
+  "id": "theta_muscae_b",
+  "name": "Theta Muscae B",
+  "rank": 4,
+  "ra": 197.02937355707,
+  "dec": -65.3074944414,
+  "dist": 2032.107,
+  "otype": "*",
+  "spect": "O9III",
+  "cat": 17,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Mus",
+  "by_comp": "B"
+}

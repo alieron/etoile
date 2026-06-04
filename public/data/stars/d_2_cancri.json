@@ -1,0 +1,16 @@
+{
+  "id": "d_2_cancri",
+  "name": "d 2 Cancri",
+  "rank": 4,
+  "ra": 126.45782193697002,
+  "dec": 17.046269924569998,
+  "dist": 44.9438,
+  "otype": "PM*",
+  "spect": "F5IIIm?",
+  "cat": 13,
+  "by": "d02",
+  "by_greek": "d²",
+  "by_con": "Cnc",
+  "fl": 25,
+  "fl_con": "Cnc"
+}

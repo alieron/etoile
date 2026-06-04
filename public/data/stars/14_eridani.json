@@ -1,0 +1,13 @@
+{
+  "id": "14_eridani",
+  "name": "14 Eridani",
+  "rank": 5,
+  "ra": 49.14893979959,
+  "dec": -9.15460336704,
+  "dist": 34.1763,
+  "otype": "*",
+  "spect": "F5VFe-0.7CH-0.5",
+  "cat": 6,
+  "fl": 14,
+  "fl_con": "Eri"
+}

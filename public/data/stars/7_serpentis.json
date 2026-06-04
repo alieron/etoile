@@ -1,0 +1,13 @@
+{
+  "id": "7_serpentis",
+  "name": "7 Serpentis",
+  "rank": 5,
+  "ra": 230.596807485,
+  "dec": 12.567526146040002,
+  "dist": 137.5516,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "fl": 7,
+  "fl_con": "Ser"
+}

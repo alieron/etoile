@@ -1,0 +1,13 @@
+{
+  "id": "35_cygni",
+  "name": "35 Cygni",
+  "rank": 5,
+  "ra": 304.66279997014,
+  "dec": 34.98277055214,
+  "dist": 970.8738,
+  "otype": "SB*",
+  "spect": "F6Ib",
+  "cat": 16,
+  "fl": 35,
+  "fl_con": "Cyg"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lambda_cassiopeiae_a",
+  "name": "Lambda Cassiopeiae A",
+  "rank": 4,
+  "ra": 7.943163944583332,
+  "dec": 54.52228491361111,
+  "dist": 115.74185740700001,
+  "otype": "*",
+  "spect": "B8Vn",
+  "cat": 8,
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Cas",
+  "by_comp": "A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d_centauri_a",
+  "name": "D Centauri A",
+  "rank": 4,
+  "ra": 183.51123939582672,
+  "dec": -45.72391614604974,
+  "dist": 175.133051313,
+  "otype": "*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "D",
+  "by_greek": "D",
+  "by_con": "Cen",
+  "by_comp": "A"
+}

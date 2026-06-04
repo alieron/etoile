@@ -1,0 +1,15 @@
+{
+  "id": "gn_andromedae",
+  "name": "GN Andromedae",
+  "rank": 5,
+  "ra": 7.530687976930001,
+  "dec": 29.75155779584,
+  "dist": 62.7746,
+  "otype": "dS*",
+  "spect": "A7III",
+  "cat": 6,
+  "v": "GN",
+  "v_con": "And",
+  "fl": 28,
+  "fl_con": "And"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lt_persei",
+  "name": "LT Persei",
+  "rank": 5,
+  "ra": 44.32200717365,
+  "dec": 31.934220416160002,
+  "dist": 98.0392,
+  "otype": "a2*",
+  "spect": "A2VspSiEu",
+  "cat": 20,
+  "v": "LT",
+  "v_con": "Per",
+  "fl": 21,
+  "fl_con": "Per"
+}

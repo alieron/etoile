@@ -1,0 +1,18 @@
+{
+  "id": "sigma_1_cancri_b",
+  "name": "Sigma 1 Cancri B",
+  "rank": 4,
+  "ra": 133.14259325023,
+  "dec": 32.47429601444,
+  "dist": 64.705,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "sig01",
+  "by_greek": "σ¹",
+  "by_con": "Cnc",
+  "by_comp": "B",
+  "fl": 51,
+  "fl_con": "Cnc",
+  "fl_comp": "B"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "18_sagittae",
+  "name": "18 Sagittae",
+  "rank": 5,
+  "ra": 304.08245070812,
+  "dec": 21.59870233374,
+  "dist": 101.626,
+  "otype": "*",
+  "spect": "K1III",
+  "cat": 13,
+  "fl": 18,
+  "fl_con": "Sge"
+}

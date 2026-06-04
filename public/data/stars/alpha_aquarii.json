@@ -1,0 +1,17 @@
+{
+  "id": "alpha_aquarii",
+  "name": "Alpha Aquarii",
+  "rank": 2,
+  "ra": 331.4459814409479,
+  "dec": -0.3198509554241667,
+  "dist": 160.5136,
+  "otype": "*",
+  "spect": "G2Ib",
+  "cat": 16,
+  "proper": "Sadalmelik",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Aqr",
+  "fl": 34,
+  "fl_con": "Aqr"
+}

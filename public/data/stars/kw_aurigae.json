@@ -1,0 +1,15 @@
+{
+  "id": "kw_aurigae",
+  "name": "KW Aurigae",
+  "rank": 5,
+  "ra": 78.85164248557,
+  "dec": 32.68759991105,
+  "dist": 87.5657,
+  "otype": "dS*",
+  "spect": "A8III",
+  "cat": 6,
+  "v": "KW",
+  "v_con": "Aur",
+  "fl": 14,
+  "fl_con": "Aur"
+}

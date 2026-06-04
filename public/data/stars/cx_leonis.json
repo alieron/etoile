@@ -1,0 +1,15 @@
+{
+  "id": "cx_leonis",
+  "name": "CX Leonis",
+  "rank": 5,
+  "ra": 156.91245384111,
+  "dec": 9.762391668100001,
+  "dist": 129.199,
+  "otype": "a2*",
+  "spect": "B9.5IV-VpSiCrSr(Mn)",
+  "cat": 20,
+  "v": "CX",
+  "v_con": "Leo",
+  "fl": 45,
+  "fl_con": "Leo"
+}

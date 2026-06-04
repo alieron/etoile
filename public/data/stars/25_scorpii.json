@@ -1,0 +1,13 @@
+{
+  "id": "25_scorpii",
+  "name": "25 Scorpii",
+  "rank": 5,
+  "ra": 251.71393614834,
+  "dec": -25.52857398247,
+  "dist": 216.4502,
+  "otype": "*",
+  "spect": "K0II",
+  "cat": 13,
+  "fl": 25,
+  "fl_con": "Sco"
+}

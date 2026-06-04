@@ -1,0 +1,13 @@
+{
+  "id": "1_puppis",
+  "name": "1 Puppis",
+  "rank": 5,
+  "ra": 115.88494452232,
+  "dec": -28.41088574833,
+  "dist": 236.9668,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 1,
+  "fl_con": "Pup"
+}

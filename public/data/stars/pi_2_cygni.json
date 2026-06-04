@@ -1,0 +1,16 @@
+{
+  "id": "pi_2_cygni",
+  "name": "Pi 2 Cygni",
+  "rank": 4,
+  "ra": 326.69837408038626,
+  "dec": 49.309570627924444,
+  "dist": 338.9831,
+  "otype": "SB*",
+  "spect": "B2.5III",
+  "cat": 17,
+  "by": "pi.02",
+  "by_greek": "π²",
+  "by_con": "Cyg",
+  "fl": 81,
+  "fl_con": "Cyg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "51_pegasi",
+  "name": "51 Pegasi",
+  "rank": 2,
+  "ra": 344.36658535524,
+  "dec": 20.768832511140005,
+  "dist": 15.6079,
+  "otype": "PM*",
+  "spect": "G2IV",
+  "cat": 11,
+  "proper": "Helvetios",
+  "fl": 51,
+  "fl_con": "Peg"
+}

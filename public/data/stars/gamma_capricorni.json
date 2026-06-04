@@ -1,0 +1,17 @@
+{
+  "id": "gamma_capricorni",
+  "name": "Gamma Capricorni",
+  "rank": 2,
+  "ra": 325.0226892543413,
+  "dec": -16.66237119824361,
+  "dist": 48.1464,
+  "otype": "a2*",
+  "spect": "kF0hF1VmF2",
+  "cat": 20,
+  "proper": "Nashira",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cap",
+  "fl": 40,
+  "fl_con": "Cap"
+}

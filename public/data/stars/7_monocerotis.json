@@ -1,0 +1,13 @@
+{
+  "id": "7_monocerotis",
+  "name": "7 Monocerotis",
+  "rank": 5,
+  "ra": 94.92833349119,
+  "dec": -7.82290591822,
+  "dist": 267.3797,
+  "otype": "SB*",
+  "spect": "B2V",
+  "cat": 8,
+  "fl": 7,
+  "fl_con": "Mon"
+}

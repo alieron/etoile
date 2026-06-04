@@ -1,0 +1,15 @@
+{
+  "id": "ay_ceti",
+  "name": "AY Ceti",
+  "rank": 5,
+  "ra": 19.151199772369996,
+  "dec": -2.50036906236,
+  "dist": 80.5802,
+  "otype": "RS*",
+  "spect": "G6III:eFe-2",
+  "cat": 13,
+  "v": "AY",
+  "v_con": "Cet",
+  "fl": 39,
+  "fl_con": "Cet"
+}

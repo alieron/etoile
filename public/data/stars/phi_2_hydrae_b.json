@@ -1,0 +1,15 @@
+{
+  "id": "phi_2_hydrae_b",
+  "name": "Phi 2 Hydrae B",
+  "rank": 4,
+  "ra": 159.06841162551,
+  "dec": -16.34415299154,
+  "dist": 331.983,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "phi02",
+  "by_greek": "φ²",
+  "by_con": "Hya",
+  "by_comp": "B"
+}

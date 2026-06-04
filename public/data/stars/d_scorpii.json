@@ -1,0 +1,14 @@
+{
+  "id": "d_scorpii",
+  "name": "d Scorpii",
+  "rank": 4,
+  "ra": 244.57457983480714,
+  "dec": -28.614019999019167,
+  "dist": 41.2882,
+  "otype": "PM*",
+  "spect": "A1Va",
+  "cat": 7,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Sco"
+}

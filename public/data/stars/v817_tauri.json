@@ -1,0 +1,15 @@
+{
+  "id": "v817_tauri",
+  "name": "V817 Tauri",
+  "rank": 5,
+  "ra": 59.26586326642,
+  "dec": 23.17554197303,
+  "dist": 208.7683,
+  "otype": "SB*",
+  "spect": "B9.5IV",
+  "cat": 9,
+  "v": "V817",
+  "v_con": "Tau",
+  "fl": 33,
+  "fl_con": "Tau"
+}

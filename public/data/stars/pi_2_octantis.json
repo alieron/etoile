@@ -1,0 +1,14 @@
+{
+  "id": "pi_2_octantis",
+  "name": "Pi 2 Octantis",
+  "rank": 4,
+  "ra": 226.19551355932998,
+  "dec": -83.03831097558,
+  "dist": 598.8024,
+  "otype": "*",
+  "spect": "G8Ib",
+  "cat": 16,
+  "by": "pi.02",
+  "by_greek": "π²",
+  "by_con": "Oct"
+}

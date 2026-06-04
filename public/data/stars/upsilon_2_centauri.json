@@ -1,0 +1,14 @@
+{
+  "id": "upsilon_2_centauri",
+  "name": "Upsilon 2 Centauri",
+  "rank": 4,
+  "ra": 210.43127903188,
+  "dec": -45.60340960604,
+  "dist": 389.1051,
+  "otype": "SB*",
+  "spect": "F7II/III",
+  "cat": 13,
+  "by": "ups02",
+  "by_greek": "υ²",
+  "by_con": "Cen"
+}

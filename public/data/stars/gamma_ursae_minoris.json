@@ -1,0 +1,17 @@
+{
+  "id": "gamma_ursae_minoris",
+  "name": "Gamma Ursae Minoris",
+  "rank": 2,
+  "ra": 230.18209804850082,
+  "dec": 71.83402545491221,
+  "dist": 149.2537,
+  "otype": "dS*",
+  "spect": "A2III",
+  "cat": 6,
+  "proper": "Pherkad",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "UMi",
+  "fl": 13,
+  "fl_con": "UMi"
+}

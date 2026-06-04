@@ -1,0 +1,14 @@
+{
+  "id": "3_leonis_b",
+  "name": "3 Leonis B",
+  "rank": 5,
+  "ra": 142.12852675144,
+  "dec": 8.1895658991,
+  "dist": 138.904,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 3,
+  "fl_con": "Leo",
+  "fl_comp": "B"
+}

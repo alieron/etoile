@@ -1,0 +1,15 @@
+{
+  "id": "delta_piscis_austrini_b",
+  "name": "Delta Piscis Austrini B",
+  "rank": 4,
+  "ra": 343.98556772424,
+  "dec": -32.54013779919,
+  "dist": 52.507,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "PsA",
+  "by_comp": "B"
+}

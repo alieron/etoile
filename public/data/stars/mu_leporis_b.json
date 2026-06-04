@@ -1,0 +1,15 @@
+{
+  "id": "mu_leporis_b",
+  "name": "Mu Leporis B",
+  "rank": 4,
+  "ra": 78.23270833333333,
+  "dec": -16.205527777777778,
+  "dist": 57.0125,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Lep",
+  "by_comp": "B"
+}

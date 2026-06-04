@@ -1,0 +1,15 @@
+{
+  "id": "alpha_sagittarii",
+  "name": "Alpha Sagittarii",
+  "rank": 2,
+  "ra": 290.97156416063837,
+  "dec": -40.615937202693054,
+  "dist": 55.7414,
+  "otype": "PM*",
+  "spect": "B8V",
+  "cat": 8,
+  "proper": "Rukbat",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Sgr"
+}

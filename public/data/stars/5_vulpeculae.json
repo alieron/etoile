@@ -1,0 +1,13 @@
+{
+  "id": "5_vulpeculae",
+  "name": "5 Vulpeculae",
+  "rank": 5,
+  "ra": 291.55519254532,
+  "dec": 20.097734628169995,
+  "dist": 72.8863,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "fl": 5,
+  "fl_con": "Vul"
+}

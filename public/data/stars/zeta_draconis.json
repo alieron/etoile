@@ -1,0 +1,17 @@
+{
+  "id": "zeta_draconis",
+  "name": "Zeta Draconis",
+  "rank": 2,
+  "ra": 257.1966155398917,
+  "dec": 65.71464532697362,
+  "dist": 100.7049,
+  "otype": "**",
+  "spect": "B8III",
+  "cat": 17,
+  "proper": "Aldhibah",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Dra",
+  "fl": 22,
+  "fl_con": "Dra"
+}

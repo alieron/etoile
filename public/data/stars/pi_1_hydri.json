@@ -1,0 +1,14 @@
+{
+  "id": "pi_1_hydri",
+  "name": "Pi 1 Hydri",
+  "rank": 4,
+  "ra": 33.56058677437,
+  "dec": -67.84144017049,
+  "dist": 238.0952,
+  "otype": "PM*",
+  "spect": "M1-III",
+  "cat": 14,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Hyi"
+}

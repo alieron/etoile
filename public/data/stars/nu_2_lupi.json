@@ -1,0 +1,14 @@
+{
+  "id": "nu_2_lupi",
+  "name": "Nu 2 Lupi",
+  "rank": 4,
+  "ra": 230.4506246271504,
+  "dec": -48.317630529697226,
+  "dist": 14.8126,
+  "otype": "PM*",
+  "spect": "G2-V",
+  "cat": 5,
+  "by": "nu.02",
+  "by_greek": "ν²",
+  "by_con": "Lup"
+}

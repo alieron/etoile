@@ -1,0 +1,13 @@
+{
+  "id": "24_cephei",
+  "name": "24 Cephei",
+  "rank": 5,
+  "ra": 332.4517944276,
+  "dec": 72.34120548068,
+  "dist": 120.919,
+  "otype": "*",
+  "spect": "G7II-III",
+  "cat": 13,
+  "fl": 24,
+  "fl_con": "Cep"
+}

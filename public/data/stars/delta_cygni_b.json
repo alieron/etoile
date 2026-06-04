@@ -1,0 +1,15 @@
+{
+  "id": "delta_cygni_b",
+  "name": "Delta Cygni B",
+  "rank": 4,
+  "ra": 296.243264870505,
+  "dec": 45.13041173478111,
+  "dist": 50.5817,
+  "otype": "*",
+  "spect": "F1V",
+  "cat": 6,
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Cyg",
+  "by_comp": "B"
+}

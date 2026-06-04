@@ -1,0 +1,13 @@
+{
+  "id": "35_orionis",
+  "name": "35 Orionis",
+  "rank": 5,
+  "ra": 83.47617711541,
+  "dec": 14.305567720220001,
+  "dist": 136.7989,
+  "otype": "Pu*",
+  "spect": "B3V",
+  "cat": 8,
+  "fl": 35,
+  "fl_con": "Ori"
+}

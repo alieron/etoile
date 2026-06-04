@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_ophiuchi",
+  "name": "Epsilon Ophiuchi",
+  "rank": 2,
+  "ra": 244.58037593556583,
+  "dec": -4.692513152746668,
+  "dist": 32.6371,
+  "otype": "PM*",
+  "spect": "G9.5IIIbFe-0.5",
+  "cat": 16,
+  "proper": "Yed Posterior",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Oph",
+  "fl": 2,
+  "fl_con": "Oph"
+}

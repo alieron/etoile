@@ -1,0 +1,15 @@
+{
+  "id": "an_andromedae",
+  "name": "AN Andromedae",
+  "rank": 5,
+  "ra": 349.59717596056,
+  "dec": 41.7736678533,
+  "dist": 129.5337,
+  "otype": "SB*",
+  "spect": "A7m",
+  "cat": 7,
+  "v": "AN",
+  "v_con": "And",
+  "fl": 9,
+  "fl_con": "And"
+}

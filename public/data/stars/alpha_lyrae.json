@@ -1,0 +1,17 @@
+{
+  "id": "alpha_lyrae",
+  "name": "Alpha Lyrae",
+  "rank": 2,
+  "ra": 279.234734787025,
+  "dec": 38.783688956244,
+  "dist": 7.6787,
+  "otype": "dS*",
+  "spect": "A0V",
+  "cat": 6,
+  "proper": "Vega",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Lyr",
+  "fl": 3,
+  "fl_con": "Lyr"
+}

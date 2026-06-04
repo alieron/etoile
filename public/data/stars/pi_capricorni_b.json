@@ -1,0 +1,18 @@
+{
+  "id": "pi_capricorni_b",
+  "name": "Pi Capricorni B",
+  "rank": 4,
+  "ra": 306.83057833224,
+  "dec": -18.21251916272,
+  "dist": 201.906,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Cap",
+  "by_comp": "B",
+  "fl": 10,
+  "fl_con": "Cap",
+  "fl_comp": "B"
+}

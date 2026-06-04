@@ -1,0 +1,17 @@
+{
+  "id": "upsilon_3_eridani",
+  "name": "Upsilon 3 Eridani",
+  "rank": 2,
+  "ra": 66.00919305988,
+  "dec": -34.01684951183,
+  "dist": 90.8265,
+  "otype": "PM*",
+  "spect": "K3.5III",
+  "cat": 13,
+  "proper": "Beemim",
+  "by": "ups03",
+  "by_greek": "υ³",
+  "by_con": "Eri",
+  "fl": 43,
+  "fl_con": "Eri"
+}

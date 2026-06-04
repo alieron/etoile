@@ -1,0 +1,15 @@
+{
+  "id": "du_eridani",
+  "name": "DU Eridani",
+  "rank": 5,
+  "ra": 67.27885587423,
+  "dec": -13.04836882478,
+  "dist": 465.1163,
+  "otype": "Be*",
+  "spect": "B2(V)ne",
+  "cat": 8,
+  "v": "DU",
+  "v_con": "Eri",
+  "fl": 228,
+  "fl_con": "Eri"
+}

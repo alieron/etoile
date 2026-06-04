@@ -1,0 +1,13 @@
+{
+  "id": "65_aurigae",
+  "name": "65 Aurigae",
+  "rank": 5,
+  "ra": 110.51090668198,
+  "dec": 36.76058360245,
+  "dist": 72.3589,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 65,
+  "fl_con": "Aur"
+}

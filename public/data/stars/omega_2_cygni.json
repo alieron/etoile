@@ -1,0 +1,16 @@
+{
+  "id": "omega_2_cygni",
+  "name": "Omega 2 Cygni",
+  "rank": 4,
+  "ra": 307.82840228183,
+  "dec": 49.22029549804,
+  "dist": 122.399,
+  "otype": "*",
+  "spect": "M2III",
+  "cat": 14,
+  "by": "ome02",
+  "by_greek": "ω²",
+  "by_con": "Cyg",
+  "fl": 46,
+  "fl_con": "Cyg"
+}

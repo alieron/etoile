@@ -1,0 +1,15 @@
+{
+  "id": "delta_andromedae_b",
+  "name": "Delta Andromedae B",
+  "rank": 4,
+  "ra": 9.82378199244,
+  "dec": 30.86485829147,
+  "dist": 32.342,
+  "otype": "PM*",
+  "spect": "M2",
+  "cat": 3,
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "And",
+  "by_comp": "B"
+}

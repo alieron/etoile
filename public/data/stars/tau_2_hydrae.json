@@ -1,0 +1,16 @@
+{
+  "id": "tau_2_hydrae",
+  "name": "Tau 2 Hydrae",
+  "rank": 4,
+  "ra": 142.99552477361,
+  "dec": -1.1846713524799999,
+  "dist": 158.7302,
+  "otype": "*",
+  "spect": "A2V",
+  "cat": 7,
+  "by": "tau02",
+  "by_greek": "τ²",
+  "by_con": "Hya",
+  "fl": 32,
+  "fl_con": "Hya"
+}

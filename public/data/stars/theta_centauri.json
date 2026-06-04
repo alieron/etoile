@@ -1,0 +1,17 @@
+{
+  "id": "theta_centauri",
+  "name": "Theta Centauri",
+  "rank": 2,
+  "ra": 211.670614682339,
+  "dec": -36.369954742511496,
+  "dist": 18.0343,
+  "otype": "PM*",
+  "spect": "K0-IIIb",
+  "cat": 15,
+  "proper": "Menkent",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cen",
+  "fl": 5,
+  "fl_con": "Cen"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39_leonis_a",
+  "name": "39 Leonis A",
+  "rank": 5,
+  "ra": 154.31057644672916,
+  "dec": 23.106217830666946,
+  "dist": 22.805,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "fl": 39,
+  "fl_con": "Leo",
+  "fl_comp": "A"
+}

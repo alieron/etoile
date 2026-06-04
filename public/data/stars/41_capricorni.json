@@ -1,0 +1,13 @@
+{
+  "id": "41_capricorni",
+  "name": "41 Capricorni",
+  "rank": 5,
+  "ra": 325.50290452379,
+  "dec": -23.26285717881,
+  "dist": 70.7214,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 41,
+  "fl_con": "Cap"
+}

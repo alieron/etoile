@@ -1,0 +1,18 @@
+{
+  "id": "b_2_cygni",
+  "name": "b 2 Cygni",
+  "rank": 4,
+  "ra": 302.35674608797,
+  "dec": 36.839620544,
+  "dist": 317.4603,
+  "otype": "Be*",
+  "spect": "B2.5Ve",
+  "cat": 8,
+  "by": "b02",
+  "by_greek": "b²",
+  "by_con": "Cyg",
+  "v": "V1624",
+  "v_con": "Cyg",
+  "fl": 28,
+  "fl_con": "Cyg"
+}

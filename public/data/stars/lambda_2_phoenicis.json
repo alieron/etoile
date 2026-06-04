@@ -1,0 +1,14 @@
+{
+  "id": "lambda_2_phoenicis",
+  "name": "Lambda 2 Phoenicis",
+  "rank": 4,
+  "ra": 8.92156445206,
+  "dec": -48.00090693428,
+  "dist": 34.8189,
+  "otype": "PM*",
+  "spect": "F5V+",
+  "cat": 6,
+  "by": "lam02",
+  "by_greek": "λ²",
+  "by_con": "Phe"
+}

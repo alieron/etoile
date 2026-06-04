@@ -1,0 +1,13 @@
+{
+  "id": "18_aquarii",
+  "name": "18 Aquarii",
+  "rank": 5,
+  "ra": 321.0478825495599,
+  "dec": -12.87810896497,
+  "dist": 47.1032,
+  "otype": "PM*",
+  "spect": "F0V",
+  "cat": 6,
+  "fl": 18,
+  "fl_con": "Aqr"
+}

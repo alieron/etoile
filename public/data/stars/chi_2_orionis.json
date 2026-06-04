@@ -1,0 +1,16 @@
+{
+  "id": "chi_2_orionis",
+  "name": "Chi 2 Orionis",
+  "rank": 3,
+  "ra": 90.97993487768,
+  "dec": 20.13845226149,
+  "dist": 552.4862,
+  "otype": "s*b",
+  "spect": "B2Ia",
+  "cat": 17,
+  "by": "chi02",
+  "by_greek": "χ²",
+  "by_con": "Ori",
+  "fl": 62,
+  "fl_con": "Ori"
+}

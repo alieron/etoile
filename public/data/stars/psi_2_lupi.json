@@ -1,0 +1,16 @@
+{
+  "id": "psi_2_lupi",
+  "name": "Psi 2 Lupi",
+  "rank": 4,
+  "ra": 235.67091559182498,
+  "dec": -34.71040752037056,
+  "dist": 111.4827,
+  "otype": "SB*",
+  "spect": "B5V",
+  "cat": 8,
+  "by": "psi02",
+  "by_greek": "ψ²",
+  "by_con": "Lup",
+  "fl": 4,
+  "fl_con": "Lup"
+}

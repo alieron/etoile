@@ -1,0 +1,17 @@
+{
+  "id": "tau_bootis",
+  "name": "Tau Boötis",
+  "rank": 2,
+  "ra": 206.8155757166775,
+  "dec": 17.456891543222227,
+  "dist": 15.6177,
+  "otype": "PM*",
+  "spect": "F7IV-V",
+  "cat": 11,
+  "proper": "Tepiamenit",
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Boo",
+  "fl": 4,
+  "fl_con": "Boo"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chi_ceti_b",
+  "name": "Chi Ceti B",
+  "rank": 4,
+  "ra": 27.3472869299,
+  "dec": -10.70363440515,
+  "dist": 22.5632,
+  "otype": "BY*",
+  "spect": "G3V",
+  "cat": 0,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Cet",
+  "by_comp": "B",
+  "v": "EZ",
+  "v_con": "Cet"
+}

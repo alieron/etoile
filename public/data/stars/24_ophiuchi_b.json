@@ -1,0 +1,14 @@
+{
+  "id": "24_ophiuchi_b",
+  "name": "24 Ophiuchi B",
+  "rank": 5,
+  "ra": 254.19987704248126,
+  "dec": -23.150195872993056,
+  "dist": 124.384,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 24,
+  "fl_con": "Oph",
+  "fl_comp": "B"
+}

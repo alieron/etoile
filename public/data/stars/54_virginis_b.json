@@ -1,0 +1,14 @@
+{
+  "id": "54_virginis_b",
+  "name": "54 Virginis B",
+  "rank": 5,
+  "ra": 198.36267691446,
+  "dec": -18.825157433070004,
+  "dist": 203.849,
+  "otype": "*",
+  "spect": "A2VpSr",
+  "cat": 7,
+  "fl": 54,
+  "fl_con": "Vir",
+  "fl_comp": "B"
+}

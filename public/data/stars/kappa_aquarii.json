@@ -1,0 +1,17 @@
+{
+  "id": "kappa_aquarii",
+  "name": "Kappa Aquarii",
+  "rank": 2,
+  "ra": 339.43908560581417,
+  "dec": -4.228054800934445,
+  "dist": 65.5738,
+  "otype": "PM*",
+  "spect": "K1.5IIIbCN0.5",
+  "cat": 15,
+  "proper": "Situla",
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Aqr",
+  "fl": 63,
+  "fl_con": "Aqr"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "56_cygni",
+  "name": "56 Cygni",
+  "rank": 5,
+  "ra": 312.52054855486,
+  "dec": 44.05930321084,
+  "dist": 40.9668,
+  "otype": "PM*",
+  "spect": "A6V",
+  "cat": 7,
+  "fl": 56,
+  "fl_con": "Cyg"
+}

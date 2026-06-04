@@ -1,0 +1,16 @@
+{
+  "id": "p_carinae",
+  "name": "p Carinae",
+  "rank": 3,
+  "ra": 158.0061045480125,
+  "dec": -61.68533195288,
+  "dist": 148.1481,
+  "otype": "Be*",
+  "spect": "B4Vne",
+  "cat": 8,
+  "by": "p",
+  "by_greek": "p",
+  "by_con": "Car",
+  "v": "PP",
+  "v_con": "Car"
+}

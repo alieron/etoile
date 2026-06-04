@@ -1,0 +1,13 @@
+{
+  "id": "44_geminorum",
+  "name": "44 Geminorum",
+  "rank": 5,
+  "ra": 106.32653707135,
+  "dec": 22.63745825316,
+  "dist": 123.0012,
+  "otype": "*",
+  "spect": "B8Vn",
+  "cat": 8,
+  "fl": 44,
+  "fl_con": "Gem"
+}

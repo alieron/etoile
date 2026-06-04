@@ -1,0 +1,13 @@
+{
+  "id": "70_geminorum",
+  "name": "70 Geminorum",
+  "rank": 5,
+  "ra": 114.63693298529002,
+  "dec": 35.0485498459,
+  "dist": 114.0251,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 70,
+  "fl_con": "Gem"
+}

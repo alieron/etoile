@@ -1,0 +1,13 @@
+{
+  "id": "5_andromedae",
+  "name": "5 Andromedae",
+  "rank": 5,
+  "ra": 346.93909812549,
+  "dec": 49.295775124040006,
+  "dist": 34.3407,
+  "otype": "PM*",
+  "spect": "F5V",
+  "cat": 6,
+  "fl": 5,
+  "fl_con": "And"
+}

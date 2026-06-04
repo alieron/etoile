@@ -1,0 +1,15 @@
+{
+  "id": "mu_pictoris_b",
+  "name": "Mu Pictoris B",
+  "rank": 4,
+  "ra": 97.99195214133002,
+  "dec": -58.75428062935999,
+  "dist": 186.414,
+  "otype": "*",
+  "spect": "A8V:p?",
+  "cat": 7,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Pic",
+  "by_comp": "B"
+}

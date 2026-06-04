@@ -1,0 +1,14 @@
+{
+  "id": "23_comae_berenices",
+  "name": "23 Comae Berenices",
+  "rank": 2,
+  "ra": 188.71280340925497,
+  "dec": 22.62920599761361,
+  "dist": 95.057,
+  "otype": "**",
+  "spect": "A0mA1IV",
+  "cat": 10,
+  "proper": "Phyllon Kissinou",
+  "fl": 23,
+  "fl_con": "Com"
+}

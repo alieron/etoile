@@ -1,0 +1,15 @@
+{
+  "id": "delta_velorum",
+  "name": "Delta Velorum",
+  "rank": 2,
+  "ra": 131.1759432625,
+  "dec": -54.70882101944444,
+  "dist": 24.6975,
+  "otype": "**",
+  "spect": "A2IV+A4V",
+  "cat": 10,
+  "proper": "Alsephina",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Vel"
+}

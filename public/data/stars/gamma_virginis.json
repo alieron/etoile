@@ -1,0 +1,17 @@
+{
+  "id": "gamma_virginis",
+  "name": "Gamma Virginis",
+  "rank": 2,
+  "ra": 190.41511762006294,
+  "dec": -1.4494039524575002,
+  "dist": 11.685,
+  "otype": "PM*",
+  "spect": "F1-F2V",
+  "cat": 6,
+  "proper": "Porrima",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Vir",
+  "fl": 29,
+  "fl_con": "Vir"
+}

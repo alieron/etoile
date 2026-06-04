@@ -1,0 +1,13 @@
+{
+  "id": "52_camelopardalis",
+  "name": "52 Camelopardalis",
+  "rank": 5,
+  "ra": 119.11130433899999,
+  "dec": 56.50444842988,
+  "dist": 288.1844,
+  "otype": "*",
+  "spect": "A2IV",
+  "cat": 10,
+  "fl": 52,
+  "fl_con": "Cam"
+}

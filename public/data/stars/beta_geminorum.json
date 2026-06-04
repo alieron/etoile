@@ -1,0 +1,17 @@
+{
+  "id": "beta_geminorum",
+  "name": "Beta Geminorum",
+  "rank": 2,
+  "ra": 116.32895777437875,
+  "dec": 28.02619889009357,
+  "dist": 10.3584,
+  "otype": "PM*",
+  "spect": "K0IIIb",
+  "cat": 15,
+  "proper": "Pollux",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Gem",
+  "fl": 78,
+  "fl_con": "Gem"
+}

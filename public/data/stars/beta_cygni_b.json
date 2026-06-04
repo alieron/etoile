@@ -1,0 +1,18 @@
+{
+  "id": "beta_cygni_b",
+  "name": "Beta Cygni B",
+  "rank": 4,
+  "ra": 292.68915075746,
+  "dec": 27.96527475517,
+  "dist": 122.549,
+  "otype": "Be*",
+  "spect": "B8Ve",
+  "cat": 8,
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cyg",
+  "by_comp": "B",
+  "fl": 6,
+  "fl_con": "Cyg",
+  "fl_comp": "B"
+}

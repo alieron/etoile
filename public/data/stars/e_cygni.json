@@ -1,0 +1,16 @@
+{
+  "id": "e_cygni",
+  "name": "e Cygni",
+  "rank": 4,
+  "ra": 300.33984744392,
+  "dec": 50.1046932813,
+  "dist": 133.1558,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Cyg",
+  "fl": 26,
+  "fl_con": "Cyg"
+}

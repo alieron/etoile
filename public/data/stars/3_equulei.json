@@ -1,0 +1,13 @@
+{
+  "id": "3_equulei",
+  "name": "3 Equulei",
+  "rank": 5,
+  "ra": 316.1443817368299,
+  "dec": 5.502864354010001,
+  "dist": 235.8491,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 3,
+  "fl_con": "Equ"
+}

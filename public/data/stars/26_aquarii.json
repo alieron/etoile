@@ -1,0 +1,13 @@
+{
+  "id": "26_aquarii",
+  "name": "26 Aquarii",
+  "rank": 5,
+  "ra": 325.54213555265,
+  "dec": 1.28525415301,
+  "dist": 342.4658,
+  "otype": "*",
+  "spect": "K2(III)",
+  "cat": 13,
+  "fl": 26,
+  "fl_con": "Aqr"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "76_pegasi",
+  "name": "76 Pegasi",
+  "rank": 5,
+  "ra": 355.68275897204,
+  "dec": 16.335719833,
+  "dist": 112.7396,
+  "otype": "PM*",
+  "spect": "K0",
+  "cat": 4,
+  "fl": 76,
+  "fl_con": "Peg"
+}

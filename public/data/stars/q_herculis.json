@@ -1,0 +1,16 @@
+{
+  "id": "q_herculis",
+  "name": "q Herculis",
+  "rank": 4,
+  "ra": 242.86974339274002,
+  "dec": 16.665690869960002,
+  "dist": 124.2236,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "q",
+  "by_greek": "q",
+  "by_con": "Her",
+  "fl": 48,
+  "fl_con": "Ser"
+}

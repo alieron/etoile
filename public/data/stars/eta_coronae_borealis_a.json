@@ -1,0 +1,18 @@
+{
+  "id": "eta_coronae_borealis_a",
+  "name": "Eta Coronae Borealis A",
+  "rank": 4,
+  "ra": 230.80127230988052,
+  "dec": 30.287825023864578,
+  "dist": 17.863678635,
+  "otype": "*",
+  "spect": "G2V+G2V",
+  "cat": 5,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "CrB",
+  "by_comp": "A",
+  "fl": 2,
+  "fl_con": "CrB",
+  "fl_comp": "A"
+}

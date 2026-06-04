@@ -1,0 +1,16 @@
+{
+  "id": "nu_1_draconis",
+  "name": "Nu 1 Draconis",
+  "rank": 4,
+  "ra": 263.0440343771,
+  "dec": 55.18424515288,
+  "dist": 30.248,
+  "otype": "PM*",
+  "spect": "kA3hF0mF0(IV-V)",
+  "cat": 12,
+  "by": "nu.01",
+  "by_greek": "ν¹",
+  "by_con": "Dra",
+  "fl": 24,
+  "fl_con": "Dra"
+}

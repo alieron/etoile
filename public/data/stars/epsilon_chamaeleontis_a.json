@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_chamaeleontis_a",
+  "name": "Epsilon Chamaeleontis A",
+  "rank": 3,
+  "ra": 179.90656807953675,
+  "dec": -78.22183830318761,
+  "dist": 110.86580864700001,
+  "otype": "**",
+  "spect": "B9V(n)",
+  "cat": 8,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Cha",
+  "by_comp": "A"
+}

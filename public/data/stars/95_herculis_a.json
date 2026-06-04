@@ -1,0 +1,15 @@
+{
+  "id": "95_herculis_a",
+  "name": "95 Herculis A",
+  "rank": 2,
+  "ra": 270.37670051348016,
+  "dec": 21.595780118609685,
+  "dist": 127.87847877200001,
+  "otype": "*",
+  "spect": "A2IV+G5III",
+  "cat": 10,
+  "proper": "Bodu",
+  "fl": 95,
+  "fl_con": "Her",
+  "fl_comp": "A"
+}

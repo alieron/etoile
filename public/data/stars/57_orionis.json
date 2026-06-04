@@ -1,0 +1,13 @@
+{
+  "id": "57_orionis",
+  "name": "57 Orionis",
+  "rank": 5,
+  "ra": 88.73619536235,
+  "dec": 19.749617915369996,
+  "dist": 558.6592,
+  "otype": "SB*",
+  "spect": "B2V",
+  "cat": 8,
+  "fl": 57,
+  "fl_con": "Ori"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_volantis_b",
+  "name": "Epsilon Volantis B",
+  "rank": 4,
+  "ra": 121.98436763278002,
+  "dec": -68.6155356825,
+  "dist": 194.522,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Vol",
+  "by_comp": "B"
+}

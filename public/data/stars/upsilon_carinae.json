@@ -1,0 +1,14 @@
+{
+  "id": "upsilon_carinae",
+  "name": "Upsilon Carinae",
+  "rank": 4,
+  "ra": 146.77550706492468,
+  "dec": -65.07200742206864,
+  "dist": 440.5286,
+  "otype": "*",
+  "spect": "A9",
+  "cat": 7,
+  "by": "ups",
+  "by_greek": "υ",
+  "by_con": "Car"
+}

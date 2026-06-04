@@ -1,0 +1,14 @@
+{
+  "id": "86_virginis_a",
+  "name": "86 Virginis A",
+  "rank": 5,
+  "ra": 206.4846688191,
+  "dec": -12.426530014290002,
+  "dist": 124.689546883,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 86,
+  "fl_con": "Vir",
+  "fl_comp": "A"
+}

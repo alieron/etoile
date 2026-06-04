@@ -1,0 +1,14 @@
+{
+  "id": "chi_carinae",
+  "name": "Chi Carinae",
+  "rank": 3,
+  "ra": 119.19466705582,
+  "dec": -52.98234546298,
+  "dist": 139.47,
+  "otype": "bC*",
+  "spect": "B3IV",
+  "cat": 8,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Car"
+}

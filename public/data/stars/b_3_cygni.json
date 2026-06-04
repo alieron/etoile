@@ -1,0 +1,18 @@
+{
+  "id": "b_3_cygni",
+  "name": "b 3 Cygni",
+  "rank": 4,
+  "ra": 303.63346814201,
+  "dec": 36.80630580809,
+  "dist": 42.6985,
+  "otype": "dS*",
+  "spect": "A2V",
+  "cat": 6,
+  "by": "b03",
+  "by_greek": "b³",
+  "by_con": "Cyg",
+  "v": "V1644",
+  "v_con": "Cyg",
+  "fl": 29,
+  "fl_con": "Cyg"
+}

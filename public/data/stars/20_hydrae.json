@@ -1,0 +1,13 @@
+{
+  "id": "20_hydrae",
+  "name": "20 Hydrae",
+  "rank": 5,
+  "ra": 137.39820723956,
+  "dec": -8.7876484712,
+  "dist": 147.7105,
+  "otype": "*",
+  "spect": "K0II/III",
+  "cat": 13,
+  "fl": 20,
+  "fl_con": "Hya"
+}

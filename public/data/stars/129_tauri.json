@@ -1,0 +1,13 @@
+{
+  "id": "129_tauri",
+  "name": "129 Tauri",
+  "rank": 5,
+  "ra": 86.68957012112,
+  "dec": 15.8224951298,
+  "dist": 225.2252,
+  "otype": "*",
+  "spect": "B8IIIpHg(Mn)",
+  "cat": 17,
+  "fl": 129,
+  "fl_con": "Tau"
+}

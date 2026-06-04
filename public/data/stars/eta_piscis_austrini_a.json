@@ -1,0 +1,18 @@
+{
+  "id": "eta_piscis_austrini_a",
+  "name": "Eta Piscis Austrini A",
+  "rank": 4,
+  "ra": 330.20927239329757,
+  "dec": -28.453739983465898,
+  "dist": 250.629106266,
+  "otype": "*",
+  "spect": "B8III_sh+B8.5IV",
+  "cat": 9,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "PsA",
+  "by_comp": "A",
+  "fl": 12,
+  "fl_con": "PsA",
+  "fl_comp": "A"
+}

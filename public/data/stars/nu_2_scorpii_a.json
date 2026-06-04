@@ -1,0 +1,16 @@
+{
+  "id": "nu_2_scorpii_a",
+  "name": "Nu 2 Scorpii A",
+  "rank": 2,
+  "ra": 242.99392166363998,
+  "dec": -19.45017449204,
+  "dist": 145.3488,
+  "otype": "Or*",
+  "spect": "B8V",
+  "cat": 21,
+  "proper": "Jabbah",
+  "by": "nu.02",
+  "by_greek": "ν²",
+  "by_con": "Sco",
+  "by_comp": "A"
+}

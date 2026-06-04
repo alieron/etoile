@@ -1,0 +1,16 @@
+{
+  "id": "theta_hydrae",
+  "name": "Theta Hydrae",
+  "rank": 3,
+  "ra": 138.5910836298175,
+  "dec": 2.3143199766405553,
+  "dist": 34.7947,
+  "otype": "SB*",
+  "spect": "B9.5V+DA1.6",
+  "cat": 8,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Hya",
+  "fl": 22,
+  "fl_con": "Hya"
+}

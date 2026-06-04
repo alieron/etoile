@@ -1,0 +1,14 @@
+{
+  "id": "7_aquarii_b",
+  "name": "7 Aquarii B",
+  "rank": 5,
+  "ra": 314.22525926189,
+  "dec": -9.69812210121,
+  "dist": 202.499,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 7,
+  "fl_con": "Aqr",
+  "fl_comp": "B"
+}

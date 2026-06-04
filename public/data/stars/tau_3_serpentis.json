@@ -1,0 +1,16 @@
+{
+  "id": "tau_3_serpentis",
+  "name": "Tau 3 Serpentis",
+  "rank": 4,
+  "ra": 233.88845716134,
+  "dec": 17.65555429059,
+  "dist": 116.2791,
+  "otype": "PM*",
+  "spect": "G8III:",
+  "cat": 13,
+  "by": "tau03",
+  "by_greek": "τ³",
+  "by_con": "Ser",
+  "fl": 15,
+  "fl_con": "Ser"
+}

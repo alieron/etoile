@@ -1,0 +1,13 @@
+{
+  "id": "29_arietis",
+  "name": "29 Arietis",
+  "rank": 5,
+  "ra": 38.225591263640005,
+  "dec": 15.03453557633,
+  "dist": 29.9401,
+  "otype": "SB*",
+  "spect": "F8V",
+  "cat": 6,
+  "fl": 29,
+  "fl_con": "Ari"
+}

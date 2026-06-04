@@ -1,0 +1,15 @@
+{
+  "id": "xx_piscium",
+  "name": "XX Piscium",
+  "rank": 5,
+  "ra": 11.806776484899999,
+  "dec": 19.578705981969996,
+  "dist": 100.6036,
+  "otype": "dS*",
+  "spect": "F0Vn",
+  "cat": 6,
+  "v": "XX",
+  "v_con": "Psc",
+  "fl": 59,
+  "fl_con": "Psc"
+}

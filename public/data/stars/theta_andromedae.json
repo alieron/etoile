@@ -1,0 +1,16 @@
+{
+  "id": "theta_andromedae",
+  "name": "Theta Andromedae",
+  "rank": 4,
+  "ra": 4.272926513519167,
+  "dec": 38.68163572933945,
+  "dist": 94.697,
+  "otype": "**",
+  "spect": "A2V",
+  "cat": 7,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "And",
+  "fl": 24,
+  "fl_con": "And"
+}

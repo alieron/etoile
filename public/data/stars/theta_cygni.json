@@ -1,0 +1,16 @@
+{
+  "id": "theta_cygni",
+  "name": "Theta Cygni",
+  "rank": 4,
+  "ra": 294.11055446568747,
+  "dec": 50.22110138999945,
+  "dist": 18.3352,
+  "otype": "PM*",
+  "spect": "F3+V",
+  "cat": 6,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Cyg",
+  "fl": 13,
+  "fl_con": "Cyg"
+}

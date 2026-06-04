@@ -1,0 +1,13 @@
+{
+  "id": "56_persei",
+  "name": "56 Persei",
+  "rank": 5,
+  "ra": 66.15607614245,
+  "dec": 33.95980292675,
+  "dist": 40.6174,
+  "otype": "**",
+  "spect": "F4IV-V+DA",
+  "cat": 11,
+  "fl": 56,
+  "fl_con": "Per"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36_andromedae_b",
+  "name": "36 Andromedae B",
+  "rank": 5,
+  "ra": 13.741884533389584,
+  "dec": 23.628497291294444,
+  "dist": 41.602,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 36,
+  "fl_con": "And",
+  "fl_comp": "B"
+}

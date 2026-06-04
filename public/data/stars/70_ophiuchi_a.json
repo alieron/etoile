@@ -1,0 +1,14 @@
+{
+  "id": "70_ophiuchi_a",
+  "name": "70 Ophiuchi A",
+  "rank": 5,
+  "ra": 271.363688269495,
+  "dec": 2.5000988299620857,
+  "dist": 5.083450834000001,
+  "otype": "SB*",
+  "spect": "K0-V",
+  "cat": 4,
+  "fl": 70,
+  "fl_con": "Oph",
+  "fl_comp": "A"
+}

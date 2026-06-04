@@ -1,0 +1,16 @@
+{
+  "id": "p_5_leonis",
+  "name": "p 5 Leonis",
+  "rank": 4,
+  "ra": 168.43980459464,
+  "dec": -0.06950222502,
+  "dist": 161.8123,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "p05",
+  "by_greek": "p⁵",
+  "by_con": "Leo",
+  "fl": 69,
+  "fl_con": "Leo"
+}

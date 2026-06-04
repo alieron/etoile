@@ -1,0 +1,15 @@
+{
+  "id": "by_capricorni",
+  "name": "BY Capricorni",
+  "rank": 5,
+  "ra": 325.3869116932721,
+  "dec": -14.047612442258888,
+  "dist": 33.2336,
+  "otype": "RS*",
+  "spect": "G2IV",
+  "cat": 11,
+  "v": "BY",
+  "v_con": "Cap",
+  "fl": 42,
+  "fl_con": "Cap"
+}

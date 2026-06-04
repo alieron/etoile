@@ -1,0 +1,15 @@
+{
+  "id": "ci_orionis",
+  "name": "CI Orionis",
+  "rank": 5,
+  "ra": 82.43325837302,
+  "dec": -1.09223842622,
+  "dist": 155.7632,
+  "otype": "*",
+  "spect": "K4III",
+  "cat": 13,
+  "v": "CI",
+  "v_con": "Ori",
+  "fl": 31,
+  "fl_con": "Ori"
+}

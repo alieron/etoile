@@ -1,0 +1,13 @@
+{
+  "id": "10_comae_berenices",
+  "name": "10 Comae Berenices",
+  "rank": 5,
+  "ra": 184.96093447063998,
+  "dec": 28.46435443793,
+  "dist": 107.6426,
+  "otype": "Em*",
+  "spect": "kA5mA7(V)",
+  "cat": 4,
+  "fl": 10,
+  "fl_con": "Com"
+}

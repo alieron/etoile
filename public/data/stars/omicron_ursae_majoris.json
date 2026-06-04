@@ -1,0 +1,17 @@
+{
+  "id": "omicron_ursae_majoris",
+  "name": "Omicron Ursae Majoris",
+  "rank": 2,
+  "ra": 127.56612565266667,
+  "dec": 60.718168223941106,
+  "dist": 54.9149,
+  "otype": "PM*",
+  "spect": "G5III:",
+  "cat": 13,
+  "proper": "Muscida",
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "UMa",
+  "fl": 1,
+  "fl_con": "UMa"
+}

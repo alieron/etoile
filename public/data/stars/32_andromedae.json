@@ -1,0 +1,13 @@
+{
+  "id": "32_andromedae",
+  "name": "32 Andromedae",
+  "rank": 5,
+  "ra": 10.27993575215,
+  "dec": 39.45866375301,
+  "dist": 108.8139,
+  "otype": "*",
+  "spect": "G7IIIa",
+  "cat": 16,
+  "fl": 32,
+  "fl_con": "And"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "b_leonis",
+  "name": "b Leonis",
+  "rank": 4,
+  "ra": 165.5823986007167,
+  "dec": 20.179840051333336,
+  "dist": 38.8651,
+  "otype": "Pe*",
+  "spect": "kA1VmA3V",
+  "cat": 4,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Leo",
+  "fl": 60,
+  "fl_con": "Leo"
+}

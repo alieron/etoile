@@ -1,0 +1,16 @@
+{
+  "id": "b_octantis",
+  "name": "B Octantis",
+  "rank": 4,
+  "ra": 341.37592406155,
+  "dec": -88.81829483631,
+  "dist": 102.7749,
+  "otype": "dS*",
+  "spect": "F0IV/V",
+  "cat": 6,
+  "by": "B",
+  "by_greek": "B",
+  "by_con": "Oct",
+  "v": "CG",
+  "v_con": "Oct"
+}

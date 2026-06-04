@@ -1,0 +1,16 @@
+{
+  "id": "iota_1_librae",
+  "name": "Iota 1 Librae",
+  "rank": 4,
+  "ra": 228.05537605958332,
+  "dec": -19.791710893333335,
+  "dist": 116.4144,
+  "otype": "SB*",
+  "spect": "B9IVpSi",
+  "cat": 9,
+  "by": "iot01",
+  "by_greek": "ι¹",
+  "by_con": "Lib",
+  "fl": 24,
+  "fl_con": "Lib"
+}

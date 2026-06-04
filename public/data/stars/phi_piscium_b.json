@@ -1,0 +1,15 @@
+{
+  "id": "phi_piscium_b",
+  "name": "Phi Piscium B",
+  "rank": 4,
+  "ra": 18.435582617569995,
+  "dec": 24.582252255259995,
+  "dist": 120.33,
+  "otype": "SB*",
+  "spect": "",
+  "cat": 19,
+  "by": "phi",
+  "by_greek": "φ",
+  "by_con": "Psc",
+  "by_comp": "B"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "beta_canis_minoris",
+  "name": "Beta Canis Minoris",
+  "rank": 2,
+  "ra": 111.78767390541668,
+  "dec": 8.2893157625,
+  "dist": 49.5786,
+  "otype": "Be*",
+  "spect": "B8Ve",
+  "cat": 8,
+  "proper": "Gomeisa",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "CMi",
+  "fl": 3,
+  "fl_con": "CMi"
+}

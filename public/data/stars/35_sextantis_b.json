@@ -1,0 +1,14 @@
+{
+  "id": "35_sextantis_b",
+  "name": "35 Sextantis B",
+  "rank": 5,
+  "ra": 160.83553050625,
+  "dec": 4.74672733693,
+  "dist": 220.061,
+  "otype": "SB*",
+  "spect": "K1II-III",
+  "cat": 13,
+  "fl": 35,
+  "fl_con": "Sex",
+  "fl_comp": "B"
+}

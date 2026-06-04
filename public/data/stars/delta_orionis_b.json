@@ -1,0 +1,18 @@
+{
+  "id": "delta_orionis_b",
+  "name": "Delta Orionis B",
+  "rank": 4,
+  "ra": 83.00170673333332,
+  "dec": -0.2991360416666666,
+  "dist": 212.3142,
+  "otype": "*",
+  "spect": "O9V",
+  "cat": 17,
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Ori",
+  "by_comp": "B",
+  "fl": 34,
+  "fl_con": "Ori",
+  "fl_comp": "B"
+}

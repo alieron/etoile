@@ -1,0 +1,14 @@
+{
+  "id": "eta_1_trianguli_australis",
+  "name": "Eta 1 Trianguli Australis",
+  "rank": 4,
+  "ra": 250.34628230335,
+  "dec": -68.29612193362,
+  "dist": 202.8398,
+  "otype": "Be*",
+  "spect": "B7V",
+  "cat": 8,
+  "by": "eta01",
+  "by_greek": "η¹",
+  "by_con": "TrA"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "theta_leporis",
+  "name": "Theta Leporis",
+  "rank": 3,
+  "ra": 91.53884947064,
+  "dec": -14.93525538716,
+  "dist": 52.9661,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Lep",
+  "fl": 18,
+  "fl_con": "Lep"
+}

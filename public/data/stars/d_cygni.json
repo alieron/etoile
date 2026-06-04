@@ -1,0 +1,16 @@
+{
+  "id": "d_cygni",
+  "name": "d Cygni",
+  "rank": 4,
+  "ra": 297.65718136967536,
+  "dec": 52.98799731814,
+  "dist": 62.0732,
+  "otype": "PM*",
+  "spect": "K3IIICN2",
+  "cat": 13,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Cyg",
+  "fl": 20,
+  "fl_con": "Cyg"
+}

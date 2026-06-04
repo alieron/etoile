@@ -1,0 +1,18 @@
+{
+  "id": 20,
+  "name": "peculiar_chemically_peculiar",
+  "rgb": [
+    220,
+    230,
+    255
+  ],
+  "color": [
+    0.862745,
+    0.901961,
+    1.0
+  ],
+  "radius": 1.5,
+  "point": 1.1,
+  "halo": 1.35,
+  "glow": 0.4
+}

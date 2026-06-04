@@ -1,0 +1,14 @@
+{
+  "id": "eta_2_hydri",
+  "name": "Eta 2 Hydri",
+  "rank": 4,
+  "ra": 28.733881019829997,
+  "dec": -67.64730317084,
+  "dist": 67.0691,
+  "otype": "PM*",
+  "spect": "G8IIIb",
+  "cat": 16,
+  "by": "eta02",
+  "by_greek": "η²",
+  "by_con": "Hyi"
+}

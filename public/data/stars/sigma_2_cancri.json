@@ -1,0 +1,16 @@
+{
+  "id": "sigma_2_cancri",
+  "name": "Sigma 2 Cancri",
+  "rank": 4,
+  "ra": 134.23582366197,
+  "dec": 32.91042794268,
+  "dist": 59.5593,
+  "otype": "PM*",
+  "spect": "A7IV",
+  "cat": 10,
+  "by": "sig02",
+  "by_greek": "σ²",
+  "by_con": "Cnc",
+  "fl": 59,
+  "fl_con": "Cnc"
+}

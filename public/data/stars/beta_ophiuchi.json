@@ -1,0 +1,17 @@
+{
+  "id": "beta_ophiuchi",
+  "name": "Beta Ophiuchi",
+  "rank": 2,
+  "ra": 265.86813295741786,
+  "dec": 4.567303668469166,
+  "dist": 25.0941,
+  "otype": "PM*",
+  "spect": "K2IIICN0.5",
+  "cat": 13,
+  "proper": "Cebalrai",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Oph",
+  "fl": 60,
+  "fl_con": "Oph"
+}

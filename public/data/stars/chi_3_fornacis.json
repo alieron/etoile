@@ -1,0 +1,14 @@
+{
+  "id": "chi_3_fornacis",
+  "name": "Chi 3 Fornacis",
+  "rank": 4,
+  "ra": 52.04802092653,
+  "dec": -35.85342668214,
+  "dist": 114.2857,
+  "otype": "*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "chi03",
+  "by_greek": "χ³",
+  "by_con": "For"
+}

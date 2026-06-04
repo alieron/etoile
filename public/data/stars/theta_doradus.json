@@ -1,0 +1,14 @@
+{
+  "id": "theta_doradus",
+  "name": "Theta Doradus",
+  "rank": 4,
+  "ra": 78.43939878111,
+  "dec": -67.185258274,
+  "dist": 150.6024,
+  "otype": "Er*",
+  "spect": "K2+III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Dor"
+}

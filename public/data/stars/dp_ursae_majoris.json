@@ -1,0 +1,15 @@
+{
+  "id": "dp_ursae_majoris",
+  "name": "DP Ursae Majoris",
+  "rank": 5,
+  "ra": 180.5282462146037,
+  "dec": 43.04556360799972,
+  "dist": 34.27,
+  "otype": "dS*",
+  "spect": "F0Vam",
+  "cat": 6,
+  "v": "DP",
+  "v_con": "UMa",
+  "fl": 67,
+  "fl_con": "UMa"
+}

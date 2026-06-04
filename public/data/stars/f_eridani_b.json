@@ -1,0 +1,15 @@
+{
+  "id": "f_eridani_b",
+  "name": "f Eridani B",
+  "rank": 4,
+  "ra": 57.14782369555001,
+  "dec": -37.622003447270004,
+  "dist": 53.198,
+  "otype": "PM*",
+  "spect": "A1Va",
+  "cat": 7,
+  "by": "f",
+  "by_greek": "f",
+  "by_con": "Eri",
+  "by_comp": "B"
+}

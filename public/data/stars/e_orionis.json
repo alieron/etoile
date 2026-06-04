@@ -1,0 +1,16 @@
+{
+  "id": "e_orionis",
+  "name": "e Orionis",
+  "rank": 4,
+  "ra": 80.9867824417454,
+  "dec": -7.808062597089446,
+  "dist": 48.2393,
+  "otype": "*",
+  "spect": "G8+III",
+  "cat": 13,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Ori",
+  "fl": 29,
+  "fl_con": "Ori"
+}

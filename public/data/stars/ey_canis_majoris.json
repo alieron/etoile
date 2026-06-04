@@ -1,0 +1,15 @@
+{
+  "id": "ey_canis_majoris",
+  "name": "EY Canis Majoris",
+  "rank": 5,
+  "ra": 103.38711217767248,
+  "dec": -20.224252609771387,
+  "dist": 373.1343,
+  "otype": "bC*",
+  "spect": "B1IV",
+  "cat": 8,
+  "v": "EY",
+  "v_con": "CMa",
+  "fl": 15,
+  "fl_con": "CMa"
+}

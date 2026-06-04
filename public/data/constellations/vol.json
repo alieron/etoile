@@ -1,72 +1,60 @@
 {
-  "abbreviation": "Vol",
+  "id": "Vol",
   "name": "Volans",
-  "genitive": "Volantis",
-  "meaning": "Flying Fish",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 98.9372,
-        "dec_deg": -64.107,
-        "ra_deg_signed": 98.9372
-      },
-      {
-        "ra_deg": 98.4544,
-        "dec_deg": -70.1041,
-        "ra_deg_signed": 98.4544
-      },
-      {
-        "ra_deg": 97.7707,
-        "dec_deg": -75.1,
-        "ra_deg_signed": 97.7707
-      },
-      {
-        "ra_deg": 114.2147,
-        "dec_deg": -75.2899,
-        "ra_deg_signed": 114.2147
-      },
-      {
-        "ra_deg": 135.2437,
-        "dec_deg": -75.4955,
-        "ra_deg_signed": 135.2437
-      },
-      {
-        "ra_deg": 136.0947,
-        "dec_deg": -64.499,
-        "ra_deg_signed": 136.0947
-      },
-      {
-        "ra_deg": 102.7033,
-        "dec_deg": -64.1519,
-        "ra_deg_signed": 102.7033
-      },
-      {
-        "ra_deg": 98.9372,
-        "dec_deg": -64.107,
-        "ra_deg_signed": 98.9372
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Volantis",
+  "meaning": "Flying Fish",
+  "rank": 2,
+  "focus": [
+    116.9327,
+    -69.8012,
+    73
+  ],
+  "label": [
+    111,
+    -73
+  ],
+  "bound": [
     [
-      44382,
-      41312,
-      39794,
-      35228,
-      34481,
-      39794,
-      44382
+      [
+        98.9372,
+        -64.107
+      ],
+      [
+        98.4544,
+        -70.1041
+      ],
+      [
+        97.7707,
+        -75.1
+      ],
+      [
+        114.2147,
+        -75.2899
+      ],
+      [
+        135.2437,
+        -75.4955
+      ],
+      [
+        136.0947,
+        -64.499
+      ],
+      [
+        102.7033,
+        -64.1519
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Bet Vol",
-    "designation": "Bet Vol",
-    "display_name": "Beta Volantis",
-    "display_name_greek": "β Volantis",
-    "hip": 41312,
-    "ra_deg": 126.434265,
-    "dec_deg": -66.13689
-  }
+  "lines": [
+    [
+      "alpha_volantis",
+      "beta_volantis",
+      "epsilon_volantis",
+      "delta_volantis",
+      "gamma_2_volantis",
+      "epsilon_volantis",
+      "alpha_volantis"
+    ]
+  ],
+  "bright": "beta_volantis"
 }

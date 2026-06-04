@@ -1,0 +1,15 @@
+{
+  "id": "hh_pegasi",
+  "name": "HH Pegasi",
+  "rank": 5,
+  "ra": 357.8385418948,
+  "dec": 9.31335645527,
+  "dist": 259.0674,
+  "otype": "LP?",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "HH",
+  "v_con": "Peg",
+  "fl": 80,
+  "fl_con": "Peg"
+}

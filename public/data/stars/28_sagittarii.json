@@ -1,0 +1,13 @@
+{
+  "id": "28_sagittarii",
+  "name": "28 Sagittarii",
+  "rank": 5,
+  "ra": 281.58587913429,
+  "dec": -22.392173179269996,
+  "dist": 209.6436,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 28,
+  "fl_con": "Sgr"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "alpha_2_librae",
+  "name": "Alpha 2 Librae",
+  "rank": 2,
+  "ra": 222.7196378915803,
+  "dec": -16.041776519834446,
+  "dist": 23.2396,
+  "otype": "SB*",
+  "spect": "kA2hA5mA4IV-V",
+  "cat": 12,
+  "proper": "Zubenelgenubi",
+  "by": "alf02",
+  "by_greek": "α²",
+  "by_con": "Lib",
+  "fl": 9,
+  "fl_con": "Lib"
+}

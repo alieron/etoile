@@ -1,0 +1,14 @@
+{
+  "id": "chi_phoenicis",
+  "name": "Chi Phoenicis",
+  "rank": 4,
+  "ra": 30.426568120110005,
+  "dec": -44.71350731516,
+  "dist": 115.0748,
+  "otype": "PM*",
+  "spect": "K5IV",
+  "cat": 12,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Phe"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bt_cancri",
+  "name": "BT Cancri",
+  "rank": 5,
+  "ra": 129.92772634713,
+  "dec": 19.77845445793,
+  "dist": 176.9912,
+  "otype": "dS*",
+  "spect": "F0IV",
+  "cat": 6,
+  "v": "BT",
+  "v_con": "Cnc",
+  "fl": 38,
+  "fl_con": "Cnc"
+}

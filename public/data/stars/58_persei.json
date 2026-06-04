@@ -1,0 +1,13 @@
+{
+  "id": "58_persei",
+  "name": "58 Persei",
+  "rank": 5,
+  "ra": 69.17263542063749,
+  "dec": 41.26483482116888,
+  "dist": 244.4988,
+  "otype": "SB*",
+  "spect": "K0II-III+B9V",
+  "cat": 13,
+  "fl": 58,
+  "fl_con": "Per"
+}

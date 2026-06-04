@@ -1,0 +1,13 @@
+{
+  "id": "45_aquilae",
+  "name": "45 Aquilae",
+  "rank": 5,
+  "ra": 295.18048761791,
+  "dec": -0.62122288218,
+  "dist": 107.9914,
+  "otype": "**",
+  "spect": "A2V",
+  "cat": 7,
+  "fl": 45,
+  "fl_con": "Aql"
+}

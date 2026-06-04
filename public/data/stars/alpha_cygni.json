@@ -1,0 +1,17 @@
+{
+  "id": "alpha_cygni",
+  "name": "Alpha Cygni",
+  "rank": 2,
+  "ra": 310.35797975307673,
+  "dec": 45.280338806527574,
+  "dist": 432.9004,
+  "otype": "sg*",
+  "spect": "A2Ia",
+  "cat": 17,
+  "proper": "Deneb",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cyg",
+  "fl": 50,
+  "fl_con": "Cyg"
+}

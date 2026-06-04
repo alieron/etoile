@@ -1,0 +1,15 @@
+{
+  "id": "pi_arietis_b",
+  "name": "Pi Arietis B",
+  "rank": 4,
+  "ra": 42.32400974152999,
+  "dec": 17.46387585855,
+  "dist": 201.442,
+  "otype": "*",
+  "spect": "A0Vp",
+  "cat": 7,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Ari",
+  "by_comp": "B"
+}

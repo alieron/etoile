@@ -1,0 +1,17 @@
+{
+  "id": "kappa_persei",
+  "name": "Kappa Persei",
+  "rank": 2,
+  "ra": 47.37418183354417,
+  "dec": 44.85745828572973,
+  "dist": 34.5662,
+  "otype": "PM*",
+  "spect": "G9.5IIIb",
+  "cat": 16,
+  "proper": "Misam",
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Per",
+  "fl": 27,
+  "fl_con": "Per"
+}

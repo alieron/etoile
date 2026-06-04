@@ -1,0 +1,16 @@
+{
+  "id": "c_andromedae",
+  "name": "c Andromedae",
+  "rank": 4,
+  "ra": 34.819987198198,
+  "dec": 47.3799758983489,
+  "dist": 75.358,
+  "otype": "PM*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "And",
+  "fl": 62,
+  "fl_con": "And"
+}

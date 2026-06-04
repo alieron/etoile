@@ -1,0 +1,15 @@
+{
+  "id": "v554_persei",
+  "name": "V554 Persei",
+  "rank": 5,
+  "ra": 36.31678477092001,
+  "dec": 56.6098206748,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B2Ia",
+  "cat": 17,
+  "v": "V554",
+  "v_con": "Per",
+  "fl": 10,
+  "fl_con": "Per"
+}

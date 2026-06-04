@@ -1,0 +1,16 @@
+{
+  "id": "c_tauri",
+  "name": "c Tauri",
+  "rank": 4,
+  "ra": 69.53942455778,
+  "dec": 12.51083696018,
+  "dist": 47.081,
+  "otype": "BS?",
+  "spect": "A6V",
+  "cat": 7,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Tau",
+  "fl": 90,
+  "fl_con": "Tau"
+}

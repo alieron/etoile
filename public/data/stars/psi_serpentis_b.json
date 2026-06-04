@@ -1,0 +1,15 @@
+{
+  "id": "psi_serpentis_b",
+  "name": "Psi Serpentis B",
+  "rank": 4,
+  "ra": 236.00775777954,
+  "dec": 2.5158114040300004,
+  "dist": 14.6585,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "psi",
+  "by_greek": "ψ",
+  "by_con": "Ser",
+  "by_comp": "B"
+}

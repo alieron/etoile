@@ -1,0 +1,14 @@
+{
+  "id": "17_cygni_b",
+  "name": "17 Cygni B",
+  "rank": 5,
+  "ra": 296.6147780947408,
+  "dec": 33.73024670497694,
+  "dist": 20.9477,
+  "otype": "PM*",
+  "spect": "K4",
+  "cat": 4,
+  "fl": 17,
+  "fl_con": "Cyg",
+  "fl_comp": "B"
+}

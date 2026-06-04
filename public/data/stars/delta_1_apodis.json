@@ -1,0 +1,14 @@
+{
+  "id": "delta_1_apodis",
+  "name": "Delta 1 Apodis",
+  "rank": 3,
+  "ra": 245.08667298220666,
+  "dec": -78.69574842204916,
+  "dist": 233.6449,
+  "otype": "LP?",
+  "spect": "M4III",
+  "cat": 14,
+  "by": "del01",
+  "by_greek": "δ¹",
+  "by_con": "Aps"
+}

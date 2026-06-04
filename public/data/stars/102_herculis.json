@@ -1,0 +1,14 @@
+{
+  "id": "102_herculis",
+  "name": "102 Herculis",
+  "rank": 2,
+  "ra": 272.1895496947258,
+  "dec": 20.81455682891472,
+  "dist": 280.8989,
+  "otype": "*",
+  "spect": "B2IV",
+  "cat": 9,
+  "proper": "Ramus",
+  "fl": 102,
+  "fl_con": "Her"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "7_pegasi",
+  "name": "7 Pegasi",
+  "rank": 5,
+  "ra": 325.56438039157,
+  "dec": 5.68013878683,
+  "dist": 223.7136,
+  "otype": "*",
+  "spect": "M2III",
+  "cat": 14,
+  "fl": 7,
+  "fl_con": "Peg"
+}

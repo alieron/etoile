@@ -1,0 +1,15 @@
+{
+  "id": "r_arae_a",
+  "name": "R Arae A",
+  "rank": 4,
+  "ra": 249.93635729673747,
+  "dec": -56.99442269596669,
+  "dist": 124.07074069500001,
+  "otype": "EB*",
+  "spect": "B5V+F1IV",
+  "cat": 9,
+  "by": "R",
+  "by_greek": "R",
+  "by_con": "Ara",
+  "by_comp": "A"
+}

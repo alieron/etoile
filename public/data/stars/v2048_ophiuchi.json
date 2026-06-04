@@ -1,0 +1,15 @@
+{
+  "id": "v2048_ophiuchi",
+  "name": "V2048 Ophiuchi",
+  "rank": 5,
+  "ra": 270.06581543772376,
+  "dec": 4.368645090768055,
+  "dist": 199.6008,
+  "otype": "Be*",
+  "spect": "B2Ve",
+  "cat": 8,
+  "v": "V2048",
+  "v_con": "Oph",
+  "fl": 66,
+  "fl_con": "Oph"
+}

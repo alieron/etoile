@@ -1,0 +1,17 @@
+{
+  "id": "lambda_sagittarii",
+  "name": "Lambda Sagittarii",
+  "rank": 2,
+  "ra": 276.99266966041665,
+  "dec": -25.421698496944444,
+  "dist": 23.9693,
+  "otype": "PM*",
+  "spect": "K1IIIb",
+  "cat": 15,
+  "proper": "Kaus Borealis",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Sgr",
+  "fl": 22,
+  "fl_con": "Sgr"
+}

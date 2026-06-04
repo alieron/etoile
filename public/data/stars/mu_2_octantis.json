@@ -1,0 +1,14 @@
+{
+  "id": "mu_2_octantis",
+  "name": "Mu 2 Octantis",
+  "rank": 4,
+  "ra": 310.433756791,
+  "dec": -75.35080083572,
+  "dist": 44.2674,
+  "otype": "PM*",
+  "spect": "G0V",
+  "cat": 5,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Oct"
+}

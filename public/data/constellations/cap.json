@@ -1,100 +1,83 @@
 {
-  "abbreviation": "Cap",
+  "id": "Cap",
   "name": "Capricornus",
-  "genitive": "Capricorni",
-  "meaning": "Sea Goat",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 309.6846,
-        "dec_deg": -8.5634,
-        "ra_deg_signed": -50.3154
-      },
-      {
-        "ra_deg": 301.6937,
-        "dec_deg": -8.6431,
-        "ra_deg_signed": -58.3063
-      },
-      {
-        "ra_deg": 301.7264,
-        "dec_deg": -11.6762,
-        "ra_deg_signed": -58.2736
-      },
-      {
-        "ra_deg": 301.916,
-        "dec_deg": -27.6419,
-        "ra_deg_signed": -58.084
-      },
-      {
-        "ra_deg": 306.898,
-        "dec_deg": -27.5913,
-        "ra_deg_signed": -53.102
-      },
-      {
-        "ra_deg": 321.8316,
-        "dec_deg": -27.4597,
-        "ra_deg_signed": -38.1684
-      },
-      {
-        "ra_deg": 321.8078,
-        "dec_deg": -24.9598,
-        "ra_deg_signed": -38.1922
-      },
-      {
-        "ra_deg": 329.7703,
-        "dec_deg": -24.904,
-        "ra_deg_signed": -30.2297
-      },
-      {
-        "ra_deg": 329.6562,
-        "dec_deg": -8.4044,
-        "ra_deg_signed": -30.3438
-      },
-      {
-        "ra_deg": 321.6684,
-        "dec_deg": -8.4603,
-        "ra_deg_signed": -38.3316
-      },
-      {
-        "ra_deg": 321.7165,
-        "dec_deg": -14.4601,
-        "ra_deg_signed": -38.2835
-      },
-      {
-        "ra_deg": 309.7439,
-        "dec_deg": -14.5631,
-        "ra_deg_signed": -50.2561
-      },
-      {
-        "ra_deg": 309.6846,
-        "dec_deg": -8.5634,
-        "ra_deg_signed": -50.3154
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Capricorni",
+  "meaning": "Capricorn",
+  "rank": 1,
+  "focus": [
+    -44.268,
+    -18.0232,
+    63
+  ],
+  "label": [
+    -45,
+    -22
+  ],
+  "bound": [
     [
-      100064,
-      100345,
-      102485,
-      102978,
-      105881,
-      106723,
-      107556,
-      106985,
-      104139,
-      100064
+      [
+        -50.3154,
+        -8.5634
+      ],
+      [
+        -58.3063,
+        -8.6431
+      ],
+      [
+        -58.2736,
+        -11.6762
+      ],
+      [
+        -58.084,
+        -27.6419
+      ],
+      [
+        -53.102,
+        -27.5913
+      ],
+      [
+        -38.1684,
+        -27.4597
+      ],
+      [
+        -38.1922,
+        -24.9598
+      ],
+      [
+        -30.2297,
+        -24.904
+      ],
+      [
+        -30.3438,
+        -8.4044
+      ],
+      [
+        -38.3316,
+        -8.4603
+      ],
+      [
+        -38.2835,
+        -14.4601
+      ],
+      [
+        -50.2561,
+        -14.5631
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Deneb Algedi",
-    "designation": "49Del Cap",
-    "display_name": "49 Delta Capricorni",
-    "display_name_greek": "49 δ Capricorni",
-    "hip": 107556,
-    "ra_deg": 326.760165,
-    "dec_deg": -16.127286
-  }
+  "lines": [
+    [
+      "alpha_2_capricorni",
+      "beta_capricorni",
+      "psi_capricorni",
+      "omega_capricorni",
+      "zeta_capricorni",
+      "epsilon_capricorni",
+      "delta_capricorni",
+      "gamma_capricorni",
+      "theta_capricorni",
+      "alpha_2_capricorni"
+    ]
+  ],
+  "bright": "delta_capricorni"
 }

@@ -1,0 +1,13 @@
+{
+  "id": "54_cancri",
+  "name": "54 Cancri",
+  "rank": 5,
+  "ra": 132.75610171432,
+  "dec": 15.350656698759998,
+  "dist": 38.3142,
+  "otype": "PM*",
+  "spect": "G1V",
+  "cat": 5,
+  "fl": 54,
+  "fl_con": "Cnc"
+}

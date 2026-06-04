@@ -1,0 +1,16 @@
+{
+  "id": "f_draconis",
+  "name": "f Draconis",
+  "rank": 4,
+  "ra": 262.99112983044,
+  "dec": 68.13502522148,
+  "dist": 64.6831,
+  "otype": "RG*",
+  "spect": "G9IIIb",
+  "cat": 14,
+  "by": "f",
+  "by_greek": "f",
+  "by_con": "Dra",
+  "fl": 27,
+  "fl_con": "Dra"
+}

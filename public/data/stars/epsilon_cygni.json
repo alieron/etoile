@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_cygni",
+  "name": "Epsilon Cygni",
+  "rank": 2,
+  "ra": 311.55280115351087,
+  "dec": 33.97032834364584,
+  "dist": 22.2916,
+  "otype": "**",
+  "spect": "K0III",
+  "cat": 13,
+  "proper": "Aljanah",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Cyg",
+  "fl": 53,
+  "fl_con": "Cyg"
+}

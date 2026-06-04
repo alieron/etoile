@@ -1,0 +1,14 @@
+{
+  "id": "mu_1_crux",
+  "name": "Mu 1 Crux",
+  "rank": 4,
+  "ra": 193.6484344215275,
+  "dec": -57.17792469914083,
+  "dist": 127.0648,
+  "otype": "Pu*",
+  "spect": "B2IV-V",
+  "cat": 9,
+  "by": "mu.01",
+  "by_greek": "μ¹",
+  "by_con": "Cru"
+}

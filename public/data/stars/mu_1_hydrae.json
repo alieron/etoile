@@ -1,0 +1,14 @@
+{
+  "id": "mu_1_hydrae",
+  "name": "Mu 1 Hydrae",
+  "rank": 4,
+  "ra": 156.52260893978251,
+  "dec": -16.836288604756664,
+  "dist": 71.7875,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "mu.01",
+  "by_greek": "μ¹",
+  "by_con": "Hya"
+}

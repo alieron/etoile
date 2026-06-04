@@ -1,0 +1,14 @@
+{
+  "id": "5_serpentis_b",
+  "name": "5 Serpentis B",
+  "rank": 5,
+  "ra": 229.8301776027275,
+  "dec": 1.7680120330852778,
+  "dist": 25.1437,
+  "otype": "PM*",
+  "spect": "K4",
+  "cat": 4,
+  "fl": 5,
+  "fl_con": "Ser",
+  "fl_comp": "B"
+}

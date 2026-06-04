@@ -1,0 +1,16 @@
+{
+  "id": "nu_1_bootis",
+  "name": "Nu 1 Boötis",
+  "rank": 4,
+  "ra": 232.73233166371995,
+  "dec": 40.83304840815,
+  "dist": 257.0694,
+  "otype": "*",
+  "spect": "K4.5IIIbBa0.5",
+  "cat": 15,
+  "by": "nu.01",
+  "by_greek": "ν¹",
+  "by_con": "Boo",
+  "fl": 52,
+  "fl_con": "Boo"
+}

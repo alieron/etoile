@@ -1,0 +1,14 @@
+{
+  "id": "e_velorum",
+  "name": "e Velorum",
+  "rank": 4,
+  "ra": 129.41097067566457,
+  "dec": -42.98908063297749,
+  "dist": 558.6592,
+  "otype": "*",
+  "spect": "A7Ia",
+  "cat": 17,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Vel"
+}

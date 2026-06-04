@@ -1,0 +1,14 @@
+{
+  "id": "theta_2_sagittarii",
+  "name": "Theta 2 Sagittarii",
+  "rank": 4,
+  "ra": 299.96398768585,
+  "dec": -34.69779949144,
+  "dist": 48.4966,
+  "otype": "PM*",
+  "spect": "A4/5IV",
+  "cat": 10,
+  "by": "tet02",
+  "by_greek": "θ²",
+  "by_con": "Sgr"
+}

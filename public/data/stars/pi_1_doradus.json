@@ -1,0 +1,14 @@
+{
+  "id": "pi_1_doradus",
+  "name": "Pi 1 Doradus",
+  "rank": 4,
+  "ra": 95.65948232394,
+  "dec": -69.98404457966,
+  "dist": 189.7533,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "by": "pi.01",
+  "by_greek": "π¹",
+  "by_con": "Dor"
+}

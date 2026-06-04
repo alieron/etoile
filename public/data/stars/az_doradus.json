@@ -1,0 +1,15 @@
+{
+  "id": "az_doradus",
+  "name": "AZ Doradus",
+  "rank": 5,
+  "ra": 84.22907732765,
+  "dec": -66.56028547569,
+  "dist": 234.192,
+  "otype": "Be*",
+  "spect": "A1IIIe",
+  "cat": 8,
+  "v": "AZ",
+  "v_con": "Dor",
+  "fl": 29,
+  "fl_con": "Dor"
+}

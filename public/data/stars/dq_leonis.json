@@ -1,0 +1,15 @@
+{
+  "id": "dq_leonis",
+  "name": "DQ Leonis",
+  "rank": 5,
+  "ra": 176.99639978699486,
+  "dec": 20.21893056098724,
+  "dist": 71.3267,
+  "otype": "RS*",
+  "spect": "F8III+A6III",
+  "cat": 13,
+  "v": "DQ",
+  "v_con": "Leo",
+  "fl": 93,
+  "fl_con": "Leo"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_sculptoris_b",
+  "name": "Epsilon Sculptoris B",
+  "rank": 4,
+  "ra": 26.41214521475,
+  "dec": -25.05132986162,
+  "dist": 27.971,
+  "otype": "PM*",
+  "spect": "K1V",
+  "cat": 4,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Scl",
+  "by_comp": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "delta_2_tauri",
+  "name": "Delta 2 Tauri",
+  "rank": 4,
+  "ra": 66.02400605484,
+  "dec": 17.44413091721,
+  "dist": 49.4805,
+  "otype": "PM*",
+  "spect": "A2Vs",
+  "cat": 7,
+  "by": "del02",
+  "by_greek": "δ²",
+  "by_con": "Tau",
+  "fl": 64,
+  "fl_con": "Tau"
+}

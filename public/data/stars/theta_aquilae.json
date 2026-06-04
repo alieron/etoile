@@ -1,0 +1,17 @@
+{
+  "id": "theta_aquilae",
+  "name": "Theta Aquilae",
+  "rank": 2,
+  "ra": 302.82619454879625,
+  "dec": -0.8214635937475,
+  "dist": 87.7963,
+  "otype": "SB*",
+  "spect": "B9.5III",
+  "cat": 17,
+  "proper": "Antinous",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Aql",
+  "fl": 65,
+  "fl_con": "Aql"
+}

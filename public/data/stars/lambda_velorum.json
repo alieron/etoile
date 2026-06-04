@@ -1,0 +1,15 @@
+{
+  "id": "lambda_velorum",
+  "name": "Lambda Velorum",
+  "rank": 2,
+  "ra": 136.99899113791412,
+  "dec": -43.432590908860746,
+  "dist": 166.9449,
+  "otype": "s*r",
+  "spect": "K4Ib",
+  "cat": 15,
+  "proper": "Suhail",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Vel"
+}

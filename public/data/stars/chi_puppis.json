@@ -1,0 +1,14 @@
+{
+  "id": "chi_puppis",
+  "name": "Chi Puppis",
+  "rank": 4,
+  "ra": 119.41710944213999,
+  "dec": -30.33457124228,
+  "dist": 371.7472,
+  "otype": "*",
+  "spect": "A7III",
+  "cat": 13,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Pup"
+}

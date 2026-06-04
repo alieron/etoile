@@ -1,0 +1,14 @@
+{
+  "id": "77_piscium_a",
+  "name": "77 Piscium A",
+  "rank": 5,
+  "ra": 16.45511381046,
+  "dec": 4.90837688486,
+  "dist": 40.6339,
+  "otype": "PM*",
+  "spect": "F5V",
+  "cat": 6,
+  "fl": 77,
+  "fl_con": "Psc",
+  "fl_comp": "A"
+}

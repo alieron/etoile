@@ -1,0 +1,18 @@
+{
+  "id": "alpha_geminorum_b",
+  "name": "Alpha Geminorum B",
+  "rank": 4,
+  "ra": 113.65041855,
+  "dec": 31.888491991666665,
+  "dist": 15.5958,
+  "otype": "SB*",
+  "spect": "kA0hA2:mA1IVs",
+  "cat": 12,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Gem",
+  "by_comp": "B",
+  "fl": 66,
+  "fl_con": "Gem",
+  "fl_comp": "B"
+}

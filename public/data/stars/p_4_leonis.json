@@ -1,0 +1,16 @@
+{
+  "id": "p_4_leonis",
+  "name": "p 4 Leonis",
+  "rank": 4,
+  "ra": 166.7258638032979,
+  "dec": 1.9555255730561107,
+  "dist": 63.2111,
+  "otype": "RG*",
+  "spect": "K0III",
+  "cat": 14,
+  "by": "p04",
+  "by_greek": "p⁴",
+  "by_con": "Leo",
+  "fl": 65,
+  "fl_con": "Leo"
+}

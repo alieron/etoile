@@ -1,0 +1,17 @@
+{
+  "id": "beta_arietis",
+  "name": "Beta Arietis",
+  "rank": 2,
+  "ra": 28.66004578884514,
+  "dec": 20.808031471916408,
+  "dist": 17.9856,
+  "otype": "SB*",
+  "spect": "kA4hA5mA5Va",
+  "cat": 4,
+  "proper": "Sheratan",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Ari",
+  "fl": 6,
+  "fl_con": "Ari"
+}

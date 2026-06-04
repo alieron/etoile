@@ -1,0 +1,13 @@
+{
+  "id": "18_pegasi",
+  "name": "18 Pegasi",
+  "rank": 5,
+  "ra": 330.03302095438,
+  "dec": 6.71744727239,
+  "dist": 328.9474,
+  "otype": "*",
+  "spect": "B3III",
+  "cat": 17,
+  "fl": 18,
+  "fl_con": "Peg"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fx_librae",
+  "name": "FX Librae",
+  "rank": 5,
+  "ra": 239.5473677093554,
+  "dec": -14.279355863636946,
+  "dist": 143.472,
+  "otype": "Be*",
+  "spect": "B5IIIp_sh",
+  "cat": 8,
+  "v": "FX",
+  "v_con": "Lib",
+  "fl": 48,
+  "fl_con": "Lib"
+}

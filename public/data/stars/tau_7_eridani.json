@@ -1,0 +1,16 @@
+{
+  "id": "tau_7_eridani",
+  "name": "Tau 7 Eridani",
+  "rank": 4,
+  "ra": 56.91520872628001,
+  "dec": -23.874677463020003,
+  "dist": 76.9231,
+  "otype": "Pe*",
+  "spect": "A3Vs",
+  "cat": 7,
+  "by": "tau07",
+  "by_greek": "τ⁷",
+  "by_con": "Eri",
+  "fl": 28,
+  "fl_con": "Eri"
+}

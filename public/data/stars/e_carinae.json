@@ -1,0 +1,16 @@
+{
+  "id": "e_carinae",
+  "name": "E Carinae",
+  "rank": 4,
+  "ra": 136.4098972987,
+  "dec": -70.53849835625,
+  "dist": 296.7359,
+  "otype": "Be*",
+  "spect": "B3III",
+  "cat": 8,
+  "by": "E",
+  "by_greek": "E",
+  "by_con": "Car",
+  "v": "V345",
+  "v_con": "Car"
+}

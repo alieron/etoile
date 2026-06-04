@@ -1,0 +1,15 @@
+{
+  "id": "v4028_sagittarii",
+  "name": "V4028 Sagittarii",
+  "rank": 5,
+  "ra": 275.38069213598,
+  "dec": -24.91527538332,
+  "dist": 326.7974,
+  "otype": "LP?",
+  "spect": "M5-IIIa:",
+  "cat": 15,
+  "v": "V4028",
+  "v_con": "Sgr",
+  "fl": 70,
+  "fl_con": "Sgr"
+}

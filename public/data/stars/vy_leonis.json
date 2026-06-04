@@ -1,0 +1,15 @@
+{
+  "id": "vy_leonis",
+  "name": "VY Leonis",
+  "rank": 5,
+  "ra": 164.0061177870825,
+  "dec": 6.185372588299167,
+  "dist": 119.1895,
+  "otype": "LP?",
+  "spect": "M5.5III:",
+  "cat": 14,
+  "v": "VY",
+  "v_con": "Leo",
+  "fl": 56,
+  "fl_con": "Leo"
+}

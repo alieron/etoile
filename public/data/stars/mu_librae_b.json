@@ -1,0 +1,15 @@
+{
+  "id": "mu_librae_b",
+  "name": "Mu Librae B",
+  "rank": 4,
+  "ra": 222.32941703852998,
+  "dec": -14.14848660735,
+  "dist": 75.276,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Lib",
+  "by_comp": "B"
+}

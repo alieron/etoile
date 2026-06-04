@@ -1,0 +1,17 @@
+{
+  "id": "beta_serpentis",
+  "name": "Beta Serpentis",
+  "rank": 2,
+  "ra": 236.54689658602248,
+  "dec": 15.421819296846387,
+  "dist": 47.5511,
+  "otype": "PM*",
+  "spect": "A2IV",
+  "cat": 10,
+  "proper": "Zhou",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Ser",
+  "fl": 28,
+  "fl_con": "Ser"
+}

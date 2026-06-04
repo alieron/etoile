@@ -1,0 +1,15 @@
+{
+  "id": "hi_aquarii",
+  "name": "HI Aquarii",
+  "rank": 5,
+  "ra": 343.36960382423,
+  "dec": -11.616514764880002,
+  "dist": 253.1646,
+  "otype": "a2*",
+  "spect": "B8IV/V",
+  "cat": 20,
+  "v": "HI",
+  "v_con": "Aqr",
+  "fl": 74,
+  "fl_con": "Aqr"
+}

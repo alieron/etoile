@@ -1,0 +1,16 @@
+{
+  "id": "sigma_2_ursae_majoris",
+  "name": "Sigma 2 Ursae Majoris",
+  "rank": 4,
+  "ra": 137.59810822843832,
+  "dec": 67.13401783939729,
+  "dist": 20.3791,
+  "otype": "**",
+  "spect": "F7V",
+  "cat": 6,
+  "by": "sig02",
+  "by_greek": "σ²",
+  "by_con": "UMa",
+  "fl": 13,
+  "fl_con": "UMa"
+}

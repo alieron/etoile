@@ -1,0 +1,15 @@
+{
+  "id": "gamma_sextantis_b",
+  "name": "Gamma Sextantis B",
+  "rank": 4,
+  "ra": 148.12699772500002,
+  "dec": -8.104960883333332,
+  "dist": 85.1064,
+  "otype": "PM*",
+  "spect": "A4V",
+  "cat": 7,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Sex",
+  "by_comp": "B"
+}

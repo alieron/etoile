@@ -1,0 +1,13 @@
+{
+  "id": "9_bootis",
+  "name": "9 Boötis",
+  "rank": 5,
+  "ra": 209.14242094698,
+  "dec": 27.492081441400003,
+  "dist": 178.2531,
+  "otype": "RG*",
+  "spect": "K3III",
+  "cat": 14,
+  "fl": 9,
+  "fl_con": "Boo"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "y_aquilae",
+  "name": "Y Aquilae",
+  "rank": 5,
+  "ra": 286.74417872208335,
+  "dec": 11.071227038333333,
+  "dist": 214.1328,
+  "otype": "SB*",
+  "spect": "B8III",
+  "cat": 17,
+  "v": "Y",
+  "v_con": "Aql",
+  "fl": 18,
+  "fl_con": "Aql"
+}

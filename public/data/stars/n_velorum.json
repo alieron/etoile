@@ -1,0 +1,16 @@
+{
+  "id": "n_velorum",
+  "name": "N Velorum",
+  "rank": 4,
+  "ra": 142.80549230320247,
+  "dec": -57.03437645056388,
+  "dist": 73.2601,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "by": "N",
+  "by_greek": "N",
+  "by_con": "Vel",
+  "v": "N",
+  "v_con": "Vel"
+}

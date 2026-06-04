@@ -1,114 +1,94 @@
 {
-  "abbreviation": "Ara",
+  "id": "Ara",
   "name": "Ara",
-  "genitive": "Arae",
+  "gen": "Arae",
   "meaning": "Altar",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 249.0347,
-        "dec_deg": -60.2645,
-        "ra_deg_signed": -110.9653
-      },
-      {
-        "ra_deg": 248.5706,
-        "dec_deg": -45.7671,
-        "ra_deg_signed": -111.4294
-      },
-      {
-        "ra_deg": 269.8093,
-        "dec_deg": -45.5163,
-        "ra_deg_signed": -90.1907
-      },
-      {
-        "ra_deg": 272.30899999999997,
-        "dec_deg": -45.486,
-        "ra_deg_signed": -87.691
-      },
-      {
-        "ra_deg": 272.6723,
-        "dec_deg": -56.9838,
-        "ra_deg_signed": -87.3277
-      },
-      {
-        "ra_deg": 265.1682,
-        "dec_deg": -57.0748,
-        "ra_deg_signed": -94.8318
-      },
-      {
-        "ra_deg": 265.77570000000003,
-        "dec_deg": -67.5711,
-        "ra_deg_signed": -94.2243
-      },
-      {
-        "ra_deg": 258.2425,
-        "dec_deg": -67.6611,
-        "ra_deg_signed": -101.7575
-      },
-      {
-        "ra_deg": 255.725,
-        "dec_deg": -67.6906,
-        "ra_deg_signed": -104.275
-      },
-      {
-        "ra_deg": 255.5424,
-        "dec_deg": -65.1916,
-        "ra_deg_signed": -104.4576
-      },
-      {
-        "ra_deg": 254.2835,
-        "dec_deg": -65.2063,
-        "ra_deg_signed": -105.7165
-      },
-      {
-        "ra_deg": 254.1951,
-        "dec_deg": -63.7901,
-        "ra_deg_signed": -105.8049
-      },
-      {
-        "ra_deg": 251.6763,
-        "dec_deg": -63.819,
-        "ra_deg_signed": -108.3237
-      },
-      {
-        "ra_deg": 251.5378,
-        "dec_deg": -61.2365,
-        "ra_deg_signed": -108.4622
-      },
-      {
-        "ra_deg": 249.08159999999998,
-        "dec_deg": -61.2642,
-        "ra_deg_signed": -110.9184
-      },
-      {
-        "ra_deg": 249.0347,
-        "dec_deg": -60.2645,
-        "ra_deg_signed": -110.9653
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    -99.3786,
+    -56.5883,
+    59
+  ],
+  "label": [
+    -102,
+    -56
+  ],
+  "bound": [
     [
-      85267,
-      85727,
-      82363,
-      83081,
-      83153,
-      85792,
-      88714,
-      85792,
-      85258
+      [
+        -110.9653,
+        -60.2645
+      ],
+      [
+        -111.4294,
+        -45.7671
+      ],
+      [
+        -90.1907,
+        -45.5163
+      ],
+      [
+        -87.691,
+        -45.486
+      ],
+      [
+        -87.3277,
+        -56.9838
+      ],
+      [
+        -94.8318,
+        -57.0748
+      ],
+      [
+        -94.2243,
+        -67.5711
+      ],
+      [
+        -101.7575,
+        -67.6611
+      ],
+      [
+        -104.275,
+        -67.6906
+      ],
+      [
+        -104.4576,
+        -65.1916
+      ],
+      [
+        -105.7165,
+        -65.2063
+      ],
+      [
+        -105.8049,
+        -63.7901
+      ],
+      [
+        -108.3237,
+        -63.819
+      ],
+      [
+        -108.4622,
+        -61.2365
+      ],
+      [
+        -110.9184,
+        -61.2642
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alp Ara",
-    "designation": "Alp Ara",
-    "display_name": "Alpha Arae",
-    "display_name_greek": "α Arae",
-    "hip": 85792,
-    "ra_deg": 262.96042500000004,
-    "dec_deg": -49.876145
-  }
+  "lines": [
+    [
+      "gamma_arae",
+      "delta_arae",
+      "eta_arae",
+      "zeta_arae",
+      "epsilon_1_arae",
+      "alpha_arae",
+      "theta_arae",
+      "alpha_arae",
+      "beta_arae"
+    ]
+  ],
+  "bright": "alpha_arae"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "mu_2_gruis",
+  "name": "Mu 2 Gruis",
+  "rank": 4,
+  "ra": 334.110632308,
+  "dec": -41.62718170181,
+  "dist": 81.367,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Gru"
+}

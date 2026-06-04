@@ -1,0 +1,17 @@
+{
+  "id": "upsilon_2_eridani",
+  "name": "Upsilon 2 Eridani",
+  "rank": 2,
+  "ra": 68.88765817174708,
+  "dec": -30.562342037091394,
+  "dist": 65.5738,
+  "otype": "PM*",
+  "spect": "G8+III",
+  "cat": 13,
+  "proper": "Theemin",
+  "by": "ups02",
+  "by_greek": "υ²",
+  "by_con": "Eri",
+  "fl": 52,
+  "fl_con": "Eri"
+}

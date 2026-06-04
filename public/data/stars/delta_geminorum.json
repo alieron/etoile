@@ -1,0 +1,17 @@
+{
+  "id": "delta_geminorum",
+  "name": "Delta Geminorum",
+  "rank": 2,
+  "ra": 110.03072735754377,
+  "dec": 21.98230404962861,
+  "dist": 18.5391,
+  "otype": "SB*",
+  "spect": "F2VkF0mF0",
+  "cat": 6,
+  "proper": "Wasat",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Gem",
+  "fl": 55,
+  "fl_con": "Gem"
+}

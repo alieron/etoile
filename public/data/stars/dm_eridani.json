@@ -1,0 +1,15 @@
+{
+  "id": "dm_eridani",
+  "name": "DM Eridani",
+  "rank": 5,
+  "ra": 70.11046426124,
+  "dec": -19.67149187359,
+  "dist": 112.9944,
+  "otype": "LP*",
+  "spect": "M3/4III",
+  "cat": 14,
+  "v": "DM",
+  "v_con": "Eri",
+  "fl": 54,
+  "fl_con": "Eri"
+}

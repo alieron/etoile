@@ -1,0 +1,14 @@
+{
+  "id": "beta_2_capricorni",
+  "name": "Beta 2 Capricorni",
+  "rank": 4,
+  "ra": 305.19394955629,
+  "dec": -14.78488992343,
+  "dist": 104.0583,
+  "otype": "SB*",
+  "spect": "B9/A0III/IV",
+  "cat": 9,
+  "by": "bet02",
+  "by_greek": "β²",
+  "by_con": "Cap"
+}

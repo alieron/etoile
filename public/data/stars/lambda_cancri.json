@@ -1,0 +1,17 @@
+{
+  "id": "lambda_cancri",
+  "name": "Lambda Cancri",
+  "rank": 2,
+  "ra": 125.13390147397001,
+  "dec": 24.022311148900002,
+  "dist": 140.2525,
+  "otype": "*",
+  "spect": "B9.5V",
+  "cat": 8,
+  "proper": "Piautos",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Cnc",
+  "fl": 19,
+  "fl_con": "Cnc"
+}

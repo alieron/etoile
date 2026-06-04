@@ -1,0 +1,17 @@
+{
+  "id": "sigma_draconis",
+  "name": "Sigma Draconis",
+  "rank": 2,
+  "ra": 293.0899592077504,
+  "dec": 69.66117661255723,
+  "dist": 5.7547,
+  "otype": "PM*",
+  "spect": "K0V",
+  "cat": 4,
+  "proper": "Alsafi",
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Dra",
+  "fl": 61,
+  "fl_con": "Dra"
+}

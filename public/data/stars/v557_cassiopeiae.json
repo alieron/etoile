@@ -1,0 +1,15 @@
+{
+  "id": "v557_cassiopeiae",
+  "name": "V557 Cassiopeiae",
+  "rank": 5,
+  "ra": 25.58552893003,
+  "dec": 68.04302513591,
+  "dist": 119.1895,
+  "otype": "a2*",
+  "spect": "A0VpSiSrEuHgMn",
+  "cat": 20,
+  "v": "V557",
+  "v_con": "Cas",
+  "fl": 43,
+  "fl_con": "Cas"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "40_sextantis_a",
+  "name": "40 Sextantis A",
+  "rank": 5,
+  "ra": 162.32197019338545,
+  "dec": -4.023926211656908,
+  "dist": 85.985359845,
+  "otype": "PM*",
+  "spect": "A2/3III/IV",
+  "cat": 10,
+  "fl": 40,
+  "fl_con": "Sex",
+  "fl_comp": "A"
+}

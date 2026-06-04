@@ -1,0 +1,15 @@
+{
+  "id": "uz_lyncis",
+  "name": "UZ Lyncis",
+  "rank": 3,
+  "ra": 94.90571929954999,
+  "dec": 59.010981002848894,
+  "dist": 48.0077,
+  "otype": "EB*",
+  "spect": "A2Vs",
+  "cat": 7,
+  "v": "UZ",
+  "v_con": "Lyn",
+  "fl": 2,
+  "fl_con": "Lyn"
+}

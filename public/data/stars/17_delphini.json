@@ -1,0 +1,13 @@
+{
+  "id": "17_delphini",
+  "name": "17 Delphini",
+  "rank": 5,
+  "ra": 313.90287079368,
+  "dec": 13.72153627324,
+  "dist": 147.0588,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "fl": 17,
+  "fl_con": "Del"
+}

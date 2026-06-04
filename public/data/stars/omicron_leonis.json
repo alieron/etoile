@@ -1,0 +1,17 @@
+{
+  "id": "omicron_leonis",
+  "name": "Omicron Leonis",
+  "rank": 2,
+  "ra": 145.28763405888583,
+  "dec": 9.89230789622861,
+  "dist": 39.9521,
+  "otype": "SB*",
+  "spect": "F8-G0III+A7m",
+  "cat": 13,
+  "proper": "Subra",
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "Leo",
+  "fl": 14,
+  "fl_con": "Leo"
+}

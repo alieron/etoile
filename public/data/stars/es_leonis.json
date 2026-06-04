@@ -1,0 +1,15 @@
+{
+  "id": "es_leonis",
+  "name": "ES Leonis",
+  "rank": 5,
+  "ra": 158.04905602062124,
+  "dec": 14.13726968844528,
+  "dist": 212.766,
+  "otype": "LP*",
+  "spect": "M1III",
+  "cat": 14,
+  "v": "ES",
+  "v_con": "Leo",
+  "fl": 46,
+  "fl_con": "Leo"
+}

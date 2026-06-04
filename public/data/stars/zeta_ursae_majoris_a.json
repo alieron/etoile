@@ -1,0 +1,19 @@
+{
+  "id": "zeta_ursae_majoris_a",
+  "name": "Zeta Ursae Majoris A",
+  "rank": 2,
+  "ra": 200.98142616882203,
+  "dec": 54.925359883302775,
+  "dist": 26.3089,
+  "otype": "SB*",
+  "spect": "A1.5Vas",
+  "cat": 7,
+  "proper": "Mizar",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "UMa",
+  "by_comp": "A",
+  "fl": 79,
+  "fl_con": "UMa",
+  "fl_comp": "A"
+}

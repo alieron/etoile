@@ -1,0 +1,13 @@
+{
+  "id": "23_canum_venaticorum",
+  "name": "23 Canum Venaticorum",
+  "rank": 5,
+  "ra": 200.07896290662998,
+  "dec": 40.15054653152,
+  "dist": 156.0062,
+  "otype": "PM*",
+  "spect": "K2II-III",
+  "cat": 13,
+  "fl": 23,
+  "fl_con": "CVn"
+}

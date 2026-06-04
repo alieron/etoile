@@ -1,0 +1,17 @@
+{
+  "id": "eta_draconis",
+  "name": "Eta Draconis",
+  "rank": 2,
+  "ra": 245.99785970199997,
+  "dec": 61.51420976085001,
+  "dist": 28.2326,
+  "otype": "PM*",
+  "spect": "G8-IIIab",
+  "cat": 16,
+  "proper": "Athebyne",
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Dra",
+  "fl": 14,
+  "fl_con": "Dra"
+}

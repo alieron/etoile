@@ -1,0 +1,13 @@
+{
+  "id": "38_draconis",
+  "name": "38 Draconis",
+  "rank": 5,
+  "ra": 274.24475684023,
+  "dec": 68.74145604651,
+  "dist": 189.3939,
+  "otype": "Pe*",
+  "spect": "A0VpHgMnZr",
+  "cat": 7,
+  "fl": 38,
+  "fl_con": "Dra"
+}

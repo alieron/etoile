@@ -1,0 +1,18 @@
+{
+  "id": "o_virginis",
+  "name": "o Virginis",
+  "rank": 4,
+  "ra": 203.53304685229458,
+  "dec": 3.658969155643611,
+  "dist": 56.6572,
+  "otype": "a2*",
+  "spect": "ApEuCrSr",
+  "cat": 20,
+  "by": "o",
+  "by_greek": "o",
+  "by_con": "Vir",
+  "v": "CW",
+  "v_con": "Vir",
+  "fl": 78,
+  "fl_con": "Vir"
+}

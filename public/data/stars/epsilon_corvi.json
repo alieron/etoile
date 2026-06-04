@@ -1,0 +1,16 @@
+{
+  "id": "epsilon_corvi",
+  "name": "Epsilon Corvi",
+  "rank": 3,
+  "ra": 182.53116909374998,
+  "dec": -22.6197672175,
+  "dist": 97.4659,
+  "otype": "PM*",
+  "spect": "K2+IIIa",
+  "cat": 15,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Crv",
+  "fl": 2,
+  "fl_con": "Crv"
+}

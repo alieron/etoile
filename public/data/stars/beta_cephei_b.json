@@ -1,0 +1,15 @@
+{
+  "id": "beta_cephei_b",
+  "name": "Beta Cephei B",
+  "rank": 4,
+  "ra": 322.15457415157994,
+  "dec": 70.55937193465,
+  "dist": 237.507,
+  "otype": "EB*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cep",
+  "by_comp": "B"
+}

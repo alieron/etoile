@@ -1,0 +1,13 @@
+{
+  "id": "16_cephei",
+  "name": "16 Cephei",
+  "rank": 5,
+  "ra": 329.81236336400997,
+  "dec": 73.1798950637,
+  "dist": 36.7242,
+  "otype": "PM*",
+  "spect": "F5V",
+  "cat": 6,
+  "fl": 16,
+  "fl_con": "Cep"
+}

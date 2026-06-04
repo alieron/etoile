@@ -1,0 +1,16 @@
+{
+  "id": "theta_1_tauri",
+  "name": "Theta 1 Tauri",
+  "rank": 4,
+  "ra": 67.14374134289625,
+  "dec": 15.962283658173055,
+  "dist": 47.3261,
+  "otype": "SB*",
+  "spect": "G9IIIFe-0.5",
+  "cat": 13,
+  "by": "tet01",
+  "by_greek": "θ¹",
+  "by_con": "Tau",
+  "fl": 77,
+  "fl_con": "Tau"
+}

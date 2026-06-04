@@ -1,0 +1,16 @@
+{
+  "id": "psi_2_aquarii",
+  "name": "Psi 2 Aquarii",
+  "rank": 3,
+  "ra": 349.4758905025,
+  "dec": -9.182518756666665,
+  "dist": 123.1527,
+  "otype": "Be*",
+  "spect": "B5V",
+  "cat": 8,
+  "by": "psi02",
+  "by_greek": "ψ²",
+  "by_con": "Aqr",
+  "fl": 93,
+  "fl_con": "Aqr"
+}

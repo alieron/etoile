@@ -1,0 +1,16 @@
+{
+  "id": "d_piscium",
+  "name": "d Piscium",
+  "rank": 4,
+  "ra": 5.149425121549999,
+  "dec": 8.19027170502,
+  "dist": 125.0,
+  "otype": "*",
+  "spect": "K2.5III",
+  "cat": 13,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Psc",
+  "fl": 41,
+  "fl_con": "Psc"
+}

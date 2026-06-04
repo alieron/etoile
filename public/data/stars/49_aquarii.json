@@ -1,0 +1,13 @@
+{
+  "id": "49_aquarii",
+  "name": "49 Aquarii",
+  "rank": 5,
+  "ra": 335.87853696135,
+  "dec": -24.762662823979998,
+  "dist": 80.3213,
+  "otype": "RG*",
+  "spect": "K0IIICNII",
+  "cat": 14,
+  "fl": 49,
+  "fl_con": "Aqr"
+}

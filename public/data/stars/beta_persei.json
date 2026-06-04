@@ -1,0 +1,17 @@
+{
+  "id": "beta_persei",
+  "name": "Beta Persei",
+  "rank": 2,
+  "ra": 47.04221855625,
+  "dec": 40.95564667027778,
+  "dist": 27.571,
+  "otype": "SB*",
+  "spect": "B8V",
+  "cat": 8,
+  "proper": "Algol",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Per",
+  "fl": 26,
+  "fl_con": "Per"
+}

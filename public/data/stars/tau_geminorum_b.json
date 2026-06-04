@@ -1,0 +1,18 @@
+{
+  "id": "tau_geminorum_b",
+  "name": "Tau Geminorum B",
+  "rank": 4,
+  "ra": 107.78491291858252,
+  "dec": 30.244495873126674,
+  "dist": 98.4252,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Gem",
+  "by_comp": "B",
+  "fl": 46,
+  "fl_con": "Gem",
+  "fl_comp": "B"
+}

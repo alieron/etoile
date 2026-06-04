@@ -1,0 +1,15 @@
+{
+  "id": "sigma_octantis",
+  "name": "Sigma Octantis",
+  "rank": 2,
+  "ra": 317.19526487582993,
+  "dec": -88.95649953627,
+  "dist": 86.1326,
+  "otype": "dS*",
+  "spect": "F0IV",
+  "cat": 6,
+  "proper": "Polaris Australis",
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Oct"
+}

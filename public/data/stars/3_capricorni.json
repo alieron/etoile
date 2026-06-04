@@ -1,0 +1,13 @@
+{
+  "id": "3_capricorni",
+  "name": "3 Capricorni",
+  "rank": 5,
+  "ra": 304.09502405822,
+  "dec": -12.337119399460002,
+  "dist": 135.8696,
+  "otype": "*",
+  "spect": "B9IV",
+  "cat": 9,
+  "fl": 3,
+  "fl_con": "Cap"
+}

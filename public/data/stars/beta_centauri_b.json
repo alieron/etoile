@@ -1,0 +1,15 @@
+{
+  "id": "beta_centauri_b",
+  "name": "Beta Centauri B",
+  "rank": 4,
+  "ra": 210.95545783333336,
+  "dec": -60.37318300555555,
+  "dist": 120.1923,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cen",
+  "by_comp": "B"
+}

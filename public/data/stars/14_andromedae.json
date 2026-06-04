@@ -1,0 +1,14 @@
+{
+  "id": "14_andromedae",
+  "name": "14 Andromedae",
+  "rank": 2,
+  "ra": 352.82255521802,
+  "dec": 39.23619852879,
+  "dist": 79.1766,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "proper": "Veritate",
+  "fl": 14,
+  "fl_con": "And"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "c_ursae_majoris",
+  "name": "c Ursae Majoris",
+  "rank": 4,
+  "ra": 138.58559181927,
+  "dec": 61.42331696219999,
+  "dist": 19.5695,
+  "otype": "SB*",
+  "spect": "G0V",
+  "cat": 5,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "UMa",
+  "fl": 16,
+  "fl_con": "UMa"
+}

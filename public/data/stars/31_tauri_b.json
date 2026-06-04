@@ -1,0 +1,14 @@
+{
+  "id": "31_tauri_b",
+  "name": "31 Tauri B",
+  "rank": 5,
+  "ra": 58.000865975,
+  "dec": 6.534728094444445,
+  "dist": 238.6635,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 31,
+  "fl_con": "Tau",
+  "fl_comp": "B"
+}

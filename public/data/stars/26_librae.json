@@ -1,0 +1,13 @@
+{
+  "id": "26_librae",
+  "name": "26 Librae",
+  "rank": 5,
+  "ra": 228.64065780017998,
+  "dec": -17.76857144771,
+  "dist": 245.098,
+  "otype": "*",
+  "spect": "B9III",
+  "cat": 17,
+  "fl": 26,
+  "fl_con": "Lib"
+}

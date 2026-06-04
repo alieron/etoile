@@ -1,0 +1,16 @@
+{
+  "id": "e_eridani",
+  "name": "e Eridani",
+  "rank": 3,
+  "ra": 49.9818788009275,
+  "dec": -43.069781996785,
+  "dist": 6.0434,
+  "otype": "PM*",
+  "spect": "G6V",
+  "cat": 5,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Eri",
+  "fl": 82,
+  "fl_con": "Eri"
+}

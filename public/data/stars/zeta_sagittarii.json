@@ -1,0 +1,17 @@
+{
+  "id": "zeta_sagittarii",
+  "name": "Zeta Sagittarii",
+  "rank": 2,
+  "ra": 285.6530426563352,
+  "dec": -29.88006330096877,
+  "dist": 27.0416,
+  "otype": "**",
+  "spect": "A2.5Va",
+  "cat": 7,
+  "proper": "Ascella",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Sgr",
+  "fl": 38,
+  "fl_con": "Sgr"
+}

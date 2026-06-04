@@ -1,0 +1,13 @@
+{
+  "id": "108_herculis",
+  "name": "108 Herculis",
+  "rank": 5,
+  "ra": 275.2373759792,
+  "dec": 29.858923172179992,
+  "dist": 56.1798,
+  "otype": "SB*",
+  "spect": "kA3mA7+A9V",
+  "cat": 4,
+  "fl": 108,
+  "fl_con": "Her"
+}

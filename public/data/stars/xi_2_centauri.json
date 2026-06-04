@@ -1,0 +1,14 @@
+{
+  "id": "xi_2_centauri",
+  "name": "Xi 2 Centauri",
+  "rank": 4,
+  "ra": 196.72766418042875,
+  "dec": -49.90624642011722,
+  "dist": 143.2665,
+  "otype": "SB*",
+  "spect": "B3V",
+  "cat": 8,
+  "by": "ksi02",
+  "by_greek": "ξ²",
+  "by_con": "Cen"
+}

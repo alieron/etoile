@@ -1,60 +1,50 @@
 {
-  "abbreviation": "CrA",
-  "name": "Corona Austrina",
-  "genitive": "Coronae Austrini",
-  "meaning": "Southern Crown",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 269.6255,
-        "dec_deg": -37.0175,
-        "ra_deg_signed": -90.3745
-      },
-      {
-        "ra_deg": 289.5963,
-        "dec_deg": -36.7786,
-        "ra_deg_signed": -70.4037
-      },
-      {
-        "ra_deg": 289.76959999999997,
-        "dec_deg": -45.2776,
-        "ra_deg_signed": -70.2304
-      },
-      {
-        "ra_deg": 272.30899999999997,
-        "dec_deg": -45.486,
-        "ra_deg_signed": -87.691
-      },
-      {
-        "ra_deg": 269.8093,
-        "dec_deg": -45.5163,
-        "ra_deg_signed": -90.1907
-      },
-      {
-        "ra_deg": 269.6255,
-        "dec_deg": -37.0175,
-        "ra_deg_signed": -90.3745
-      }
-    ]
-  },
-  "paths_hip": [
+  "id": "CrA",
+  "name": "Corona Australis",
+  "gen": "Coronae Australis",
+  "meaning": "Southern Crown",
+  "rank": 2,
+  "focus": [
+    -80.3024,
+    -41.1475,
+    55
+  ],
+  "label": [
+    -78,
+    -40
+  ],
+  "bound": [
     [
-      93825,
-      94114,
-      94160,
-      94005,
-      90982
+      [
+        -90.3745,
+        -37.0175
+      ],
+      [
+        -70.4037,
+        -36.7786
+      ],
+      [
+        -70.2304,
+        -45.2776
+      ],
+      [
+        -87.691,
+        -45.486
+      ],
+      [
+        -90.1907,
+        -45.5163
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Bet CrA",
-    "designation": "Bet CrA",
-    "display_name": "Beta Coronae Austrini",
-    "display_name_greek": "β Coronae Austrini",
-    "hip": 94160,
-    "ra_deg": 287.50731,
-    "dec_deg": -39.340796
-  }
+  "lines": [
+    [
+      "gamma_coronae_australis_a",
+      "alpha_coronae_australis",
+      "beta_coronae_australis",
+      "delta_coronae_australis",
+      "theta_coronae_australis"
+    ]
+  ],
+  "bright": "beta_coronae_australis"
 }

@@ -1,0 +1,13 @@
+{
+  "id": "10_leporis",
+  "name": "10 Leporis",
+  "rank": 5,
+  "ra": 82.78178288669,
+  "dec": -20.86365767743,
+  "dist": 83.2639,
+  "otype": "*",
+  "spect": "A0V",
+  "cat": 7,
+  "fl": 10,
+  "fl_con": "Lep"
+}

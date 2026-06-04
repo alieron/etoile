@@ -1,0 +1,13 @@
+{
+  "id": "48_leonis",
+  "name": "48 Leonis",
+  "rank": 5,
+  "ra": 158.70005634063,
+  "dec": 6.95375027836,
+  "dist": 81.5661,
+  "otype": "PM*",
+  "spect": "G8.5IIIFe-1",
+  "cat": 13,
+  "fl": 48,
+  "fl_con": "Leo"
+}

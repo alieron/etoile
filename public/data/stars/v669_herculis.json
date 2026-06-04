@@ -1,0 +1,15 @@
+{
+  "id": "v669_herculis",
+  "name": "V669 Herculis",
+  "rank": 5,
+  "ra": 272.97565259927,
+  "dec": 31.40534897706,
+  "dist": 166.9449,
+  "otype": "*",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "V669",
+  "v_con": "Her",
+  "fl": 104,
+  "fl_con": "Her"
+}

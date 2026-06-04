@@ -1,0 +1,16 @@
+{
+  "id": "alpha_centauri_a",
+  "name": "Alpha Centauri A",
+  "rank": 2,
+  "ra": 219.9020833333333,
+  "dec": -60.83397222222223,
+  "dist": 1.324813248,
+  "otype": "PM*",
+  "spect": "G2V+K1V",
+  "cat": 5,
+  "proper": "Rigil Kentaurus",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Cen",
+  "by_comp": "A"
+}

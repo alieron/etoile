@@ -1,0 +1,15 @@
+{
+  "id": "lambda_arietis_b",
+  "name": "Lambda Arietis B",
+  "rank": 4,
+  "ra": 29.49049053397,
+  "dec": 23.60310921869,
+  "dist": 40.278,
+  "otype": "PM*",
+  "spect": "G0",
+  "cat": 5,
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Ari",
+  "by_comp": "B"
+}

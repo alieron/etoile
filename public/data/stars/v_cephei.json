@@ -1,0 +1,16 @@
+{
+  "id": "v_cephei",
+  "name": "V Cephei",
+  "rank": 4,
+  "ra": 359.11585159652,
+  "dec": 83.19111722844,
+  "dist": 90.6618,
+  "otype": "PM*",
+  "spect": "A3V",
+  "cat": 7,
+  "by": "V",
+  "by_greek": "V",
+  "by_con": "Cep",
+  "v": "V",
+  "v_con": "Cep"
+}

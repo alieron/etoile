@@ -1,0 +1,14 @@
+{
+  "id": "iota_2_normae",
+  "name": "Iota 2 Normae",
+  "rank": 4,
+  "ra": 242.32728185147002,
+  "dec": -57.934319113460006,
+  "dist": 85.8369,
+  "otype": "PM*",
+  "spect": "B9.5V",
+  "cat": 8,
+  "by": "iot02",
+  "by_greek": "ι²",
+  "by_con": "Nor"
+}

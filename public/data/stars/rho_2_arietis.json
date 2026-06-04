@@ -1,0 +1,18 @@
+{
+  "id": "rho_2_arietis",
+  "name": "Rho 2 Arietis",
+  "rank": 4,
+  "ra": 43.95207499916666,
+  "dec": 18.331639704444445,
+  "dist": 107.7586,
+  "otype": "LP*",
+  "spect": "M6-III:",
+  "cat": 14,
+  "by": "rho02",
+  "by_greek": "ρ²",
+  "by_con": "Ari",
+  "v": "RZ",
+  "v_con": "Ari",
+  "fl": 45,
+  "fl_con": "Ari"
+}

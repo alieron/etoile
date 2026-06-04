@@ -1,0 +1,17 @@
+{
+  "id": "zeta_geminorum",
+  "name": "Zeta Geminorum",
+  "rank": 2,
+  "ra": 106.02721349362085,
+  "dec": 20.570298465267225,
+  "dist": 421.9409,
+  "otype": "cC*",
+  "spect": "G1Ib",
+  "cat": 18,
+  "proper": "Mekbuda",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Gem",
+  "fl": 43,
+  "fl_con": "Gem"
+}

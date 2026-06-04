@@ -1,0 +1,15 @@
+{
+  "id": "ix_eridani",
+  "name": "IX Eridani",
+  "rank": 5,
+  "ra": 71.90121542891,
+  "dec": -16.93445568682,
+  "dist": 13.2767,
+  "otype": "BY*",
+  "spect": "G2.5IV-V",
+  "cat": 0,
+  "v": "IX",
+  "v_con": "Eri",
+  "fl": 58,
+  "fl_con": "Eri"
+}

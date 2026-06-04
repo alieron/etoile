@@ -1,0 +1,13 @@
+{
+  "id": "26_sagittarii",
+  "name": "26 Sagittarii",
+  "rank": 5,
+  "ra": 280.46512781202,
+  "dec": -23.833422357,
+  "dist": 62.8931,
+  "otype": "*",
+  "spect": "A3mA7-A9",
+  "cat": 7,
+  "fl": 26,
+  "fl_con": "Sgr"
+}

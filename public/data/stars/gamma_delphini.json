@@ -1,0 +1,14 @@
+{
+  "id": "gamma_delphini",
+  "name": "Gamma Delphini",
+  "rank": 4,
+  "ra": 311.66192102518,
+  "dec": 16.124128271850005,
+  "dist": 37.951079507,
+  "otype": "**",
+  "spect": "F8V",
+  "cat": 6,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Del"
+}

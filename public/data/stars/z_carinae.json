@@ -1,0 +1,14 @@
+{
+  "id": "z_carinae",
+  "name": "z Carinae",
+  "rank": 3,
+  "ra": 166.63511032196,
+  "dec": -62.42411405976001,
+  "dist": 122.1001,
+  "otype": "*",
+  "spect": "G7.5III",
+  "cat": 13,
+  "by": "z",
+  "by_greek": "z",
+  "by_con": "Car"
+}

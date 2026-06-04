@@ -1,0 +1,15 @@
+{
+  "id": "alpha_gruis",
+  "name": "Alpha Gruis",
+  "rank": 2,
+  "ra": 332.05826969609114,
+  "dec": -46.96097438191952,
+  "dist": 30.9693,
+  "otype": "PM*",
+  "spect": "B6V",
+  "cat": 8,
+  "proper": "Alnair",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Gru"
+}

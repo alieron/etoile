@@ -1,0 +1,14 @@
+{
+  "id": "k_persei",
+  "name": "k Persei",
+  "rank": 4,
+  "ra": 46.38504794668,
+  "dec": 56.70571881232,
+  "dist": 64.7249,
+  "otype": "PM*",
+  "spect": "G9+IIIb",
+  "cat": 16,
+  "by": "k",
+  "by_greek": "k",
+  "by_con": "Per"
+}

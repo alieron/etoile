@@ -1,0 +1,15 @@
+{
+  "id": "rs_chamaeleontis",
+  "name": "RS Chamaeleontis",
+  "rank": 5,
+  "ra": 130.80082672112,
+  "dec": -79.07010236457,
+  "dist": 92.8505,
+  "otype": "SB*",
+  "spect": "A7V",
+  "cat": 7,
+  "v": "RS",
+  "v_con": "Cha",
+  "fl": 9,
+  "fl_con": "Cha"
+}

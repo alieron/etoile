@@ -1,0 +1,17 @@
+{
+  "id": "delta_arietis",
+  "name": "Delta Arietis",
+  "rank": 2,
+  "ra": 47.90736069940499,
+  "dec": 19.726673110293053,
+  "dist": 52.0291,
+  "otype": "PM*",
+  "spect": "G9.5IIIb",
+  "cat": 16,
+  "proper": "Botein",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Ari",
+  "fl": 57,
+  "fl_con": "Ari"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "xi_aquarii",
+  "name": "Xi Aquarii",
+  "rank": 2,
+  "ra": 324.4379573858483,
+  "dec": -7.854201596771944,
+  "dist": 54.7645,
+  "otype": "SB*",
+  "spect": "K0III",
+  "cat": 13,
+  "proper": "Bunda",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Aqr",
+  "fl": 23,
+  "fl_con": "Aqr"
+}

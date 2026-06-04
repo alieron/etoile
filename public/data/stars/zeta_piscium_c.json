@@ -1,0 +1,15 @@
+{
+  "id": "zeta_piscium_c",
+  "name": "Zeta Piscium C",
+  "rank": 4,
+  "ra": 18.43909300918,
+  "dec": 7.57836873528,
+  "dist": 40.979,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Psc",
+  "by_comp": "C"
+}

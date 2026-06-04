@@ -1,0 +1,16 @@
+{
+  "id": "phi_1_ceti",
+  "name": "Phi 1 Ceti",
+  "rank": 4,
+  "ra": 11.047500376762915,
+  "dec": -10.609550734169721,
+  "dist": 71.6332,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "phi01",
+  "by_greek": "φ¹",
+  "by_con": "Cet",
+  "fl": 17,
+  "fl_con": "Cet"
+}

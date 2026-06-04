@@ -1,0 +1,13 @@
+{
+  "id": "32_ophiuchi",
+  "name": "32 Ophiuchi",
+  "rank": 5,
+  "ra": 255.78279625863996,
+  "dec": 14.091948331689998,
+  "dist": 121.0654,
+  "otype": "PM*",
+  "spect": "M3-III",
+  "cat": 14,
+  "fl": 32,
+  "fl_con": "Oph"
+}

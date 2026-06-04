@@ -1,0 +1,16 @@
+{
+  "id": "k_scorpii",
+  "name": "k Scorpii",
+  "rank": 4,
+  "ra": 256.20563190364,
+  "dec": -34.12292824455,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B2Iab",
+  "cat": 17,
+  "by": "k",
+  "by_greek": "k",
+  "by_con": "Sco",
+  "v": "V1073",
+  "v_con": "Sco"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "51_piscium",
+  "name": "51 Piscium",
+  "rank": 5,
+  "ra": 8.09907891891,
+  "dec": 6.9554853660900005,
+  "dist": 80.9717,
+  "otype": "**",
+  "spect": "B9.5V",
+  "cat": 8,
+  "fl": 51,
+  "fl_con": "Psc"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "d_tauri",
+  "name": "d Tauri",
+  "rank": 4,
+  "ra": 68.91360921293,
+  "dec": 10.160753234720001,
+  "dist": 47.8927,
+  "otype": "SB*",
+  "spect": "kA4hA6mA7",
+  "cat": 4,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Tau",
+  "fl": 88,
+  "fl_con": "Tau"
+}

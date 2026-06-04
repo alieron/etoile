@@ -1,0 +1,13 @@
+{
+  "id": "37_capricorni",
+  "name": "37 Capricorni",
+  "rank": 5,
+  "ra": 323.71271763191,
+  "dec": -20.08426080606,
+  "dist": 27.1003,
+  "otype": "PM*",
+  "spect": "F5VFe-0.8CH-0.4",
+  "cat": 6,
+  "fl": 37,
+  "fl_con": "Cap"
+}

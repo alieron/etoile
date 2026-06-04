@@ -1,0 +1,17 @@
+{
+  "id": "xi_andromedae",
+  "name": "Xi Andromedae",
+  "rank": 2,
+  "ra": 20.58508364821,
+  "dec": 45.52877673579,
+  "dist": 65.7462,
+  "otype": "*",
+  "spect": "K0-IIIb",
+  "cat": 15,
+  "proper": "Adhil",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "And",
+  "fl": 46,
+  "fl_con": "And"
+}

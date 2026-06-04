@@ -1,0 +1,16 @@
+{
+  "id": "n_2_orionis",
+  "name": "n 2 Orionis",
+  "rank": 4,
+  "ra": 83.56988934151,
+  "dec": 3.76690626705,
+  "dist": 84.6024,
+  "otype": "**",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "n02",
+  "by_greek": "n²",
+  "by_con": "Ori",
+  "fl": 38,
+  "fl_con": "Ori"
+}

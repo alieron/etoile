@@ -1,0 +1,13 @@
+{
+  "id": "64_piscium",
+  "name": "64 Piscium",
+  "rank": 5,
+  "ra": 12.244614822669998,
+  "dec": 16.940645661389997,
+  "dist": 23.4522,
+  "otype": "SB*",
+  "spect": "F8V",
+  "cat": 6,
+  "fl": 64,
+  "fl_con": "Psc"
+}

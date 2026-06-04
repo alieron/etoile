@@ -1,0 +1,14 @@
+{
+  "id": "88_leonis_b",
+  "name": "88 Leonis B",
+  "rank": 5,
+  "ra": 172.93507427105624,
+  "dec": 14.368242917922503,
+  "dist": 23.6193,
+  "otype": "PM*",
+  "spect": "K5",
+  "cat": 4,
+  "fl": 88,
+  "fl_con": "Leo",
+  "fl_comp": "B"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "m_hydrae_a",
+  "name": "m Hydrae A",
+  "rank": 4,
+  "ra": 221.5003332695257,
+  "dec": -25.443176530438677,
+  "dist": 30.285002847,
+  "otype": "PM*",
+  "spect": "F0VSr+G1V",
+  "cat": 6,
+  "by": "m",
+  "by_greek": "m",
+  "by_con": "Hya",
+  "by_comp": "A"
+}

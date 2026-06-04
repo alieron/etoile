@@ -1,69 +1,57 @@
 {
-  "abbreviation": "Sex",
+  "id": "Sex",
   "name": "Sextans",
-  "genitive": "Sextantis",
+  "gen": "Sextantis",
   "meaning": "Sextant",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 145.3489,
-        "dec_deg": -0.5671,
-        "ra_deg_signed": 145.3489
-      },
-      {
-        "ra_deg": 145.3984,
-        "dec_deg": 6.4328,
-        "ra_deg_signed": 145.3984
-      },
-      {
-        "ra_deg": 162.876,
-        "dec_deg": 6.3377,
-        "ra_deg_signed": 162.876
-      },
-      {
-        "ra_deg": 162.8497,
-        "dec_deg": -0.6622,
-        "ra_deg_signed": 162.8497
-      },
-      {
-        "ra_deg": 162.8271,
-        "dec_deg": -6.6622,
-        "ra_deg_signed": 162.8271
-      },
-      {
-        "ra_deg": 162.8079,
-        "dec_deg": -11.6621,
-        "ra_deg_signed": 162.8079
-      },
-      {
-        "ra_deg": 145.2703,
-        "dec_deg": -11.5668,
-        "ra_deg_signed": 145.2703
-      },
-      {
-        "ra_deg": 145.3489,
-        "dec_deg": -0.5671,
-        "ra_deg_signed": 145.3489
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    154.0731,
+    -2.6147,
+    53
+  ],
+  "label": [
+    157.5,
+    -7
+  ],
+  "bound": [
     [
-      48437,
-      49641,
-      51437,
-      51362
+      [
+        145.3489,
+        -0.5671
+      ],
+      [
+        145.3984,
+        6.4328
+      ],
+      [
+        162.876,
+        6.3377
+      ],
+      [
+        162.8497,
+        -0.6622
+      ],
+      [
+        162.8271,
+        -6.6622
+      ],
+      [
+        162.8079,
+        -11.6621
+      ],
+      [
+        145.2703,
+        -11.5668
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "15Alp Sex",
-    "designation": "15Alp Sex",
-    "display_name": "15 Alpha Sextantis",
-    "display_name_greek": "15 α Sextantis",
-    "hip": 49641,
-    "ra_deg": 151.98450000000003,
-    "dec_deg": -0.371637
-  }
+  "lines": [
+    [
+      "gamma_sextantis_a",
+      "alpha_sextantis",
+      "beta_sextantis",
+      "delta_sextantis"
+    ]
+  ],
+  "bright": "alpha_sextantis"
 }

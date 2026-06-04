@@ -1,0 +1,16 @@
+{
+  "id": "xi_1_librae",
+  "name": "Xi 1 Librae",
+  "rank": 4,
+  "ra": 223.59530881338,
+  "dec": -11.89835037709,
+  "dist": 103.3058,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "ksi01",
+  "by_greek": "ξ¹",
+  "by_con": "Lib",
+  "fl": 13,
+  "fl_con": "Lib"
+}

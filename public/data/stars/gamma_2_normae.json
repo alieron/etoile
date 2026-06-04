@@ -1,0 +1,14 @@
+{
+  "id": "gamma_2_normae",
+  "name": "Gamma 2 Normae",
+  "rank": 3,
+  "ra": 244.96009294998038,
+  "dec": -50.15550599744805,
+  "dist": 39.4789,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "by": "gam02",
+  "by_greek": "γ²",
+  "by_con": "Nor"
+}

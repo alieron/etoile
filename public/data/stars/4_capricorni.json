@@ -1,0 +1,13 @@
+{
+  "id": "4_capricorni",
+  "name": "4 Capricorni",
+  "rank": 5,
+  "ra": 304.50582044451,
+  "dec": -21.809958375770005,
+  "dist": 96.9932,
+  "otype": "HB*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 4,
+  "fl_con": "Cap"
+}

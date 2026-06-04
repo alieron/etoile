@@ -1,0 +1,13 @@
+{
+  "id": "4_equulei",
+  "name": "4 Equulei",
+  "rank": 5,
+  "ra": 316.36126514415,
+  "dec": 5.9583012241199995,
+  "dist": 48.9237,
+  "otype": "SB*",
+  "spect": "F8V",
+  "cat": 6,
+  "fl": 4,
+  "fl_con": "Equ"
+}

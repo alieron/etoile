@@ -1,0 +1,17 @@
+{
+  "id": "beta_aquarii",
+  "name": "Beta Aquarii",
+  "rank": 2,
+  "ra": 322.88971698347876,
+  "dec": -5.5711748280636115,
+  "dist": 164.7446,
+  "otype": "*",
+  "spect": "G0Ib",
+  "cat": 16,
+  "proper": "Sadalsuud",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Aqr",
+  "fl": 22,
+  "fl_con": "Aqr"
+}

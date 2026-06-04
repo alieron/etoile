@@ -1,0 +1,17 @@
+{
+  "id": "kappa_1_bootis",
+  "name": "Kappa 1 Boötis",
+  "rank": 4,
+  "ra": 213.3659337990865,
+  "dec": 51.7879506880612,
+  "dist": 46.4468,
+  "otype": "SB*",
+  "spect": "F2V",
+  "cat": 6,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "Boo",
+  "fl": 17,
+  "fl_con": "Boo",
+  "fl_comp": "B"
+}

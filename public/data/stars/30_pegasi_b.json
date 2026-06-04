@@ -1,0 +1,14 @@
+{
+  "id": "30_pegasi_b",
+  "name": "30 Pegasi B",
+  "rank": 5,
+  "ra": 335.11542917785914,
+  "dec": 5.791207442526388,
+  "dist": 350.693,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 30,
+  "fl_con": "Peg",
+  "fl_comp": "B"
+}

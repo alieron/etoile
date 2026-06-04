@@ -1,0 +1,17 @@
+{
+  "id": "beta_cancri",
+  "name": "Beta Cancri",
+  "rank": 2,
+  "ra": 124.12883745353416,
+  "dec": 9.185543957090834,
+  "dist": 93.0233,
+  "otype": "PM*",
+  "spect": "K4IIIBa0.5:",
+  "cat": 15,
+  "proper": "Tarf",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Cnc",
+  "fl": 17,
+  "fl_con": "Cnc"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "epsilon_carinae_b",
+  "name": "Epsilon Carinae B",
+  "rank": 4,
+  "ra": 125.6286496,
+  "dec": -59.5095554,
+  "dist": 185.5288,
+  "otype": "*",
+  "spect": "B2Vp",
+  "cat": 8,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Car",
+  "by_comp": "B"
+}

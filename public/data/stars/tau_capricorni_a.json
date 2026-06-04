@@ -1,0 +1,18 @@
+{
+  "id": "tau_capricorni_a",
+  "name": "Tau Capricorni A",
+  "rank": 4,
+  "ra": 309.81801136666667,
+  "dec": -14.95477306111111,
+  "dist": 348.4321,
+  "otype": "*",
+  "spect": "B4V",
+  "cat": 8,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Cap",
+  "by_comp": "A",
+  "fl": 14,
+  "fl_con": "Cap",
+  "fl_comp": "A"
+}

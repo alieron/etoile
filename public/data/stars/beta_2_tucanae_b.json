@@ -1,0 +1,15 @@
+{
+  "id": "beta_2_tucanae_b",
+  "name": "Beta 2 Tucanae B",
+  "rank": 4,
+  "ra": 7.889010633333332,
+  "dec": -62.96547091944444,
+  "dist": 51.6529,
+  "otype": "PM*",
+  "spect": "A7V",
+  "cat": 7,
+  "by": "bet02",
+  "by_greek": "β²",
+  "by_con": "Tuc",
+  "by_comp": "B"
+}

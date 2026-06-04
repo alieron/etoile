@@ -1,0 +1,13 @@
+{
+  "id": "96_aquarii",
+  "name": "96 Aquarii",
+  "rank": 5,
+  "ra": 349.84990493944,
+  "dec": -5.124350553749999,
+  "dist": 34.1647,
+  "otype": "SB*",
+  "spect": "F4VFe-0.4",
+  "cat": 6,
+  "fl": 96,
+  "fl_con": "Aqr"
+}

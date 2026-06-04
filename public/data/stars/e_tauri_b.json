@@ -1,0 +1,18 @@
+{
+  "id": "e_tauri_b",
+  "name": "e Tauri B",
+  "rank": 4,
+  "ra": 57.07003668426208,
+  "dec": 11.144597376901665,
+  "dist": 138.891,
+  "otype": "*",
+  "spect": "F3Vn",
+  "cat": 6,
+  "by": "e",
+  "by_greek": "e",
+  "by_con": "Tau",
+  "by_comp": "B",
+  "fl": 30,
+  "fl_con": "Tau",
+  "fl_comp": "B"
+}

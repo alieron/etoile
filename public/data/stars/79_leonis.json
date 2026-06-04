@@ -1,0 +1,13 @@
+{
+  "id": "79_leonis",
+  "name": "79 Leonis",
+  "rank": 5,
+  "ra": 171.00969812875,
+  "dec": 1.40776252577,
+  "dist": 108.4599,
+  "otype": "*",
+  "spect": "G8III-IIIb",
+  "cat": 16,
+  "fl": 79,
+  "fl_con": "Leo"
+}

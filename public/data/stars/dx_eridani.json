@@ -1,0 +1,15 @@
+{
+  "id": "dx_eridani",
+  "name": "DX Eridani",
+  "rank": 5,
+  "ra": 71.02216969763,
+  "dec": -8.5035701902,
+  "dist": 100000.0,
+  "otype": "Be*",
+  "spect": "B2(V)nne",
+  "cat": 8,
+  "v": "DX",
+  "v_con": "Eri",
+  "fl": 56,
+  "fl_con": "Eri"
+}

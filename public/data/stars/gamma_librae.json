@@ -1,0 +1,17 @@
+{
+  "id": "gamma_librae",
+  "name": "Gamma Librae",
+  "rank": 2,
+  "ra": 233.8815753993054,
+  "dec": -14.789535531785829,
+  "dist": 50.025,
+  "otype": "**",
+  "spect": "G8.5III",
+  "cat": 13,
+  "proper": "Zubenelhakrabi",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Lib",
+  "fl": 38,
+  "fl_con": "Lib"
+}

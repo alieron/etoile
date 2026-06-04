@@ -1,0 +1,15 @@
+{
+  "id": "ag_capricorni",
+  "name": "AG Capricorni",
+  "rank": 5,
+  "ra": 326.5677888073,
+  "dec": -9.275935228350003,
+  "dist": 363.6364,
+  "otype": "LP*",
+  "spect": "M2III",
+  "cat": 14,
+  "v": "AG",
+  "v_con": "Cap",
+  "fl": 47,
+  "fl_con": "Cap"
+}

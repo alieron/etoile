@@ -1,0 +1,17 @@
+{
+  "id": "gamma_corvi",
+  "name": "Gamma Corvi",
+  "rank": 2,
+  "ra": 183.9515450373768,
+  "dec": -17.541930457603193,
+  "dist": 47.1032,
+  "otype": "PM*",
+  "spect": "B8III",
+  "cat": 17,
+  "proper": "Gienah",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Crv",
+  "fl": 4,
+  "fl_con": "Crv"
+}

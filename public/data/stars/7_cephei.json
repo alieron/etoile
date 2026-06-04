@@ -1,0 +1,13 @@
+{
+  "id": "7_cephei",
+  "name": "7 Cephei",
+  "rank": 5,
+  "ra": 321.94225759196,
+  "dec": 66.80909698289,
+  "dist": 246.9136,
+  "otype": "*",
+  "spect": "B7V",
+  "cat": 8,
+  "fl": 7,
+  "fl_con": "Cep"
+}

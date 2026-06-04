@@ -1,0 +1,14 @@
+{
+  "id": "zeta_1_scorpii",
+  "name": "Zeta 1 Scorpii",
+  "rank": 4,
+  "ra": 253.49886304786997,
+  "dec": -42.36202981513001,
+  "dist": 787.4016,
+  "otype": "s*b",
+  "spect": "B1.5Ia+",
+  "cat": 17,
+  "by": "zet01",
+  "by_greek": "ζ¹",
+  "by_con": "Sco"
+}

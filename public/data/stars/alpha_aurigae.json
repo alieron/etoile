@@ -1,0 +1,17 @@
+{
+  "id": "alpha_aurigae",
+  "name": "Alpha Aurigae",
+  "rank": 2,
+  "ra": 79.17232794433404,
+  "dec": 45.99799146983673,
+  "dist": 13.1234,
+  "otype": "SB*",
+  "spect": "G3III:",
+  "cat": 13,
+  "proper": "Capella",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Aur",
+  "fl": 13,
+  "fl_con": "Aur"
+}

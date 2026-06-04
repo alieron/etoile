@@ -1,0 +1,17 @@
+{
+  "id": "gamma_lyrae",
+  "name": "Gamma Lyrae",
+  "rank": 2,
+  "ra": 284.73592734438125,
+  "dec": 32.68955574065722,
+  "dist": 190.1141,
+  "otype": "*",
+  "spect": "B9.5II-III",
+  "cat": 17,
+  "proper": "Sulafat",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Lyr",
+  "fl": 14,
+  "fl_con": "Lyr"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "eh_eridani",
+  "name": "EH Eridani",
+  "rank": 5,
+  "ra": 68.47803182661,
+  "dec": -6.73891179199,
+  "dist": 253.8071,
+  "otype": "a2*",
+  "spect": "ApSi",
+  "cat": 20,
+  "v": "EH",
+  "v_con": "Eri",
+  "fl": 46,
+  "fl_con": "Eri"
+}

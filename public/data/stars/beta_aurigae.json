@@ -1,0 +1,17 @@
+{
+  "id": "beta_aurigae",
+  "name": "Beta Aurigae",
+  "rank": 2,
+  "ra": 89.88217886833333,
+  "dec": 44.94743257194444,
+  "dist": 24.8694,
+  "otype": "SB*",
+  "spect": "A1IV-Vp",
+  "cat": 10,
+  "proper": "Menkalinan",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Aur",
+  "fl": 34,
+  "fl_con": "Aur"
+}

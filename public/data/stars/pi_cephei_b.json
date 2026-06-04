@@ -1,0 +1,15 @@
+{
+  "id": "pi_cephei_b",
+  "name": "Pi Cephei B",
+  "rank": 4,
+  "ra": 346.97393963750005,
+  "dec": 75.38778211666667,
+  "dist": 75.643,
+  "otype": "*",
+  "spect": "F3V",
+  "cat": 6,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Cep",
+  "by_comp": "B"
+}

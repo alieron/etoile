@@ -1,0 +1,14 @@
+{
+  "id": "phi_2_eridani",
+  "name": "Phi 2 Eridani",
+  "rank": 4,
+  "ra": 34.12744204857083,
+  "dec": -51.512165163000276,
+  "dist": 47.1254,
+  "otype": "*",
+  "spect": "K1V",
+  "cat": 4,
+  "by": "phi02",
+  "by_greek": "φ²",
+  "by_con": "Eri"
+}

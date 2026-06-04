@@ -1,0 +1,15 @@
+{
+  "id": "eta_cassiopeiae_b",
+  "name": "Eta Cassiopeiae B",
+  "rank": 4,
+  "ra": 12.271632750996249,
+  "dec": 57.81782624126639,
+  "dist": 5.927,
+  "otype": "PM*",
+  "spect": "K7Ve",
+  "cat": 4,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Cas",
+  "by_comp": "B"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "63_eridani",
+  "name": "63 Eridani",
+  "rank": 5,
+  "ra": 74.96022282619,
+  "dec": -10.26331016339,
+  "dist": 53.9665,
+  "otype": "SB*",
+  "spect": "G4IV-V+DA",
+  "cat": 11,
+  "fl": 63,
+  "fl_con": "Eri"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ao_capricorni",
+  "name": "AO Capricorni",
+  "rank": 5,
+  "ra": 314.90058165552,
+  "dec": -19.035278554059996,
+  "dist": 164.2036,
+  "otype": "a2*",
+  "spect": "ApSi",
+  "cat": 20,
+  "v": "AO",
+  "v_con": "Cap",
+  "fl": 20,
+  "fl_con": "Cap"
+}

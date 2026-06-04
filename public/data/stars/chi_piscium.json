@@ -1,0 +1,16 @@
+{
+  "id": "chi_piscium",
+  "name": "Chi Piscium",
+  "rank": 4,
+  "ra": 17.86341123302125,
+  "dec": 21.03464916803889,
+  "dist": 117.6471,
+  "otype": "*",
+  "spect": "G8.5III",
+  "cat": 13,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Psc",
+  "fl": 84,
+  "fl_con": "Psc"
+}

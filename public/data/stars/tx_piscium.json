@@ -1,0 +1,15 @@
+{
+  "id": "tx_piscium",
+  "name": "TX Piscium",
+  "rank": 5,
+  "ra": 356.59798519723995,
+  "dec": 3.4868108470199997,
+  "dist": 275.4821,
+  "otype": "C*",
+  "spect": "C-N6",
+  "cat": 18,
+  "v": "TX",
+  "v_con": "Psc",
+  "fl": 19,
+  "fl_con": "Psc"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "16_persei",
+  "name": "16 Persei",
+  "rank": 5,
+  "ra": 42.64608193841626,
+  "dec": 38.31864289050056,
+  "dist": 37.0233,
+  "otype": "dS*",
+  "spect": "F2III",
+  "cat": 6,
+  "fl": 16,
+  "fl_con": "Per"
+}

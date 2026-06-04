@@ -1,0 +1,17 @@
+{
+  "id": "beta_leonis",
+  "name": "Beta Leonis",
+  "rank": 2,
+  "ra": 177.26490975591017,
+  "dec": 14.572058064829658,
+  "dist": 10.9999,
+  "otype": "dS*",
+  "spect": "A3Va",
+  "cat": 6,
+  "proper": "Denebola",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Leo",
+  "fl": 94,
+  "fl_con": "Leo"
+}

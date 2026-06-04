@@ -1,0 +1,16 @@
+{
+  "id": "b_serpentis",
+  "name": "b Serpentis",
+  "rank": 4,
+  "ra": 237.81496656670913,
+  "dec": -3.090506257276667,
+  "dist": 49.7512,
+  "otype": "**",
+  "spect": "A2IV-Vn",
+  "cat": 10,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Ser",
+  "fl": 36,
+  "fl_con": "Ser"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "v637_monocerotis",
+  "name": "V637 Monocerotis",
+  "rank": 5,
+  "ra": 105.72823855471499,
+  "dec": -4.239232114966389,
+  "dist": 373.1343,
+  "otype": "bC*",
+  "spect": "B2Vn(e)",
+  "cat": 8,
+  "v": "V637",
+  "v_con": "Mon",
+  "fl": 19,
+  "fl_con": "Mon"
+}

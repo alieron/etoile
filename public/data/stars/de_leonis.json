@@ -1,0 +1,15 @@
+{
+  "id": "de_leonis",
+  "name": "DE Leonis",
+  "rank": 5,
+  "ra": 156.31331456884,
+  "dec": 8.78484384598,
+  "dist": 314.4654,
+  "otype": "LP*",
+  "spect": "M3III",
+  "cat": 14,
+  "v": "DE",
+  "v_con": "Leo",
+  "fl": 44,
+  "fl_con": "Leo"
+}

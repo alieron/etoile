@@ -1,0 +1,14 @@
+{
+  "id": "chi_cygni",
+  "name": "Chi Cygni",
+  "rank": 4,
+  "ra": 297.6413389293104,
+  "dec": 32.91404875869277,
+  "dist": 180.8318,
+  "otype": "S*",
+  "spect": "S6-9/1-2e",
+  "cat": 18,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Cyg"
+}

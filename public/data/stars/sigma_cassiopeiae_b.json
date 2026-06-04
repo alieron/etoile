@@ -1,0 +1,18 @@
+{
+  "id": "sigma_cassiopeiae_b",
+  "name": "Sigma Cassiopeiae B",
+  "rank": 4,
+  "ra": 359.75137988384,
+  "dec": 55.755658290499994,
+  "dist": 424.232,
+  "otype": "*",
+  "spect": "B3V",
+  "cat": 8,
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Cas",
+  "by_comp": "B",
+  "fl": 8,
+  "fl_con": "Cas",
+  "fl_comp": "B"
+}

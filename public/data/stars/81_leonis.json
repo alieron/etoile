@@ -1,0 +1,13 @@
+{
+  "id": "81_leonis",
+  "name": "81 Leonis",
+  "rank": 5,
+  "ra": 171.40155325864,
+  "dec": 16.456536843780004,
+  "dist": 43.9174,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "fl": 81,
+  "fl_con": "Leo"
+}

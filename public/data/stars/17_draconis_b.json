@@ -1,0 +1,14 @@
+{
+  "id": "17_draconis_b",
+  "name": "17 Draconis B",
+  "rank": 5,
+  "ra": 249.05858309330998,
+  "dec": 52.924190579750004,
+  "dist": 132.901,
+  "otype": "*",
+  "spect": "A1Vnn",
+  "cat": 7,
+  "fl": 17,
+  "fl_con": "Dra",
+  "fl_comp": "B"
+}

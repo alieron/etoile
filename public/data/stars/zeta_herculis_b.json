@@ -1,0 +1,15 @@
+{
+  "id": "zeta_herculis_b",
+  "name": "Zeta Herculis B",
+  "rank": 4,
+  "ra": 250.31915796740543,
+  "dec": 31.604519240231113,
+  "dist": 10.7158,
+  "otype": "*",
+  "spect": "K0V",
+  "cat": 4,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Her",
+  "by_comp": "B"
+}

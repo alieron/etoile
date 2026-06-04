@@ -1,0 +1,15 @@
+{
+  "id": "tau_aquilae_b",
+  "name": "Tau Aquilae B",
+  "rank": 4,
+  "ra": 301.0300644613421,
+  "dec": 7.280590037878891,
+  "dist": 164.712,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Aql",
+  "by_comp": "B"
+}

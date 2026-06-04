@@ -1,0 +1,16 @@
+{
+  "id": "pi_4_orionis",
+  "name": "Pi 4 Orionis",
+  "rank": 3,
+  "ra": 72.8015240542129,
+  "dec": 5.605103849968333,
+  "dist": 322.5806,
+  "otype": "SB*",
+  "spect": "B2III",
+  "cat": 17,
+  "by": "pi.04",
+  "by_greek": "π⁴",
+  "by_con": "Ori",
+  "fl": 3,
+  "fl_con": "Ori"
+}

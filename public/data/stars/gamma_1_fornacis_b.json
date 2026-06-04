@@ -1,0 +1,15 @@
+{
+  "id": "gamma_1_fornacis_b",
+  "name": "Gamma 1 Fornacis B",
+  "rank": 4,
+  "ra": 42.46445150244,
+  "dec": -24.563049195210002,
+  "dist": 111.086,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "gam01",
+  "by_greek": "γ¹",
+  "by_con": "For",
+  "by_comp": "B"
+}

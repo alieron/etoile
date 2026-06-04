@@ -1,0 +1,13 @@
+{
+  "id": "41_pegasi",
+  "name": "41 Pegasi",
+  "rank": 5,
+  "ra": 339.9458797218799,
+  "dec": 19.68112612749,
+  "dist": 205.7613,
+  "otype": "dS*",
+  "spect": "A2V",
+  "cat": 6,
+  "fl": 41,
+  "fl_con": "Peg"
+}

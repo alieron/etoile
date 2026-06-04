@@ -1,0 +1,14 @@
+{
+  "id": "6_piscis_austrini_b",
+  "name": "6 Piscis Austrini B",
+  "rank": 5,
+  "ra": 323.06263005882,
+  "dec": -33.94365551821,
+  "dist": 149.245,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 6,
+  "fl_con": "PsA",
+  "fl_comp": "B"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "d_velorum",
+  "name": "d Velorum",
+  "rank": 4,
+  "ra": 131.09977947559,
+  "dec": -42.64927745762,
+  "dist": 70.1754,
+  "otype": "*",
+  "spect": "G6III",
+  "cat": 13,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Vel"
+}

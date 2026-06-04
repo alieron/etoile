@@ -1,0 +1,13 @@
+{
+  "id": "28_librae",
+  "name": "28 Librae",
+  "rank": 5,
+  "ra": 230.22365807275003,
+  "dec": -18.15866061439,
+  "dist": 183.4862,
+  "otype": "PM*",
+  "spect": "G8II/III",
+  "cat": 13,
+  "fl": 28,
+  "fl_con": "Lib"
+}

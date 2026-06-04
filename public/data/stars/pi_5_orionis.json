@@ -1,0 +1,16 @@
+{
+  "id": "pi_5_orionis",
+  "name": "Pi 5 Orionis",
+  "rank": 3,
+  "ra": 73.56290435241,
+  "dec": 2.44067165846,
+  "dist": 411.5226,
+  "otype": "SB*",
+  "spect": "B2III",
+  "cat": 17,
+  "by": "pi.05",
+  "by_greek": "π⁵",
+  "by_con": "Ori",
+  "fl": 8,
+  "fl_con": "Ori"
+}

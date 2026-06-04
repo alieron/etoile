@@ -1,0 +1,14 @@
+{
+  "id": "8_ursae_minoris",
+  "name": "8 Ursae Minoris",
+  "rank": 2,
+  "ra": 224.20146792993,
+  "dec": 74.90092254897,
+  "dist": 160.0,
+  "otype": "*",
+  "spect": "K0",
+  "cat": 4,
+  "proper": "Baekdu",
+  "fl": 8,
+  "fl_con": "UMi"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lambda_octantis_a",
+  "name": "Lambda Octantis A",
+  "rank": 4,
+  "ra": 327.72734813237383,
+  "dec": -82.71890139568454,
+  "dist": 125.47175470500001,
+  "otype": "PM*",
+  "spect": "G8/K0III",
+  "cat": 13,
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Oct",
+  "by_comp": "A"
+}

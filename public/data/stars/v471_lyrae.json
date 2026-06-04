@@ -1,0 +1,15 @@
+{
+  "id": "v471_lyrae",
+  "name": "V471 Lyrae",
+  "rank": 5,
+  "ra": 287.94170186559,
+  "dec": 31.283456596329998,
+  "dist": 273.224,
+  "otype": "a2*",
+  "spect": "B8IIIpSiSr",
+  "cat": 20,
+  "v": "V471",
+  "v_con": "Lyr",
+  "fl": 19,
+  "fl_con": "Lyr"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kappa_herculis_a",
+  "name": "Kappa Herculis A",
+  "rank": 2,
+  "ra": 242.01958333333332,
+  "dec": 17.050555555555555,
+  "dist": 112.740727396,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "proper": "Marsic",
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Her",
+  "by_comp": "A",
+  "fl": 7,
+  "fl_con": "Her",
+  "fl_comp": "A"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "uu_arietis",
+  "name": "UU Arietis",
+  "rank": 5,
+  "ra": 37.66007138765,
+  "dec": 19.85530335694,
+  "dist": 66.0502,
+  "otype": "dS*",
+  "spect": "A9V",
+  "cat": 6,
+  "v": "UU",
+  "v_con": "Ari",
+  "fl": 26,
+  "fl_con": "Ari"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15_sagittae_b",
+  "name": "15 Sagittae B",
+  "rank": 5,
+  "ra": 301.0258333333333,
+  "dec": 17.07027777777778,
+  "dist": 17.7683,
+  "otype": "BD*",
+  "spect": "L4-5",
+  "cat": 2,
+  "fl": 15,
+  "fl_con": "Sge",
+  "fl_comp": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sigma_2_tauri",
+  "name": "Sigma 2 Tauri",
+  "rank": 4,
+  "ra": 69.818759146975,
+  "dec": 15.917975305087777,
+  "dist": 47.6872,
+  "otype": "PM*",
+  "spect": "A5Vn",
+  "cat": 7,
+  "by": "sig02",
+  "by_greek": "σ²",
+  "by_con": "Tau",
+  "fl": 92,
+  "fl_con": "Tau"
+}

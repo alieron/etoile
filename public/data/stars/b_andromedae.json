@@ -1,0 +1,16 @@
+{
+  "id": "b_andromedae",
+  "name": "b Andromedae",
+  "rank": 4,
+  "ra": 33.3055091634783,
+  "dec": 44.2316466494814,
+  "dist": 162.6016,
+  "otype": "SB*",
+  "spect": "K4-III:",
+  "cat": 13,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "And",
+  "fl": 60,
+  "fl_con": "And"
+}

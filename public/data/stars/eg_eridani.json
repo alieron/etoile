@@ -1,0 +1,15 @@
+{
+  "id": "eg_eridani",
+  "name": "EG Eridani",
+  "rank": 5,
+  "ra": 54.072517123,
+  "dec": -17.46707564111,
+  "dist": 149.2537,
+  "otype": "a2*",
+  "spect": "B8/9III",
+  "cat": 20,
+  "v": "EG",
+  "v_con": "Eri",
+  "fl": 20,
+  "fl_con": "Eri"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "44_capricorni",
+  "name": "44 Capricorni",
+  "rank": 5,
+  "ra": 325.76832108434,
+  "dec": -14.39971028135,
+  "dist": 133.5113,
+  "otype": "*",
+  "spect": "A9/F0V",
+  "cat": 7,
+  "fl": 44,
+  "fl_con": "Cap"
+}

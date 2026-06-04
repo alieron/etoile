@@ -1,0 +1,18 @@
+{
+  "id": "psi_1_piscium_b",
+  "name": "Psi 1 Piscium B",
+  "rank": 4,
+  "ra": 16.42379629454,
+  "dec": 21.46544777964,
+  "dist": 85.9107,
+  "otype": "PM*",
+  "spect": "B9IVn",
+  "cat": 9,
+  "by": "psi01",
+  "by_greek": "ψ¹",
+  "by_con": "Psc",
+  "by_comp": "B",
+  "fl": 74,
+  "fl_con": "Psc",
+  "fl_comp": "B"
+}

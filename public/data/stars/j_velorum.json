@@ -1,0 +1,16 @@
+{
+  "id": "j_velorum",
+  "name": "J Velorum",
+  "rank": 4,
+  "ra": 155.22831547076,
+  "dec": -56.04323770783,
+  "dist": 352.1127,
+  "otype": "Be*",
+  "spect": "B5II",
+  "cat": 8,
+  "by": "J",
+  "by_greek": "J",
+  "by_con": "Vel",
+  "v": "MV",
+  "v_con": "Vel"
+}

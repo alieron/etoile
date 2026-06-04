@@ -1,0 +1,14 @@
+{
+  "id": "29_aquarii_a",
+  "name": "29 Aquarii A",
+  "rank": 5,
+  "ra": 330.60937109416665,
+  "dec": -16.96483547722222,
+  "dist": 270.27300270300003,
+  "otype": "*",
+  "spect": "A2V+G0II",
+  "cat": 13,
+  "fl": 29,
+  "fl_con": "Aqr",
+  "fl_comp": "A"
+}

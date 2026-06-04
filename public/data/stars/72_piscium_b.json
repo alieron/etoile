@@ -1,0 +1,14 @@
+{
+  "id": "72_piscium_b",
+  "name": "72 Piscium B",
+  "rank": 5,
+  "ra": 16.265637614816246,
+  "dec": 14.992178993952223,
+  "dist": 53.0569,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 72,
+  "fl_con": "Psc",
+  "fl_comp": "B"
+}

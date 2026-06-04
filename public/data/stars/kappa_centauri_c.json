@@ -1,0 +1,15 @@
+{
+  "id": "kappa_centauri_c",
+  "name": "Kappa Centauri C",
+  "rank": 4,
+  "ra": 224.79179924422996,
+  "dec": -42.10405611045999,
+  "dist": 133.928,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Cen",
+  "by_comp": "C"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gamma_ursae_majoris",
+  "name": "Gamma Ursae Majoris",
+  "rank": 2,
+  "ra": 178.45769715249997,
+  "dec": 53.69475972916666,
+  "dist": 25.5037,
+  "otype": "Em*",
+  "spect": "A0V",
+  "cat": 7,
+  "proper": "Phecda",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "UMa",
+  "fl": 64,
+  "fl_con": "UMa"
+}

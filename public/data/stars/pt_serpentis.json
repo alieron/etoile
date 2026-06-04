@@ -1,0 +1,15 @@
+{
+  "id": "pt_serpentis",
+  "name": "PT Serpentis",
+  "rank": 5,
+  "ra": 236.52348552778,
+  "dec": -1.8041903729800002,
+  "dist": 137.931,
+  "otype": "SB*",
+  "spect": "B8IV/V",
+  "cat": 9,
+  "v": "PT",
+  "v_con": "Ser",
+  "fl": 25,
+  "fl_con": "Ser"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "phi_2_pavonis",
+  "name": "Phi 2 Pavonis",
+  "rank": 4,
+  "ra": 310.01098950373074,
+  "dec": -60.54889405339195,
+  "dist": 24.6609,
+  "otype": "PM*",
+  "spect": "G0VFe-0.8CH-0.5",
+  "cat": 5,
+  "by": "phi02",
+  "by_greek": "φ²",
+  "by_con": "Pav"
+}

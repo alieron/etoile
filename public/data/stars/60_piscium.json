@@ -1,0 +1,13 @@
+{
+  "id": "60_piscium",
+  "name": "60 Piscium",
+  "rank": 5,
+  "ra": 11.84847401936,
+  "dec": 6.740971526079999,
+  "dist": 141.2429,
+  "otype": "SB*",
+  "spect": "G8III",
+  "cat": 13,
+  "fl": 60,
+  "fl_con": "Psc"
+}

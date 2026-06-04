@@ -1,0 +1,18 @@
+{
+  "id": "n_1_orionis_a",
+  "name": "n 1 Orionis A",
+  "rank": 4,
+  "ra": 82.81054929439388,
+  "dec": 3.2921313641666665,
+  "dist": 348.435584321,
+  "otype": "*",
+  "spect": "B3II/III",
+  "cat": 17,
+  "by": "n01",
+  "by_greek": "n¹",
+  "by_con": "Ori",
+  "by_comp": "A",
+  "fl": 33,
+  "fl_con": "Ori",
+  "fl_comp": "A"
+}

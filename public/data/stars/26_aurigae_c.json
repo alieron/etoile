@@ -1,0 +1,14 @@
+{
+  "id": "26_aurigae_c",
+  "name": "26 Aurigae C",
+  "rank": 5,
+  "ra": 84.65478378845,
+  "dec": 30.49233091565,
+  "dist": 168.356,
+  "otype": "*",
+  "spect": "F0V",
+  "cat": 6,
+  "fl": 26,
+  "fl_con": "Aur",
+  "fl_comp": "C"
+}

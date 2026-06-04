@@ -1,201 +1,168 @@
 {
-  "abbreviation": "Per",
+  "id": "Per",
   "name": "Perseus",
-  "genitive": "Persei",
+  "gen": "Persei",
   "meaning": "Hero",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 42.6284,
-        "dec_deg": 31.1865,
-        "ra_deg_signed": 42.6284
-      },
-      {
-        "ra_deg": 42.6665,
-        "dec_deg": 34.5197,
-        "ra_deg_signed": 42.6665
-      },
-      {
-        "ra_deg": 40.4024,
-        "dec_deg": 34.5375,
-        "ra_deg_signed": 40.4024
-      },
-      {
-        "ra_deg": 40.4347,
-        "dec_deg": 37.2874,
-        "ra_deg_signed": 40.4347
-      },
-      {
-        "ra_deg": 39.6793,
-        "dec_deg": 37.2932,
-        "ra_deg_signed": 39.6793
-      },
-      {
-        "ra_deg": 39.8855,
-        "dec_deg": 51.0424,
-        "ra_deg_signed": 39.8855
-      },
-      {
-        "ra_deg": 32.6738,
-        "dec_deg": 51.0926,
-        "ra_deg_signed": 32.6738
-      },
-      {
-        "ra_deg": 32.6215,
-        "dec_deg": 47.5928,
-        "ra_deg_signed": 32.6215
-      },
-      {
-        "ra_deg": 26.9314,
-        "dec_deg": 47.6258,
-        "ra_deg_signed": 26.9314
-      },
-      {
-        "ra_deg": 26.9685,
-        "dec_deg": 50.6257,
-        "ra_deg_signed": 26.9685
-      },
-      {
-        "ra_deg": 22.4079,
-        "dec_deg": 50.6479,
-        "ra_deg_signed": 22.4079
-      },
-      {
-        "ra_deg": 22.456,
-        "dec_deg": 54.6478,
-        "ra_deg_signed": 22.456
-      },
-      {
-        "ra_deg": 27.5336,
-        "dec_deg": 54.6229,
-        "ra_deg_signed": 27.5336
-      },
-      {
-        "ra_deg": 27.5952,
-        "dec_deg": 58.1227,
-        "ra_deg_signed": 27.5952
-      },
-      {
-        "ra_deg": 30.7736,
-        "dec_deg": 58.1047,
-        "ra_deg_signed": 30.7736
-      },
-      {
-        "ra_deg": 30.7956,
-        "dec_deg": 59.1046,
-        "ra_deg_signed": 30.7956
-      },
-      {
-        "ra_deg": 38.8024,
-        "dec_deg": 59.0512,
-        "ra_deg_signed": 38.8024
-      },
-      {
-        "ra_deg": 38.7623,
-        "dec_deg": 57.5513,
-        "ra_deg_signed": 38.7623
-      },
-      {
-        "ra_deg": 48.9009,
-        "dec_deg": 57.4685,
-        "ra_deg_signed": 48.9009
-      },
-      {
-        "ra_deg": 49.9135,
-        "dec_deg": 57.4594,
-        "ra_deg_signed": 49.9135
-      },
-      {
-        "ra_deg": 49.854,
-        "dec_deg": 55.4597,
-        "ra_deg_signed": 49.854
-      },
-      {
-        "ra_deg": 52.3819,
-        "dec_deg": 55.4363,
-        "ra_deg_signed": 52.3819
-      },
-      {
-        "ra_deg": 52.3131,
-        "dec_deg": 52.9366,
-        "ra_deg_signed": 52.3131
-      },
-      {
-        "ra_deg": 72.8403,
-        "dec_deg": 52.7196,
-        "ra_deg_signed": 72.8403
-      },
-      {
-        "ra_deg": 72.4573,
-        "dec_deg": 36.2219,
-        "ra_deg_signed": 72.4573
-      },
-      {
-        "ra_deg": 69.5738,
-        "dec_deg": 36.2547,
-        "ra_deg_signed": 69.5738
-      },
-      {
-        "ra_deg": 69.4869,
-        "dec_deg": 30.9219,
-        "ra_deg_signed": 69.4869
-      },
-      {
-        "ra_deg": 52.4267,
-        "dec_deg": 31.1004,
-        "ra_deg_signed": 52.4267
-      },
-      {
-        "ra_deg": 42.6284,
-        "dec_deg": 31.1865,
-        "ra_deg_signed": 42.6284
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    47.6241,
+    45.0132,
+    85
+  ],
+  "label": [
+    66,
+    45
+  ],
+  "bound": [
     [
-      17448,
-      18246,
-      18614,
-      18532,
-      17358,
-      15863,
-      14328,
-      13268,
-      13531,
-      14328,
-      13531,
-      14632,
-      15863,
-      14632,
-      14668,
-      14576,
-      18532,
-      14576,
-      14354
-    ],
-    [
-      17358,
-      19343,
-      19812,
-      20070,
-      19167
-    ],
-    [
-      14632,
-      12777,
-      8068
+      [
+        42.6284,
+        31.1865
+      ],
+      [
+        42.6665,
+        34.5197
+      ],
+      [
+        40.4024,
+        34.5375
+      ],
+      [
+        40.4347,
+        37.2874
+      ],
+      [
+        39.6793,
+        37.2932
+      ],
+      [
+        39.8855,
+        51.0424
+      ],
+      [
+        32.6738,
+        51.0926
+      ],
+      [
+        32.6215,
+        47.5928
+      ],
+      [
+        26.9314,
+        47.6258
+      ],
+      [
+        26.9685,
+        50.6257
+      ],
+      [
+        22.4079,
+        50.6479
+      ],
+      [
+        22.456,
+        54.6478
+      ],
+      [
+        27.5336,
+        54.6229
+      ],
+      [
+        27.5952,
+        58.1227
+      ],
+      [
+        30.7736,
+        58.1047
+      ],
+      [
+        30.7956,
+        59.1046
+      ],
+      [
+        38.8024,
+        59.0512
+      ],
+      [
+        38.7623,
+        57.5513
+      ],
+      [
+        48.9009,
+        57.4685
+      ],
+      [
+        49.9135,
+        57.4594
+      ],
+      [
+        49.854,
+        55.4597
+      ],
+      [
+        52.3819,
+        55.4363
+      ],
+      [
+        52.3131,
+        52.9366
+      ],
+      [
+        72.8403,
+        52.7196
+      ],
+      [
+        72.4573,
+        36.2219
+      ],
+      [
+        69.5738,
+        36.2547
+      ],
+      [
+        69.4869,
+        30.9219
+      ],
+      [
+        52.4267,
+        31.1004
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Mirfak",
-    "designation": "33Alp Per",
-    "display_name": "33 Alpha Persei",
-    "display_name_greek": "33 α Persei",
-    "hip": 15863,
-    "ra_deg": 51.08067,
-    "dec_deg": 49.86118
-  }
+  "lines": [
+    [
+      "omicron_persei",
+      "zeta_persei",
+      "xi_persei",
+      "epsilon_persei",
+      "delta_persei",
+      "alpha_persei",
+      "gamma_persei",
+      "eta_persei",
+      "tau_persei",
+      "gamma_persei",
+      "tau_persei",
+      "iota_persei",
+      "alpha_persei",
+      "iota_persei",
+      "kappa_persei",
+      "beta_persei",
+      "epsilon_persei",
+      "beta_persei",
+      "rho_persei"
+    ],
+    [
+      "delta_persei",
+      "c_persei",
+      "mu_persei_a",
+      "b_persei",
+      "lambda_persei"
+    ],
+    [
+      "iota_persei",
+      "theta_persei",
+      "phi_persei"
+    ]
+  ],
+  "bright": "alpha_persei"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "h_lupi",
+  "name": "h Lupi",
+  "rank": 4,
+  "ra": 235.65965209149994,
+  "dec": -37.42493921246001,
+  "dist": 79.9361,
+  "otype": "PM*",
+  "spect": "G8/K0III",
+  "cat": 13,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Lup"
+}

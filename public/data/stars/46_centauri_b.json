@@ -1,0 +1,14 @@
+{
+  "id": "46_centauri_b",
+  "name": "46 Centauri B",
+  "rank": 5,
+  "ra": 166.81903635000003,
+  "dec": -42.63879380833333,
+  "dist": 84.1043,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 46,
+  "fl_con": "Cen",
+  "fl_comp": "B"
+}

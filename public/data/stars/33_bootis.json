@@ -1,0 +1,13 @@
+{
+  "id": "33_bootis",
+  "name": "33 Boötis",
+  "rank": 5,
+  "ra": 219.70927208622,
+  "dec": 44.40450224947,
+  "dist": 57.0125,
+  "otype": "PM*",
+  "spect": "A0V",
+  "cat": 7,
+  "fl": 33,
+  "fl_con": "Boo"
+}

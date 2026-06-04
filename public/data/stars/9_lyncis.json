@@ -1,0 +1,13 @@
+{
+  "id": "9_lyncis",
+  "name": "9 Lyncis",
+  "rank": 5,
+  "ra": 99.00926276148,
+  "dec": 56.38606223293,
+  "dist": 83.612,
+  "otype": "PM*",
+  "spect": "F4Vn",
+  "cat": 6,
+  "fl": 9,
+  "fl_con": "Lyn"
+}

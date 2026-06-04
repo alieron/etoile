@@ -1,0 +1,15 @@
+{
+  "id": "v377_vulpeculae",
+  "name": "V377 Vulpeculae",
+  "rank": 5,
+  "ra": 290.71202312891,
+  "dec": 26.262407594460004,
+  "dist": 120.4819,
+  "otype": "Pu*",
+  "spect": "B7V",
+  "cat": 8,
+  "v": "V377",
+  "v_con": "Vul",
+  "fl": 3,
+  "fl_con": "Vul"
+}

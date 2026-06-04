@@ -1,0 +1,16 @@
+{
+  "id": "kappa_1_indi",
+  "name": "Kappa 1 Indi",
+  "rank": 4,
+  "ra": 329.62533014366,
+  "dec": -59.01214540709999,
+  "dist": 67.1141,
+  "otype": "SB*",
+  "spect": "F5V",
+  "cat": 6,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "Ind",
+  "v": "BG",
+  "v_con": "Ind"
+}

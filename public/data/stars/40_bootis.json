@@ -1,0 +1,13 @@
+{
+  "id": "40_bootis",
+  "name": "40 Boötis",
+  "rank": 5,
+  "ra": 224.90394612577998,
+  "dec": 39.26533240018,
+  "dist": 51.4933,
+  "otype": "PM*",
+  "spect": "F1III-IV",
+  "cat": 11,
+  "fl": 40,
+  "fl_con": "Boo"
+}

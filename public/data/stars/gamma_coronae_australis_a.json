@@ -1,0 +1,15 @@
+{
+  "id": "gamma_coronae_australis_a",
+  "name": "Gamma Coronae Australis A",
+  "rank": 3,
+  "ra": 286.6046255931351,
+  "dec": -37.06344170144111,
+  "dist": 17.30417304,
+  "otype": "PM*",
+  "spect": "F8V+F8V",
+  "cat": 6,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "CrA",
+  "by_comp": "A"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "c_2_centauri",
+  "name": "c 2 Centauri",
+  "rank": 4,
+  "ra": 221.24667349661996,
+  "dec": -35.19182869601,
+  "dist": 65.703,
+  "otype": "*",
+  "spect": "A0IVnn",
+  "cat": 10,
+  "by": "c02",
+  "by_greek": "c²",
+  "by_con": "Cen"
+}

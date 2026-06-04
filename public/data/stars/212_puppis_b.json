@@ -1,0 +1,14 @@
+{
+  "id": "212_puppis_b",
+  "name": "212 Puppis B",
+  "rank": 5,
+  "ra": 118.06398176869625,
+  "dec": -34.7054921877275,
+  "dist": 18.3308,
+  "otype": "PM*",
+  "spect": "K3V",
+  "cat": 4,
+  "fl": 212,
+  "fl_con": "Pup",
+  "fl_comp": "B"
+}

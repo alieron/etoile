@@ -1,0 +1,17 @@
+{
+  "id": "mu_1_bootis",
+  "name": "Mu 1 Boötis",
+  "rank": 2,
+  "ra": 231.12263111872997,
+  "dec": 37.37715592268,
+  "dist": 34.6861,
+  "otype": "**",
+  "spect": "F0IV",
+  "cat": 11,
+  "proper": "Alkalurops",
+  "by": "mu.01",
+  "by_greek": "μ¹",
+  "by_con": "Boo",
+  "fl": 51,
+  "fl_con": "Boo"
+}

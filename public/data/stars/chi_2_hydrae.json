@@ -1,0 +1,14 @@
+{
+  "id": "chi_2_hydrae",
+  "name": "Chi 2 Hydrae",
+  "rank": 4,
+  "ra": 166.4898749742,
+  "dec": -27.28785353011,
+  "dist": 212.3142,
+  "otype": "SB*",
+  "spect": "B8V",
+  "cat": 8,
+  "by": "chi02",
+  "by_greek": "χ²",
+  "by_con": "Hya"
+}

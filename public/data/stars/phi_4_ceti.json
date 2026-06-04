@@ -1,0 +1,16 @@
+{
+  "id": "phi_4_ceti",
+  "name": "Phi 4 Ceti",
+  "rank": 4,
+  "ra": 14.682783552170001,
+  "dec": -11.37997519234,
+  "dist": 98.0392,
+  "otype": "HB*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "phi04",
+  "by_greek": "φ⁴",
+  "by_con": "Cet",
+  "fl": 23,
+  "fl_con": "Cet"
+}

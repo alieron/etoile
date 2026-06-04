@@ -1,0 +1,14 @@
+{
+  "id": "q_1_eridani",
+  "name": "q 1 Eridani",
+  "rank": 4,
+  "ra": 25.62214382373,
+  "dec": -53.74083095924,
+  "dist": 17.4338,
+  "otype": "PM*",
+  "spect": "F9V",
+  "cat": 6,
+  "by": "q01",
+  "by_greek": "q¹",
+  "by_con": "Eri"
+}

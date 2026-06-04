@@ -1,0 +1,13 @@
+{
+  "id": "1_sagittae",
+  "name": "1 Sagittae",
+  "rank": 5,
+  "ra": 288.82233721286,
+  "dec": 21.23211741026,
+  "dist": 91.8274,
+  "otype": "*",
+  "spect": "A4V",
+  "cat": 7,
+  "fl": 1,
+  "fl_con": "Sge"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "42_lyncis",
+  "name": "42 Lyncis",
+  "rank": 5,
+  "ra": 144.59073494214,
+  "dec": 40.23979332701,
+  "dist": 37.5799,
+  "otype": "*",
+  "spect": "F0V",
+  "cat": 6,
+  "fl": 42,
+  "fl_con": "Lyn"
+}

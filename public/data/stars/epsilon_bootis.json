@@ -1,0 +1,17 @@
+{
+  "id": "epsilon_bootis",
+  "name": "Epsilon Boötis",
+  "rank": 2,
+  "ra": 221.24673982578958,
+  "dec": 27.074222319675556,
+  "dist": 62.1118,
+  "otype": "PM*",
+  "spect": "K0-II-III",
+  "cat": 13,
+  "proper": "Izar",
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Boo",
+  "fl": 36,
+  "fl_con": "Boo"
+}

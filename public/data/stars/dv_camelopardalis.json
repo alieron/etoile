@@ -1,0 +1,15 @@
+{
+  "id": "dv_camelopardalis",
+  "name": "DV Camelopardalis",
+  "rank": 5,
+  "ra": 79.86608079943,
+  "dec": 58.117365434530015,
+  "dist": 240.9639,
+  "otype": "EB*",
+  "spect": "B5V",
+  "cat": 8,
+  "v": "DV",
+  "v_con": "Cam",
+  "fl": 15,
+  "fl_con": "Cam"
+}

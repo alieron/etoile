@@ -1,0 +1,13 @@
+{
+  "id": "92_leonis",
+  "name": "92 Leonis",
+  "rank": 5,
+  "ra": 175.19611352922,
+  "dec": 21.3527274384,
+  "dist": 82.7815,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "fl": 92,
+  "fl_con": "Leo"
+}

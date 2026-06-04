@@ -1,0 +1,14 @@
+{
+  "id": "l_centauri",
+  "name": "l Centauri",
+  "rank": 3,
+  "ra": 189.9688713973183,
+  "dec": -39.987301756671386,
+  "dist": 111.8568,
+  "otype": "**",
+  "spect": "B8II/III",
+  "cat": 17,
+  "by": "l",
+  "by_greek": "l",
+  "by_con": "Cen"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "f_hydrae",
+  "name": "F Hydrae",
+  "rank": 4,
+  "ra": 130.91822701949124,
+  "dec": -7.233728474508057,
+  "dist": 235.8491,
+  "otype": "*",
+  "spect": "G1Ib",
+  "cat": 16,
+  "by": "F",
+  "by_greek": "F",
+  "by_con": "Hya",
+  "fl": 31,
+  "fl_con": "Mon"
+}

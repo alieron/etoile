@@ -1,0 +1,16 @@
+{
+  "id": "k_orionis",
+  "name": "k Orionis",
+  "rank": 4,
+  "ra": 94.11091294488,
+  "dec": 12.272163233219999,
+  "dist": 19.2493,
+  "otype": "PM*",
+  "spect": "F5V",
+  "cat": 6,
+  "by": "k",
+  "by_greek": "k",
+  "by_con": "Ori",
+  "fl": 74,
+  "fl_con": "Ori"
+}

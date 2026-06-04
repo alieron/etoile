@@ -1,0 +1,14 @@
+{
+  "id": "alpha_2_crux",
+  "name": "Alpha 2 Crux",
+  "rank": 4,
+  "ra": 186.65184166666666,
+  "dec": -63.09952222222222,
+  "dist": 98.7167,
+  "otype": "*",
+  "spect": "B1V",
+  "cat": 8,
+  "by": "alf02",
+  "by_greek": "α²",
+  "by_con": "Cru"
+}

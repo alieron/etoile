@@ -1,0 +1,16 @@
+{
+  "id": "mu_lyrae",
+  "name": "Mu Lyrae",
+  "rank": 4,
+  "ra": 276.05744011572995,
+  "dec": 39.50723810754,
+  "dist": 134.5895,
+  "otype": "*",
+  "spect": "A0IV",
+  "cat": 10,
+  "by": "mu.",
+  "by_greek": "μ",
+  "by_con": "Lyr",
+  "fl": 2,
+  "fl_con": "Lyr"
+}

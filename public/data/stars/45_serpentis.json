@@ -1,0 +1,13 @@
+{
+  "id": "45_serpentis",
+  "name": "45 Serpentis",
+  "rank": 5,
+  "ra": 241.90641287900996,
+  "dec": 9.891740914290002,
+  "dist": 99.0099,
+  "otype": "*",
+  "spect": "A7V",
+  "cat": 7,
+  "fl": 45,
+  "fl_con": "Ser"
+}

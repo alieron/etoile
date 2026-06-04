@@ -1,0 +1,16 @@
+{
+  "id": "x_carinae",
+  "name": "x Carinae",
+  "rank": 3,
+  "ra": 167.147453191,
+  "dec": -58.975038633492225,
+  "dist": 100000.0,
+  "otype": "cC*",
+  "spect": "G5_0-Ia",
+  "cat": 18,
+  "by": "x",
+  "by_greek": "x",
+  "by_con": "Car",
+  "v": "V382",
+  "v_con": "Car"
+}

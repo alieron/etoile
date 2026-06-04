@@ -1,0 +1,13 @@
+{
+  "id": "18_puppis",
+  "name": "18 Puppis",
+  "rank": 5,
+  "ra": 122.66594003271,
+  "dec": -13.79920609295,
+  "dist": 22.3814,
+  "otype": "PM*",
+  "spect": "F6.5V",
+  "cat": 6,
+  "fl": 18,
+  "fl_con": "Pup"
+}

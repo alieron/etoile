@@ -1,0 +1,16 @@
+{
+  "id": "tau_6_serpentis",
+  "name": "Tau 6 Serpentis",
+  "rank": 4,
+  "ra": 235.24625183159,
+  "dec": 16.024589227600003,
+  "dist": 185.8736,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "tau06",
+  "by_greek": "τ⁶",
+  "by_con": "Ser",
+  "fl": 19,
+  "fl_con": "Ser"
+}

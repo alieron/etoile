@@ -1,0 +1,16 @@
+{
+  "id": "f_herculis",
+  "name": "f Herculis",
+  "rank": 4,
+  "ra": 268.32511305906,
+  "dec": 40.00796147305,
+  "dist": 108.4599,
+  "otype": "PM*",
+  "spect": "K1+IIIbCN-1",
+  "cat": 15,
+  "by": "f",
+  "by_greek": "f",
+  "by_con": "Her",
+  "fl": 90,
+  "fl_con": "Her"
+}

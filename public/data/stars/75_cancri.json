@@ -1,0 +1,13 @@
+{
+  "id": "75_cancri",
+  "name": "75 Cancri",
+  "rank": 5,
+  "ra": 137.19721272947206,
+  "dec": 26.62911589946861,
+  "dist": 31.0078,
+  "otype": "SB*",
+  "spect": "G5IV-V",
+  "cat": 11,
+  "fl": 75,
+  "fl_con": "Cnc"
+}

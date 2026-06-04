@@ -1,0 +1,14 @@
+{
+  "id": "47_ursae_majoris",
+  "name": "47 Ursae Majoris",
+  "rank": 2,
+  "ra": 164.86655313083833,
+  "dec": 40.430255714645554,
+  "dist": 14.0627,
+  "otype": "PM*",
+  "spect": "G1-VFe-0.5",
+  "cat": 5,
+  "proper": "Chalawan",
+  "fl": 47,
+  "fl_con": "UMa"
+}

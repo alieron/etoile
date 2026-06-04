@@ -1,0 +1,14 @@
+{
+  "id": "17_tauri",
+  "name": "17 Tauri",
+  "rank": 2,
+  "ra": 56.218904540787506,
+  "dec": 24.11333785002,
+  "dist": 124.0695,
+  "otype": "Be*",
+  "spect": "B6IIIe",
+  "cat": 8,
+  "proper": "Electra",
+  "fl": 17,
+  "fl_con": "Tau"
+}

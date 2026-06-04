@@ -1,0 +1,15 @@
+{
+  "id": "kx_hydrae",
+  "name": "KX Hydrae",
+  "rank": 5,
+  "ra": 132.34052434578,
+  "dec": -3.4430253995299998,
+  "dist": 138.1215,
+  "otype": "a2*",
+  "spect": "B8IIIpHgMn",
+  "cat": 20,
+  "v": "KX",
+  "v_con": "Hya",
+  "fl": 14,
+  "fl_con": "Hya"
+}

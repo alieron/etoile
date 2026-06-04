@@ -1,0 +1,14 @@
+{
+  "id": "4_lyncis_b",
+  "name": "4 Lyncis B",
+  "rank": 5,
+  "ra": 95.51493057296,
+  "dec": 59.37194516871,
+  "dist": 152.207,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 4,
+  "fl_con": "Lyn",
+  "fl_comp": "B"
+}

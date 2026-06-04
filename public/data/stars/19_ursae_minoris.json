@@ -1,0 +1,13 @@
+{
+  "id": "19_ursae_minoris",
+  "name": "19 Ursae Minoris",
+  "rank": 5,
+  "ra": 242.70635183191996,
+  "dec": 75.87756181464,
+  "dist": 189.3939,
+  "otype": "Pu*",
+  "spect": "B8V",
+  "cat": 8,
+  "fl": 19,
+  "fl_con": "UMi"
+}

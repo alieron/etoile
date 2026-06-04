@@ -1,0 +1,17 @@
+{
+  "id": "xi_aquilae",
+  "name": "Xi Aquilae",
+  "rank": 2,
+  "ra": 298.5620063246,
+  "dec": 8.461454288359999,
+  "dist": 56.2746,
+  "otype": "**",
+  "spect": "G9.5IIIb",
+  "cat": 16,
+  "proper": "Libertas",
+  "by": "ksi",
+  "by_greek": "ξ",
+  "by_con": "Aql",
+  "fl": 59,
+  "fl_con": "Aql"
+}

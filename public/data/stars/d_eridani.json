@@ -1,0 +1,16 @@
+{
+  "id": "d_eridani",
+  "name": "d Eridani",
+  "rank": 4,
+  "ra": 65.17847543305,
+  "dec": -7.592496030900001,
+  "dist": 242.1308,
+  "otype": "*",
+  "spect": "B7II",
+  "cat": 17,
+  "by": "d",
+  "by_greek": "d",
+  "by_con": "Eri",
+  "v": "EM",
+  "v_con": "Eri"
+}

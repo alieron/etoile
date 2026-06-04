@@ -1,0 +1,15 @@
+{
+  "id": "ar_aurigae",
+  "name": "AR Aurigae",
+  "rank": 5,
+  "ra": 79.57873355396,
+  "dec": 33.76736581265,
+  "dist": 122.1001,
+  "otype": "SB*",
+  "spect": "B9V+B9.5V",
+  "cat": 8,
+  "v": "AR",
+  "v_con": "Aur",
+  "fl": 17,
+  "fl_con": "Aur"
+}

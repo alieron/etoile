@@ -1,0 +1,17 @@
+{
+  "id": "delta_capricorni",
+  "name": "Delta Capricorni",
+  "rank": 2,
+  "ra": 326.76018433125,
+  "dec": -16.12728708527778,
+  "dist": 11.8666,
+  "otype": "SB*",
+  "spect": "kA5hF0mF2III",
+  "cat": 13,
+  "proper": "Deneb Algedi",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Cap",
+  "fl": 49,
+  "fl_con": "Cap"
+}

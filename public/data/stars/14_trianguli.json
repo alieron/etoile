@@ -1,0 +1,13 @@
+{
+  "id": "14_trianguli",
+  "name": "14 Trianguli",
+  "rank": 5,
+  "ra": 38.025707379740005,
+  "dec": 36.14727257649001,
+  "dist": 132.8021,
+  "otype": "SB*",
+  "spect": "K5III",
+  "cat": 13,
+  "fl": 14,
+  "fl_con": "Tri"
+}

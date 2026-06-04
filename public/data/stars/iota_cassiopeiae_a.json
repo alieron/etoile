@@ -1,0 +1,16 @@
+{
+  "id": "iota_cassiopeiae_a",
+  "name": "Iota Cassiopeiae A",
+  "rank": 2,
+  "ra": 37.26644916209381,
+  "dec": 67.40247693141559,
+  "dist": 40.733607332,
+  "otype": "**",
+  "spect": "A3IIIpSr+F5V",
+  "cat": 13,
+  "proper": "Huagai",
+  "by": "iot",
+  "by_greek": "ι",
+  "by_con": "Cas",
+  "by_comp": "A"
+}

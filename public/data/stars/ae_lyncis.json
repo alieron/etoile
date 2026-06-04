@@ -1,0 +1,15 @@
+{
+  "id": "ae_lyncis",
+  "name": "AE Lyncis",
+  "rank": 5,
+  "ra": 120.64909724807,
+  "dec": 57.27362641108,
+  "dist": 104.9318,
+  "otype": "RS*",
+  "spect": "F9IV+G5IV",
+  "cat": 11,
+  "v": "AE",
+  "v_con": "Lyn",
+  "fl": 54,
+  "fl_con": "Cam"
+}

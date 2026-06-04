@@ -1,185 +1,153 @@
 {
-  "abbreviation": "Tau",
+  "id": "Tau",
   "name": "Taurus",
-  "genitive": "Tauri",
+  "gen": "Tauri",
   "meaning": "Bull",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 50.8367,
-        "dec_deg": -1.303,
-        "ra_deg_signed": 50.8367
-      },
-      {
-        "ra_deg": 50.853,
-        "dec_deg": 0.447,
-        "ra_deg_signed": 50.853
-      },
-      {
-        "ra_deg": 50.9464,
-        "dec_deg": 10.3632,
-        "ra_deg_signed": 50.9464
-      },
-      {
-        "ra_deg": 51.0372,
-        "dec_deg": 19.4461,
-        "ra_deg_signed": 51.0372
-      },
-      {
-        "ra_deg": 52.2906,
-        "dec_deg": 19.4343,
-        "ra_deg_signed": 52.2906
-      },
-      {
-        "ra_deg": 52.4267,
-        "dec_deg": 31.1004,
-        "ra_deg_signed": 52.4267
-      },
-      {
-        "ra_deg": 69.4869,
-        "dec_deg": 30.9219,
-        "ra_deg_signed": 69.4869
-      },
-      {
-        "ra_deg": 69.4768,
-        "dec_deg": 30.2553,
-        "ra_deg_signed": 69.4768
-      },
-      {
-        "ra_deg": 73.2353,
-        "dec_deg": 30.2123,
-        "ra_deg_signed": 73.2353
-      },
-      {
-        "ra_deg": 73.2125,
-        "dec_deg": 28.7124,
-        "ra_deg_signed": 73.2125
-      },
-      {
-        "ra_deg": 90.2289,
-        "dec_deg": 28.5092,
-        "ra_deg_signed": 90.2289
-      },
-      {
-        "ra_deg": 90.2211,
-        "dec_deg": 28.0093,
-        "ra_deg_signed": 90.2211
-      },
-      {
-        "ra_deg": 90.144,
-        "dec_deg": 22.8431,
-        "ra_deg_signed": 90.144
-      },
-      {
-        "ra_deg": 87.3938,
-        "dec_deg": 22.8765,
-        "ra_deg_signed": 87.3938
-      },
-      {
-        "ra_deg": 87.327,
-        "dec_deg": 18.0435,
-        "ra_deg_signed": 87.327
-      },
-      {
-        "ra_deg": 88.3272,
-        "dec_deg": 18.0314,
-        "ra_deg_signed": 88.3272
-      },
-      {
-        "ra_deg": 88.2554,
-        "dec_deg": 12.5319,
-        "ra_deg_signed": 88.2554
-      },
-      {
-        "ra_deg": 85.7551,
-        "dec_deg": 12.5622,
-        "ra_deg_signed": 85.7551
-      },
-      {
-        "ra_deg": 85.7936,
-        "dec_deg": 15.5619,
-        "ra_deg_signed": 85.7936
-      },
-      {
-        "ra_deg": 81.7922,
-        "dec_deg": 15.6101,
-        "ra_deg_signed": 81.7922
-      },
-      {
-        "ra_deg": 81.7987,
-        "dec_deg": 16.1101,
-        "ra_deg_signed": 81.7987
-      },
-      {
-        "ra_deg": 76.2953,
-        "dec_deg": 16.1755,
-        "ra_deg_signed": 76.2953
-      },
-      {
-        "ra_deg": 76.2889,
-        "dec_deg": 15.6755,
-        "ra_deg_signed": 76.2889
-      },
-      {
-        "ra_deg": 71.034,
-        "dec_deg": 15.7365,
-        "ra_deg_signed": 71.034
-      },
-      {
-        "ra_deg": 70.8524,
-        "dec_deg": 0.2375,
-        "ra_deg_signed": 70.8524
-      },
-      {
-        "ra_deg": 55.3529,
-        "dec_deg": 0.4037,
-        "ra_deg_signed": 55.3529
-      },
-      {
-        "ra_deg": 55.3356,
-        "dec_deg": -1.3462,
-        "ra_deg_signed": 55.3356
-      },
-      {
-        "ra_deg": 50.8367,
-        "dec_deg": -1.303,
-        "ra_deg_signed": 50.8367
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    70,
+    15,
+    94
+  ],
+  "label": [
+    54,
+    15
+  ],
+  "bound": [
     [
-      26451,
-      21421,
-      20894,
-      20205,
-      20455,
-      20889,
-      25428
-    ],
-    [
-      16083,
-      18907
-    ],
-    [
-      15900,
-      16852
-    ],
-    [
-      20205,
-      18724,
-      16083
+      [
+        50.8367,
+        -1.303
+      ],
+      [
+        50.853,
+        0.447
+      ],
+      [
+        50.9464,
+        10.3632
+      ],
+      [
+        51.0372,
+        19.4461
+      ],
+      [
+        52.2906,
+        19.4343
+      ],
+      [
+        52.4267,
+        31.1004
+      ],
+      [
+        69.4869,
+        30.9219
+      ],
+      [
+        69.4768,
+        30.2553
+      ],
+      [
+        73.2353,
+        30.2123
+      ],
+      [
+        73.2125,
+        28.7124
+      ],
+      [
+        90.2289,
+        28.5092
+      ],
+      [
+        90.2211,
+        28.0093
+      ],
+      [
+        90.144,
+        22.8431
+      ],
+      [
+        87.3938,
+        22.8765
+      ],
+      [
+        87.327,
+        18.0435
+      ],
+      [
+        88.3272,
+        18.0314
+      ],
+      [
+        88.2554,
+        12.5319
+      ],
+      [
+        85.7551,
+        12.5622
+      ],
+      [
+        85.7936,
+        15.5619
+      ],
+      [
+        81.7922,
+        15.6101
+      ],
+      [
+        81.7987,
+        16.1101
+      ],
+      [
+        76.2953,
+        16.1755
+      ],
+      [
+        76.2889,
+        15.6755
+      ],
+      [
+        71.034,
+        15.7365
+      ],
+      [
+        70.8524,
+        0.2375
+      ],
+      [
+        55.3529,
+        0.4037
+      ],
+      [
+        55.3356,
+        -1.3462
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Aldebaran",
-    "designation": "87Alp Tau",
-    "display_name": "87 Alpha Tauri",
-    "display_name_greek": "87 α Tauri",
-    "hip": 21421,
-    "ra_deg": 68.98015500000001,
-    "dec_deg": 16.509301
-  }
+  "lines": [
+    [
+      "zeta_tauri",
+      "alpha_tauri",
+      "theta_2_tauri",
+      "gamma_tauri",
+      "delta_3_tauri",
+      "epsilon_tauri",
+      "beta_tauri"
+    ],
+    [
+      "xi_tauri",
+      "nu_tauri"
+    ],
+    [
+      "omicron_tauri",
+      "10_tauri"
+    ],
+    [
+      "gamma_tauri",
+      "lambda_tauri",
+      "xi_tauri"
+    ]
+  ],
+  "bright": "alpha_tauri"
 }

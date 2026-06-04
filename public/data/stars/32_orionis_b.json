@@ -1,0 +1,14 @@
+{
+  "id": "32_orionis_b",
+  "name": "32 Orionis B",
+  "rank": 5,
+  "ra": 82.69628499938375,
+  "dec": 5.948367714954444,
+  "dist": 110.032,
+  "otype": "*",
+  "spect": "B7V",
+  "cat": 8,
+  "fl": 32,
+  "fl_con": "Ori",
+  "fl_comp": "B"
+}

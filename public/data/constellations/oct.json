@@ -1,89 +1,73 @@
 {
-  "abbreviation": "Oct",
+  "id": "Oct",
   "name": "Octans",
-  "genitive": "Octantis",
+  "gen": "Octantis",
   "meaning": "Octant",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 1.5334,
-        "dec_deg": -81.804,
-        "ra_deg_signed": 1.5334
-      },
-      {
-        "ra_deg": 50.0917,
-        "dec_deg": -82.0645,
-        "ra_deg_signed": 50.0917
-      },
-      {
-        "ra_deg": 48.2329,
-        "dec_deg": -84.5554,
-        "ra_deg_signed": 48.2329
-      },
-      {
-        "ra_deg": 109.0197,
-        "dec_deg": -85.2614,
-        "ra_deg_signed": 109.0197
-      },
-      {
-        "ra_deg": 111.6521,
-        "dec_deg": -82.7759,
-        "ra_deg_signed": 111.6521
-      },
-      {
-        "ra_deg": 209.1111,
-        "dec_deg": -83.1201,
-        "ra_deg_signed": -150.8889
-      },
-      {
-        "ra_deg": 276.866,
-        "dec_deg": -82.4583,
-        "ra_deg_signed": -83.134
-      },
-      {
-        "ra_deg": 274.1951,
-        "dec_deg": -74.9745,
-        "ra_deg_signed": -85.8049
-      },
-      {
-        "ra_deg": 323.1848,
-        "dec_deg": -74.4545,
-        "ra_deg_signed": -36.8152
-      },
-      {
-        "ra_deg": 351.9978,
-        "dec_deg": -74.3125,
-        "ra_deg_signed": -8.0022
-      },
-      {
-        "ra_deg": 1.5663,
-        "dec_deg": -74.304,
-        "ra_deg_signed": 1.5663
-      },
-      {
-        "ra_deg": 1.5334,
-        "dec_deg": -81.804,
-        "ra_deg_signed": 1.5334
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 2,
+  "focus": [
+    -30,
+    -83,
+    50
+  ],
+  "label": [
+    -60,
+    -80
+  ],
+  "bound": [
     [
-      70638,
-      107089,
-      112405,
-      70638
+      [
+        1.5334,
+        -81.804
+      ],
+      [
+        50.0917,
+        -82.0645
+      ],
+      [
+        48.2329,
+        -84.5554
+      ],
+      [
+        109.0197,
+        -85.2614
+      ],
+      [
+        111.6521,
+        -82.7759
+      ],
+      [
+        -150.8889,
+        -83.1201
+      ],
+      [
+        -83.134,
+        -82.4583
+      ],
+      [
+        -85.8049,
+        -74.9745
+      ],
+      [
+        -36.8152,
+        -74.4545
+      ],
+      [
+        -8.0022,
+        -74.3125
+      ],
+      [
+        1.5663,
+        -74.304
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Nu  Oct",
-    "designation": "Nu  Oct",
-    "display_name": "Nu Octantis",
-    "display_name_greek": "ν Octantis",
-    "hip": 107089,
-    "ra_deg": 325.368795,
-    "dec_deg": -77.390046
-  }
+  "lines": [
+    [
+      "delta_octantis",
+      "nu_octantis",
+      "beta_octantis",
+      "delta_octantis"
+    ]
+  ],
+  "bright": "nu_octantis"
 }

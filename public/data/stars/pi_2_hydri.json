@@ -1,0 +1,14 @@
+{
+  "id": "pi_2_hydri",
+  "name": "Pi 2 Hydri",
+  "rank": 4,
+  "ra": 33.86927389828,
+  "dec": -67.74636331948,
+  "dist": 149.7006,
+  "otype": "*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "pi.02",
+  "by_greek": "π²",
+  "by_con": "Hyi"
+}

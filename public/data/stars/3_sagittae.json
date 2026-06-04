@@ -1,0 +1,13 @@
+{
+  "id": "3_sagittae",
+  "name": "3 Sagittae",
+  "rank": 5,
+  "ra": 291.18920309898,
+  "dec": 16.957020797429998,
+  "dist": 121.5067,
+  "otype": "*",
+  "spect": "A0",
+  "cat": 7,
+  "fl": 3,
+  "fl_con": "Sge"
+}

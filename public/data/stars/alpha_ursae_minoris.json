@@ -1,0 +1,17 @@
+{
+  "id": "alpha_ursae_minoris",
+  "name": "Alpha Ursae Minoris",
+  "rank": 2,
+  "ra": 37.954560670189856,
+  "dec": 89.26410896994187,
+  "dist": 132.626,
+  "otype": "cC*",
+  "spect": "F8Ib",
+  "cat": 18,
+  "proper": "Polaris",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "UMi",
+  "fl": 1,
+  "fl_con": "UMi"
+}

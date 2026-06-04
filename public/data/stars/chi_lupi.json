@@ -1,0 +1,16 @@
+{
+  "id": "chi_lupi",
+  "name": "Chi Lupi",
+  "rank": 3,
+  "ra": 237.73977226340247,
+  "dec": -33.627146762641395,
+  "dist": 59.8444,
+  "otype": "SB*",
+  "spect": "B9III",
+  "cat": 17,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Lup",
+  "fl": 5,
+  "fl_con": "Lup"
+}

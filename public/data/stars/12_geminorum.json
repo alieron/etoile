@@ -1,0 +1,13 @@
+{
+  "id": "12_geminorum",
+  "name": "12 Geminorum",
+  "rank": 5,
+  "ra": 94.84384834542,
+  "dec": 23.27450604781,
+  "dist": 775.1938,
+  "otype": "*",
+  "spect": "B9II",
+  "cat": 17,
+  "fl": 12,
+  "fl_con": "Gem"
+}

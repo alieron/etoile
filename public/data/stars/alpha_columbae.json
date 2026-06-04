@@ -1,0 +1,15 @@
+{
+  "id": "alpha_columbae",
+  "name": "Alpha Columbae",
+  "rank": 2,
+  "ra": 84.91225429958334,
+  "dec": -34.07410971972223,
+  "dist": 80.1282,
+  "otype": "Be*",
+  "spect": "B9Ve",
+  "cat": 8,
+  "proper": "Phact",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Col"
+}

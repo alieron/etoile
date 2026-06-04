@@ -1,0 +1,17 @@
+{
+  "id": "tau_scorpii",
+  "name": "Tau Scorpii",
+  "rank": 2,
+  "ra": 248.97063688749995,
+  "dec": -28.2160170875,
+  "dist": 145.3488,
+  "otype": "*",
+  "spect": "B0V",
+  "cat": 8,
+  "proper": "Paikauhale",
+  "by": "tau",
+  "by_greek": "τ",
+  "by_con": "Sco",
+  "fl": 23,
+  "fl_con": "Sco"
+}

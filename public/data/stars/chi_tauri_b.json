@@ -1,0 +1,15 @@
+{
+  "id": "chi_tauri_b",
+  "name": "Chi Tauri B",
+  "rank": 4,
+  "ra": 65.64813579672,
+  "dec": 25.63420693456001,
+  "dist": 78.714,
+  "otype": "SB*",
+  "spect": "F8V",
+  "cat": 6,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Tau",
+  "by_comp": "B"
+}

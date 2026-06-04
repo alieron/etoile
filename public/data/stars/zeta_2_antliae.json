@@ -1,0 +1,14 @@
+{
+  "id": "zeta_2_antliae",
+  "name": "Zeta 2 Antliae",
+  "rank": 4,
+  "ra": 142.88397896732,
+  "dec": -31.87180986347,
+  "dist": 117.6471,
+  "otype": "*",
+  "spect": "A9IV",
+  "cat": 10,
+  "by": "zet02",
+  "by_greek": "ζ²",
+  "by_con": "Ant"
+}

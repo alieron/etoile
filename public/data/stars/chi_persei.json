@@ -1,0 +1,16 @@
+{
+  "id": "chi_persei",
+  "name": "Chi Persei",
+  "rank": 4,
+  "ra": 34.51910234828,
+  "dec": 57.51632205589,
+  "dist": 251.2563,
+  "otype": "*",
+  "spect": "G7.0III",
+  "cat": 13,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Per",
+  "fl": 7,
+  "fl_con": "Per"
+}

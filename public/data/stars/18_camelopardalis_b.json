@@ -1,0 +1,14 @@
+{
+  "id": "18_camelopardalis_b",
+  "name": "18 Camelopardalis B",
+  "rank": 5,
+  "ra": 83.13905824726332,
+  "dec": 57.22103729924445,
+  "dist": 43.8131,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 18,
+  "fl_con": "Cam",
+  "fl_comp": "B"
+}

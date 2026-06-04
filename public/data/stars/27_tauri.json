@@ -1,0 +1,14 @@
+{
+  "id": "27_tauri",
+  "name": "27 Tauri",
+  "rank": 2,
+  "ra": 57.29059607421416,
+  "dec": 24.053417133280284,
+  "dist": 117.2333,
+  "otype": "SB*",
+  "spect": "B8III",
+  "cat": 17,
+  "proper": "Atlas",
+  "fl": 27,
+  "fl_con": "Tau"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "i_3_aquarii",
+  "name": "i 3 Aquarii",
+  "rank": 4,
+  "ra": 357.83890973611375,
+  "dec": -18.909164140351667,
+  "dist": 97.7517,
+  "otype": "Pe*",
+  "spect": "A0VpSiSr",
+  "cat": 7,
+  "by": "i03",
+  "by_greek": "i³",
+  "by_con": "Aqr",
+  "v": "ET",
+  "v_con": "Aqr",
+  "fl": 108,
+  "fl_con": "Aqr"
+}

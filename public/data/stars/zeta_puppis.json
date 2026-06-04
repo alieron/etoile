@@ -1,0 +1,15 @@
+{
+  "id": "zeta_puppis",
+  "name": "Zeta Puppis",
+  "rank": 2,
+  "ra": 120.89603140977576,
+  "dec": -40.003147798268934,
+  "dist": 332.2259,
+  "otype": "BY*",
+  "spect": "O4I(n)fp",
+  "cat": 0,
+  "proper": "Naos",
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Pup"
+}

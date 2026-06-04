@@ -1,0 +1,15 @@
+{
+  "id": "eta_cancri_b",
+  "name": "Eta Cancri B",
+  "rank": 4,
+  "ra": 128.132501875,
+  "dec": 20.449967055555557,
+  "dist": 91.4913,
+  "otype": "BD*",
+  "spect": "L3.5",
+  "cat": 2,
+  "by": "eta",
+  "by_greek": "η",
+  "by_con": "Cnc",
+  "by_comp": "B"
+}

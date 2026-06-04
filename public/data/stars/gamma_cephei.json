@@ -1,0 +1,17 @@
+{
+  "id": "gamma_cephei",
+  "name": "Gamma Cephei",
+  "rank": 2,
+  "ra": 354.83712672241,
+  "dec": 77.63236410594,
+  "dist": 14.1024,
+  "otype": "SB*",
+  "spect": "K1III-IVCN1",
+  "cat": 12,
+  "proper": "Errai",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cep",
+  "fl": 35,
+  "fl_con": "Cep"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "alpha_scorpii_b",
+  "name": "Alpha Scorpii B",
+  "rank": 4,
+  "ra": 247.35083333333336,
+  "dec": -26.430833333333336,
+  "dist": 169.7793,
+  "otype": "Em*",
+  "spect": "B2.5V",
+  "cat": 8,
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "Sco",
+  "by_comp": "B"
+}

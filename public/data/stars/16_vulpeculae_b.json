@@ -1,0 +1,14 @@
+{
+  "id": "16_vulpeculae_b",
+  "name": "16 Vulpeculae B",
+  "rank": 5,
+  "ra": 300.5061971791667,
+  "dec": 24.937912927777777,
+  "dist": 67.981,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 16,
+  "fl_con": "Vul",
+  "fl_comp": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chi_tauri",
+  "name": "Chi Tauri",
+  "rank": 4,
+  "ra": 65.64559882087,
+  "dec": 25.62931599318,
+  "dist": 89.2857,
+  "otype": "*",
+  "spect": "B9Vnn",
+  "cat": 8,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Tau",
+  "fl": 59,
+  "fl_con": "Tau"
+}

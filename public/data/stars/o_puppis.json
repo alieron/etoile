@@ -1,0 +1,14 @@
+{
+  "id": "o_puppis",
+  "name": "O Puppis",
+  "rank": 4,
+  "ra": 119.46549649977003,
+  "dec": -45.57766905917,
+  "dist": 89.2061,
+  "otype": "*",
+  "spect": "K2III",
+  "cat": 13,
+  "by": "O",
+  "by_greek": "O",
+  "by_con": "Pup"
+}

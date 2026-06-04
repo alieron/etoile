@@ -1,0 +1,14 @@
+{
+  "id": "49_cassiopeiae",
+  "name": "49 Cassiopeiae",
+  "rank": 2,
+  "ra": 31.381458884050005,
+  "dec": 76.11506012484,
+  "dist": 122.6994,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "proper": "Rangifer",
+  "fl": 49,
+  "fl_con": "Cas"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "58_ceti_b",
+  "name": "58 Ceti B",
+  "rank": 5,
+  "ra": 29.49779571205,
+  "dec": -2.05865888903,
+  "dist": 153.827,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 58,
+  "fl_con": "Cet",
+  "fl_comp": "B"
+}

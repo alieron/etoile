@@ -1,0 +1,13 @@
+{
+  "id": "40_cygni",
+  "name": "40 Cygni",
+  "rank": 5,
+  "ra": 306.89274602685,
+  "dec": 38.44035066165,
+  "dist": 81.4332,
+  "otype": "PM*",
+  "spect": "A3V",
+  "cat": 7,
+  "fl": 40,
+  "fl_con": "Cyg"
+}

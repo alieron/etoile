@@ -1,0 +1,17 @@
+{
+  "id": "delta_cygni",
+  "name": "Delta Cygni",
+  "rank": 2,
+  "ra": 296.24365384430797,
+  "dec": 45.13081463141527,
+  "dist": 50.5817,
+  "otype": "PM*",
+  "spect": "B9.5IV",
+  "cat": 9,
+  "proper": "Fawaris",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Cyg",
+  "fl": 18,
+  "fl_con": "Cyg"
+}

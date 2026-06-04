@@ -1,0 +1,13 @@
+{
+  "id": "12_cephei",
+  "name": "12 Cephei",
+  "rank": 5,
+  "ra": 326.85539723242,
+  "dec": 60.69268873649001,
+  "dist": 140.4494,
+  "otype": "*",
+  "spect": "M1III",
+  "cat": 14,
+  "fl": 12,
+  "fl_con": "Cep"
+}

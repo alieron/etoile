@@ -1,0 +1,17 @@
+{
+  "id": "sigma_librae",
+  "name": "Sigma Librae",
+  "rank": 2,
+  "ra": 226.0175617057,
+  "dec": -25.28196957961,
+  "dist": 88.4173,
+  "otype": "Mi*",
+  "spect": "M2.5III",
+  "cat": 14,
+  "proper": "Brachium",
+  "by": "sig",
+  "by_greek": "σ",
+  "by_con": "Lib",
+  "fl": 20,
+  "fl_con": "Lib"
+}

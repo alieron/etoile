@@ -1,0 +1,14 @@
+{
+  "id": "pi_2_doradus",
+  "name": "Pi 2 Doradus",
+  "rank": 4,
+  "ra": 96.36929452899001,
+  "dec": -69.69030000159,
+  "dist": 82.7815,
+  "otype": "PM*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "pi.02",
+  "by_greek": "π²",
+  "by_con": "Dor"
+}

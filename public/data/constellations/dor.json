@@ -1,149 +1,122 @@
 {
-  "abbreviation": "Dor",
+  "id": "Dor",
   "name": "Dorado",
-  "genitive": "Doradus",
-  "meaning": "Swordfish",
-  "rank": 3,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 58.3188,
-        "dec_deg": -52.7968,
-        "ra_deg_signed": 58.3188
-      },
-      {
-        "ra_deg": 60.7979,
-        "dec_deg": -52.8228,
-        "ra_deg_signed": 60.7979
-      },
-      {
-        "ra_deg": 60.6929,
-        "dec_deg": -56.1556,
-        "ra_deg_signed": 60.6929
-      },
-      {
-        "ra_deg": 65.6505,
-        "dec_deg": -56.2094,
-        "ra_deg_signed": 65.6505
-      },
-      {
-        "ra_deg": 65.5546,
-        "dec_deg": -58.7089,
-        "ra_deg_signed": 65.5546
-      },
-      {
-        "ra_deg": 69.2745,
-        "dec_deg": -58.7507,
-        "ra_deg_signed": 69.2745
-      },
-      {
-        "ra_deg": 68.794,
-        "dec_deg": -67.2479,
-        "ra_deg_signed": 68.794
-      },
-      {
-        "ra_deg": 68.5815,
-        "dec_deg": -69.7467,
-        "ra_deg_signed": 68.5815
-      },
-      {
-        "ra_deg": 98.4544,
-        "dec_deg": -70.1041,
-        "ra_deg_signed": 98.4544
-      },
-      {
-        "ra_deg": 98.9372,
-        "dec_deg": -64.107,
-        "ra_deg_signed": 98.9372
-      },
-      {
-        "ra_deg": 90.1736,
-        "dec_deg": -64.0011,
-        "ra_deg_signed": 90.1736
-      },
-      {
-        "ra_deg": 90.3451,
-        "dec_deg": -61.0021,
-        "ra_deg_signed": 90.3451
-      },
-      {
-        "ra_deg": 82.8576,
-        "dec_deg": -60.9113,
-        "ra_deg_signed": 82.8576
-      },
-      {
-        "ra_deg": 83.0188,
-        "dec_deg": -57.4123,
-        "ra_deg_signed": 83.0188
-      },
-      {
-        "ra_deg": 75.5477,
-        "dec_deg": -57.323,
-        "ra_deg_signed": 75.5477
-      },
-      {
-        "ra_deg": 75.677,
-        "dec_deg": -53.8238,
-        "ra_deg_signed": 75.677
-      },
-      {
-        "ra_deg": 68.2177,
-        "dec_deg": -53.7376,
-        "ra_deg_signed": 68.2177
-      },
-      {
-        "ra_deg": 68.3622,
-        "dec_deg": -48.7384,
-        "ra_deg_signed": 68.3622
-      },
-      {
-        "ra_deg": 64.8824,
-        "dec_deg": -48.6997,
-        "ra_deg_signed": 64.8824
-      },
-      {
-        "ra_deg": 62.1499,
-        "dec_deg": -48.67,
-        "ra_deg_signed": 62.1499
-      },
-      {
-        "ra_deg": 62.0986,
-        "dec_deg": -50.6697,
-        "ra_deg_signed": 62.0986
-      },
-      {
-        "ra_deg": 58.3772,
-        "dec_deg": -50.6305,
-        "ra_deg_signed": 58.3772
-      },
-      {
-        "ra_deg": 58.3188,
-        "dec_deg": -52.7968,
-        "ra_deg_signed": 58.3188
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Doradus",
+  "meaning": "Goldfish",
+  "rank": 2,
+  "focus": [
+    78.628,
+    -59.3871,
+    76
+  ],
+  "label": [
+    76.5,
+    -64
+  ],
+  "bound": [
     [
-      19893,
-      21281,
-      23693,
-      26069,
-      21281,
-      26069,
-      27100,
-      27890,
-      26069
+      [
+        58.3188,
+        -52.7968
+      ],
+      [
+        60.7979,
+        -52.8228
+      ],
+      [
+        60.6929,
+        -56.1556
+      ],
+      [
+        65.6505,
+        -56.2094
+      ],
+      [
+        65.5546,
+        -58.7089
+      ],
+      [
+        69.2745,
+        -58.7507
+      ],
+      [
+        68.794,
+        -67.2479
+      ],
+      [
+        68.5815,
+        -69.7467
+      ],
+      [
+        98.4544,
+        -70.1041
+      ],
+      [
+        98.9372,
+        -64.107
+      ],
+      [
+        90.1736,
+        -64.0011
+      ],
+      [
+        90.3451,
+        -61.0021
+      ],
+      [
+        82.8576,
+        -60.9113
+      ],
+      [
+        83.0188,
+        -57.4123
+      ],
+      [
+        75.5477,
+        -57.323
+      ],
+      [
+        75.677,
+        -53.8238
+      ],
+      [
+        68.2177,
+        -53.7376
+      ],
+      [
+        68.3622,
+        -48.7384
+      ],
+      [
+        64.8824,
+        -48.6997
+      ],
+      [
+        62.1499,
+        -48.67
+      ],
+      [
+        62.0986,
+        -50.6697
+      ],
+      [
+        58.3772,
+        -50.6305
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Alp Dor",
-    "designation": "Alp Dor",
-    "display_name": "Alpha Doradus",
-    "display_name_greek": "α Doradus",
-    "hip": 21281,
-    "ra_deg": 68.49897,
-    "dec_deg": -55.044975
-  }
+  "lines": [
+    [
+      "gamma_doradus",
+      "alpha_doradus",
+      "zeta_doradus",
+      "beta_doradus",
+      "alpha_doradus",
+      "beta_doradus",
+      "delta_doradus",
+      "36_doradus",
+      "beta_doradus"
+    ]
+  ],
+  "bright": "alpha_doradus"
 }

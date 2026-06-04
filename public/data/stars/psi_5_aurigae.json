@@ -1,0 +1,16 @@
+{
+  "id": "psi_5_aurigae",
+  "name": "Psi 5 Aurigae",
+  "rank": 4,
+  "ra": 101.68473722918002,
+  "dec": 43.57742456382,
+  "dist": 16.7168,
+  "otype": "PM*",
+  "spect": "F9V",
+  "cat": 6,
+  "by": "psi05",
+  "by_greek": "ψ⁵",
+  "by_con": "Aur",
+  "fl": 56,
+  "fl_con": "Aur"
+}

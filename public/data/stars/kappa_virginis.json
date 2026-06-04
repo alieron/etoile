@@ -1,0 +1,17 @@
+{
+  "id": "kappa_virginis",
+  "name": "Kappa Virginis",
+  "rank": 2,
+  "ra": 213.2239368859575,
+  "dec": -10.273703461482222,
+  "dist": 78.125,
+  "otype": "PM*",
+  "spect": "K2.5IIIFe-0.5",
+  "cat": 13,
+  "proper": "Kang",
+  "by": "kap",
+  "by_greek": "κ",
+  "by_con": "Vir",
+  "fl": 98,
+  "fl_con": "Vir"
+}

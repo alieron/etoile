@@ -1,0 +1,13 @@
+{
+  "id": "9_leonis",
+  "name": "9 Leonis",
+  "rank": 5,
+  "ra": 144.45788526573,
+  "dec": 24.67027716154,
+  "dist": 71.736,
+  "otype": "PM*",
+  "spect": "G0III",
+  "cat": 13,
+  "fl": 9,
+  "fl_con": "Leo"
+}

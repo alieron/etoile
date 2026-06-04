@@ -1,0 +1,16 @@
+{
+  "id": "upsilon_1_puppis",
+  "name": "Upsilon 1 Puppis",
+  "rank": 4,
+  "ra": 109.57663990648459,
+  "dec": -36.73395236853278,
+  "dist": 246.3054,
+  "otype": "Be*",
+  "spect": "B2V+B3IVne",
+  "cat": 8,
+  "by": "ups01",
+  "by_greek": "υ¹",
+  "by_con": "Pup",
+  "v": "NV",
+  "v_con": "Pup"
+}

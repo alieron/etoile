@@ -1,0 +1,13 @@
+{
+  "id": "59_draconis",
+  "name": "59 Draconis",
+  "rank": 5,
+  "ra": 287.29117275262,
+  "dec": 76.56050383878,
+  "dist": 27.3,
+  "otype": "PM*",
+  "spect": "A7V",
+  "cat": 7,
+  "fl": 59,
+  "fl_con": "Dra"
+}

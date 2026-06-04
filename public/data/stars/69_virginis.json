@@ -1,0 +1,13 @@
+{
+  "id": "69_virginis",
+  "name": "69 Virginis",
+  "rank": 5,
+  "ra": 201.86318348636,
+  "dec": -15.97357933994,
+  "dist": 85.9107,
+  "otype": "PM*",
+  "spect": "K0III-IIIbCN1.5CH0.5",
+  "cat": 15,
+  "fl": 69,
+  "fl_con": "Vir"
+}

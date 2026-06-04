@@ -1,0 +1,16 @@
+{
+  "id": "nu_1_lyrae",
+  "name": "Nu 1 Lyrae",
+  "rank": 4,
+  "ra": 282.44132594672,
+  "dec": 32.81281845627999,
+  "dist": 401.6064,
+  "otype": "*",
+  "spect": "B3IV",
+  "cat": 9,
+  "by": "nu.01",
+  "by_greek": "ν¹",
+  "by_con": "Lyr",
+  "fl": 8,
+  "fl_con": "Lyr"
+}

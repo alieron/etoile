@@ -1,0 +1,14 @@
+{
+  "id": "21_sagittarii_b",
+  "name": "21 Sagittarii B",
+  "rank": 5,
+  "ra": 276.33722136666665,
+  "dec": -20.541551125,
+  "dist": 125.7862,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "fl": 21,
+  "fl_con": "Sgr",
+  "fl_comp": "B"
+}

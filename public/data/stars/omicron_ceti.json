@@ -1,0 +1,17 @@
+{
+  "id": "omicron_ceti",
+  "name": "Omicron Ceti",
+  "rank": 2,
+  "ra": 34.83663375759996,
+  "dec": -2.9776376730729166,
+  "dist": 91.659,
+  "otype": "Mi*",
+  "spect": "M5-9IIIe+DA",
+  "cat": 14,
+  "proper": "Mira",
+  "by": "omi",
+  "by_greek": "ο",
+  "by_con": "Cet",
+  "fl": 68,
+  "fl_con": "Cet"
+}

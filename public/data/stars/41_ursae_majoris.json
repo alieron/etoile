@@ -1,0 +1,13 @@
+{
+  "id": "41_ursae_majoris",
+  "name": "41 Ursae Majoris",
+  "rank": 5,
+  "ra": 161.59367188671,
+  "dec": 57.36591282499,
+  "dist": 214.5923,
+  "otype": "PM*",
+  "spect": "M1III",
+  "cat": 14,
+  "fl": 41,
+  "fl_con": "UMa"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kappa_2_ceti",
+  "name": "Kappa 2 Ceti",
+  "rank": 4,
+  "ra": 50.27834658121,
+  "dec": 3.6756225920300007,
+  "dist": 98.912,
+  "otype": "PM*",
+  "spect": "G9IIIBa0.2",
+  "cat": 16,
+  "by": "kap02",
+  "by_greek": "κ²",
+  "by_con": "Cet",
+  "fl": 97,
+  "fl_con": "Cet"
+}

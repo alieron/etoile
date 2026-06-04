@@ -1,0 +1,16 @@
+{
+  "id": "c_cancri",
+  "name": "c Cancri",
+  "rank": 4,
+  "ra": 129.27403693521,
+  "dec": 9.655578089720002,
+  "dist": 149.7006,
+  "otype": "*",
+  "spect": "A3V",
+  "cat": 7,
+  "by": "c",
+  "by_greek": "c",
+  "by_con": "Cnc",
+  "fl": 36,
+  "fl_con": "Cnc"
+}

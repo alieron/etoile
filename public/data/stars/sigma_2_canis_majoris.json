@@ -1,0 +1,14 @@
+{
+  "id": "sigma_2_canis_majoris",
+  "name": "Sigma 2 Canis Majoris",
+  "rank": 4,
+  "ra": 105.42978350186792,
+  "dec": -27.934830340443888,
+  "dist": 343.6426,
+  "otype": "*",
+  "spect": "",
+  "cat": 0,
+  "by": "sig02",
+  "by_greek": "σ²",
+  "by_con": "CMa"
+}

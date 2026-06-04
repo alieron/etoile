@@ -1,0 +1,16 @@
+{
+  "id": "upsilon_2_cancri",
+  "name": "Upsilon 2 Cancri",
+  "rank": 4,
+  "ra": 128.25043357648,
+  "dec": 24.08479431571,
+  "dist": 170.3578,
+  "otype": "PM*",
+  "spect": "G9III",
+  "cat": 13,
+  "by": "ups02",
+  "by_greek": "υ²",
+  "by_con": "Cnc",
+  "fl": 32,
+  "fl_con": "Cnc"
+}

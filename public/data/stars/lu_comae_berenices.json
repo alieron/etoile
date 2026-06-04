@@ -1,0 +1,15 @@
+{
+  "id": "lu_comae_berenices",
+  "name": "LU Comae Berenices",
+  "rank": 5,
+  "ra": 195.06862265967996,
+  "dec": 30.785022071370005,
+  "dist": 202.4291,
+  "otype": "RS*",
+  "spect": "G9IIICH-2CN-1",
+  "cat": 13,
+  "v": "LU",
+  "v_con": "Com",
+  "fl": 37,
+  "fl_con": "Com"
+}

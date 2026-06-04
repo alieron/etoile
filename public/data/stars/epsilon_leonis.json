@@ -1,0 +1,16 @@
+{
+  "id": "epsilon_leonis",
+  "name": "Epsilon Leonis",
+  "rank": 3,
+  "ra": 146.46280673687792,
+  "dec": 23.77425377711222,
+  "dist": 75.643,
+  "otype": "*",
+  "spect": "G1IIIa",
+  "cat": 16,
+  "by": "eps",
+  "by_greek": "ε",
+  "by_con": "Leo",
+  "fl": 17,
+  "fl_con": "Leo"
+}

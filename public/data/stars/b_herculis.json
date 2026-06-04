@@ -1,0 +1,16 @@
+{
+  "id": "b_herculis",
+  "name": "b Herculis",
+  "rank": 4,
+  "ra": 271.75662775372,
+  "dec": 30.562106914579996,
+  "dist": 15.6421,
+  "otype": "SB*",
+  "spect": "F6V",
+  "cat": 6,
+  "by": "b",
+  "by_greek": "b",
+  "by_con": "Her",
+  "fl": 99,
+  "fl_con": "Her"
+}

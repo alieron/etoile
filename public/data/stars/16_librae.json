@@ -1,0 +1,13 @@
+{
+  "id": "16_librae",
+  "name": "16 Librae",
+  "rank": 5,
+  "ra": 224.29582868978,
+  "dec": -4.346458683819999,
+  "dist": 26.9034,
+  "otype": "PM*",
+  "spect": "F2V",
+  "cat": 6,
+  "fl": 16,
+  "fl_con": "Lib"
+}

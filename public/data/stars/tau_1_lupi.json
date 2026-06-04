@@ -1,0 +1,14 @@
+{
+  "id": "tau_1_lupi",
+  "name": "Tau 1 Lupi",
+  "rank": 4,
+  "ra": 216.53426845332456,
+  "dec": -45.221423300891665,
+  "dist": 334.4482,
+  "otype": "bC*",
+  "spect": "B2IV",
+  "cat": 8,
+  "by": "tau01",
+  "by_greek": "τ¹",
+  "by_con": "Lup"
+}

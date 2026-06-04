@@ -1,0 +1,16 @@
+{
+  "id": "q_virginis",
+  "name": "q Virginis",
+  "rank": 4,
+  "ra": 188.44478559847457,
+  "dec": -9.452077370639444,
+  "dist": 79.2393,
+  "otype": "PM*",
+  "spect": "B9V",
+  "cat": 8,
+  "by": "q",
+  "by_greek": "q",
+  "by_con": "Vir",
+  "fl": 21,
+  "fl_con": "Vir"
+}

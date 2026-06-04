@@ -1,0 +1,14 @@
+{
+  "id": "11_scorpii_b",
+  "name": "11 Scorpii B",
+  "rank": 5,
+  "ra": 241.90079798982,
+  "dec": -12.745586392169999,
+  "dist": 122.997,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 11,
+  "fl_con": "Sco",
+  "fl_comp": "B"
+}

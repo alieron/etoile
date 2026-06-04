@@ -1,0 +1,15 @@
+{
+  "id": "y_centauri_a",
+  "name": "y Centauri A",
+  "rank": 4,
+  "ra": 208.3865016262477,
+  "dec": -35.664255558716036,
+  "dist": 52.274422739,
+  "otype": "PM*",
+  "spect": "F3V",
+  "cat": 6,
+  "by": "y",
+  "by_greek": "y",
+  "by_con": "Cen",
+  "by_comp": "A"
+}

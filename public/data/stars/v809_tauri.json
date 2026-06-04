@@ -1,0 +1,15 @@
+{
+  "id": "v809_tauri",
+  "name": "V809 Tauri",
+  "rank": 5,
+  "ra": 88.09288097237,
+  "dec": 14.17178566294,
+  "dist": 130.039,
+  "otype": "a2*",
+  "spect": "A0VpSiSrCr",
+  "cat": 20,
+  "v": "V809",
+  "v_con": "Tau",
+  "fl": 137,
+  "fl_con": "Tau"
+}

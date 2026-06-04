@@ -1,0 +1,16 @@
+{
+  "id": "sigma_1_cancri",
+  "name": "Sigma 1 Cancri",
+  "rank": 4,
+  "ra": 133.14425827925,
+  "dec": 32.47415912243,
+  "dist": 64.4745,
+  "otype": "*",
+  "spect": "A8Vam",
+  "cat": 7,
+  "by": "sig01",
+  "by_greek": "σ¹",
+  "by_con": "Cnc",
+  "fl": 51,
+  "fl_con": "Cnc"
+}

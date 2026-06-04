@@ -1,0 +1,17 @@
+{
+  "id": "tau_2_arietis",
+  "name": "Tau 2 Arietis",
+  "rank": 4,
+  "ra": 50.68850556107834,
+  "dec": 20.742067186762778,
+  "dist": 97.371,
+  "otype": "PM*",
+  "spect": "K3III",
+  "cat": 13,
+  "by": "tau02",
+  "by_greek": "τ²",
+  "by_con": "Ari",
+  "fl": 63,
+  "fl_con": "Ari",
+  "fl_comp": "A"
+}

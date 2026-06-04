@@ -1,167 +1,142 @@
 {
-  "abbreviation": "Cen",
+  "id": "Cen",
   "name": "Centaurus",
-  "genitive": "Centauri",
+  "gen": "Centauri",
   "meaning": "Centaur",
-  "rank": 1,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 166.4794,
-        "dec_deg": -35.6747,
-        "ra_deg_signed": 166.4794
-      },
-      {
-        "ra_deg": 166.4565,
-        "dec_deg": -40.4246,
-        "ra_deg_signed": 166.4565
-      },
-      {
-        "ra_deg": 166.3373,
-        "dec_deg": -57.1744,
-        "ra_deg_signed": 166.3373
-      },
-      {
-        "ra_deg": 170.1559,
-        "dec_deg": -57.1843,
-        "ra_deg_signed": 170.1559
-      },
-      {
-        "ra_deg": 170.0848,
-        "dec_deg": -64.6843,
-        "ra_deg_signed": 170.0848
-      },
-      {
-        "ra_deg": 179.0574,
-        "dec_deg": -64.6958,
-        "ra_deg_signed": 179.0574
-      },
-      {
-        "ra_deg": 179.0708,
-        "dec_deg": -55.6958,
-        "ra_deg_signed": 179.0708
-      },
-      {
-        "ra_deg": 194.3345,
-        "dec_deg": -55.6771,
-        "ra_deg_signed": -165.6655
-      },
-      {
-        "ra_deg": 194.4384,
-        "dec_deg": -64.677,
-        "ra_deg_signed": -165.5616
-      },
-      {
-        "ra_deg": 204.6803,
-        "dec_deg": -64.6379,
-        "ra_deg_signed": -155.3197
-      },
-      {
-        "ra_deg": 220.515,
-        "dec_deg": -64.539,
-        "ra_deg_signed": -139.485
-      },
-      {
-        "ra_deg": 220.2345,
-        "dec_deg": -55.5401,
-        "ra_deg_signed": -139.7655
-      },
-      {
-        "ra_deg": 214.6568,
-        "dec_deg": -55.58,
-        "ra_deg_signed": -145.3432
-      },
-      {
-        "ra_deg": 214.4503,
-        "dec_deg": -42.5806,
-        "ra_deg_signed": -145.5497
-      },
-      {
-        "ra_deg": 225.7963,
-        "dec_deg": -42.4942,
-        "ra_deg_signed": -134.2037
-      },
-      {
-        "ra_deg": 225.6308,
-        "dec_deg": -29.9949,
-        "ra_deg_signed": -134.3692
-      },
-      {
-        "ra_deg": 190.4174,
-        "dec_deg": -30.1864,
-        "ra_deg_signed": -169.5826
-      },
-      {
-        "ra_deg": 190.4272,
-        "dec_deg": -33.6864,
-        "ra_deg_signed": -169.5728
-      },
-      {
-        "ra_deg": 185.3874,
-        "dec_deg": -33.6939,
-        "ra_deg_signed": -174.6126
-      },
-      {
-        "ra_deg": 185.3903,
-        "dec_deg": -35.6939,
-        "ra_deg_signed": -174.6097
-      },
-      {
-        "ra_deg": 166.4794,
-        "dec_deg": -35.6747,
-        "ra_deg_signed": 166.4794
-      }
-    ]
-  },
-  "paths_hip": [
+  "rank": 0,
+  "focus": [
+    -164,
+    -47,
+    115
+  ],
+  "label": [
+    -160.5,
+    -40
+  ],
+  "bound": [
     [
-      61932,
-      66657,
-      68702,
-      71683,
-      68702,
-      66657,
-      68002,
-      61932,
-      68002,
-      68282,
-      68245,
-      71352,
-      68245,
-      68862,
-      70090,
-      68933,
-      67464,
-      68002
-    ],
-    [
-      55425,
-      59196,
-      60823,
-      61932,
-      60823,
-      59449,
-      56243
-    ],
-    [
-      67464,
-      65936,
-      65109,
-      61789
-    ],
-    [
-      71352,
-      73334
+      [
+        166.4794,
+        -35.6747
+      ],
+      [
+        166.4565,
+        -40.4246
+      ],
+      [
+        166.3373,
+        -57.1744
+      ],
+      [
+        170.1559,
+        -57.1843
+      ],
+      [
+        170.0848,
+        -64.6843
+      ],
+      [
+        179.0574,
+        -64.6958
+      ],
+      [
+        179.0708,
+        -55.6958
+      ],
+      [
+        -165.6655,
+        -55.6771
+      ],
+      [
+        -165.5616,
+        -64.677
+      ],
+      [
+        -155.3197,
+        -64.6379
+      ],
+      [
+        -139.485,
+        -64.539
+      ],
+      [
+        -139.7655,
+        -55.5401
+      ],
+      [
+        -145.3432,
+        -55.58
+      ],
+      [
+        -145.5497,
+        -42.5806
+      ],
+      [
+        -134.2037,
+        -42.4942
+      ],
+      [
+        -134.3692,
+        -29.9949
+      ],
+      [
+        -169.5826,
+        -30.1864
+      ],
+      [
+        -169.5728,
+        -33.6864
+      ],
+      [
+        -174.6126,
+        -33.6939
+      ],
+      [
+        -174.6097,
+        -35.6939
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Rigil Kentaurus",
-    "designation": "Alp1Cen",
-    "display_name": "Alpha1Cen Centauri",
-    "display_name_greek": "α1Cen Centauri",
-    "hip": 71683,
-    "ra_deg": 219.911475,
-    "dec_deg": -60.833976
-  }
+  "lines": [
+    [
+      "gamma_centauri_a",
+      "epsilon_centauri",
+      "beta_centauri",
+      "alpha_centauri_a",
+      "beta_centauri",
+      "epsilon_centauri",
+      "zeta_centauri",
+      "gamma_centauri_a",
+      "zeta_centauri",
+      "upsilon_1_centauri",
+      "phi_centauri",
+      "eta_centauri",
+      "phi_centauri",
+      "chi_centauri",
+      "psi_centauri",
+      "theta_centauri",
+      "nu_centauri",
+      "zeta_centauri"
+    ],
+    [
+      "pi_centauri_a",
+      "delta_centauri",
+      "sigma_centauri",
+      "gamma_centauri_a",
+      "sigma_centauri",
+      "rho_centauri",
+      "omicron_1_centauri"
+    ],
+    [
+      "nu_centauri",
+      "d_centauri",
+      "iota_centauri",
+      "l_centauri"
+    ],
+    [
+      "eta_centauri",
+      "kappa_centauri"
+    ]
+  ],
+  "bright": "alpha_centauri_a"
 }

@@ -1,0 +1,15 @@
+{
+  "id": "zeta_phoenicis_c",
+  "name": "Zeta Phoenicis C",
+  "rank": 4,
+  "ra": 17.093340595880004,
+  "dec": -55.24666080662001,
+  "dist": 82.038,
+  "otype": "*",
+  "spect": "F7V",
+  "cat": 6,
+  "by": "zet",
+  "by_greek": "ζ",
+  "by_con": "Phe",
+  "by_comp": "C"
+}

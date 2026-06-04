@@ -1,0 +1,13 @@
+{
+  "id": "29_sagittarii",
+  "name": "29 Sagittarii",
+  "rank": 5,
+  "ra": 282.41711665726,
+  "dec": -20.324654640190005,
+  "dist": 286.533,
+  "otype": "*",
+  "spect": "K2III",
+  "cat": 13,
+  "fl": 29,
+  "fl_con": "Sgr"
+}

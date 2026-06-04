@@ -1,70 +1,59 @@
 {
-  "abbreviation": "PsA",
+  "id": "PsA",
   "name": "Piscis Austrinus",
-  "genitive": "Piscis Austrini",
-  "meaning": "Southern Fish",
-  "rank": 2,
-  "boundary": {
-    "type": "Polygon",
-    "corners": [
-      {
-        "ra_deg": 346.681,
-        "dec_deg": -24.825,
-        "ra_deg_signed": -13.319
-      },
-      {
-        "ra_deg": 329.7703,
-        "dec_deg": -24.904,
-        "ra_deg_signed": -30.2297
-      },
-      {
-        "ra_deg": 321.8078,
-        "dec_deg": -24.9598,
-        "ra_deg_signed": -38.1922
-      },
-      {
-        "ra_deg": 321.8316,
-        "dec_deg": -27.4597,
-        "ra_deg_signed": -38.1684
-      },
-      {
-        "ra_deg": 321.9281,
-        "dec_deg": -36.4593,
-        "ra_deg_signed": -38.0719
-      },
-      {
-        "ra_deg": 346.7275,
-        "dec_deg": -36.325,
-        "ra_deg_signed": -13.2725
-      },
-      {
-        "ra_deg": 346.681,
-        "dec_deg": -24.825,
-        "ra_deg_signed": -13.319
-      }
-    ]
-  },
-  "paths_hip": [
+  "gen": "Piscis Austrini",
+  "meaning": "Southern Fish",
+  "rank": 1,
+  "focus": [
+    -25.7324,
+    -30.6422,
+    60
+  ],
+  "label": [
+    -27,
+    -29
+  ],
+  "bound": [
     [
-      113368,
-      113246,
-      112948,
-      111188,
-      109285,
-      107380,
-      107608,
-      109285,
-      111954,
-      113368
+      [
+        -13.319,
+        -24.825
+      ],
+      [
+        -30.2297,
+        -24.904
+      ],
+      [
+        -38.1922,
+        -24.9598
+      ],
+      [
+        -38.1684,
+        -27.4597
+      ],
+      [
+        -38.0719,
+        -36.4593
+      ],
+      [
+        -13.2725,
+        -36.325
+      ]
     ]
   ],
-  "brightest_star": {
-    "name": "Fomalhaut",
-    "designation": "24Alp PsA",
-    "display_name": "24 Alpha Piscis Austrini",
-    "display_name_greek": "24 α Piscis Austrini",
-    "hip": 113368,
-    "ra_deg": 344.41256999999996,
-    "dec_deg": -29.622236
-  }
+  "lines": [
+    [
+      "alpha_piscis_austrini",
+      "delta_piscis_austrini",
+      "gamma_piscis_austrini",
+      "beta_piscis_austrini",
+      "mu_piscis_austrini",
+      "iota_piscis_austrini",
+      "theta_piscis_austrini",
+      "mu_piscis_austrini",
+      "epsilon_piscis_austrini",
+      "alpha_piscis_austrini"
+    ]
+  ],
+  "bright": "alpha_piscis_austrini"
 }

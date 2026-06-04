@@ -1,0 +1,13 @@
+{
+  "id": "21_piscium",
+  "name": "21 Piscium",
+  "rank": 5,
+  "ra": 357.36447579926,
+  "dec": 1.0761290253600002,
+  "dist": 93.1099,
+  "otype": "*",
+  "spect": "A3III",
+  "cat": 13,
+  "fl": 21,
+  "fl_con": "Psc"
+}

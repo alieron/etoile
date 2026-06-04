@@ -1,0 +1,14 @@
+{
+  "id": "delta_2_chamaeleontis",
+  "name": "Delta 2 Chamaeleontis",
+  "rank": 3,
+  "ra": 161.44585968076748,
+  "dec": -80.54018818094444,
+  "dist": 107.5269,
+  "otype": "Pu*",
+  "spect": "B3V",
+  "cat": 8,
+  "by": "del02",
+  "by_greek": "δ²",
+  "by_con": "Cha"
+}

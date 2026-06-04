@@ -1,0 +1,15 @@
+{
+  "id": "gs_tauri",
+  "name": "GS Tauri",
+  "rank": 5,
+  "ra": 61.65171914532,
+  "dec": 27.599900041560005,
+  "dist": 128.866,
+  "otype": "a2*",
+  "spect": "Ap",
+  "cat": 20,
+  "v": "GS",
+  "v_con": "Tau",
+  "fl": 41,
+  "fl_con": "Tau"
+}

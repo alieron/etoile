@@ -1,0 +1,17 @@
+{
+  "id": "nu_ursae_majoris",
+  "name": "Nu Ursae Majoris",
+  "rank": 2,
+  "ra": 169.61973835928958,
+  "dec": 33.09430607022111,
+  "dist": 122.399,
+  "otype": "*",
+  "spect": "K3-III:",
+  "cat": 13,
+  "proper": "Alula Borealis",
+  "by": "nu.",
+  "by_greek": "ν",
+  "by_con": "UMa",
+  "fl": 54,
+  "fl_con": "UMa"
+}

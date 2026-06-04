@@ -1,0 +1,15 @@
+{
+  "id": "vx_piscium",
+  "name": "VX Piscium",
+  "rank": 5,
+  "ra": 22.47026127844,
+  "dec": 18.35566873046,
+  "dist": 146.1988,
+  "otype": "dS*",
+  "spect": "A3Vb_lB",
+  "cat": 6,
+  "v": "VX",
+  "v_con": "Psc",
+  "fl": 97,
+  "fl_con": "Psc"
+}

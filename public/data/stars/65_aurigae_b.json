@@ -1,0 +1,14 @@
+{
+  "id": "65_aurigae_b",
+  "name": "65 Aurigae B",
+  "rank": 5,
+  "ra": 110.51160589737002,
+  "dec": 36.7637320992,
+  "dist": 76.86,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 65,
+  "fl_con": "Aur",
+  "fl_comp": "B"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "h_aquarii",
+  "name": "h Aquarii",
+  "rank": 4,
+  "ra": 358.21053865506,
+  "dec": -8.99675781592,
+  "dist": 189.0359,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "by": "h",
+  "by_greek": "h",
+  "by_con": "Aqr"
+}

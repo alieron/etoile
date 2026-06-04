@@ -1,0 +1,14 @@
+{
+  "id": "theta_mensae",
+  "name": "Theta Mensae",
+  "rank": 4,
+  "ra": 104.14364309959001,
+  "dec": -79.42019215656,
+  "dist": 107.9914,
+  "otype": "Pu*",
+  "spect": "B9.5/A0III/IV",
+  "cat": 9,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "Men"
+}

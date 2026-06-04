@@ -1,0 +1,17 @@
+{
+  "id": "tau_2_eridani",
+  "name": "Tau 2 Eridani",
+  "rank": 2,
+  "ra": 42.759696298533754,
+  "dec": -21.00401153253444,
+  "dist": 57.3066,
+  "otype": "PM*",
+  "spect": "K0III",
+  "cat": 13,
+  "proper": "Angetenar",
+  "by": "tau02",
+  "by_greek": "τ²",
+  "by_con": "Eri",
+  "fl": 2,
+  "fl_con": "Eri"
+}

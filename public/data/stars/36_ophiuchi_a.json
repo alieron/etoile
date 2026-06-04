@@ -1,0 +1,15 @@
+{
+  "id": "36_ophiuchi_a",
+  "name": "36 Ophiuchi A",
+  "rank": 2,
+  "ra": 258.8374330733334,
+  "dec": -26.602821420833333,
+  "dist": 5.933359333,
+  "otype": "PM*",
+  "spect": "K2V+K1V",
+  "cat": 4,
+  "proper": "Guniibuu",
+  "fl": 36,
+  "fl_con": "Oph",
+  "fl_comp": "A"
+}

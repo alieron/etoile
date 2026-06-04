@@ -1,0 +1,14 @@
+{
+  "id": "theta_coronae_australis",
+  "name": "Theta Coronae Australis",
+  "rank": 3,
+  "ra": 278.37577405682,
+  "dec": -42.31250823975999,
+  "dist": 170.9402,
+  "otype": "*",
+  "spect": "G8III",
+  "cat": 13,
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "CrA"
+}

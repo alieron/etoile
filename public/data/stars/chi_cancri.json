@@ -1,0 +1,16 @@
+{
+  "id": "chi_cancri",
+  "name": "Chi Cancri",
+  "rank": 4,
+  "ra": 125.01608650106499,
+  "dec": 27.217705047748055,
+  "dist": 18.2715,
+  "otype": "PM*",
+  "spect": "F6V",
+  "cat": 6,
+  "by": "chi",
+  "by_greek": "χ",
+  "by_con": "Cnc",
+  "fl": 18,
+  "fl_con": "Cnc"
+}

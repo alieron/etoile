@@ -1,0 +1,16 @@
+{
+  "id": "pi_persei",
+  "name": "Pi Persei",
+  "rank": 4,
+  "ra": 44.69029234138,
+  "dec": 39.6627265502,
+  "dist": 94.9668,
+  "otype": "*",
+  "spect": "A2Vn",
+  "cat": 7,
+  "by": "pi.",
+  "by_greek": "π",
+  "by_con": "Per",
+  "fl": 22,
+  "fl_con": "Per"
+}

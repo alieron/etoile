@@ -1,0 +1,15 @@
+{
+  "id": "cf_bootis",
+  "name": "CF Boötis",
+  "rank": 5,
+  "ra": 212.07209479917998,
+  "dec": 49.45816567982,
+  "dist": 168.3502,
+  "otype": "LP*",
+  "spect": "M1.5III",
+  "cat": 14,
+  "v": "CF",
+  "v_con": "Boo",
+  "fl": 13,
+  "fl_con": "Boo"
+}

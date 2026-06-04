@@ -1,0 +1,18 @@
+{
+  "id": "d_1_virginis_b",
+  "name": "d 1 Virginis B",
+  "rank": 4,
+  "ra": 190.48871521692996,
+  "dec": 6.807516914420001,
+  "dist": 81.02,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "by": "d01",
+  "by_greek": "d¹",
+  "by_con": "Vir",
+  "by_comp": "B",
+  "fl": 31,
+  "fl_con": "Vir",
+  "fl_comp": "B"
+}

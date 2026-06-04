@@ -1,0 +1,20 @@
+{
+  "id": "omicron_2_eridani_c",
+  "name": "Omicron 2 Eridani C",
+  "rank": 4,
+  "ra": 63.83973332536918,
+  "dec": -7.655748493915556,
+  "dist": 5.0137,
+  "otype": "PM*",
+  "spect": "M4.5V",
+  "cat": 3,
+  "by": "omi02",
+  "by_greek": "ο²",
+  "by_con": "Eri",
+  "by_comp": "C",
+  "v": "DY",
+  "v_con": "Eri",
+  "fl": 40,
+  "fl_con": "Eri",
+  "fl_comp": "C"
+}

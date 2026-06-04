@@ -1,0 +1,13 @@
+{
+  "id": "62_serpentis",
+  "name": "62 Serpentis",
+  "rank": 5,
+  "ra": 283.86442154957,
+  "dec": 6.615301024750002,
+  "dist": 88.2613,
+  "otype": "SB*",
+  "spect": "G9III",
+  "cat": 13,
+  "fl": 62,
+  "fl_con": "Ser"
+}

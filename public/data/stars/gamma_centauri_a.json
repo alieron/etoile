@@ -1,0 +1,15 @@
+{
+  "id": "gamma_centauri_a",
+  "name": "Gamma Centauri A",
+  "rank": 3,
+  "ra": 190.37933367081536,
+  "dec": -48.959871515023295,
+  "dist": 39.90459904200001,
+  "otype": "PM*",
+  "spect": "A1IV+A0IV",
+  "cat": 10,
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Cen",
+  "by_comp": "A"
+}

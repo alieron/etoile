@@ -1,0 +1,15 @@
+{
+  "id": "uw_canis_majoris",
+  "name": "UW Canis Majoris",
+  "rank": 5,
+  "ra": 109.66824556404002,
+  "dec": -24.55869951348,
+  "dist": 584.7953,
+  "otype": "SB*",
+  "spect": "O7Iafpvar",
+  "cat": 17,
+  "v": "UW",
+  "v_con": "CMa",
+  "fl": 29,
+  "fl_con": "CMa"
+}

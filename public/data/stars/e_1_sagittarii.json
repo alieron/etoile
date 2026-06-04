@@ -1,0 +1,16 @@
+{
+  "id": "e_1_sagittarii",
+  "name": "e 1 Sagittarii",
+  "rank": 4,
+  "ra": 295.18076262602,
+  "dec": -16.2932706621,
+  "dist": 73.7463,
+  "otype": "PM*",
+  "spect": "K1III",
+  "cat": 13,
+  "by": "e01",
+  "by_greek": "e¹",
+  "by_con": "Sgr",
+  "fl": 54,
+  "fl_con": "Sgr"
+}

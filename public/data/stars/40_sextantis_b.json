@@ -1,0 +1,14 @@
+{
+  "id": "40_sextantis_b",
+  "name": "40 Sextantis B",
+  "rank": 5,
+  "ra": 162.32213724766,
+  "dec": -4.0232734798,
+  "dist": 111.344,
+  "otype": "PM*",
+  "spect": "",
+  "cat": 0,
+  "fl": 40,
+  "fl_con": "Sex",
+  "fl_comp": "B"
+}

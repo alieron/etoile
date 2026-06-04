@@ -1,0 +1,15 @@
+{
+  "id": "v2157_cygni",
+  "name": "V2157 Cygni",
+  "rank": 5,
+  "ra": 321.44593787311,
+  "dec": 36.66738449535,
+  "dist": 100000.0,
+  "otype": "s*b",
+  "spect": "B0.2Iab",
+  "cat": 17,
+  "v": "V2157",
+  "v_con": "Cyg",
+  "fl": 69,
+  "fl_con": "Cyg"
+}

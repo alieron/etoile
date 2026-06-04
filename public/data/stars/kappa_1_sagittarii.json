@@ -1,0 +1,14 @@
+{
+  "id": "kappa_1_sagittarii",
+  "name": "Kappa 1 Sagittarii",
+  "rank": 4,
+  "ra": 305.6145927403999,
+  "dec": -42.04956200232,
+  "dist": 66.1376,
+  "otype": "PM*",
+  "spect": "A0V",
+  "cat": 7,
+  "by": "kap01",
+  "by_greek": "κ¹",
+  "by_con": "Sgr"
+}

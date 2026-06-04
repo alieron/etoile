@@ -1,0 +1,13 @@
+{
+  "id": "67_ophiuchi",
+  "name": "67 Ophiuchi",
+  "rank": 5,
+  "ra": 270.16131578875,
+  "dec": 2.93156483414,
+  "dist": 377.3585,
+  "otype": "s*b",
+  "spect": "B4Ib-II",
+  "cat": 17,
+  "fl": 67,
+  "fl_con": "Oph"
+}

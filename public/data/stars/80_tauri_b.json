@@ -1,0 +1,14 @@
+{
+  "id": "80_tauri_b",
+  "name": "80 Tauri B",
+  "rank": 5,
+  "ra": 67.53597052572,
+  "dec": 15.63827757778,
+  "dist": 46.865,
+  "otype": "PM*",
+  "spect": "G2V",
+  "cat": 5,
+  "fl": 80,
+  "fl_con": "Tau",
+  "fl_comp": "B"
+}

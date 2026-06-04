@@ -1,0 +1,13 @@
+{
+  "id": "107_piscium",
+  "name": "107 Piscium",
+  "rank": 5,
+  "ra": 25.624010521366664,
+  "dec": 20.26851268269722,
+  "dist": 7.5324,
+  "otype": "PM*",
+  "spect": "K1V",
+  "cat": 4,
+  "fl": 107,
+  "fl_con": "Psc"
+}

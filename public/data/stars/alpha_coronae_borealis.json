@@ -1,0 +1,17 @@
+{
+  "id": "alpha_coronae_borealis",
+  "name": "Alpha Coronae Borealis",
+  "rank": 2,
+  "ra": 233.67195203403162,
+  "dec": 26.714685000024716,
+  "dist": 23.0097,
+  "otype": "SB*",
+  "spect": "A1IV",
+  "cat": 10,
+  "proper": "Alphecca",
+  "by": "alf",
+  "by_greek": "α",
+  "by_con": "CrB",
+  "fl": 5,
+  "fl_con": "CrB"
+}

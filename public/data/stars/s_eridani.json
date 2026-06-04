@@ -1,0 +1,15 @@
+{
+  "id": "s_eridani",
+  "name": "S Eridani",
+  "rank": 3,
+  "ra": 74.98223662798,
+  "dec": -12.53741678567,
+  "dist": 88.968,
+  "otype": "dS*",
+  "spect": "F0V",
+  "cat": 6,
+  "v": "S",
+  "v_con": "Eri",
+  "fl": 64,
+  "fl_con": "Eri"
+}

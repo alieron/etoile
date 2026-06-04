@@ -1,0 +1,15 @@
+{
+  "id": "ww_leonis_minoris",
+  "name": "WW Leonis Minoris",
+  "rank": 5,
+  "ra": 163.67569746836,
+  "dec": 25.490724255300005,
+  "dist": 118.9061,
+  "otype": "dS*",
+  "spect": "F0",
+  "cat": 6,
+  "v": "WW",
+  "v_con": "LMi",
+  "fl": 48,
+  "fl_con": "LMi"
+}

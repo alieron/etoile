@@ -1,0 +1,13 @@
+{
+  "id": "8_leporis",
+  "name": "8 Leporis",
+  "rank": 5,
+  "ra": 80.875650188,
+  "dec": -13.92735291934,
+  "dist": 505.0505,
+  "otype": "SB*",
+  "spect": "B2IV",
+  "cat": 9,
+  "fl": 8,
+  "fl_con": "Lep"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "delta_eridani",
+  "name": "Delta Eridani",
+  "rank": 2,
+  "ra": 55.81208557481292,
+  "dec": -9.763391932194168,
+  "dist": 9.0408,
+  "otype": "PM*",
+  "spect": "K0+IV",
+  "cat": 12,
+  "proper": "Rana",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Eri",
+  "fl": 23,
+  "fl_con": "Eri"
+}

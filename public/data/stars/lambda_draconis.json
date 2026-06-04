@@ -1,0 +1,17 @@
+{
+  "id": "lambda_draconis",
+  "name": "Lambda Draconis",
+  "rank": 2,
+  "ra": 172.85092364299916,
+  "dec": 69.33107573011195,
+  "dist": 102.145,
+  "otype": "*",
+  "spect": "M0III-IIIaCa1",
+  "cat": 15,
+  "proper": "Giausar",
+  "by": "lam",
+  "by_greek": "λ",
+  "by_con": "Dra",
+  "fl": 1,
+  "fl_con": "Dra"
+}

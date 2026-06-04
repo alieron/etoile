@@ -1,0 +1,14 @@
+{
+  "id": "sigma_2_gruis",
+  "name": "Sigma 2 Gruis",
+  "rank": 4,
+  "ra": 339.24522230854,
+  "dec": -40.59103502877999,
+  "dist": 65.8328,
+  "otype": "PM*",
+  "spect": "A1V",
+  "cat": 7,
+  "by": "sig02",
+  "by_greek": "σ²",
+  "by_con": "Gru"
+}

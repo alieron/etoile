@@ -1,0 +1,13 @@
+{
+  "id": "40_cassiopeiae",
+  "name": "40 Cassiopeiae",
+  "rank": 5,
+  "ra": 24.62882459768,
+  "dec": 73.04003821568,
+  "dist": 140.4494,
+  "otype": "RG*",
+  "spect": "G7III-IIIb",
+  "cat": 14,
+  "fl": 40,
+  "fl_con": "Cas"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mu_2_scorpii",
+  "name": "Mu 2 Scorpii",
+  "rank": 2,
+  "ra": 253.0839388325,
+  "dec": -38.017534955277775,
+  "dist": 145.3488,
+  "otype": "bC?",
+  "spect": "B2IV",
+  "cat": 9,
+  "proper": "Pipirima",
+  "by": "mu.02",
+  "by_greek": "μ²",
+  "by_con": "Sco"
+}

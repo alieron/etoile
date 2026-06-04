@@ -1,0 +1,14 @@
+{
+  "id": "2_serpentis_a",
+  "name": "2 Serpentis A",
+  "rank": 5,
+  "ra": 225.45383755329,
+  "dec": -0.14029798318000003,
+  "dist": 704.232442254,
+  "otype": "*",
+  "spect": "M0.5IIb",
+  "cat": 15,
+  "fl": 2,
+  "fl_con": "Ser",
+  "fl_comp": "A"
+}

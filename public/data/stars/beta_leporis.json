@@ -1,0 +1,17 @@
+{
+  "id": "beta_leporis",
+  "name": "Beta Leporis",
+  "rank": 2,
+  "ra": 82.06134536679916,
+  "dec": -20.759443885748333,
+  "dist": 49.1642,
+  "otype": "PM*",
+  "spect": "G5II-IIIa:",
+  "cat": 16,
+  "proper": "Nihal",
+  "by": "bet",
+  "by_greek": "β",
+  "by_con": "Lep",
+  "fl": 9,
+  "fl_con": "Lep"
+}

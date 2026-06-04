@@ -1,0 +1,15 @@
+{
+  "id": "v373_pegasi",
+  "name": "V373 Pegasi",
+  "rank": 5,
+  "ra": 327.5360703782029,
+  "dec": 17.28569480478722,
+  "dist": 33.4225,
+  "otype": "**",
+  "spect": "F2III-IV",
+  "cat": 11,
+  "v": "V373",
+  "v_con": "Peg",
+  "fl": 13,
+  "fl_con": "Peg"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "16_scorpii",
+  "name": "16 Scorpii",
+  "rank": 5,
+  "ra": 243.03048316754,
+  "dec": -8.547579594,
+  "dist": 77.3994,
+  "otype": "*",
+  "spect": "A2IV",
+  "cat": 10,
+  "fl": 16,
+  "fl_con": "Sco"
+}

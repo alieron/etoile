@@ -1,0 +1,16 @@
+{
+  "id": "theta_coronae_borealis_a",
+  "name": "Theta Coronae Borealis A",
+  "rank": 2,
+  "ra": 233.23242559618694,
+  "dec": 31.359132267070578,
+  "dist": 115.075950748,
+  "otype": "*",
+  "spect": "B6Vnne",
+  "cat": 8,
+  "proper": "Guansuo",
+  "by": "tet",
+  "by_greek": "θ",
+  "by_con": "CrB",
+  "by_comp": "A"
+}

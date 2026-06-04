@@ -1,0 +1,13 @@
+{
+  "id": "3_canum_venaticorum",
+  "name": "3 Canum Venaticorum",
+  "rank": 5,
+  "ra": 184.95296081512998,
+  "dec": 48.98414636519001,
+  "dist": 180.8318,
+  "otype": "*",
+  "spect": "M0III",
+  "cat": 14,
+  "fl": 3,
+  "fl_con": "CVn"
+}

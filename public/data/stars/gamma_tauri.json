@@ -1,0 +1,17 @@
+{
+  "id": "gamma_tauri",
+  "name": "Gamma Tauri",
+  "rank": 2,
+  "ra": 64.94834968291876,
+  "dec": 15.627642051424726,
+  "dist": 49.5295,
+  "otype": "**",
+  "spect": "G9.5IIIabCN0.5",
+  "cat": 16,
+  "proper": "Prima Hyadum",
+  "by": "gam",
+  "by_greek": "γ",
+  "by_con": "Tau",
+  "fl": 54,
+  "fl_con": "Tau"
+}
