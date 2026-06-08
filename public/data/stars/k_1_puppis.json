@@ -1,10 +1,10 @@
 {
   "id": "k_1_puppis",
   "name": "k 1 Puppis",
-  "rank": 4,
+  "rank": 3,
   "ra": 114.70572976186001,
   "dec": -26.80175681616,
-  "dist": 110.741,
+  "dist": 106.2699,
   "otype": "*",
   "spect": "B6V",
   "cat": 8,

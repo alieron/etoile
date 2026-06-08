@@ -1,14 +1,14 @@
 {
   "id": "w_puppis",
-  "name": "W Puppis",
+  "name": "w Puppis",
   "rank": 4,
-  "ra": 115.92470427613999,
-  "dec": -40.93374644967,
-  "dist": 66.5336,
-  "otype": "PM*",
-  "spect": "K1III",
-  "cat": 13,
-  "by": "W",
-  "by_greek": "W",
+  "ra": 125.34594178783,
+  "dec": -33.05436507907,
+  "dist": 308.642,
+  "otype": "*",
+  "spect": "K2+IIIa",
+  "cat": 15,
+  "by": "w",
+  "by_greek": "w",
   "by_con": "Pup"
 }

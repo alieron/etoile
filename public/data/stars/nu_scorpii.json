@@ -1,0 +1,17 @@
+{
+  "id": "nu_scorpii",
+  "name": "Nu Scorpii",
+  "rank": 2,
+  "ra": 242.99889864963222,
+  "dec": -19.46070447846264,
+  "dist": 145.3488,
+  "otype": "**",
+  "spect": "B2V",
+  "cat": 8,
+  "proper": "Jabbah",
+  "by": "nu.",
+  "by_greek": "ν",
+  "by_con": "Sco",
+  "fl": 14,
+  "fl_con": "Sco"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tau_1_hydri",
+  "name": "Tau 1 Hydri",
+  "rank": 4,
+  "ra": 25.33943137655,
+  "dec": -79.14819464688,
+  "dist": 120.7729,
+  "otype": "**",
+  "spect": "G6/8III",
+  "cat": 13,
+  "by": "tau01",
+  "by_greek": "τ¹",
+  "by_con": "Hyi"
+}

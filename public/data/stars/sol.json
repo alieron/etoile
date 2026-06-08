@@ -1,0 +1,12 @@
+{
+  "id": "sol",
+  "name": "Sol",
+  "rank": 0,
+  "ra": 0,
+  "dec": 0,
+  "dist": 0,
+  "otype": "*",
+  "spect": "G2V",
+  "cat": 5,
+  "proper": "Sol"
+}

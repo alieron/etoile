@@ -1,16 +1,14 @@
 {
   "id": "j_puppis",
-  "name": "j Puppis",
+  "name": "J Puppis",
   "rank": 4,
-  "ra": 119.21475968534753,
-  "dec": -22.880111626630278,
-  "dist": 160.0,
-  "otype": "*",
-  "spect": "F7II",
-  "cat": 13,
-  "by": "j",
-  "by_greek": "j",
-  "by_con": "Pup",
-  "fl": 11,
-  "fl_con": "Pup"
+  "ra": 118.32565615373706,
+  "dec": -48.10293513179667,
+  "dist": 507.6142,
+  "otype": "s*b",
+  "spect": "B0.5Ib",
+  "cat": 17,
+  "by": "J",
+  "by_greek": "J",
+  "by_con": "Pup"
 }

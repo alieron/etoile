@@ -1,14 +1,14 @@
 {
   "id": "c_velorum",
-  "name": "c Velorum",
+  "name": "C Velorum",
   "rank": 4,
-  "ra": 136.03866521203622,
-  "dec": -47.097735077495564,
-  "dist": 91.8274,
-  "otype": "PM*",
-  "spect": "K2III",
-  "cat": 13,
-  "by": "c",
-  "by_greek": "c",
+  "ra": 128.68165214948,
+  "dec": -49.94420212839999,
+  "dist": 260.4167,
+  "otype": "s*r",
+  "spect": "K1.5Ib",
+  "cat": 15,
+  "by": "C",
+  "by_greek": "C",
   "by_con": "Vel"
 }

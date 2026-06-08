@@ -1,10 +1,10 @@
 {
   "id": "gamma_2_arietis",
   "name": "Gamma 2 Arietis",
-  "rank": 4,
+  "rank": 3,
   "ra": 28.382553868509998,
   "dec": 19.293855549769997,
-  "dist": 50.951,
+  "dist": 50.3018,
   "otype": "PM*",
   "spect": "A2IVpSiSrCr",
   "cat": 10,

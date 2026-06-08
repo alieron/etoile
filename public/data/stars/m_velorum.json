@@ -1,14 +1,14 @@
 {
   "id": "m_velorum",
-  "name": "M Velorum",
+  "name": "m Velorum",
   "rank": 4,
-  "ra": 144.20641315882747,
-  "dec": -49.35502549652584,
-  "dist": 32.3206,
-  "otype": "PM*",
-  "spect": "A7V",
-  "cat": 7,
-  "by": "M",
-  "by_greek": "M",
+  "ra": 147.91945129249,
+  "dec": -46.54762225029,
+  "dist": 323.6246,
+  "otype": "SB*",
+  "spect": "G6IIa",
+  "cat": 16,
+  "by": "m",
+  "by_greek": "m",
   "by_con": "Vel"
 }

@@ -1,14 +1,14 @@
 {
   "id": "n_centauri",
-  "name": "n Centauri",
+  "name": "N Centauri",
   "rank": 4,
-  "ra": 193.35913209457917,
-  "dec": -40.17891354020334,
-  "dist": 45.5581,
-  "otype": "PM*",
-  "spect": "A4IV",
-  "cat": 10,
-  "by": "n",
-  "by_greek": "n",
+  "ra": 208.02025959959,
+  "dec": -52.81152953918,
+  "dist": 79.6813,
+  "otype": "Pu*",
+  "spect": "B8V",
+  "cat": 8,
+  "by": "N",
+  "by_greek": "N",
   "by_con": "Cen"
 }

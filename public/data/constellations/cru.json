@@ -35,7 +35,7 @@
   ],
   "lines": [
     [
-      "alpha_crux",
+      "alpha_1_crux",
       "gamma_crux"
     ],
     [
@@ -47,5 +47,5 @@
       "delta_crux"
     ]
   ],
-  "bright": "alpha_crux"
+  "bright": "alpha_1_crux"
 }

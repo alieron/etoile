@@ -1,18 +1,14 @@
 {
   "id": "c_1_centauri",
-  "name": "C 1 Centauri",
+  "name": "c 1 Centauri",
   "rank": 4,
-  "ra": 173.80534309151,
-  "dec": -47.372579094939994,
-  "dist": 221.2389,
-  "otype": "LP*",
-  "spect": "M3/4III",
-  "cat": 14,
-  "by": "C01",
-  "by_greek": "C¹",
-  "by_con": "Cen",
-  "v": "V763",
-  "v_con": "Cen",
-  "fl": 44,
-  "fl_con": "Cen"
+  "ra": 220.91432322798374,
+  "dec": -35.173668576684165,
+  "dist": 64.2261,
+  "otype": "PM*",
+  "spect": "K3IIIb",
+  "cat": 15,
+  "by": "c01",
+  "by_greek": "c¹",
+  "by_con": "Cen"
 }

@@ -1,14 +1,16 @@
 {
   "id": "c_puppis",
-  "name": "c Puppis",
+  "name": "C Puppis",
   "rank": 4,
-  "ra": 116.31373389138793,
-  "dec": -37.968585259939175,
-  "dist": 347.2222,
-  "otype": "*",
-  "spect": "K4III",
-  "cat": 13,
-  "by": "c",
-  "by_greek": "c",
-  "by_con": "Pup"
+  "ra": 106.01163603516667,
+  "dec": -42.337286690574174,
+  "dist": 106.8376,
+  "otype": "SB*",
+  "spect": "A3mA3-F0",
+  "cat": 7,
+  "by": "C",
+  "by_greek": "C",
+  "by_con": "Pup",
+  "fl": 59,
+  "fl_con": "Pup"
 }

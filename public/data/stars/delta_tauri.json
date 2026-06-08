@@ -1,0 +1,17 @@
+{
+  "id": "delta_tauri",
+  "name": "Delta Tauri",
+  "rank": 2,
+  "ra": 65.73372983164,
+  "dec": 17.54251383399,
+  "dist": 47.7099,
+  "otype": "SB*",
+  "spect": "G9.5IIICN0.5",
+  "cat": 13,
+  "proper": "Secunda Hyadum",
+  "by": "del",
+  "by_greek": "δ",
+  "by_con": "Tau",
+  "fl": 61,
+  "fl_con": "Tau"
+}

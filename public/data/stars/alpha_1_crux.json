@@ -1,13 +1,14 @@
 {
   "id": "alpha_1_crux",
   "name": "Alpha 1 Crux",
-  "rank": 4,
+  "rank": 2,
   "ra": 186.6495666666667,
   "dec": -63.09909166666667,
   "dist": 98.7167,
   "otype": "*",
   "spect": "B0.5IV",
   "cat": 9,
+  "proper": "Acrux",
   "by": "alf01",
   "by_greek": "α¹",
   "by_con": "Cru"
