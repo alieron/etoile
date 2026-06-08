@@ -1,0 +1,12 @@
+{
+  "id": "shangcheng",
+  "name": "Shangcheng",
+  "rank": 2,
+  "ra": 47.98468873679841,
+  "dec": 74.39327247701216,
+  "dist": 50.914055009972394,
+  "otype": "PM*",
+  "spect": "A2Vnn",
+  "cat": 7,
+  "proper": "Shangcheng"
+}

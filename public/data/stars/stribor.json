@@ -1,0 +1,12 @@
+{
+  "id": "stribor",
+  "name": "Stribor",
+  "rank": 2,
+  "ra": 133.46118414139983,
+  "dec": 33.05668459011917,
+  "dist": 78.05812567064461,
+  "otype": "PM*",
+  "spect": "G0",
+  "cat": 5,
+  "proper": "Stribor"
+}

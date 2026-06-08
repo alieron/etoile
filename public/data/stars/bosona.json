@@ -1,0 +1,12 @@
+{
+  "id": "bosona",
+  "name": "Bosona",
+  "rank": 2,
+  "ra": 325.8537602263161,
+  "dec": -7.408244932074518,
+  "dist": 147.84709022508451,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "proper": "Bosona"
+}

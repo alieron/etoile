@@ -1,0 +1,12 @@
+{
+  "id": "kamelos",
+  "name": "Kamelos",
+  "rank": 2,
+  "ra": 100.12062000393435,
+  "dec": 77.99575740884993,
+  "dist": 222.46096491042948,
+  "otype": "*",
+  "spect": "K5III",
+  "cat": 13,
+  "proper": "Kamelos"
+}

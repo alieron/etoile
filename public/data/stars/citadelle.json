@@ -1,0 +1,12 @@
+{
+  "id": "citadelle",
+  "name": "Citadelle",
+  "rank": 2,
+  "ra": 4.821449515747088,
+  "dec": 14.054680583980472,
+  "dist": 192.24212427937664,
+  "otype": "PM*",
+  "spect": "K0",
+  "cat": 4,
+  "proper": "Citadelle"
+}

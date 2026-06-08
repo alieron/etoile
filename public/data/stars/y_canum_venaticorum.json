@@ -1,0 +1,14 @@
+{
+  "id": "y_canum_venaticorum",
+  "name": "Y Canum Venaticorum",
+  "rank": 2,
+  "ra": 191.28258987519374,
+  "dec": 45.44031536481818,
+  "dist": 310.3424573121454,
+  "otype": "C*",
+  "spect": "C-N5",
+  "cat": 18,
+  "proper": "La Superba",
+  "v": "Y",
+  "v_con": "CVn"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nosaxa",
+  "name": "Nosaxa",
+  "rank": 2,
+  "ra": 100.00737394686392,
+  "dec": -48.5418242004832,
+  "dist": 90.85558391177749,
+  "otype": "*",
+  "spect": "G5IV/V",
+  "cat": 11,
+  "proper": "Nosaxa"
+}

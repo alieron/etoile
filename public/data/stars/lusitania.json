@@ -1,0 +1,12 @@
+{
+  "id": "lusitania",
+  "name": "Lusitania",
+  "rank": 2,
+  "ra": 97.3059000794675,
+  "dec": 10.933612531173354,
+  "dist": 34.9068202847457,
+  "otype": "PM*",
+  "spect": "K5",
+  "cat": 4,
+  "proper": "Lusitânia"
+}

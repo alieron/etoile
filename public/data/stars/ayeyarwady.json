@@ -1,0 +1,12 @@
+{
+  "id": "ayeyarwady",
+  "name": "Ayeyarwady",
+  "rank": 2,
+  "ra": 45.044308630330164,
+  "dec": -20.802705529852243,
+  "dist": 161.6617743215916,
+  "otype": "*",
+  "spect": "G8/K0IV",
+  "cat": 11,
+  "proper": "Ayeyarwady"
+}

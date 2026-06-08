@@ -1,0 +1,12 @@
+{
+  "id": "kalausi",
+  "name": "Kalausi",
+  "rank": 2,
+  "ra": 144.29941443366025,
+  "dec": -43.27273758349013,
+  "dist": 40.850699306160344,
+  "otype": "PM*",
+  "spect": "K0/1V+G(III)",
+  "cat": 13,
+  "proper": "Kalausi"
+}

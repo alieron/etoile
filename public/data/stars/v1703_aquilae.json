@@ -1,0 +1,14 @@
+{
+  "id": "v1703_aquilae",
+  "name": "V1703 Aquilae",
+  "rank": 2,
+  "ra": 303.49907775157277,
+  "dec": -0.8657212651967648,
+  "dist": 19.6296874213325,
+  "otype": "BY*",
+  "spect": "K1/2V",
+  "cat": 4,
+  "proper": "Phoenicia",
+  "v": "V1703",
+  "v_con": "Aql"
+}

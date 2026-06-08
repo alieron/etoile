@@ -1,0 +1,12 @@
+{
+  "id": "intan",
+  "name": "Intan",
+  "rank": 2,
+  "ra": 50.1794542090031,
+  "dec": -33.729676590114614,
+  "dist": 47.718878319816085,
+  "otype": "PM*",
+  "spect": "K3/4III/V",
+  "cat": 13,
+  "proper": "Intan"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aniara",
+  "name": "Aniara",
+  "rank": 2,
+  "ra": 177.843695737286,
+  "dec": 57.6406559991897,
+  "dist": 122.41303024755936,
+  "otype": "*",
+  "spect": "K0III",
+  "cat": 13,
+  "proper": "Aniara"
+}

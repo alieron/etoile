@@ -1,0 +1,12 @@
+{
+  "id": "shama",
+  "name": "Shama",
+  "rank": 2,
+  "ra": 171.07153278533102,
+  "dec": -1.529783144538625,
+  "dist": 55.01153590362607,
+  "otype": "PM*",
+  "spect": "G8/K0IV",
+  "cat": 11,
+  "proper": "Shama"
+}

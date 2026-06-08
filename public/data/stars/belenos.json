@@ -1,0 +1,12 @@
+{
+  "id": "belenos",
+  "name": "Belenos",
+  "rank": 2,
+  "ra": 21.30342043040337,
+  "dec": 28.565994976122777,
+  "dist": 44.83183193089612,
+  "otype": "PM*",
+  "spect": "F8",
+  "cat": 6,
+  "proper": "Bélénos"
+}

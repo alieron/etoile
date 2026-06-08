@@ -1,0 +1,12 @@
+{
+  "id": "sharjah",
+  "name": "Sharjah",
+  "rank": 2,
+  "ra": 243.17425206530802,
+  "dec": -18.876454482180023,
+  "dist": 14.575139093681415,
+  "otype": "PM*",
+  "spect": "M3V",
+  "cat": 3,
+  "proper": "Sharjah"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "v2500_ophiuchi",
+  "name": "V2500 Ophiuchi",
+  "rank": 2,
+  "ra": 269.44850252543836,
+  "dec": 4.739420051112412,
+  "dist": 1.828233981355542,
+  "otype": "BY*",
+  "spect": "M4V",
+  "cat": 3,
+  "proper": "Barnard's Star",
+  "v": "V2500",
+  "v_con": "Oph"
+}

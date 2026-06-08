@@ -1,0 +1,12 @@
+{
+  "id": "hunahpu",
+  "name": "Hunahpu",
+  "rank": 2,
+  "ra": 169.4475019544933,
+  "dec": -23.975490314285143,
+  "dist": 113.1673863851298,
+  "otype": "PM*",
+  "spect": "K0III/IV",
+  "cat": 12,
+  "proper": "Hunahpú"
+}

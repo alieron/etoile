@@ -1,0 +1,12 @@
+{
+  "id": "danfeng",
+  "name": "Danfeng",
+  "rank": 2,
+  "ra": 350.0285027617499,
+  "dec": -60.06574702172856,
+  "dist": 25.18175620564442,
+  "otype": "PM*",
+  "spect": "M2V",
+  "cat": 3,
+  "proper": "Danfeng"
+}

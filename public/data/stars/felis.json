@@ -1,0 +1,12 @@
+{
+  "id": "felis",
+  "name": "Felis",
+  "rank": 2,
+  "ra": 148.71730539632327,
+  "dec": -19.009518661022422,
+  "dist": 176.09195355181689,
+  "otype": "PM*",
+  "spect": "K5III",
+  "cat": 13,
+  "proper": "Felis"
+}

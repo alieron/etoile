@@ -1,0 +1,14 @@
+{
+  "id": "t_coronae_borealis",
+  "name": "T Coronae Borealis",
+  "rank": 2,
+  "ra": 239.87565390231384,
+  "dec": 25.92022378794317,
+  "dist": 915.790264387408,
+  "otype": "Sy*",
+  "spect": "M3IIIe_sh",
+  "cat": 14,
+  "proper": "Blaze Star",
+  "v": "T",
+  "v_con": "CrB"
+}

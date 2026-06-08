@@ -1,0 +1,12 @@
+{
+  "id": "nushagak",
+  "name": "Nushagak",
+  "rank": 2,
+  "ra": 42.436652471054394,
+  "dec": 71.75308362260229,
+  "dist": 77.4341064066648,
+  "otype": "PM*",
+  "spect": "F9V",
+  "cat": 6,
+  "proper": "Nushagak"
+}

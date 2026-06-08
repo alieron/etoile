@@ -1,0 +1,12 @@
+{
+  "id": "tapecue",
+  "name": "Tapecue",
+  "rank": 2,
+  "ra": 116.9582970992207,
+  "dec": -54.265383607312614,
+  "dist": 32.51690278757974,
+  "otype": "PM*",
+  "spect": "G9V",
+  "cat": 5,
+  "proper": "Tapecue"
+}

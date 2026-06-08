@@ -1,0 +1,12 @@
+{
+  "id": "natasha",
+  "name": "Natasha",
+  "rank": 2,
+  "ra": 147.5105715090425,
+  "dec": -49.79053368319249,
+  "dist": 33.52638608064382,
+  "otype": "PM*",
+  "spect": "K1.5V",
+  "cat": 4,
+  "proper": "Natasha"
+}

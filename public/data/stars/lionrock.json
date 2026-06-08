@@ -1,0 +1,12 @@
+{
+  "id": "lionrock",
+  "name": "Lionrock",
+  "rank": 2,
+  "ra": 336.762400490189,
+  "dec": -17.26411908371357,
+  "dist": 111.54725074719514,
+  "otype": "PM*",
+  "spect": "G8IV",
+  "cat": 11,
+  "proper": "Lionrock"
+}

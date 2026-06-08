@@ -1,0 +1,12 @@
+{
+  "id": "macondo",
+  "name": "Macondo",
+  "rank": 2,
+  "ra": 161.08665173058154,
+  "dec": -33.5777005180233,
+  "dist": 28.485504634673706,
+  "otype": "PM*",
+  "spect": "K2IV-V",
+  "cat": 12,
+  "proper": "Macondo"
+}

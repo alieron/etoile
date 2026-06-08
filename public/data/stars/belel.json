@@ -1,0 +1,12 @@
+{
+  "id": "belel",
+  "name": "Belel",
+  "rank": 2,
+  "ra": 290.267400667659,
+  "dec": -23.619703904653402,
+  "dist": 120.52312157341738,
+  "otype": "RG*",
+  "spect": "K0III",
+  "cat": 14,
+  "proper": "Belel"
+}

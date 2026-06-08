@@ -1,0 +1,12 @@
+{
+  "id": "liesma",
+  "name": "Liesma",
+  "rank": 2,
+  "ra": 203.50993590074637,
+  "dec": 53.728176617478496,
+  "dist": 92.04449044325379,
+  "otype": "PM*",
+  "spect": "G0V",
+  "cat": 5,
+  "proper": "Liesma"
+}

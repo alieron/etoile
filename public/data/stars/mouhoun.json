@@ -1,0 +1,12 @@
+{
+  "id": "mouhoun",
+  "name": "Mouhoun",
+  "rank": 2,
+  "ra": 72.5745127838877,
+  "dec": -24.36893087792775,
+  "dist": 131.6397586542021,
+  "otype": "RG*",
+  "spect": "K0III",
+  "cat": 14,
+  "proper": "Mouhoun"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hoggar",
+  "name": "Hoggar",
+  "rank": 2,
+  "ra": 67.85606445814336,
+  "dec": 4.575248088049634,
+  "dist": 186.29651030648543,
+  "otype": "*",
+  "spect": "G8IV",
+  "cat": 11,
+  "proper": "Hoggar"
+}

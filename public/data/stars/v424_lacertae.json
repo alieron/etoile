@@ -1,0 +1,14 @@
+{
+  "id": "v424_lacertae",
+  "name": "V424 Lacertae",
+  "rank": 2,
+  "ra": 344.10832216302356,
+  "dec": 49.73353177685781,
+  "dist": 713.3628609359625,
+  "otype": "s*r",
+  "spect": "K5Ib",
+  "cat": 15,
+  "proper": "Tengshe",
+  "v": "V424",
+  "v_con": "Lac"
+}

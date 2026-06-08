@@ -1,0 +1,12 @@
+{
+  "id": "illyrian",
+  "name": "Illyrian",
+  "rank": 2,
+  "ra": 143.93835541073378,
+  "dec": 34.78058534508938,
+  "dist": 126.65675043093015,
+  "otype": "*",
+  "spect": "G0",
+  "cat": 5,
+  "proper": "Illyrian"
+}

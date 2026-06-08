@@ -1,0 +1,12 @@
+{
+  "id": "tonatiuh",
+  "name": "Tonatiuh",
+  "rank": 2,
+  "ra": 181.3158756560387,
+  "dec": 76.90532315922019,
+  "dist": 100.72561394764675,
+  "otype": "HB*",
+  "spect": "G8.5IIIb",
+  "cat": 16,
+  "proper": "Tonatiuh"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sagarmatha",
+  "name": "Sagarmatha",
+  "rank": 2,
+  "ra": 173.96462863752112,
+  "dec": -4.755537572588175,
+  "dist": 49.60553735214268,
+  "otype": "*",
+  "spect": "G8V",
+  "cat": 5,
+  "proper": "Sagarmatha"
+}

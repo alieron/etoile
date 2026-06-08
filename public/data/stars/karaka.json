@@ -1,0 +1,12 @@
+{
+  "id": "karaka",
+  "name": "Karaka",
+  "rank": 2,
+  "ra": 233.91504114709258,
+  "dec": -80.20441121149203,
+  "dist": 40.623905299433474,
+  "otype": "PM*",
+  "spect": "K2IV",
+  "cat": 12,
+  "proper": "Karaka"
+}

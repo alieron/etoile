@@ -1,0 +1,14 @@
+{
+  "id": "v5652_sagittarii",
+  "name": "V5652 Sagittarii",
+  "rank": 2,
+  "ra": 288.8890362583546,
+  "dec": -24.179808123405238,
+  "dist": 27.539457836255067,
+  "otype": "BY*",
+  "spect": "F8V",
+  "cat": 0,
+  "proper": "Gumala",
+  "v": "V5652",
+  "v_con": "Sgr"
+}

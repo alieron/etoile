@@ -1,0 +1,12 @@
+{
+  "id": "alasia",
+  "name": "Alasia",
+  "rank": 2,
+  "ra": 275.4573235785969,
+  "dec": -11.92298521498548,
+  "dist": 41.686812359157926,
+  "otype": "PM*",
+  "spect": "G5V",
+  "cat": 5,
+  "proper": "Alasia"
+}

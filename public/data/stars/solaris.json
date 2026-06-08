@@ -1,0 +1,12 @@
+{
+  "id": "solaris",
+  "name": "Solaris",
+  "rank": 2,
+  "ra": 318.4010337421127,
+  "dec": 14.689383345555783,
+  "dist": 49.3006232458918,
+  "otype": "PM*",
+  "spect": "K5",
+  "cat": 4,
+  "proper": "Solaris"
+}

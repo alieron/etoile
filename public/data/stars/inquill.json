@@ -1,0 +1,12 @@
+{
+  "id": "inquill",
+  "name": "Inquill",
+  "rank": 2,
+  "ra": 259.96394514037723,
+  "dec": -48.550260774998,
+  "dist": 55.66184873887765,
+  "otype": "PM*",
+  "spect": "G1V(w)",
+  "cat": 5,
+  "proper": "Inquill"
+}

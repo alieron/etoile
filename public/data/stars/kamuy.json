@@ -1,0 +1,12 @@
+{
+  "id": "kamuy",
+  "name": "Kamuy",
+  "rank": 2,
+  "ra": 242.51621867025955,
+  "dec": 26.742911921349663,
+  "dist": 135.37841517216512,
+  "otype": "RG*",
+  "spect": "K0III",
+  "cat": 14,
+  "proper": "Kamuy"
+}

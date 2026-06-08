@@ -1,0 +1,12 @@
+{
+  "id": "citala",
+  "name": "Citala",
+  "rank": 2,
+  "ra": 105.07462866477856,
+  "dec": -5.3668029911914985,
+  "dist": 29.917694758029192,
+  "otype": "PM*",
+  "spect": "G0V",
+  "cat": 5,
+  "proper": "Citalá"
+}

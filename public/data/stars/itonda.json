@@ -1,0 +1,12 @@
+{
+  "id": "itonda",
+  "name": "Itonda",
+  "rank": 2,
+  "ra": 329.33326669400424,
+  "dec": -37.764151923999435,
+  "dist": 44.9058749968657,
+  "otype": "PM*",
+  "spect": "G1/3(V)",
+  "cat": 5,
+  "proper": "Itonda"
+}

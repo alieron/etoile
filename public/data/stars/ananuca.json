@@ -1,0 +1,12 @@
+{
+  "id": "ananuca",
+  "name": "Ananuca",
+  "rank": 2,
+  "ra": 146.12137189336056,
+  "dec": -45.77909735114582,
+  "dist": 9.41861860705471,
+  "otype": "PM*",
+  "spect": "M1V",
+  "cat": 3,
+  "proper": "Añañuca"
+}

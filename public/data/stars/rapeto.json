@@ -1,0 +1,12 @@
+{
+  "id": "rapeto",
+  "name": "Rapeto",
+  "rank": 2,
+  "ra": 256.12930368436366,
+  "dec": -43.31039492338143,
+  "dist": 48.40740849332203,
+  "otype": "PM*",
+  "spect": "F8V",
+  "cat": 6,
+  "proper": "Rapeto"
+}

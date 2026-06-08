@@ -1,0 +1,12 @@
+{
+  "id": "aiolos",
+  "name": "Aiolos",
+  "rank": 2,
+  "ra": 164.26208740470227,
+  "dec": -68.66728984487598,
+  "dist": 86.46133185512146,
+  "otype": "*",
+  "spect": "A8III",
+  "cat": 13,
+  "proper": "Aiolos"
+}

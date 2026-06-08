@@ -1,0 +1,12 @@
+{
+  "id": "formosa",
+  "name": "Formosa",
+  "rank": 2,
+  "ra": 173.7653542527054,
+  "dec": 20.44154083939436,
+  "dist": 138.22640446205216,
+  "otype": "PM*",
+  "spect": "G9III",
+  "cat": 13,
+  "proper": "Formosa"
+}

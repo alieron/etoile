@@ -1,0 +1,14 @@
+{
+  "id": "bo_microscopii",
+  "name": "BO Microscopii",
+  "rank": 2,
+  "ra": 311.93762710535583,
+  "dec": -36.59502145007595,
+  "dist": 51.02492473359297,
+  "otype": "**",
+  "spect": "K3V(e)",
+  "cat": 4,
+  "proper": "Speedy Mic",
+  "v": "BO",
+  "v_con": "Mic"
+}

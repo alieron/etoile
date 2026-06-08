@@ -1,0 +1,12 @@
+{
+  "id": "nervia",
+  "name": "Nervia",
+  "rank": 2,
+  "ra": 102.87735469442386,
+  "dec": 40.867211419900904,
+  "dist": 42.87867629305275,
+  "otype": "PM*",
+  "spect": "G3V",
+  "cat": 5,
+  "proper": "Nervia"
+}

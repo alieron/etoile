@@ -1,0 +1,12 @@
+{
+  "id": "cocibolca",
+  "name": "Cocibolca",
+  "rank": 2,
+  "ra": 11.112601864577796,
+  "dec": -26.515018438908708,
+  "dist": 34.10796327879651,
+  "otype": "PM*",
+  "spect": "G7VFe-1CH-0.5",
+  "cat": 5,
+  "proper": "Cocibolca"
+}

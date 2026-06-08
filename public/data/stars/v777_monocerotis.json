@@ -1,0 +1,14 @@
+{
+  "id": "v777_monocerotis",
+  "name": "V777 Monocerotis",
+  "rank": 2,
+  "ra": 94.99251370480772,
+  "dec": -10.637527799880232,
+  "dist": 440.52863436123346,
+  "otype": "pA*",
+  "spect": "B9Ib/II",
+  "cat": 17,
+  "proper": "Red Rectangle",
+  "v": "V777",
+  "v_con": "Mon"
+}

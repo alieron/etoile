@@ -1,0 +1,12 @@
+{
+  "id": "timir",
+  "name": "Timir",
+  "rank": 2,
+  "ra": 247.11712573281142,
+  "dec": -13.399622684940294,
+  "dist": 70.39337605189347,
+  "otype": "RG*",
+  "spect": "K0III/IV",
+  "cat": 14,
+  "proper": "Timir"
+}
