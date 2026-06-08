@@ -1,0 +1,14 @@
+{
+  "id": "cm_tauri",
+  "name": "CM Tauri",
+  "rank": 5,
+  "ra": 83.63305926163925,
+  "dec": 22.014497367986387,
+  "dist": 1956.7839507883534,
+  "otype": "Psr",
+  "spect": "",
+  "cat": 22,
+  "proper": "Crab Pulsar",
+  "v": "CM",
+  "v_con": "Tau"
+}

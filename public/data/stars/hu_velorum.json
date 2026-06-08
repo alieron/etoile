@@ -1,0 +1,14 @@
+{
+  "id": "hu_velorum",
+  "name": "HU Velorum",
+  "rank": 5,
+  "ra": 128.83606354166668,
+  "dec": -45.17643180555555,
+  "dist": 294,
+  "otype": "Psr",
+  "spect": "",
+  "cat": 22,
+  "proper": "Vela Pulsar",
+  "v": "HU",
+  "v_con": "Vel"
+}

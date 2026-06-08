@@ -66,3 +66,24 @@ Processing done:
 - Picked brightest star per constellation from HYG by lowest visual magnitude.
 - Added Bayer display names with Greek symbols where possible.
 - Wrote one JSON file per constellation to `data/constellations/`.
+
+## Pulsar Map
+
+Map of the 14 pulsars used in the pulsar map sent with the Pioneer and Voyager missions. Taken from https://www.johnstonsarchive.net/astro/pulsarmap.html
+
+- PSR B1727-47
+- PSR B1451-68
+- PSR B1240-64
+- PSR B0833-45, Velar Pulsar/HU Velorum
+- PSR B0950+08
+- PSR B0823+26
+- PSR B0531+21, Crab Pulsar/CM Tauri
+- PSR B0525+21
+- PSR B0329+54
+- PSR B2217+47
+- PSR B2016+28
+- PSR B1933+16
+- PSR B1929+10
+- PSR B1642-03
+
+Distance measurement taken from SIMBAD first, then fallback to [ANTF](https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=2.8.0&Name=Name&JName=JName&RAJ=RAJ&DecJ=DecJ&Dist=Dist&startUserDefined=true&sort_attr=&sort_order=asc&condition=&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&pulsar_names=B1727-47%2C%0D%0AB1451-68%2C%0D%0AB1240-64%2C%0D%0AB0833-45%2C%0D%0AB0950%2B08%2C%0D%0AB0823%2B26%2C%0D%0AB0531%2B21%2C%0D%0AB0525%2B21%2C%0D%0AB0329%2B54%2C%0D%0AB2217%2B47%2C%0D%0AB2016%2B28%2C%0D%0AB1933%2B16%2C%0D%0AB1929%2B10%2C%0D%0AB1642-03%2C&ephemeris=short&style=long+with+last+digit+error&no_value=*&fsize=3&table_submit=&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query)
