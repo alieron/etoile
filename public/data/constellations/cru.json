@@ -1,7 +1,7 @@
 {
   "id": "Cru",
   "name": "Crux",
-  "gen": "Crux",
+  "gen": "Crucis",
   "meaning": "Cross",
   "rank": 1,
   "focus": [
@@ -35,17 +35,17 @@
   ],
   "lines": [
     [
-      "alpha_1_crux",
-      "gamma_crux"
+      "alpha_1_crucis",
+      "gamma_crucis"
     ],
     [
-      "beta_crux",
-      "delta_crux"
+      "beta_crucis",
+      "delta_crucis"
     ],
     [
-      "beta_crux",
-      "delta_crux"
+      "beta_crucis",
+      "delta_crucis"
     ]
   ],
-  "bright": "alpha_1_crux"
+  "bright": "alpha_1_crucis"
 }
