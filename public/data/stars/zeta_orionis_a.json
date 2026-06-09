@@ -1,7 +1,7 @@
 {
   "id": "zeta_orionis_a",
   "name": "Zeta Orionis A",
-  "rank": 2,
+  "rank": 1,
   "ra": 85.18969442793068,
   "dec": -1.9425735859722049,
   "dist": 225.735857336,
@@ -15,5 +15,6 @@
   "by_comp": "A",
   "fl": 50,
   "fl_con": "Ori",
-  "fl_comp": "A"
+  "fl_comp": "A",
+  "remarks": "Constellation anchor for Orion"
 }

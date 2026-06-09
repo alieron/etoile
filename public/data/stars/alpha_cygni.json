@@ -1,7 +1,7 @@
 {
   "id": "alpha_cygni",
   "name": "Alpha Cygni",
-  "rank": 2,
+  "rank": 0,
   "ra": 310.35797975307673,
   "dec": 45.280338806527574,
   "dist": 432.9004,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Cyg",
   "fl": 50,
-  "fl_con": "Cyg"
+  "fl_con": "Cyg",
+  "remarks": "19th brightest star in the night sky"
 }

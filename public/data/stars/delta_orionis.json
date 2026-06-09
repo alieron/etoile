@@ -1,7 +1,7 @@
 {
   "id": "delta_orionis",
   "name": "Delta Orionis",
-  "rank": 2,
+  "rank": 1,
   "ra": 83.00169339197,
   "dec": -0.284540968,
   "dist": 212.31632314200002,
@@ -13,5 +13,6 @@
   "by_greek": "δ",
   "by_con": "Ori",
   "fl": 34,
-  "fl_con": "Ori"
+  "fl_con": "Ori",
+  "remarks": "Constellation anchor for Orion"
 }

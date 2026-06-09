@@ -1,7 +1,7 @@
 {
   "id": "alpha_gruis",
   "name": "Alpha Gruis",
-  "rank": 2,
+  "rank": 1,
   "ra": 332.05826969609114,
   "dec": -46.96097438191952,
   "dist": 30.9693,
@@ -11,5 +11,6 @@
   "proper": "Alnair",
   "by": "alf",
   "by_greek": "α",
-  "by_con": "Gru"
+  "by_con": "Gru",
+  "remarks": "Constellation anchor for Grus"
 }

@@ -1,7 +1,7 @@
 {
   "id": "eta_ursae_majoris",
   "name": "Eta Ursae Majoris",
-  "rank": 2,
+  "rank": 1,
   "ra": 206.88515734206297,
   "dec": 49.31326672942533,
   "dist": 31.8674,
@@ -13,5 +13,6 @@
   "by_greek": "η",
   "by_con": "UMa",
   "fl": 85,
-  "fl_con": "UMa"
+  "fl_con": "UMa",
+  "remarks": "Constellation anchor for Ursa Major"
 }

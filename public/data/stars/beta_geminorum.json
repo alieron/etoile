@@ -1,7 +1,7 @@
 {
   "id": "beta_geminorum",
   "name": "Beta Geminorum",
-  "rank": 2,
+  "rank": 0,
   "ra": 116.32895777437875,
   "dec": 28.02619889009357,
   "dist": 10.3584,
@@ -13,5 +13,6 @@
   "by_greek": "β",
   "by_con": "Gem",
   "fl": 78,
-  "fl_con": "Gem"
+  "fl_con": "Gem",
+  "remarks": "17th brightest star in the night sky"
 }

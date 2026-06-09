@@ -1,7 +1,7 @@
 {
   "id": "sigma_sagittarii",
   "name": "Sigma Sagittarii",
-  "rank": 2,
+  "rank": 1,
   "ra": 283.81636040649323,
   "dec": -26.29672411476388,
   "dist": 69.8324,
@@ -13,5 +13,6 @@
   "by_greek": "σ",
   "by_con": "Sgr",
   "fl": 34,
-  "fl_con": "Sgr"
+  "fl_con": "Sgr",
+  "remarks": "Constellation anchor for Sagittarius"
 }

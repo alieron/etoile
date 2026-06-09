@@ -1,7 +1,7 @@
 {
   "id": "alpha_aquilae",
   "name": "Alpha Aquilae",
-  "rank": 2,
+  "rank": 0,
   "ra": 297.69582729638694,
   "dec": 8.868321196436963,
   "dist": 5.1295,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Aql",
   "fl": 53,
-  "fl_con": "Aql"
+  "fl_con": "Aql",
+  "remarks": "12th brightest star in the night sky"
 }

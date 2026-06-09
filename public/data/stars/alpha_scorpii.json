@@ -1,7 +1,7 @@
 {
   "id": "alpha_scorpii",
   "name": "Alpha Scorpii",
-  "rank": 2,
+  "rank": 1,
   "ra": 247.3519154198264,
   "dec": -26.432002611950832,
   "dist": 169.7793,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Sco",
   "fl": 21,
-  "fl_con": "Sco"
+  "fl_con": "Sco",
+  "remarks": "Constellation anchor for Scorpius"
 }

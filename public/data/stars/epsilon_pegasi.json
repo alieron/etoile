@@ -1,7 +1,7 @@
 {
   "id": "epsilon_pegasi",
   "name": "Epsilon Pegasi",
-  "rank": 2,
+  "rank": 1,
   "ra": 326.04648391416663,
   "dec": 9.875008653333333,
   "dist": 211.4165,
@@ -13,5 +13,6 @@
   "by_greek": "ε",
   "by_con": "Peg",
   "fl": 8,
-  "fl_con": "Peg"
+  "fl_con": "Peg",
+  "remarks": "Constellation anchor for Pegasus"
 }

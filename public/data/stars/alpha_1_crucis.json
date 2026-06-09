@@ -1,7 +1,7 @@
 {
   "id": "alpha_1_crucis",
   "name": "Alpha 1 Crucis",
-  "rank": 2,
+  "rank": 0,
   "ra": 186.6495666666667,
   "dec": -63.09909166666667,
   "dist": 98.7167,
@@ -11,5 +11,6 @@
   "proper": "Acrux",
   "by": "alf01",
   "by_greek": "α¹",
-  "by_con": "Cru"
+  "by_con": "Cru",
+  "remarks": "13th brightest star in the night sky"
 }

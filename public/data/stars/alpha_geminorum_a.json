@@ -1,7 +1,7 @@
 {
   "id": "alpha_geminorum_a",
   "name": "Alpha Geminorum A",
-  "rank": 2,
+  "rank": 1,
   "ra": 113.64947163976585,
   "dec": 31.88828221646326,
   "dist": 15.595955958000001,
@@ -15,5 +15,6 @@
   "by_comp": "A",
   "fl": 66,
   "fl_con": "Gem",
-  "fl_comp": "A"
+  "fl_comp": "A",
+  "remarks": "Constellation anchor for Gemini"
 }

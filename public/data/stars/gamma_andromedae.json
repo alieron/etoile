@@ -1,7 +1,7 @@
 {
   "id": "gamma_andromedae",
   "name": "Gamma Andromedae",
-  "rank": 2,
+  "rank": 1,
   "ra": 30.97480120653972,
   "dec": 42.32972842352701,
   "dist": 120.4819,
@@ -14,5 +14,6 @@
   "by_con": "And",
   "fl": 57,
   "fl_con": "And",
-  "fl_comp": "A"
+  "fl_comp": "A",
+  "remarks": "Constellation anchor for Andromeda"
 }

@@ -1,7 +1,7 @@
 {
   "id": "alpha_centauri_a",
   "name": "Alpha Centauri A",
-  "rank": 2,
+  "rank": 0,
   "ra": 219.9020833333333,
   "dec": -60.83397222222223,
   "dist": 1.324813248,
@@ -12,5 +12,6 @@
   "by": "alf",
   "by_greek": "α",
   "by_con": "Cen",
-  "by_comp": "A"
+  "by_comp": "A",
+  "remarks": "3rd brightest star in the night sky"
 }

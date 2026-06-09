@@ -1,7 +1,7 @@
 {
   "id": "beta_librae",
   "name": "Beta Librae",
-  "rank": 2,
+  "rank": 1,
   "ra": 229.25172424914246,
   "dec": -9.382914410334685,
   "dist": 56.7537,
@@ -13,5 +13,6 @@
   "by_greek": "β",
   "by_con": "Lib",
   "fl": 27,
-  "fl_con": "Lib"
+  "fl_con": "Lib",
+  "remarks": "Constellation anchor for Libra"
 }

@@ -1,7 +1,7 @@
 {
   "id": "gamma_cygni",
   "name": "Gamma Cygni",
-  "rank": 2,
+  "rank": 1,
   "ra": 305.55709098208337,
   "dec": 40.25667915638889,
   "dist": 561.7978,
@@ -13,5 +13,6 @@
   "by_greek": "γ",
   "by_con": "Cyg",
   "fl": 37,
-  "fl_con": "Cyg"
+  "fl_con": "Cyg",
+  "remarks": "Constellation anchor for Cygnus"
 }

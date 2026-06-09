@@ -1,7 +1,7 @@
 {
   "id": "beta_centauri",
   "name": "Beta Centauri",
-  "rank": 2,
+  "rank": 0,
   "ra": 210.95585562281522,
   "dec": -60.373035161541594,
   "dist": 120.1923,
@@ -11,5 +11,6 @@
   "proper": "Hadar",
   "by": "bet",
   "by_greek": "β",
-  "by_con": "Cen"
+  "by_con": "Cen",
+  "remarks": "11th brightest star in the night sky"
 }

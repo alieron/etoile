@@ -1,7 +1,7 @@
 {
   "id": "alpha_leonis",
   "name": "Alpha Leonis",
-  "rank": 2,
+  "rank": 1,
   "ra": 152.09296243828146,
   "dec": 11.967208776100023,
   "dist": 24.3132,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Leo",
   "fl": 32,
-  "fl_con": "Leo"
+  "fl_con": "Leo",
+  "remarks": "Constellation anchor for Leo"
 }

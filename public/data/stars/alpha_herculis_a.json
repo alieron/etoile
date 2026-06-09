@@ -1,7 +1,7 @@
 {
   "id": "alpha_herculis_a",
   "name": "Alpha Herculis A",
-  "rank": 2,
+  "rank": 1,
   "ra": 258.66190909203993,
   "dec": 14.39034061013818,
   "dist": 110.25470253600001,
@@ -15,5 +15,6 @@
   "by_comp": "A",
   "fl": 64,
   "fl_con": "Her",
-  "fl_comp": "A"
+  "fl_comp": "A",
+  "remarks": "Constellation anchor for Hercules"
 }

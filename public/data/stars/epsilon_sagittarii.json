@@ -1,7 +1,7 @@
 {
   "id": "epsilon_sagittarii",
   "name": "Epsilon Sagittarii",
-  "rank": 2,
+  "rank": 1,
   "ra": 276.0429933505963,
   "dec": -34.38461648586744,
   "dist": 43.9367,
@@ -13,5 +13,6 @@
   "by_greek": "ε",
   "by_con": "Sgr",
   "fl": 20,
-  "fl_con": "Sgr"
+  "fl_con": "Sgr",
+  "remarks": "Constellation anchor for Sagittarius"
 }

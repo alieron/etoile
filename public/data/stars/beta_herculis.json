@@ -1,7 +1,7 @@
 {
   "id": "beta_herculis",
   "name": "Beta Herculis",
-  "rank": 2,
+  "rank": 1,
   "ra": 247.5550013403688,
   "dec": 21.489610745563056,
   "dist": 42.6621,
@@ -13,5 +13,6 @@
   "by_greek": "β",
   "by_con": "Her",
   "fl": 27,
-  "fl_con": "Her"
+  "fl_con": "Her",
+  "remarks": "Constellation anchor for Hercules"
 }

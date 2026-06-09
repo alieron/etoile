@@ -1,7 +1,7 @@
 {
   "id": "alpha_piscis_austrini",
   "name": "Alpha Piscis Austrini",
-  "rank": 2,
+  "rank": 0,
   "ra": 344.4126927211701,
   "dec": -29.622237033389442,
   "dist": 7.7036,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "PsA",
   "fl": 24,
-  "fl_con": "PsA"
+  "fl_con": "PsA",
+  "remarks": "18th brightest star in the night sky"
 }

@@ -1,7 +1,7 @@
 {
   "id": "alpha_pegasi",
   "name": "Alpha Pegasi",
-  "rank": 2,
+  "rank": 1,
   "ra": 346.19022269142596,
   "dec": 15.205267147927536,
   "dist": 40.8831,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Peg",
   "fl": 54,
-  "fl_con": "Peg"
+  "fl_con": "Peg",
+  "remarks": "Constellation anchor for Pegasus"
 }

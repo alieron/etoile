@@ -1,7 +1,7 @@
 {
   "id": "alpha_eridani",
   "name": "Alpha Eridani",
-  "rank": 2,
+  "rank": 0,
   "ra": 24.428522833333336,
   "dec": -57.236752805555554,
   "dist": 42.7533,
@@ -11,5 +11,6 @@
   "proper": "Achernar",
   "by": "alf",
   "by_greek": "α",
-  "by_con": "Eri"
+  "by_con": "Eri",
+  "remarks": "9th brightest star in the night sky"
 }

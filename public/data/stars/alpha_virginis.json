@@ -1,7 +1,7 @@
 {
   "id": "alpha_virginis",
   "name": "Alpha Virginis",
-  "rank": 2,
+  "rank": 0,
   "ra": 201.2982473615632,
   "dec": -11.161319485111932,
   "dist": 76.5697,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Vir",
   "fl": 67,
-  "fl_con": "Vir"
+  "fl_con": "Vir",
+  "remarks": "16th brightest star in the night sky"
 }

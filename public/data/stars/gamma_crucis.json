@@ -1,7 +1,7 @@
 {
   "id": "gamma_crucis",
   "name": "Gamma Crucis",
-  "rank": 2,
+  "rank": 1,
   "ra": 187.79149837560794,
   "dec": -57.11321345705891,
   "dist": 27.1518,
@@ -11,5 +11,6 @@
   "proper": "Gacrux",
   "by": "gam",
   "by_greek": "γ",
-  "by_con": "Cru"
+  "by_con": "Cru",
+  "remarks": "Constellation anchor for Crux"
 }

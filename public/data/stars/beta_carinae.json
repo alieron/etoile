@@ -1,7 +1,7 @@
 {
   "id": "beta_carinae",
   "name": "Beta Carinae",
-  "rank": 2,
+  "rank": 1,
   "ra": 138.29990608310192,
   "dec": -69.71720759721548,
   "dist": 34.6981,
@@ -11,5 +11,6 @@
   "proper": "Miaplacidus",
   "by": "bet",
   "by_greek": "β",
-  "by_con": "Car"
+  "by_con": "Car",
+  "remarks": "Constellation anchor for Carina"
 }

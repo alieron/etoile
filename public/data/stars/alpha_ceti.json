@@ -1,7 +1,7 @@
 {
   "id": "alpha_ceti",
   "name": "Alpha Ceti",
-  "rank": 2,
+  "rank": 1,
   "ra": 45.56988780332224,
   "dec": 4.089738771805157,
   "dist": 76.3942,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Cet",
   "fl": 92,
-  "fl_con": "Cet"
+  "fl_con": "Cet",
+  "remarks": "Constellation anchor for Cetus"
 }

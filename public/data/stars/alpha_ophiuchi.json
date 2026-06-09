@@ -1,7 +1,7 @@
 {
   "id": "alpha_ophiuchi",
   "name": "Alpha Ophiuchi",
-  "rank": 2,
+  "rank": 1,
   "ra": 263.73362272030505,
   "dec": 12.560037391671425,
   "dist": 14.8965,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Oph",
   "fl": 55,
-  "fl_con": "Oph"
+  "fl_con": "Oph",
+  "remarks": "Constellation anchor for Ophiuchus"
 }

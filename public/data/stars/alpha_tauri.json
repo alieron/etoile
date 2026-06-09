@@ -1,7 +1,7 @@
 {
   "id": "alpha_tauri",
   "name": "Alpha Tauri",
-  "rank": 2,
+  "rank": 0,
   "ra": 68.9801627900154,
   "dec": 16.5093023507718,
   "dist": 20.4332,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Tau",
   "fl": 87,
-  "fl_con": "Tau"
+  "fl_con": "Tau",
+  "remarks": "14th brightest star in the night sky"
 }

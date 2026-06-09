@@ -1,7 +1,7 @@
 {
   "id": "alpha_canis_majoris_a",
   "name": "Alpha Canis Majoris A",
-  "rank": 2,
+  "rank": 1,
   "ra": 101.28715533333335,
   "dec": -16.71611586111111,
   "dist": 2.6371,
@@ -14,5 +14,6 @@
   "by_con": "CMa",
   "by_comp": "A",
   "fl": 9,
-  "fl_con": "CMa"
+  "fl_con": "CMa",
+  "remarks": "Constellation anchor for Canis Major"
 }

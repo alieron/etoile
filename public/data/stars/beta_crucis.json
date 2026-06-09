@@ -1,7 +1,7 @@
 {
   "id": "beta_crucis",
   "name": "Beta Crucis",
-  "rank": 2,
+  "rank": 0,
   "ra": 191.9302865619529,
   "dec": -59.68877199622606,
   "dist": 85.3971,
@@ -11,5 +11,6 @@
   "proper": "Mimosa",
   "by": "bet",
   "by_greek": "β",
-  "by_con": "Cru"
+  "by_con": "Cru",
+  "remarks": "20th brightest star in the night sky"
 }

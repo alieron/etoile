@@ -1,7 +1,7 @@
 {
   "id": "alpha_canis_minoris",
   "name": "Alpha Canis Minoris",
-  "rank": 2,
+  "rank": 0,
   "ra": 114.82549790798149,
   "dec": 5.224987557059477,
   "dist": 3.5142,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "CMi",
   "fl": 10,
-  "fl_con": "CMi"
+  "fl_con": "CMi",
+  "remarks": "8th brightest star in the night sky"
 }

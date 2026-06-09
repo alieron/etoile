@@ -1,7 +1,7 @@
 {
   "id": "alpha_persei",
   "name": "Alpha Persei",
-  "rank": 2,
+  "rank": 1,
   "ra": 51.08070871833333,
   "dec": 49.86117929305556,
   "dist": 155.2795,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Per",
   "fl": 33,
-  "fl_con": "Per"
+  "fl_con": "Per",
+  "remarks": "Constellation anchor for Perseus"
 }

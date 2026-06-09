@@ -1,7 +1,7 @@
 {
   "id": "alpha_bootis",
   "name": "Alpha Boötis",
-  "rank": 2,
+  "rank": 0,
   "ra": 213.915300294925,
   "dec": 19.1824091615312,
   "dist": 11.2575,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Boo",
   "fl": 16,
-  "fl_con": "Boo"
+  "fl_con": "Boo",
+  "remarks": "4th brightest star in the night sky"
 }

@@ -1,7 +1,7 @@
 {
   "id": "beta_cassiopeiae",
   "name": "Beta Cassiopeiae",
-  "rank": 2,
+  "rank": 1,
   "ra": 2.2945215777878776,
   "dec": 59.14978109800713,
   "dist": 16.7842,
@@ -13,5 +13,6 @@
   "by_greek": "β",
   "by_con": "Cas",
   "fl": 11,
-  "fl_con": "Cas"
+  "fl_con": "Cas",
+  "remarks": "Constellation anchor for Cassiopeia"
 }

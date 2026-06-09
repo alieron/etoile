@@ -1,7 +1,7 @@
 {
   "id": "alpha_aurigae",
   "name": "Alpha Aurigae",
-  "rank": 2,
+  "rank": 0,
   "ra": 79.17232794433404,
   "dec": 45.99799146983673,
   "dist": 13.1234,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Aur",
   "fl": 13,
-  "fl_con": "Aur"
+  "fl_con": "Aur",
+  "remarks": "6th brightest star in the night sky"
 }

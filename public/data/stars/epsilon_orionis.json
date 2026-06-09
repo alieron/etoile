@@ -1,7 +1,7 @@
 {
   "id": "epsilon_orionis",
   "name": "Epsilon Orionis",
-  "rank": 2,
+  "rank": 1,
   "ra": 84.05338894077023,
   "dec": -1.2019191358333312,
   "dist": 606.0606,
@@ -13,5 +13,6 @@
   "by_greek": "ε",
   "by_con": "Ori",
   "fl": 46,
-  "fl_con": "Ori"
+  "fl_con": "Ori",
+  "remarks": "Constellation anchor for Orion"
 }

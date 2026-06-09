@@ -1,7 +1,7 @@
 {
   "id": "alpha_arietis",
   "name": "Alpha Arietis",
-  "rank": 2,
+  "rank": 1,
   "ra": 31.79335709957655,
   "dec": 23.46241755020095,
   "dist": 20.1776,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Ari",
   "fl": 13,
-  "fl_con": "Ari"
+  "fl_con": "Ari",
+  "remarks": "Constellation anchor for Aries"
 }

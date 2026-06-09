@@ -1,7 +1,7 @@
 {
   "id": "alpha_orionis",
   "name": "Alpha Orionis",
-  "rank": 2,
+  "rank": 1,
   "ra": 88.79293899077537,
   "dec": 7.407063995272694,
   "dist": 152.6718,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "Ori",
   "fl": 58,
-  "fl_con": "Ori"
+  "fl_con": "Ori",
+  "remarks": "Constellation anchor for Orion"
 }

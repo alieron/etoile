@@ -1,7 +1,7 @@
 {
   "id": "alpha_andromedae",
   "name": "Alpha Andromedae",
-  "rank": 2,
+  "rank": 1,
   "ra": 2.0969161856756404,
   "dec": 29.090431118059698,
   "dist": 29.7442,
@@ -13,5 +13,6 @@
   "by_greek": "α",
   "by_con": "And",
   "fl": 21,
-  "fl_con": "And"
+  "fl_con": "And",
+  "remarks": "Constellation anchor for Andromeda/Pegasus"
 }

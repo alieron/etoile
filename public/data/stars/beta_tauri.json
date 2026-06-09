@@ -1,7 +1,7 @@
 {
   "id": "beta_tauri",
   "name": "Beta Tauri",
-  "rank": 2,
+  "rank": 1,
   "ra": 81.57297133176498,
   "dec": 28.607451724998228,
   "dist": 41.0509,
@@ -13,5 +13,6 @@
   "by_greek": "β",
   "by_con": "Tau",
   "fl": 112,
-  "fl_con": "Tau"
+  "fl_con": "Tau",
+  "remarks": "Constellation anchor for Taurus/Auriga"
 }

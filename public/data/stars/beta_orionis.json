@@ -1,7 +1,7 @@
 {
   "id": "beta_orionis",
   "name": "Beta Orionis",
-  "rank": 2,
+  "rank": 0,
   "ra": 78.63446706693006,
   "dec": -8.201638364722209,
   "dist": 264.5503,
@@ -13,5 +13,6 @@
   "by_greek": "β",
   "by_con": "Ori",
   "fl": 19,
-  "fl_con": "Ori"
+  "fl_con": "Ori",
+  "remarks": "7th brightest star in the night sky"
 }
