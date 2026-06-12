@@ -1,20 +1,25 @@
-import { Button } from './components/Button';
+import { useCallback, useState } from 'react';
+import { StarControls } from './components/StarControls';
+import { StarScene } from './components/StarScene';
+import type { StarFilters } from './components/StarField';
 
 export function App() {
-  return (
-    <main className="pointer-events-none fixed inset-0 z-10 flex items-start justify-between p-6">
-      <section className="pointer-events-auto max-w-sm rounded-2xl border border-white/15 bg-black/45 p-5 text-white shadow-2xl backdrop-blur-md">
-        <p className="text-sm uppercase tracking-[0.35em] text-sky-200/80">Starter Scene</p>
-        <h1 className="mt-2 text-3xl font-semibold">Three.js Cube</h1>
-        <p className="mt-3 text-sm leading-6 text-white/75">
-          Drag to orbit, scroll to zoom. This React UI is layered over the 3D canvas.
-        </p>
-      </section>
+  const [gridVisible, setGridVisible] = useState(true);
+  const [filters, setFilters] = useState<StarFilters>({ categories: new Set(), ranks: new Set() });
+  const updateFilters = useCallback((nextFilters: StarFilters) => setFilters(nextFilters), []);
 
-      <nav className="pointer-events-auto flex gap-3">
-        <Button>About</Button>
-        <Button>Action</Button>
-      </nav>
-    </main>
+  return (
+    <div className="relative h-full w-full overflow-hidden bg-black">
+      <StarScene gridVisible={gridVisible} filters={filters} />
+
+      <div className="pointer-events-none absolute inset-0 z-10">
+        <StarControls
+          filters={filters}
+          onChange={updateFilters}
+          gridVisible={gridVisible}
+          onToggleGrid={() => setGridVisible((value) => !value)}
+        />
+      </div>
+    </div>
   );
 }
