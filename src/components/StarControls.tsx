@@ -34,8 +34,8 @@ export function StarControls({ filters, onChange, gridVisible, onToggleGrid }: S
     let active = true;
 
     Promise.all([
-      fetch('/data/stars.json').then((response) => response.json() as Promise<StarPayload>),
-      fetch('/data/star-categories.json').then((response) => response.json() as Promise<CategoryPayload>),
+      fetch('data/stars.json').then((response) => response.json() as Promise<StarPayload>),
+      fetch('data/star-categories.json').then((response) => response.json() as Promise<CategoryPayload>),
     ]).then(([starsPayload, categoriesPayload]) => {
       if (!active) return;
       const nextStars = Object.values(starsPayload);

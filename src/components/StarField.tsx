@@ -92,8 +92,8 @@ export function StarField({ filters }: { filters: StarFilters }) {
     let active = true;
 
     Promise.all([
-      fetch('/data/stars.json').then((response) => response.json() as Promise<StarPayload>),
-      fetch('/data/star-categories.json').then((response) => response.json() as Promise<CategoryPayload>),
+      fetch('data/stars.json').then((response) => response.json() as Promise<StarPayload>),
+      fetch('data/star-categories.json').then((response) => response.json() as Promise<CategoryPayload>),
     ]).then(([starsPayload, categoriesPayload]) => {
       if (!active) return;
       setData({
